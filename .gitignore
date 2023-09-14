@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 psy-511-scan-fdns-2024-spring.Rproj
+.DS_Store
+
+/.quarto/

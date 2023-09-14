@@ -1,0 +1,28 @@
+---
+title: "PSYCH 511"
+subtitle: "Spring 2024"
+author: "Rick Gilmore"
+format: html
+css: css/styles.css
+#bibliography: [include/bib/packages.bib, include/bib/psu-repro.bib]
+#csl: include/bib/apa.csl
+---
+
+# Foundations of Social, Cognitive, and Affective Neuroscience
+
+## Instructor
+
+Rick O. Gilmore, Ph.D.</br>
+Professor of Psychology</br>
+114 Moore Building</br>
+
++1 (814) 865-3664</br>
+rog1 AT-SYMBOL psu PERIOD edu</br>
+[Schedule an appointment](https://doodle.com/mm/rickgilmore/book-a-time)</br>
+Lab site: [https://gilmore-lab.github.io](http://gilmore-lab.github.io)</br>
+Personal site: [https://rick-gilmore.com](https://rick-gilmore.com)
+
+## Meeting Location and Time
+
+TBD
+
