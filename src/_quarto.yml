@@ -1,0 +1,49 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "exercises/*.qmd"
+    - "slides/*.qmd"
+  output-dir: "../docs"
+
+website:
+  title: "PSYCH 511 • Spring 2024"
+  comments: 
+    hypothesis:
+      theme: clean
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: about.qmd
+        text: about
+      - href: schedule.qmd
+        text: schedule
+      - href: evaluation.qmd
+        text: evaluation
+      - href: policies.qmd
+        text: policies
+      - text: notes
+        menu:
+          - href: "slides/wk01-2024-01-08.qmd"
+          - text: "---"
+      - text: exercises
+        menu: 
+          - href: "exercises/ex01.qmd"
+          - href: "exercises/ex02.qmd"
+          - href: "exercises/ex03.qmd"
+          - href: "exercises/ex04.qmd"
+          - href: "exercises/ex05.qmd"
+format:
+  html:
+    theme: cosmo
+    css: css/styles.css
+    toc: true
+    number-sections: false
+    citations-hover: true
+    footnotes-hover: true
+    bibliography: [bib/packages.bib, bib/psu-repro.bib, bib/psy-511.bib]
+    csl: bib/apa.csl
+
+editor: source
+    

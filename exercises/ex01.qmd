@@ -1,8 +1,0 @@
----
-title: "Exercise 01"
----
-
-## Pick two papers you want to read and (better) understand
-
-- Email me APA formatted citation (with DOIs)
-- Indicate three concepts/terms you are especially interested in understanding

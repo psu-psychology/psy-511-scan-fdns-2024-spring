@@ -1,0 +1,8 @@
+---
+title: "Exercise 05 • Reproducibility"
+---
+
+## Reproducibility
+
+- Review a paper for reproducibility criteria
+- Explore OSF, NDA, OpenNeuro, identify dataset that you might want to use

@@ -1,0 +1,407 @@
+---
+title: "Schedule"
+---
+
+---
+
+## Week 1
+
+### Thursday, January 11
+
+#### Topics
+
+- Structure of the course
+- The connectome and beyond...
+- Levels of analysis
+
+#### Read
+
+- [@Swanson2016-qr].
+- [@Churchland1988-aj].
+- [@Krakauer2017-xl].
+
+#### Materials
+
+- [Notes](slides/wk01-2024-01-08.qmd)
+- [@National_Geographic2014-gv]
+
+---
+
+## Week 2
+
+### Thursday, January 18
+
+<!-- ### Wednesday, September 1 -->
+
+<!-- - Topics -->
+<!--     + Methods in neuroscience -->
+<!-- - Read/Watch -->
+<!--     + Mendoza-Halliday, D. (2019). Neuroscience methods tutorial. <https://youtu.be/iHthMSN65bA>. -->
+<!--     + Cognitive Psychology and Cognitive Neuroscience/Behavioural and Neuroscience Methods. <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods> -->
+<!--     + (Recommended) Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? *Trends in Neurosciences*, *40*(4), 208–218. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.02.004> -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-methods.html). [PDF](lectures/511-methods.pdf). -->
+<!--     - [Getting to know you assignment](assignments/getting-to-know-you.html) -->
+
+<!-- ### Friday, September 3 -->
+
+<!-- - Topics -->
+<!--     + Methods in neuroscience -->
+<!-- - Read/Watch -->
+<!--     + (Recommended) Hillman, E. M. C. (2014). Coupling mechanism and significance of the BOLD signal: a status report. *Annual Review of Neuroscience*, *37*, 161–181. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-014111>. -->
+<!--     + (Optional) Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. *Nature*, *412*(6843), 150–157. Retrieved January 20, 2016, from <https://www.nature.com/nature/journal/v412/n6843/abs/412150a0.html> -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-methods.html). [PDF](lectures/511-methods.pdf). -->
+
+---
+
+## Week 3
+
+### Thursday, January 25
+
+<!-- ### Wednesday, September 8 -->
+
+<!-- - Topics -->
+<!--     + Cellular neuroscience (anatomy) -->
+<!-- - Read/Watch -->
+<!--     + BW[^1] 2:36-51. -->
+<!--     + BW 3:61-78. -->
+<!--     + (Optional) Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. *Nature Reviews Neuroscience*, *18*(9), 530–546. <https://doi.org/10.1038/nrn.2017.85>. -->
+<!--     + (Optional) Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. *Trends in Neurosciences*, *38*(9), 535–549. Retrieved from <https://dx.doi.org/10.1016/j.tins.2015.07.006>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-cells.html). [PDF](lectures/511-cells.pdf) -->
+
+<!-- ### Friday, September 10 -->
+
+<!-- - Topics -->
+<!--     + Cellular neuroscience (resting potential) -->
+<!-- - Read/Watch -->
+<!--     + BW 3:78-92. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-cells.html#neurophysiology). [PDF](lectures/511-cells.pdf) -->
+    
+---
+
+## Week 4
+
+### Thursday, February 1
+
+<!-- ### Wednesday, September 15 -->
+
+<!-- - Topics -->
+<!--     + Cellular neuroscience (action potential) -->
+<!--     + Cellular neuroscience (synaptic transmission) -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-cells.html#neurophysiology). [PDF](lectures/511-cells.pdf) -->
+
+<!-- ### Friday, September 17 -->
+
+<!-- - Topics -->
+<!--     + Neuroanatomy -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-anatomy.html). [PDF](lectures/511-anatomy.pdf) -->
+
+---
+
+## Week 5
+
+### Thursday, February 8
+
+<!-- ### Wednesday, September 22 -->
+
+<!-- - Topics -->
+<!--     + Neuroanatomy II -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-anatomy.html). [PDF](lectures/511-anatomy.pdf) -->
+
+<!-- ### Friday, September 24 -->
+
+<!-- - Topics -->
+<!--     - [**Quiz 1**](quiz/quiz-01/psy-511.001-21-quiz-01.docx). Take home. Due at start of class on Friday, October 1, 2021. -->
+<!--     + Neuroanatomy III -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-anatomy.html#brodmann-areas). [PDF](lectures/511-anatomy.pdf) -->
+
+---
+
+## Week 6
+
+### Thursday, February 15
+
+<!-- ### Wednesday, September 29 -->
+
+<!-- - Topics -->
+<!--     - Neuroanatomy lab -->
+<!-- - Materials -->
+<!--     - [Handout](handouts/neuroanatomy-lab-handout.html). [PDF](handouts/neuroanatomy-lab-handout.pdf) -->
+
+<!-- ### Friday, October 1 -->
+
+<!-- - Topics -->
+<!--     - **Quiz 1 due**. Email it to me. -->
+<!--     + Neurochemistry -->
+<!-- - Read/Watch -->
+<!--     + BW: 4:95-100. -->
+<!--     + BW 4:101-130. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-chemical-communication.html). [PDF](lectures/511-chemical-communication.pdf) -->
+
+---
+
+## Week 7
+
+### Thursday, February 22
+
+<!-- ### Wednesday, October 6 -->
+
+<!-- - Topic -->
+<!--     - Hormones  -->
+<!--     - Brain/gut connection -->
+<!-- - Read/Watch -->
+<!--     + BW 5:125-154. -->
+<!--     + BW 5:131-159. -->
+<!--     - (Optional) Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. *Trends in Neurosciences*, *39*(11), 763–781. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.09.002>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-chemical-communication.html). [PDF](lectures/511-chemical-communication.pdf). -->
+
+<!-- ### Friday, October 8 -->
+
+<!-- - Topics -->
+<!--     + Evolution of the nervous system -->
+<!-- - Reading -->
+<!--     + BW 6 & 7.  -->
+<!--     + Optional Hofman, M. A. (2014). Evolution of the human brain: When bigger is better. *Frontiers in Neuroanatomy*, *8*, 15. https://doi.org/10.3389/fnana.2014.00015. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-evo-devo.html). [PDF](lectures/511-evo-devo.pdf). -->
+
+---
+
+## Week 8
+
+### Thursday, February 29
+
+<!-- ### Wednesday, October 13 -->
+
+<!-- - Topics -->
+<!--     + Development of the human brain -->
+<!-- - Read/Watch -->
+<!--     + Rakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. *Nature Reviews Neuroscience*, *10*(10), 724–735. Retrieved October 5, 2015, from <https://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html>. -->
+<!--     + Cao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. *Trends in Neurosciences*, *40*(8), 494–506. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.06.003>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-evo-devo.html). [PDF](lectures/511-evo-devo.pdf). -->
+
+
+<!-- ### Friday, October 15 -->
+
+<!-- - Topics -->
+<!--     + Development of the human brain II -->
+<!-- - Read/Watch -->
+<!--     + Rakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. *Nature Reviews Neuroscience*, *10*(10), 724–735. Retrieved October 5, 2015, from <https://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html>. -->
+<!--     + Cao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. *Trends in Neurosciences*, *40*(8), 494–506. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.06.003>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-evo-devo.html). [PDF](lectures/511-evo-devo.pdf). -->
+
+---
+
+## Spring Break
+
+### Monday, March 4 - Friday March 8
+
+**NO CLASS**
+
+---
+
+## Week 9
+
+### Thursday, March 14
+
+<!-- ### Wednesday, October 20 -->
+
+<!-- - Topics -->
+<!--     + Perception. -->
+<!-- - Read/Watch -->
+<!--     + BW 8:230-241. -->
+<!--     + Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory processes: A balancing act across the lifespan. *Trends in Neurosciences*, *39*(8), 567–579. Retrieved July 28, 2016, from <https://www.sciencedirect.com/science/article/pii/S0166223616300480>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-perception.html). [PDF](lectures/511-perception.pdf). -->
+
+<!-- ### Friday, October 22 -->
+
+<!-- - Topics -->
+<!--     - Vision -->
+<!-- - Read/Watch -->
+<!--     + BW 8:230-241. -->
+<!--     + Hubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. *Nature*, *299*(5883), 515–524. <https://www.ncbi.nlm.nih.gov/pubmed/6750409>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-perception.html#case-study-vision). [PDF](lectures/511-perception.pdf). -->
+
+---
+
+## Week 10
+
+### Thursday, March 21
+
+<!-- ### Wednesday, October 27 -->
+
+<!-- - Topics -->
+<!--     + Action I  -->
+<!-- - Read/Watch -->
+<!--     - BW 10: 301:335, BW 11: 341:368. -->
+<!--     + Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-013913> -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-action.html). [PDF](lectures/511-action.pdf). -->
+
+<!-- ### Friday, October 29 -->
+
+<!-- - Topics -->
+<!--     + Action II -->
+<!-- - Read/Watch -->
+<!--     - BW 10:301-335, 11:341-368. -->
+<!--     + Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-062111-150509>. -->
+<!-- - [**Quiz 2**](quiz/quiz-02/psy-511.001-21-quiz-02.docx) distributed. Due by 12:00 PM on Friday, November 5, 2021. -->
+
+---
+
+## Week 11
+
+### Thursday, March 28
+
+<!-- ### Wednesday, November 3 -->
+
+<!-- - Topics -->
+<!--     + Wrap-up on action -->
+<!--     + Cognition & language.  -->
+<!-- - Read/Watch -->
+<!--     - BW 19 -->
+<!--     + Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-013847>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-cognition-language.html). [PDF](lectures/511-cognition-language.pdf). -->
+
+<!-- ### Friday, November 5 -->
+
+<!-- - Topics -->
+<!--     + Wrap-up on language -->
+<!--     + Learning & memory  -->
+<!-- - Read/Watch -->
+<!--     - BW 17 -->
+<!--     + Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-061010-113720>. -->
+<!-- - **Quiz 2 due** -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-memory.html). [PDF](lectures/511-memory.pdf). -->
+
+---
+
+## Week 12
+
+### Thursday, April 4
+
+<!-- ### Wednesday, November 10 -->
+
+<!-- - Topics -->
+<!--     + Wrap-up on learning & memory -->
+<!--     + Fear & stress -->
+<!-- - Read/Watch -->
+<!--     - BW 15 -->
+<!--     - Pellman, B. A., & Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.04.001> -->
+<!--     + Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. *Trends in Neurosciences*. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.07.002> -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-fear-stress.html). [PDF](lectures/511-fear-stress.pdf). -->
+
+<!-- ### Friday, November 12 -->
+
+<!-- - Topics -->
+<!--     + Pleasure & reward.  -->
+<!-- - Read/Watch -->
+<!--     - BW 15 -->
+<!--     - Hu, H. (2016). Reward and aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-014106> -->
+<!--     + Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-072116-031109>. -->
+<!-- - Materials -->
+<!--     - [Notes](lectures/511-reward.html). [PDF](lectures/511-reward.pdf). -->
+    
+---
+
+## Week 13
+
+### Thursday, April 11
+
+<!-- ### Wednesday, November 17 -->
+
+<!-- - Topics -->
+<!--     + Disorder and Disease.  -->
+<!-- - Read/Watch -->
+<!--     + BW 16 -->
+<!--     + Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant network activity in schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.04.003>. -->
+<!--     + Volk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. *Annual Review of Neuroscience*, *38*, 127–149. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071714-033821>. -->
+
+<!-- ### Friday, November 19 -->
+
+<!-- - Topics -->
+<!--     + Disorder and Disease II  -->
+<!-- - Read/Watch -->
+<!--     + BW 16 -->
+<!--     + Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The neurobiology of postpartum anxiety and depression. *Trends in Neurosciences*, *40*(2), 106–120. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.11.009>. -->
+<!--     + Namkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. *Trends in Neurosciences*, *40*(4), 200–207. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.02.002>. -->
+<!-- + [**Quiz 3**](quiz/quiz-03/psy-511.001-21-quiz-03.docx) distributed. Due 5:00 PM on **Friday, December 3, 2021**. -->
+
+<!-- --- -->
+
+<!-- ## Thanksgiving Break, November 22 - 26, 2021 -->
+
+<!-- --- -->
+
+## Week 14
+
+### Thursday, April 18
+
+<!-- ### Wednesday, December 1 -->
+
+<!-- - Topics -->
+<!--     + Networks all the way down -->
+<!-- - Read/Watch -->
+<!--     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-014030> -->
+<!-- - Optional -->
+<!--     + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185 -->
+<!--     + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016 -->
+
+<!-- ### Friday, December 3 -->
+
+<!-- - Topics -->
+<!--     + Networks all the way down -->
+<!-- - Read/Watch -->
+<!--     + Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical analysis of structural and functional systems. *Nature Reviews Neuroscience*, *10*(3), 186–198. <https://doi.org/10.1038/nrn2575>. -->
+<!-- - Optional -->
+<!--     + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185. -->
+<!--     - Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature Neuroscience, 20(3), 353–364. https://doi.org/10.1038/nn.4502. -->
+<!--     + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016 -->
+
+<!-- - **Quiz 3** due. -->
+
+---
+
+## Week 15
+
+### Thursday, April 25
+
+<!-- ### Wednesday, December 8 -->
+
+<!-- - Topics -->
+<!--     - Reproducibility in neuroscience -->
+<!-- - Readings -->
+<!--     - Gorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. *PLoS Biology*, *14*(7), e1002506. Retrieved October 2, 2016, from <https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506> -->
+<!--     - (recommended) Botvinik-Nezer, R., et al. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. *Nature*, *582*(7810): 84-88. <https://doi.org/10.1038/s41586-020-2314-9>. -->
+<!-- - Recommended -->
+<!--     - Kass, R. (2020). Exaggerated Claims Undermine Science by Ignoring the Scientific Method. <https://youtu.be/PwCyvSDkUCY> -->
+<!--     - (optional) Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*. Retrieved from <https://dx.doi.org/10.1111/nyas.13325>. -->
+
+<!-- ### Friday, December 10 -->
+
+<!-- - Topics -->
+<!--     - TBD -->
+
+---
+
+## Week 16
+
+### Thursday, May 2
+
+- Final papers due by 5:00 pm

@@ -1,5 +1,334 @@
 [
   {
+    "objectID": "slides/wk01-2024-01-08.html#announcements",
+    "href": "slides/wk01-2024-01-08.html#announcements",
+    "title": "2024-01-08 Mon",
+    "section": "Announcements",
+    "text": "Announcements"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#last-time",
+    "href": "slides/wk01-2024-01-08.html#last-time",
+    "title": "2024-01-08 Mon",
+    "section": "Last time",
+    "text": "Last time"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#todays-topics",
+    "href": "slides/wk01-2024-01-08.html#todays-topics",
+    "title": "2024-01-08 Mon",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nPrelude\nIntroduction to the course\nThe connectome and beyond"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#todays-topics-1",
+    "href": "slides/wk01-2024-01-08.html#todays-topics-1",
+    "title": "2024-01-08 Mon",
+    "section": "Today’s topics",
+    "text": "Today’s topics\n\nWhy neuroscience is harder than physics\nCourse overview\nThe connectome and beyond\nDoes neuroscience need behavior? Does behavioral science need the brain?"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#what-do-we-need-to-know-to-answer-the-question",
+    "href": "slides/wk01-2024-01-08.html#what-do-we-need-to-know-to-answer-the-question",
+    "title": "2024-01-08 Mon",
+    "section": "What do we need to know to answer the question?",
+    "text": "What do we need to know to answer the question?\n\nWhat is the state…\n\nOf the world (\\(W\\))\nOf the organism\n\nBody (\\(B\\))\nNervous system (\\(N\\))\nMind (\\(M\\))"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#some-states-are-more-easily-measured-than-others",
+    "href": "slides/wk01-2024-01-08.html#some-states-are-more-easily-measured-than-others",
+    "title": "2024-01-08 Mon",
+    "section": "Some states are more easily measured than others",
+    "text": "Some states are more easily measured than others\n\n\\(W\\), \\(B\\), \\(N\\) more or less directly"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#measure-mental-states-m",
+    "href": "slides/wk01-2024-01-08.html#measure-mental-states-m",
+    "title": "2024-01-08 Mon",
+    "section": "Measure mental states (\\(M\\))",
+    "text": "Measure mental states (\\(M\\))\n\nindirectly\nVia \\(N\\), \\(B\\), \\(W\\) (+ prior beliefs/knowledge)\nExamples?"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-w",
+    "href": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-w",
+    "title": "2024-01-08 Mon",
+    "section": "What are essential components/dimensions of \\(W\\)?",
+    "text": "What are essential components/dimensions of \\(W\\)?"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-b",
+    "href": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-b",
+    "title": "2024-01-08 Mon",
+    "section": "What are essential components/dimensions of \\(B\\)?",
+    "text": "What are essential components/dimensions of \\(B\\)?"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#brain-behavior-are-complex-dynamic-systems-with",
+    "href": "slides/wk01-2024-01-08.html#brain-behavior-are-complex-dynamic-systems-with",
+    "title": "2024-01-08 Mon",
+    "section": "Brain & behavior are complex, dynamic systems with",
+    "text": "Brain & behavior are complex, dynamic systems with\n\nComponents\nInteractions\nForces/influences\nBoundaries\nInputs/outputs/processes"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#systems",
+    "href": "slides/wk01-2024-01-08.html#systems",
+    "title": "2024-01-08 Mon",
+    "section": "Systems…",
+    "text": "Systems…\n\n“Behave” or change state across time\nReturn to starting state\nAppear to be regulated, controlled, influenced by feedback loops\n\\(B(t+1) = f(W(t), B(t), N(t), M(t))\\)"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#may-be-thought-of-as-networks",
+    "href": "slides/wk01-2024-01-08.html#may-be-thought-of-as-networks",
+    "title": "2024-01-08 Mon",
+    "section": "May be thought of as networks",
+    "text": "May be thought of as networks\n\n\n\n\n\nhttps://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#at-multiple-levels-of-organization",
+    "href": "slides/wk01-2024-01-08.html#at-multiple-levels-of-organization",
+    "title": "2024-01-08 Mon",
+    "section": "At multiple levels of organization…",
+    "text": "At multiple levels of organization…"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because",
+    "href": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because",
+    "title": "2024-01-08 Mon",
+    "section": "Studying systems is hard because…",
+    "text": "Studying systems is hard because…\n\nSingle parts -&gt; multiple functions\nSingle functions -&gt; multiple parts"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#e.g.-equifinality-in-micro-circuits",
+    "href": "slides/wk01-2024-01-08.html#e.g.-equifinality-in-micro-circuits",
+    "title": "2024-01-08 Mon",
+    "section": "e.g., “equifinality” in micro-circuits",
+    "text": "e.g., “equifinality” in micro-circuits\n\n\n\n\n\n\n(Calabrese, 2018)"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because-1",
+    "href": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because-1",
+    "title": "2024-01-08 Mon",
+    "section": "Studying systems is hard because…",
+    "text": "Studying systems is hard because…\n\nChange structure/function over time\nBiological systems not “designed” like human-engineered ones\nHard to measure what is being exchanged, what is being controlled"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#psy-511.001-goals",
+    "href": "slides/wk01-2024-01-08.html#psy-511.001-goals",
+    "title": "2024-01-08 Mon",
+    "section": "PSY 511.001 Goals",
+    "text": "PSY 511.001 Goals\n\nMaster fundamentals of neuroscientific concepts and facts\nPrepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#structure",
+    "href": "slides/wk01-2024-01-08.html#structure",
+    "title": "2024-01-08 Mon",
+    "section": "Structure",
+    "text": "Structure\nhttps://psu-psychology.github.io/psy-511-scan-fdns-2021/"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#questions",
+    "href": "slides/wk01-2024-01-08.html#questions",
+    "title": "2024-01-08 Mon",
+    "section": "Questions",
+    "text": "Questions\n\nWhat is the basic organizational plan of the nervous system?\nHow do neurons work?\nHow do neurons connected in networks achieve behavioral goals?\nHow does the nervous system develop? How has it evolved?\nHow do disorders of the mind reveal themselves in the nervous system?"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#approach",
+    "href": "slides/wk01-2024-01-08.html#approach",
+    "title": "2024-01-08 Mon",
+    "section": "Approach",
+    "text": "Approach\n\nBrain architecture (neuroanatomy)\nBrain function (neurophysiology)\nBrain communication (neurochemistry)\nChanges over evolutionary and developmental time"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#approach-1",
+    "href": "slides/wk01-2024-01-08.html#approach-1",
+    "title": "2024-01-08 Mon",
+    "section": "Approach",
+    "text": "Approach\n\nThe nervous system as an information processing system"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#how-do-psi-functions-map-to-structures",
+    "href": "slides/wk01-2024-01-08.html#how-do-psi-functions-map-to-structures",
+    "title": "2024-01-08 Mon",
+    "section": "How do \\(\\Psi\\) functions map to structures?",
+    "text": "How do \\(\\Psi\\) functions map to structures?\n\n(Cisek, 2019)"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#and-vice-versa-cepelewicz2021-rg",
+    "href": "slides/wk01-2024-01-08.html#and-vice-versa-cepelewicz2021-rg",
+    "title": "2024-01-08 Mon",
+    "section": "And vice versa? (Cepelewicz, 2021)",
+    "text": "And vice versa? (Cepelewicz, 2021)"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#and-do-we-have-the-right-psychological-structures",
+    "href": "slides/wk01-2024-01-08.html#and-do-we-have-the-right-psychological-structures",
+    "title": "2024-01-08 Mon",
+    "section": "And do we have the right “psychological” structures?",
+    "text": "And do we have the right “psychological” structures?\n\n“Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are particularly damaging for the study of multifaceted constructs like self-regulation…We conclude that self-regulation lacks coherence as a construct…”\n– (Eisenberg et al., 2019)"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#discussion-of",
+    "href": "slides/wk01-2024-01-08.html#discussion-of",
+    "title": "2024-01-08 Mon",
+    "section": "Discussion of…",
+    "text": "Discussion of…\nSwanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. Annual Review of Neuroscience, 39, 197–216.\nhttp://doi.org/10.1146/annurev-neuro-071714-033954"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#key-ideas",
+    "href": "slides/wk01-2024-01-08.html#key-ideas",
+    "title": "2024-01-08 Mon",
+    "section": "Key ideas",
+    "text": "Key ideas\n\nForm &lt;&gt; function\n“What differs between species is the architecture of nervous systems….”\nConnectomes at different levels of analysis"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#cajalswanson-architecture",
+    "href": "slides/wk01-2024-01-08.html#cajalswanson-architecture",
+    "title": "2024-01-08 Mon",
+    "section": "Cajal/Swanson Architecture",
+    "text": "Cajal/Swanson Architecture\n\n\n\n\n\n\nSwanson, 2005"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#main-points",
+    "href": "slides/wk01-2024-01-08.html#main-points",
+    "title": "2024-01-08 Mon",
+    "section": "Main points",
+    "text": "Main points\n\nPsychology is harder than physics\nConnectomics and beyond"
+  },
+  {
+    "objectID": "slides/wk01-2024-01-08.html#references",
+    "href": "slides/wk01-2024-01-08.html#references",
+    "title": "2024-01-08 Mon",
+    "section": "References",
+    "text": "References\n\n\nPSY 511 Spr 2024\n\n\n\nCalabrese, R. L. (2018). Inconvenient truth to principle of neuroscience. Trends in Neurosciences, 41(8), 488–491. https://doi.org/10.1016/j.tins.2018.05.006\n\n\nCepelewicz, J. (2021, August). Mental phenomena don’t map into the brain as expected. https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/. Retrieved from https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/\n\n\nCisek, P. (2019). Resynthesizing behavior through phylogenetic refinement. Attention, Perception & Psychophysics. https://doi.org/10.3758/s13414-019-01760-1\n\n\nEisenberg, I. W., Bissett, P. G., Zeynep Enkavi, A., Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. Nature Communications, 10(1), 2319. https://doi.org/10.1038/s41467-019-10301-1\n\n\nNational Geographic. (2014, January). Beautiful 3-D brain scans show every synapse | national geographic. YouTube. Retrieved from https://www.youtube.com/watch?v=nvXuq9jRWKE\n\n\nStringer, C., Pachitariu, M., Steinmetz, N., Reddy, C. B., Carandini, M., & Harris, K. D. (2019). Spontaneous behaviors drive multidimensional, brainwide activity. Science, 364(6437), 255. https://doi.org/10.1126/science.aav7893\n\n\nSwanson, L. W., & Lichtman, J. W. (2016). From cajal to connectome and beyond. Annual Review of Neuroscience, 39, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954"
+  },
+  {
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies & Values",
+    "section": "",
+    "text": "Academic Integrity\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nStudents are responsible for maintaining academic integrity. Violations include cheating on exams, talking to others during exams, looking at another student’s test materials or answers during an exam, removing exams from the classroom without consent from the instructor, plagiarizing (do not copy from someone else!), and dishonesty in any aspect of course participation.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\n\n\nLate, missed or make-up assignments\n\nExams\nMake-up exams may be permitted under unusual circumstances such as (a) an interview for graduate school or a job, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.\nIf you must miss class on the day an exam is scheduled, you must do the following:\n\nContact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.\nArrange with the TA or instructor to take a make-up exam as soon as possible, but no later than one (1) week following the date of the scheduled exam. It is your responsibility, not the TA’s or the instructor’s to schedule an approved make-up exam in a timely way.\n\n\n\nQuizzes\nNo make-up quizzes will be given except under unusual circumstances. You may ask for a copy of the quiz for studying purposes, however.\n\n\nAccommodation for persons with disabilities\nPenn State welcomes students with disabilities into the University’s educational programs. Please refer to the information provided by Student Disability Resources (SDR) at http://equity.psu.edu/student-disability-resources/ for information about the procedures required to obtain reasonable accommodations in this course. Students should discussSDR-approved accommodations with their instructor as early in the semester as possible, even if they have taken another course with the instructor. Please note: students are not required to provide their instructor with information about the nature of their condition.\nPenn State students are also welcome to contact other units for assistance with personal concerns that interfere with academic progress, including: Counseling and Psychological Services (CAPS; http://studentaffairs.psu.edu/counseling/), the Office of Student Affairs (http://studentaffairs.psu.edu/), Career Services (http://studentaffairs.psu.edu/career/), the Center for Women Students (http://studentaffairs.psu.edu/womenscenter/), the LGBTQA Student Resource Center (http://studentaffairs.psu.edu/lgbtqa/), the Office of Sexual Misconduct Prevention and Response (http://titleix.psu.edu/), Penn State Educational Equity (http://equity.psu.edu/), the Multicultural Resource Center (http://equity.psu.edu/mrc), and University Health Services (http://studentaffairs.psu.edu/health/).\n\n\n\nNondiscrimination Statement\nThe Pennsylvania State University is committed to equal access to programs, facilities, admission and employment for all persons. It is the policy of the University to maintain an environment free of harassment and free of discrimination against any person because of age, race, color, ancestry, national origin, religion, creed, service in the uniformed services (as defined in state and federal law), veteran status, sex, sexual orientation, marital or family status, pregnancy, pregnancy-related conditions, physical or mental disability, gender, perceived gender, gender identity, genetic information or political ideas. Discriminatory conduct and harassment, as well as sexual misconduct and relationship violence, violates the dignity of individuals, impedes the realization of the University’s educational mission, and will not be tolerated.\nDirect all inquiries regarding the nondiscrimination policy to:\nDr. Kenneth Lehrman III Vice Provost for Affirmative Action Affirmative Action Office The Pennsylvania State University 328 Boucke Building University Park, PA 16802-5901 Email: kfl2@psu.edu Tel (814) 863-0471\n\n\nDiversity Statement\nThis classroom is a place where you will be treated with respect. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Penn State is committed to creating an educational environment which is free from intolerance directed toward individuals or groups and strives to create and maintain an environment that fosters respect for others as stated in Policy AD29 Statement on Intolerance.\n\n\nMandated Reporting Statement\nPenn State’s policies require me, as a faculty member, to share information about incidents of sex-based discrimination and harassment (discrimination, harassment, sexual harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation) with Penn State’s Title IX coordinator or deputy coordinators, regardless of whether the incidents are stated to me in person or shared by students as part of their coursework. For more information regarding the University’s policies and procedures for responding to reports of sexual or gender-based harassment or misconduct, please visit http://titleix.psu.edu.\nAdditionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law.\n\n\nCOVID safety information (last updated 2021-08-12)\nPlease consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. https://virusinfo.psu.edu/covid-19-dashboard/.\nThis class will meet in-person unless there is a change in University policy.\nPenn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.\n\n\nZoom\nAt some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate.\nWhile you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect. Please keep your microphone muted unless you want to ask a question or interact with someone. If your microphone is not muted, the entire class will be able to hear what is going on in your environment. As an instructor, I personally like to see people’s faces. As a participant, I am more involved when I have my camera on. I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns. It is your choice as to whether you would like to have the camera on or not."
+  },
+  {
+    "objectID": "exercises/ex05.html",
+    "href": "exercises/ex05.html",
+    "title": "Exercise 05 • Reproducibility",
+    "section": "",
+    "text": "Review a paper for reproducibility criteria\nExplore OSF, NDA, OpenNeuro, identify dataset that you might want to use"
+  },
+  {
+    "objectID": "exercises/ex05.html#reproducibility",
+    "href": "exercises/ex05.html#reproducibility",
+    "title": "Exercise 05 • Reproducibility",
+    "section": "",
+    "text": "Review a paper for reproducibility criteria\nExplore OSF, NDA, OpenNeuro, identify dataset that you might want to use"
+  },
+  {
+    "objectID": "exercises/ex03.html",
+    "href": "exercises/ex03.html",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "",
+    "text": "Direction\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nRostral/caudal\n\n\n\n\n\nAnterior/posterior\n\n\n\n\n\nMedial/lateral\n\n\n\n\n\nDorsal/ventral\n\n\n\n\n\nSuperior/inferior"
+  },
+  {
+    "objectID": "exercises/ex03.html#directional-terms",
+    "href": "exercises/ex03.html#directional-terms",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "",
+    "text": "Direction\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nRostral/caudal\n\n\n\n\n\nAnterior/posterior\n\n\n\n\n\nMedial/lateral\n\n\n\n\n\nDorsal/ventral\n\n\n\n\n\nSuperior/inferior"
+  },
+  {
+    "objectID": "exercises/ex03.html#planes-of-section",
+    "href": "exercises/ex03.html#planes-of-section",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Planes of Section",
+    "text": "Planes of Section\n\n\n\nPlane\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nSagittal\n\n\n\n\n\nCoronal/frontal\n\n\n\n\n\nAxial/horizontal/transverse"
+  },
+  {
+    "objectID": "exercises/ex03.html#brain-structure",
+    "href": "exercises/ex03.html#brain-structure",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Brain Structure",
+    "text": "Brain Structure\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nForebrain\n\n\n\n\n\nMidbrain\n\n\n\n\n\nHindbrain"
+  },
+  {
+    "objectID": "exercises/ex03.html#surface-of-cerebral-cortex",
+    "href": "exercises/ex03.html#surface-of-cerebral-cortex",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Surface of Cerebral Cortex",
+    "text": "Surface of Cerebral Cortex\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nCentral sulcus\n\n\n\n\n\nLateral sulcus/fissure\n\n\n\n\n\nLongitudinal fissure\n\n\n\n\n\nCerebral hemispheres\n\n\n\n\n\nParietal lobe\n\n\n\n\n\nFrontal lobe\n\n\n\n\n\nInsular cortex"
+  },
+  {
+    "objectID": "exercises/ex03.html#surface-of-cerebral-cortex-1",
+    "href": "exercises/ex03.html#surface-of-cerebral-cortex-1",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Surface of Cerebral Cortex",
+    "text": "Surface of Cerebral Cortex\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nTemporal lobe\n\n\n\n\n\nOccipital lobe"
+  },
+  {
+    "objectID": "exercises/ex03.html#surface-of-cerebral-cortex-2",
+    "href": "exercises/ex03.html#surface-of-cerebral-cortex-2",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Surface of Cerebral Cortex",
+    "text": "Surface of Cerebral Cortex\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nPrecentral gyrus\n\n\n\n\n\nPostcentral gyrus\n\n\n\n\n\nSuperior temporal gyrus"
+  },
+  {
+    "objectID": "exercises/ex03.html#fiber-tracts",
+    "href": "exercises/ex03.html#fiber-tracts",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Fiber tracts",
+    "text": "Fiber tracts\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nCorpus callosum\n\n\n\n\n\nAnterior commissure\n\n\n\n\n\nPosterior commissure\n\n\n\n\n\nOlfactory nerve, Ist\n\n\n\n\n\nOptic nerve/tract, IInd\n\n\n\n\n\nOptic chiasm\n\n\n\n\n\nFornix"
+  },
+  {
+    "objectID": "exercises/ex03.html#subcortical-structures",
+    "href": "exercises/ex03.html#subcortical-structures",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Subcortical structures",
+    "text": "Subcortical structures\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nCaudate nucleus\n\n\n\n\n\nPutamen\n\n\n\n\n\nGlobus Pallidus\n\n\n\n\n\nThalamus"
+  },
+  {
+    "objectID": "exercises/ex03.html#subcortical-structures-1",
+    "href": "exercises/ex03.html#subcortical-structures-1",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Subcortical structures",
+    "text": "Subcortical structures\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nHypothalamus\n\n\n\n\n\nPituitary gland\n\n\n\n\n\nHippocampus\n\n\n\n\n\nAmygdala"
+  },
+  {
+    "objectID": "exercises/ex03.html#midbrain",
+    "href": "exercises/ex03.html#midbrain",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Midbrain",
+    "text": "Midbrain\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nTectum\n\n\n\n\n\nSuperior colliculus\n\n\n\n\n\nInferior colliculus\n\n\n\n\n\nTegmentum\n\n\n\n\n\nSubstantia nigra\n\n\n\n\n\nVentral tegmental area\n\n\n\n\n\nLocus coeruleus"
+  },
+  {
+    "objectID": "exercises/ex03.html#hindbrain",
+    "href": "exercises/ex03.html#hindbrain",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Hindbrain",
+    "text": "Hindbrain\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nCerebellum\n\n\n\n\n\nPons\n\n\n\n\n\nMedulla Oblongata\n\n\n\n\n\nSpinal cord"
+  },
+  {
+    "objectID": "exercises/ex03.html#ventricles",
+    "href": "exercises/ex03.html#ventricles",
+    "title": "Exercise 03 • Neuroanatomy",
+    "section": "Ventricles",
+    "text": "Ventricles\n\n\n\nStructure\nBrain Model\nSpecimen\nAtlas\n\n\n\n\nLateral ventricles\n\n\n\n\n\n3rd ventricle\n\n\n\n\n\nCerebral aqueduct\n\n\n\n\n\n4th ventricle"
+  },
+  {
+    "objectID": "exercises/ex01.html",
+    "href": "exercises/ex01.html",
+    "title": "Exercise 01 • Vocabulary",
+    "section": "",
+    "text": "Email me APA formatted citation (with DOIs)\nIndicate three concepts/terms you are especially interested in understanding"
+  },
+  {
+    "objectID": "exercises/ex01.html#pick-two-papers-you-want-to-read-and-better-understand",
+    "href": "exercises/ex01.html#pick-two-papers-you-want-to-read-and-better-understand",
+    "title": "Exercise 01 • Vocabulary",
+    "section": "",
+    "text": "Email me APA formatted citation (with DOIs)\nIndicate three concepts/terms you are especially interested in understanding"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -28,39 +357,32 @@
     "text": "Paper\nPlease write a critical review in the style of a Behavioral and Brain Sciences (BBS) commentary. The target of your review could be a published article in BBS or an article published in another journal. Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries. Typically, a BBS commentary is restricted to 1,000 words, but you have latitude to write up to 2,500 words.\nDo’s\n\nAlways put your last name and first name in the file name of all documents you submit. For example, gilmore-rick-psy-511-2021-final-paper.docx works fine.\nSubmit your paper as a MS Word document or as a Google drive document that I can comment on using the track changes feature.\nInclude a cover page and title. Make sure to add page numbers.\nUnpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.\nInclude all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.\nInclude author-date citations in the text.\nUse double-spacing.\nRun spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices."
   },
   {
-    "objectID": "exercises/ex01.html",
-    "href": "exercises/ex01.html",
-    "title": "Exercise 01",
-    "section": "",
-    "text": "Email me APA formatted citation (with DOIs)\nIndicate three concepts/terms you are especially interested in understanding"
-  },
-  {
-    "objectID": "exercises/ex01.html#pick-two-papers-you-want-to-read-and-better-understand",
-    "href": "exercises/ex01.html#pick-two-papers-you-want-to-read-and-better-understand",
-    "title": "Exercise 01",
-    "section": "",
-    "text": "Email me APA formatted citation (with DOIs)\nIndicate three concepts/terms you are especially interested in understanding"
-  },
-  {
     "objectID": "exercises/ex02.html",
     "href": "exercises/ex02.html",
-    "title": "Exercise 02",
+    "title": "Exercise 02 • Information processing",
     "section": "",
     "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to distinguish between behaviors (e.g., movements, facial expressions, vocalizations) and physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.)\nCausal diagrams\nCovariates, external influences"
   },
   {
     "objectID": "exercises/ex02.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
     "href": "exercises/ex02.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
-    "title": "Exercise 02",
+    "title": "Exercise 02 • Information processing",
     "section": "",
     "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to distinguish between behaviors (e.g., movements, facial expressions, vocalizations) and physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.)\nCausal diagrams\nCovariates, external influences"
+  },
+  {
+    "objectID": "exercises/ex04.html#activity",
+    "href": "exercises/ex04.html#activity",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Activity",
+    "text": "Activity\nChoose a psychological phenomenon you know well or care about.\nDraw a diagram that depicts the relationships among the principal causes of or influences on that phenomenon.\nIt may help you to think about the causes or influences as falling into the following categories:\n\nExternal to the person\nPhysical/physiological states outside the nervous system\nNervous system states\n\nIf the phenomenon has characteristic behaviors or mental states, please indicate those, as well.\nYou may also want to depict the flow of information or the direction of causality.\nHere is a cartoon example:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "PSYCH 511",
     "section": "",
-    "text": "Rick O. Gilmore, Ph.D. Professor of Psychology 114 Moore Building\n+1 (814) 865-3664 rog1 AT-SYMBOL psu PERIOD edu Schedule an appointment Lab site: https://gilmore-lab.github.io Personal site: https://rick-gilmore.com\n\n\n\nTBD"
+    "text": "Rick O. Gilmore, Ph.D. Professor of Psychology 114 Moore Building\n+1 (814) 865-3664 rog1 AT-SYMBOL psu PERIOD edu Schedule an appointment Lab site: https://gilmore-lab.github.io Personal site: https://rick-gilmore.com\n\n\n\n467 Moore Thursdays, 1-3 PM."
   },
   {
     "objectID": "index.html#instructor",
@@ -74,328 +396,146 @@
     "href": "index.html#meeting-location-and-time",
     "title": "PSYCH 511",
     "section": "",
-    "text": "TBD"
-  },
-  {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies & Values",
-    "section": "",
-    "text": "Academic Integrity\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nStudents are responsible for maintaining academic integrity. Violations include cheating on exams, talking to others during exams, looking at another student’s test materials or answers during an exam, removing exams from the classroom without consent from the instructor, plagiarizing (do not copy from someone else!), and dishonesty in any aspect of course participation.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\n\n\nLate, missed or make-up assignments\n\nExams\nMake-up exams may be permitted under unusual circumstances such as (a) an interview for graduate school or a job, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.\nIf you must miss class on the day an exam is scheduled, you must do the following:\n\nContact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.\nArrange with the TA or instructor to take a make-up exam as soon as possible, but no later than one (1) week following the date of the scheduled exam. It is your responsibility, not the TA’s or the instructor’s to schedule an approved make-up exam in a timely way.\n\n\n\nQuizzes\nNo make-up quizzes will be given except under unusual circumstances. You may ask for a copy of the quiz for studying purposes, however.\n\n\nAccommodation for persons with disabilities\nPenn State welcomes students with disabilities into the University’s educational programs. Please refer to the information provided by Student Disability Resources (SDR) at http://equity.psu.edu/student-disability-resources/ for information about the procedures required to obtain reasonable accommodations in this course. Students should discussSDR-approved accommodations with their instructor as early in the semester as possible, even if they have taken another course with the instructor. Please note: students are not required to provide their instructor with information about the nature of their condition.\nPenn State students are also welcome to contact other units for assistance with personal concerns that interfere with academic progress, including: Counseling and Psychological Services (CAPS; http://studentaffairs.psu.edu/counseling/), the Office of Student Affairs (http://studentaffairs.psu.edu/), Career Services (http://studentaffairs.psu.edu/career/), the Center for Women Students (http://studentaffairs.psu.edu/womenscenter/), the LGBTQA Student Resource Center (http://studentaffairs.psu.edu/lgbtqa/), the Office of Sexual Misconduct Prevention and Response (http://titleix.psu.edu/), Penn State Educational Equity (http://equity.psu.edu/), the Multicultural Resource Center (http://equity.psu.edu/mrc), and University Health Services (http://studentaffairs.psu.edu/health/).\n\n\n\nNondiscrimination Statement\nThe Pennsylvania State University is committed to equal access to programs, facilities, admission and employment for all persons. It is the policy of the University to maintain an environment free of harassment and free of discrimination against any person because of age, race, color, ancestry, national origin, religion, creed, service in the uniformed services (as defined in state and federal law), veteran status, sex, sexual orientation, marital or family status, pregnancy, pregnancy-related conditions, physical or mental disability, gender, perceived gender, gender identity, genetic information or political ideas. Discriminatory conduct and harassment, as well as sexual misconduct and relationship violence, violates the dignity of individuals, impedes the realization of the University’s educational mission, and will not be tolerated.\nDirect all inquiries regarding the nondiscrimination policy to:\nDr. Kenneth Lehrman III Vice Provost for Affirmative Action Affirmative Action Office The Pennsylvania State University 328 Boucke Building University Park, PA 16802-5901 Email: kfl2@psu.edu Tel (814) 863-0471\n\n\nDiversity Statement\nThis classroom is a place where you will be treated with respect. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Penn State is committed to creating an educational environment which is free from intolerance directed toward individuals or groups and strives to create and maintain an environment that fosters respect for others as stated in Policy AD29 Statement on Intolerance.\n\n\nMandated Reporting Statement\nPenn State’s policies require me, as a faculty member, to share information about incidents of sex-based discrimination and harassment (discrimination, harassment, sexual harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation) with Penn State’s Title IX coordinator or deputy coordinators, regardless of whether the incidents are stated to me in person or shared by students as part of their coursework. For more information regarding the University’s policies and procedures for responding to reports of sexual or gender-based harassment or misconduct, please visit http://titleix.psu.edu.\nAdditionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law.\n\n\nCOVID safety information (last updated 2021-08-12)\nPlease consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. https://virusinfo.psu.edu/covid-19-dashboard/.\nThis class will meet in-person unless there is a change in University policy.\nPenn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. ALL STUDENTS MUST wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.\n\n\nZoom\nAt some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate.\nWhile you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect. Please keep your microphone muted unless you want to ask a question or interact with someone. If your microphone is not muted, the entire class will be able to hear what is going on in your environment. As an instructor, I personally like to see people’s faces. As a participant, I am more involved when I have my camera on. I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns. It is your choice as to whether you would like to have the camera on or not."
+    "text": "467 Moore Thursdays, 1-3 PM."
   },
   {
     "objectID": "schedule.html#week-1",
     "href": "schedule.html#week-1",
     "title": "Schedule",
     "section": "Week 1",
-    "text": "Week 1\n\nWednesday, August 25\n\nTopics\n\nStructure of the course\nThe connectome and beyond\nA bit about systems\n\nRead/Watch\n\nSwanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. Annual Review of Neuroscience, 39, 197–216. https://doi.org/10.1146/annurev-neuro-071714-033954.\n\nMaterials\n\nNotes. PDF\n\n\n\n\nFriday, August 27\n\nTopics\n\nLevels of analysis\nDoes neuroscience need behavior? Does behavioral science need the brain?\n\nRead/Watch\n\nChurchland, P. S., & Sejnowski, T. J. (1988). Perspectives on cognitive neuroscience. Science, 242(4879), 741–745. https://www.ncbi.nlm.nih.gov/pubmed/3055294.\nKrakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. Neuron, 93(3), 480–490. https://dx.doi.org/10.1016/j.neuron.2016.12.041.\n\nMaterials\n\nNotes. PDF"
+    "text": "Week 1\n\nThursday, January 11\n\nTopics\n\nStructure of the course\nThe connectome and beyond…\nLevels of analysis\n\n\n\nRead\n\n(Swanson & Lichtman, 2016).\n(Churchland & Sejnowski, 1988).\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017).\n\n\n\nMaterials\n\nNotes\n(National Geographic, 2014)"
   },
   {
     "objectID": "schedule.html#week-2",
     "href": "schedule.html#week-2",
     "title": "Schedule",
     "section": "Week 2",
-    "text": "Week 2\n\nWednesday, September 1\n\nTopics\n\nMethods in neuroscience\n\nRead/Watch\n\nMendoza-Halliday, D. (2019). Neuroscience methods tutorial. https://youtu.be/iHthMSN65bA.\nCognitive Psychology and Cognitive Neuroscience/Behavioural and Neuroscience Methods. https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods\n(Recommended) Cohen, M. X. (2017). Where Does EEG Come From and What Does It Mean? Trends in Neurosciences, 40(4), 208–218. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.02.004\n\nMaterials\n\nNotes. PDF.\nGetting to know you assignment\n\n\n\n\nFriday, September 3\n\nTopics\n\nMethods in neuroscience\n\nRead/Watch\n\n(Recommended) Hillman, E. M. C. (2014). Coupling mechanism and significance of the BOLD signal: a status report. Annual Review of Neuroscience, 37, 161–181. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-071013-014111.\n(Optional) Logothetis, N. K., Pauls, J., Augath, M., Trinath, T., & Oeltermann, A. (2001). Neurophysiological investigation of the basis of the fMRI signal. Nature, 412(6843), 150–157. Retrieved January 20, 2016, from https://www.nature.com/nature/journal/v412/n6843/abs/412150a0.html\n\nMaterials\n\nNotes. PDF."
+    "text": "Week 2\n\nThursday, January 18"
   },
   {
     "objectID": "schedule.html#week-3",
     "href": "schedule.html#week-3",
     "title": "Schedule",
     "section": "Week 3",
-    "text": "Week 3\n\nWednesday, September 8\n\nTopics\n\nCellular neuroscience (anatomy)\n\nRead/Watch\n\nBW1 2:36-51.\nBW 3:61-78.\n(Optional) Zeng, H., & Sanes, J. R. (2017). Neuronal cell-type classification: challenges, opportunities and the path forward. Nature Reviews Neuroscience, 18(9), 530–546. https://doi.org/10.1038/nrn.2017.85.\n(Optional) Oliveira, J. F., Sardinha, V. M., Guerra-Gomes, S., Araque, A., & Sousa, N. (2015). Do stars govern our actions? Astrocyte involvement in rodent behavior. Trends in Neurosciences, 38(9), 535–549. Retrieved from https://dx.doi.org/10.1016/j.tins.2015.07.006.\n\nMaterials\n\nNotes. PDF\n\n\n\n\nFriday, September 10\n\nTopics\n\nCellular neuroscience (resting potential)\n\nRead/Watch\n\nBW 3:78-92.\n\nMaterials\n\nNotes. PDF"
+    "text": "Week 3\n\nThursday, January 25\n\n\nWednesday, September 8"
   },
   {
     "objectID": "schedule.html#week-4",
     "href": "schedule.html#week-4",
     "title": "Schedule",
     "section": "Week 4",
-    "text": "Week 4\n\nWednesday, September 15\n\nTopics\n\nCellular neuroscience (action potential)\nCellular neuroscience (synaptic transmission)\n\nMaterials\n\nNotes. PDF\n\n\n\n\nFriday, September 17\n\nTopics\n\nNeuroanatomy\n\nMaterials\n\nNotes. PDF"
+    "text": "Week 4\n\nThursday, February 1"
   },
   {
     "objectID": "schedule.html#week-5",
     "href": "schedule.html#week-5",
     "title": "Schedule",
     "section": "Week 5",
-    "text": "Week 5\n\nWednesday, September 22\n\nTopics\n\nNeuroanatomy II\n\nMaterials\n\nNotes. PDF\n\n\n\n\nFriday, September 24\n\nTopics\n\nQuiz 1. Take home. Due at start of class on Friday, October 1, 2021.\nNeuroanatomy III\n\nMaterials\n\nNotes. PDF"
+    "text": "Week 5\n\nThursday, February 8"
   },
   {
     "objectID": "schedule.html#week-6",
     "href": "schedule.html#week-6",
     "title": "Schedule",
     "section": "Week 6",
-    "text": "Week 6\n\nWednesday, September 29\n\nTopics\n\nNeuroanatomy lab\n\nMaterials\n\nHandout. PDF\n\n\n\n\nFriday, October 1\n\nTopics\n\nQuiz 1 due. Email it to me.\nNeurochemistry\n\nRead/Watch\n\nBW: 4:95-100.\nBW 4:101-130.\n\nMaterials\n\nNotes. PDF"
+    "text": "Week 6\n\nThursday, February 15"
   },
   {
     "objectID": "schedule.html#week-7",
     "href": "schedule.html#week-7",
     "title": "Schedule",
     "section": "Week 7",
-    "text": "Week 7\n\nWednesday, October 6\n\nTopic\n\nHormones\nBrain/gut connection\n\nRead/Watch\n\nBW 5:125-154.\nBW 5:131-159.\n(Optional) Sarkar, A., Lehto, S. M., Harty, S., Dinan, T. G., Cryan, J. F., & Burnet, P. W. J. (2016). Psychobiotics and the manipulation of bacteria-gut-brain signals. Trends in Neurosciences, 39(11), 763–781. Retrieved from https://dx.doi.org/10.1016/j.tins.2016.09.002.\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, October 8\n\nTopics\n\nEvolution of the nervous system\n\nReading\n\nBW 6 & 7.\nOptional Hofman, M. A. (2014). Evolution of the human brain: When bigger is better. Frontiers in Neuroanatomy, 8, 15. https://doi.org/10.3389/fnana.2014.00015.\n\nMaterials\n\nNotes. PDF."
+    "text": "Week 7\n\nThursday, February 22"
   },
   {
     "objectID": "schedule.html#week-8",
     "href": "schedule.html#week-8",
     "title": "Schedule",
     "section": "Week 8",
-    "text": "Week 8\n\nWednesday, October 13\n\nTopics\n\nDevelopment of the human brain\n\nRead/Watch\n\nRakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. Nature Reviews Neuroscience, 10(10), 724–735. Retrieved October 5, 2015, from https://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html.\nCao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. Trends in Neurosciences, 40(8), 494–506. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.06.003.\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, October 15\n\nTopics\n\nDevelopment of the human brain II\n\nRead/Watch\n\nRakic, P. (2009). Evolution of the neocortex: a perspective from developmental biology. Nature Reviews Neuroscience, 10(10), 724–735. Retrieved October 5, 2015, from https://www.nature.com/nrn/journal/v10/n10/abs/nrn2719.html.\nCao, M., Huang, H., & He, Y. (2017). Developmental connectomics from infancy through early childhood. Trends in Neurosciences, 40(8), 494–506. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.06.003.\n\nMaterials\n\nNotes. PDF."
+    "text": "Week 8\n\nThursday, February 29"
+  },
+  {
+    "objectID": "schedule.html#spring-break",
+    "href": "schedule.html#spring-break",
+    "title": "Schedule",
+    "section": "Spring Break",
+    "text": "Spring Break\n\nMonday, March 4 - Friday March 8\nNO CLASS"
   },
   {
     "objectID": "schedule.html#week-9",
     "href": "schedule.html#week-9",
     "title": "Schedule",
     "section": "Week 9",
-    "text": "Week 9\n\nWednesday, October 20\n\nTopics\n\nPerception.\n\nRead/Watch\n\nBW 8:230-241.\nMurray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory processes: A balancing act across the lifespan. Trends in Neurosciences, 39(8), 567–579. Retrieved July 28, 2016, from https://www.sciencedirect.com/science/article/pii/S0166223616300480.\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, October 22\n\nTopics\n\nVision\n\nRead/Watch\n\nBW 8:230-241.\nHubel, D. H. (1982). Exploration of the primary visual cortex, 1955-78. Nature, 299(5883), 515–524. https://www.ncbi.nlm.nih.gov/pubmed/6750409.\n\nMaterials\n\nNotes. PDF."
+    "text": "Week 9\n\nThursday, March 14"
   },
   {
     "objectID": "schedule.html#week-10",
     "href": "schedule.html#week-10",
     "title": "Schedule",
     "section": "Week 10",
-    "text": "Week 10\n\nWednesday, October 27\n\nTopics\n\nAction I\n\nRead/Watch\n\nBW 10: 301:335, BW 11: 341:368.\nNielsen, J. B. (2016). Human spinal motor control. Annual Review of Neuroscience, 39, 81–101. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-070815-013913\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, October 29\n\nTopics\n\nAction II\n\nRead/Watch\n\nBW 10:301-335, 11:341-368.\nShenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. Annual Review of Neuroscience, 36, 337–359. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-062111-150509.\n\nQuiz 2 distributed. Due by 12:00 PM on Friday, November 5, 2021."
+    "text": "Week 10\n\nThursday, March 21"
   },
   {
     "objectID": "schedule.html#week-11",
     "href": "schedule.html#week-11",
     "title": "Schedule",
     "section": "Week 11",
-    "text": "Week 11\n\nWednesday, November 3\n\nTopics\n\nWrap-up on action\nCognition & language.\n\nRead/Watch\n\nBW 19\nHagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. Annual Review of Neuroscience, 37, 347–362. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-071013-013847.\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, November 5\n\nTopics\n\nWrap-up on language\nLearning & memory\n\nRead/Watch\n\nBW 17\nSquire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. Annual Review of Neuroscience, 34, 259–288. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-061010-113720.\n\nQuiz 2 due\nMaterials\n\nNotes. PDF."
+    "text": "Week 11\n\nThursday, March 28"
   },
   {
     "objectID": "schedule.html#week-12",
     "href": "schedule.html#week-12",
     "title": "Schedule",
     "section": "Week 12",
-    "text": "Week 12\n\nWednesday, November 10\n\nTopics\n\nWrap-up on learning & memory\nFear & stress\n\nRead/Watch\n\nBW 15\nPellman, B. A., & Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? Trends in Neurosciences, 39(6), 420–431. Retrieved from https://dx.doi.org/10.1016/j.tins.2016.04.001\nMusazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. Trends in Neurosciences. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.07.002\n\nMaterials\n\nNotes. PDF.\n\n\n\n\nFriday, November 12\n\nTopics\n\nPleasure & reward.\n\nRead/Watch\n\nBW 15\nHu, H. (2016). Reward and aversion. Annual Review of Neuroscience, 39, 297–324. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-070815-014106\nWatabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. Annual Review of Neuroscience, 40, 373–394. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-072116-031109.\n\nMaterials\n\nNotes. PDF."
+    "text": "Week 12\n\nThursday, April 4"
   },
   {
     "objectID": "schedule.html#week-13",
     "href": "schedule.html#week-13",
     "title": "Schedule",
     "section": "Week 13",
-    "text": "Week 13\n\nWednesday, November 17\n\nTopics\n\nDisorder and Disease.\n\nRead/Watch\n\nBW 16\nHunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant network activity in schizophrenia. Trends in Neurosciences, 40(6), 371–382. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.04.003.\nVolk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. Annual Review of Neuroscience, 38, 127–149. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-071714-033821.\n\n\n\n\nFriday, November 19\n\nTopics\n\nDisorder and Disease II\n\nRead/Watch\n\nBW 16\nPawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The neurobiology of postpartum anxiety and depression. Trends in Neurosciences, 40(2), 106–120. Retrieved from https://dx.doi.org/10.1016/j.tins.2016.11.009.\nNamkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. Trends in Neurosciences, 40(4), 200–207. Retrieved from https://dx.doi.org/10.1016/j.tins.2017.02.002.\n\nQuiz 3 distributed. Due 5:00 PM on Friday, December 3, 2021."
-  },
-  {
-    "objectID": "schedule.html#thanksgiving-break-november-22---26-2021",
-    "href": "schedule.html#thanksgiving-break-november-22---26-2021",
-    "title": "Schedule",
-    "section": "Thanksgiving Break, November 22 - 26, 2021",
-    "text": "Thanksgiving Break, November 22 - 26, 2021"
+    "text": "Week 13\n\nThursday, April 11"
   },
   {
     "objectID": "schedule.html#week-14",
     "href": "schedule.html#week-14",
     "title": "Schedule",
     "section": "Week 14",
-    "text": "Week 14\n\nWednesday, December 1\n\nTopics\n\nNetworks all the way down\n\nRead/Watch\n\nRaichle, M. E. (2015). The brain’s default mode network. Annual Review of Neuroscience, 38, 433–447. Retrieved from https://dx.doi.org/10.1146/annurev-neuro-071013-014030\n\nOptional\n\nBargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology, 34(6), 458–465. https://doi.org/10.1002/bies.201100185\nKopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. Neuron, 83(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016\n\n\n\n\nFriday, December 3\n\nTopics\n\nNetworks all the way down\n\nRead/Watch\n\nBullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical analysis of structural and functional systems. Nature Reviews Neuroscience, 10(3), 186–198. https://doi.org/10.1038/nrn2575.\n\nOptional\n\nBargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology, 34(6), 458–465. https://doi.org/10.1002/bies.201100185.\nBassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature Neuroscience, 20(3), 353–364. https://doi.org/10.1038/nn.4502.\nKopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. Neuron, 83(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016\n\nQuiz 3 due."
+    "text": "Week 14\n\nThursday, April 18"
   },
   {
     "objectID": "schedule.html#week-15",
     "href": "schedule.html#week-15",
     "title": "Schedule",
     "section": "Week 15",
-    "text": "Week 15\n\nWednesday, December 8\n\nTopics\n\nReproducibility in neuroscience\n\nReadings\n\nGorgolewski, K. J., & Poldrack, R. A. (2016). A practical guide for improving transparency and reproducibility in neuroimaging research. PLoS Biology, 14(7), e1002506. Retrieved October 2, 2016, from https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002506\n(recommended) Botvinik-Nezer, R., et al. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. Nature, 582(7810): 84-88. https://doi.org/10.1038/s41586-020-2314-9.\n\nRecommended\n\nKass, R. (2020). Exaggerated Claims Undermine Science by Ignoring the Scientific Method. https://youtu.be/PwCyvSDkUCY\n(optional) Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. Annals of the New York Academy of Sciences. Retrieved from https://dx.doi.org/10.1111/nyas.13325.\n\n\n\n\nFriday, December 10\n\nTopics\n\nTBD"
+    "text": "Week 15\n\nThursday, April 25"
   },
   {
     "objectID": "schedule.html#week-16",
     "href": "schedule.html#week-16",
     "title": "Schedule",
     "section": "Week 16",
-    "text": "Week 16\n\nWednesday, December 15, 2021\n\nFinal papers due by 5:00 pm"
+    "text": "Week 16\n\nThursday, May 2\n\nFinal papers due by 5:00 pm"
   },
   {
-    "objectID": "schedule.html#footnotes",
-    "href": "schedule.html#footnotes",
-    "title": "Schedule",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nBW refers to the Behavioral Neuroscience text by Breedlove and Watson.↩︎"
+    "objectID": "exercises/ex04.html#example-1",
+    "href": "exercises/ex04.html#example-1",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 1",
+    "text": "Example 1\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  A --&gt; H(Toe bleeds)"
   },
   {
-    "objectID": "slides/wk01-2024-01-08.html",
-    "href": "slides/wk01-2024-01-08.html",
-    "title": "Course intro",
-    "section": "",
-    "text": "“If understanding everything we need to know about the brain is a mile, how far have we walked?”\n– Jeff Lichtman\n\n\n\n\n\n\n       \n\n\n\n\nHiking, camping/backpacking, cycling, paddling\nMusic, theatre\nActivism\nAmateur radio (K3ROG), computing"
+    "objectID": "exercises/ex04.html#example-2",
+    "href": "exercises/ex04.html#example-2",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 2",
+    "text": "Example 2\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)"
   },
   {
-    "objectID": "slides/wk01-2024-01-08.html#prelude",
-    "href": "slides/wk01-2024-01-08.html#prelude",
-    "title": "Course intro",
-    "section": "",
-    "text": "“If understanding everything we need to know about the brain is a mile, how far have we walked?”\n– Jeff Lichtman\n\n\n\n\n\n\n       \n\n\n\n\nHiking, camping/backpacking, cycling, paddling\nMusic, theatre\nActivism\nAmateur radio (K3ROG), computing"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#todays-topics",
-    "href": "slides/wk01-2024-01-08.html#todays-topics",
-    "title": "Course intro",
-    "section": "Today’s topics",
-    "text": "Today’s topics\n\nWhy neuroscience is harder than physics\nCourse overview\nThe connectome and beyond\nDoes neuroscience need behavior? Does behavioral science need the brain?"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#what-do-we-need-to-know-to-answer-the-question",
-    "href": "slides/wk01-2024-01-08.html#what-do-we-need-to-know-to-answer-the-question",
-    "title": "Course intro",
-    "section": "What do we need to know to answer the question?",
-    "text": "What do we need to know to answer the question?\n\nWhat is the state…\n\nOf the world (\\(W\\))\nOf the organism\n\nBody (\\(B\\))\nNervous system (\\(N\\))\nMind (\\(M\\))"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#some-states-are-more-easily-measured-than-others",
-    "href": "slides/wk01-2024-01-08.html#some-states-are-more-easily-measured-than-others",
-    "title": "Course intro",
-    "section": "Some states are more easily measured than others",
-    "text": "Some states are more easily measured than others\n\n\\(W\\), \\(B\\), \\(N\\) more or less directly\n\n\n\n  \n Sejnowski 2014"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#measure-mental-states-m",
-    "href": "slides/wk01-2024-01-08.html#measure-mental-states-m",
-    "title": "Course intro",
-    "section": "Measure mental states (\\(M\\))",
-    "text": "Measure mental states (\\(M\\))\n\nindirectly\nVia \\(N\\), \\(B\\), \\(W\\) (+ prior beliefs/knowledge)\nExamples?"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-w",
-    "href": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-w",
-    "title": "Course intro",
-    "section": "What are essential components/dimensions of \\(W\\)?",
-    "text": "What are essential components/dimensions of \\(W\\)?"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-b",
-    "href": "slides/wk01-2024-01-08.html#what-are-essential-componentsdimensions-of-b",
-    "title": "Course intro",
-    "section": "What are essential components/dimensions of \\(B\\)?",
-    "text": "What are essential components/dimensions of \\(B\\)?"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#brain-behavior-are-complex-dynamic-systems-with",
-    "href": "slides/wk01-2024-01-08.html#brain-behavior-are-complex-dynamic-systems-with",
-    "title": "Course intro",
-    "section": "Brain & behavior are complex, dynamic systems with",
-    "text": "Brain & behavior are complex, dynamic systems with\n\nComponents\nInteractions\nForces/influences\nBoundaries\nInputs/outputs/processes"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#systems",
-    "href": "slides/wk01-2024-01-08.html#systems",
-    "title": "Course intro",
-    "section": "Systems…",
-    "text": "Systems…\n\n“Behave” or change state across time\nReturn to starting state\nAppear to be regulated, controlled, influenced by feedback loops\n\\(B(t+1) = f(W(t), B(t), N(t), M(t))\\)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#may-be-thought-of-as-networks",
-    "href": "slides/wk01-2024-01-08.html#may-be-thought-of-as-networks",
-    "title": "Course intro",
-    "section": "May be thought of as networks",
-    "text": "May be thought of as networks\n\nknitr::include_graphics(\"https://source.wustl.edu/wp-content/uploads/2013/08/ColeCoverFlexHub470x340.jpg\")\n\n\n\n\nhttps://source.wustl.edu/2013/08/brain-flexible-hub-network-helps-humans-adapt/"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#at-multiple-levels-of-organization",
-    "href": "slides/wk01-2024-01-08.html#at-multiple-levels-of-organization",
-    "title": "Course intro",
-    "section": "At multiple levels of organization…",
-    "text": "At multiple levels of organization…\n\n\nknitr::include_graphics(\"https://stats.idre.ucla.edu/wp-content/uploads/2016/02/sem_1.png\")"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because",
-    "href": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because",
-    "title": "Course intro",
-    "section": "Studying systems is hard because…",
-    "text": "Studying systems is hard because…\n\nSingle parts -&gt; multiple functions\nSingle functions -&gt; multiple parts"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#e.g.-equifinality-in-micro-circuits",
-    "href": "slides/wk01-2024-01-08.html#e.g.-equifinality-in-micro-circuits",
-    "title": "Course intro",
-    "section": "e.g., “equifinality” in micro-circuits",
-    "text": "e.g., “equifinality” in micro-circuits\n\n\nknitr::include_graphics(\"img/calabrese-2018.jpg\")\n\n\n\n\n(Calabrese, 2018)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because-1",
-    "href": "slides/wk01-2024-01-08.html#studying-systems-is-hard-because-1",
-    "title": "Course intro",
-    "section": "Studying systems is hard because…",
-    "text": "Studying systems is hard because…\n\nChange structure/function over time\nBiological systems not “designed” like human-engineered ones\nHard to measure what is being exchanged, what is being controlled"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#psy-511.001-goals",
-    "href": "slides/wk01-2024-01-08.html#psy-511.001-goals",
-    "title": "Course intro",
-    "section": "PSY 511.001 Goals",
-    "text": "PSY 511.001 Goals\n\nMaster fundamentals of neuroscientific concepts and facts\nPrepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#structure",
-    "href": "slides/wk01-2024-01-08.html#structure",
-    "title": "Course intro",
-    "section": "Structure",
-    "text": "Structure\nhttps://psu-psychology.github.io/psy-511-scan-fdns-2021/"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#questions",
-    "href": "slides/wk01-2024-01-08.html#questions",
-    "title": "Course intro",
-    "section": "Questions",
-    "text": "Questions\n\nWhat is the basic organizational plan of the nervous system?\nHow do neurons work?\nHow do neurons connected in networks achieve behavioral goals?\nHow does the nervous system develop? How has it evolved?\nHow do disorders of the mind reveal themselves in the nervous system?"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#approach",
-    "href": "slides/wk01-2024-01-08.html#approach",
-    "title": "Course intro",
-    "section": "Approach",
-    "text": "Approach\n\nBrain architecture (neuroanatomy)\nBrain function (neurophysiology)\nBrain communication (neurochemistry)\nChanges over evolutionary and developmental time"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#approach-1",
-    "href": "slides/wk01-2024-01-08.html#approach-1",
-    "title": "Course intro",
-    "section": "Approach",
-    "text": "Approach\n\nThe nervous system as an information processing system\n\n\n\nknitr::include_graphics(\"https://i.stack.imgur.com/3B00P.png\")\n\n\n\n\n\n\nInputs\n\nFrom environment, body, brain\n\n\n\nProcessing\n\nCurrent inputs + brain state + body state + possible future states…\nStored information\nPhysiological & behavioral goals\n\n\n\nknitr::include_graphics(\"https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-019-01760-1/MediaObjects/13414_2019_1760_Fig1_HTML.png?as=webp\")\n\n\n\n\n(Cisek, 2019)\n\n\n\n\n\n\n\nOutputs\n\nTo brain, body, environment"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#how-do-psi-functions-map-to-structures",
-    "href": "slides/wk01-2024-01-08.html#how-do-psi-functions-map-to-structures",
-    "title": "Course intro",
-    "section": "How do \\(\\Psi\\) functions map to structures?",
-    "text": "How do \\(\\Psi\\) functions map to structures?\n\nknitr::include_graphics(\"https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-019-01760-1/MediaObjects/13414_2019_1760_Fig8_HTML.png?as=webp\")\n\n\n\n\n(Cisek, 2019)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#and-vice-versa-cepelewicz2021-rg",
-    "href": "slides/wk01-2024-01-08.html#and-vice-versa-cepelewicz2021-rg",
-    "title": "Course intro",
-    "section": "And vice versa? (Cepelewicz, 2021)",
-    "text": "And vice versa? (Cepelewicz, 2021)\n\n\n\n\n“The brainwide representation of behavioral variables suggests that information encoded nearly anywhere in the forebrain is combined with behavioral state variables into a mixed representation…Our data indicate that it happens as early as primary sensory cortex.”\n– (Stringer et al., 2019)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#and-do-we-have-the-right-psychological-structures",
-    "href": "slides/wk01-2024-01-08.html#and-do-we-have-the-right-psychological-structures",
-    "title": "Course intro",
-    "section": "And do we have the right “psychological” structures?",
-    "text": "And do we have the right “psychological” structures?\n\n“Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are particularly damaging for the study of multifaceted constructs like self-regulation…We conclude that self-regulation lacks coherence as a construct…”\n– (Eisenberg et al., 2019)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#discussion-of",
-    "href": "slides/wk01-2024-01-08.html#discussion-of",
-    "title": "Course intro",
-    "section": "Discussion of…",
-    "text": "Discussion of…\nSwanson, L. W., & Lichtman, J. W. (2016). From Cajal to Connectome and Beyond. Annual Review of Neuroscience, 39, 197–216.\nhttp://doi.org/10.1146/annurev-neuro-071714-033954"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#key-ideas",
-    "href": "slides/wk01-2024-01-08.html#key-ideas",
-    "title": "Course intro",
-    "section": "Key ideas",
-    "text": "Key ideas\n\nForm &lt;&gt; function\n“What differs between species is the architecture of nervous systems….”\nConnectomes at different levels of analysis\n\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/large/ne390197.f1.jpeg\")\n\n\n\n\nFig 1. Swanson & Lichtman, 2016\n\n\n\n\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/medium/ne390197.f2.gif\")\n\n\n\n\nFig 2. Swanson & Lichtman, 2016\n\n\n\n\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/medium/ne390197.f3.gif\")\n\n\n\n\nFig 3. Swanson & Lichtman, 2016\n\n\n\n\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-071714-033954/20160711/images/large/ne390197.f4.jpeg\")\n\n\n\n\nFig 3. Swanson & Lichtman, 2016\n\n\n\n\n\n\n“The so-called explanatory gap (Horgan 1999) between what we can know and what we want to understand is not necessarily made smaller by more information. Rather, such omics information pushes neuroscience into a different realm where information rather than ideas is the currency.”\n\n(Swanson & Lichtman, 2016)\n\n\n“In this realm, a detailed, bottom-up description of a biological system is mined for whatever conceptual insights might be revealed rather than top-down concepts of what we care about being used as a setup for experiments. In this sense, the data give us a more accurate view of the way things are and, at the same time, push us away from intelligible, albeit facile, answers to the enduring puzzles of the brain.”\n\n(Swanson & Lichtman, 2016)"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#cajalswanson-architecture",
-    "href": "slides/wk01-2024-01-08.html#cajalswanson-architecture",
-    "title": "Course intro",
-    "section": "Cajal/Swanson Architecture",
-    "text": "Cajal/Swanson Architecture\n\n\nknitr::include_graphics(\"https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-1.jpg\")\n\n\n\n\nSwanson, 2005\n\n\n\n\nknitr::include_graphics(\"https://raw.githubusercontent.com/psu-psychology/psy-511-scan-fdns-2017/master/lectures/img/swanson-2005-fig-3.jpg\")\n\n\n\n\nSwanson, 2005"
-  },
-  {
-    "objectID": "slides/wk01-2024-01-08.html#main-points",
-    "href": "slides/wk01-2024-01-08.html#main-points",
-    "title": "Course intro",
-    "section": "Main points",
-    "text": "Main points\n\nPsychology is harder than physics\nConnectomics and beyond"
+    "objectID": "exercises/ex04.html#example-3",
+    "href": "exercises/ex04.html#example-3",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 3",
+    "text": "Example 3\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)\n  C --&gt; I{Activate memory of past injury}\n  J --&gt; K(Rub foot)\n  C --&gt; L(Trigger hormone release)\n  F --&gt; K\n  G --&gt; K\n  K --&gt; C\n  K --&gt; B\n  L --&gt; B\n  L --&gt; C\n  L --&gt; D\n  L --&gt; J\n  L --&gt; H"
   }
 ]
