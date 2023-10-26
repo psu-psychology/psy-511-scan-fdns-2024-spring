@@ -23,9 +23,9 @@ website:
         text: evaluation
       - href: policies.qmd
         text: policies
-      - text: notes
+      - text: resources
         menu:
-          - href: "slides/wk01-2024-01-08.qmd"
+          - href: "resources/neuroanatomy-outline.qmd"
           - text: "---"
       - text: exercises
         menu: 

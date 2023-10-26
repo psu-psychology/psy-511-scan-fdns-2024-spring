@@ -2,8 +2,6 @@
 title: "Schedule"
 ---
 
----
-
 ## Week 1
 
 ### Thursday, January 11
@@ -13,8 +11,9 @@ title: "Schedule"
 - Structure of the course
 - The connectome and beyond...
 - Levels of analysis
+- Systems
 
-#### Read
+#### Readings
 
 - [@Swanson2016-qr].
 - [@Churchland1988-aj].
@@ -30,6 +29,16 @@ title: "Schedule"
 ## Week 2
 
 ### Thursday, January 18
+
+#### Topics
+
+- Neuroanatomy
+
+#### Readings
+
+#### Materials
+
+- [Allen Brain Atlas](http://atlas.brain-map.org/atlas?atlas=138322605#atlas=138322605&structure=10390&resolution=119.78&x=31680.307112068967&y=42751.00179211847&zoom=-6&plate=112360949).
 
 <!-- ### Wednesday, September 1 -->
 
@@ -59,6 +68,12 @@ title: "Schedule"
 
 ### Thursday, January 25
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, September 8 -->
 
 <!-- - Topics -->
@@ -86,6 +101,12 @@ title: "Schedule"
 
 ### Thursday, February 1
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, September 15 -->
 
 <!-- - Topics -->
@@ -107,6 +128,12 @@ title: "Schedule"
 
 ### Thursday, February 8
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, September 22 -->
 
 <!-- - Topics -->
@@ -127,6 +154,12 @@ title: "Schedule"
 ## Week 6
 
 ### Thursday, February 15
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, September 29 -->
 
@@ -151,6 +184,12 @@ title: "Schedule"
 ## Week 7
 
 ### Thursday, February 22
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, October 6 -->
 
@@ -179,6 +218,12 @@ title: "Schedule"
 ## Week 8
 
 ### Thursday, February 29
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, October 13 -->
 
@@ -215,6 +260,12 @@ title: "Schedule"
 
 ### Thursday, March 14
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, October 20 -->
 
 <!-- - Topics -->
@@ -241,6 +292,12 @@ title: "Schedule"
 
 ### Thursday, March 21
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, October 27 -->
 
 <!-- - Topics -->
@@ -265,6 +322,12 @@ title: "Schedule"
 ## Week 11
 
 ### Thursday, March 28
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, November 3 -->
 
@@ -295,6 +358,12 @@ title: "Schedule"
 
 ### Thursday, April 4
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, November 10 -->
 
 <!-- - Topics -->
@@ -323,6 +392,12 @@ title: "Schedule"
 ## Week 13
 
 ### Thursday, April 11
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, November 17 -->
 
@@ -353,6 +428,12 @@ title: "Schedule"
 
 ### Thursday, April 18
 
+#### Topics
+
+#### Readings
+
+#### Materials
+
 <!-- ### Wednesday, December 1 -->
 
 <!-- - Topics -->
@@ -381,6 +462,12 @@ title: "Schedule"
 ## Week 15
 
 ### Thursday, April 25
+
+#### Topics
+
+#### Readings
+
+#### Materials
 
 <!-- ### Wednesday, December 8 -->
 
