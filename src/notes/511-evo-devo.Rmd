@@ -1,0 +1,727 @@
+---
+title: "PSY 511"
+subtitle: "Evolution and development of the human brain"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+csl: bib/apa.csl
+css: css/outline.css
+output:
+  html_document:
+    keep_md: true
+    theme: lumen
+    toc: yes
+    toc_depth: 5
+    toc_float: no
+    self_contained: false
+  pdf_document:
+    toc: true
+    toc_depth: 1
+    keep_tex: true
+    latex_engine: lualatex
+    fig_width: 7
+    fig_height: 6
+---
+
+```{r set-up, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      cache = FALSE, 
+                      fig.align = "center")
+
+library(tidyverse)
+```
+
+# Fun
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j6y1o6woVaY" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/QMshTTIp7SA" frameborder="0" allowfullscreen></iframe>
+
+# Evolution
+
+## Public acceptance of evolution
+
+```{r, fig.cap = "[[@miller2006public]](http://dx.doi.org/10.1126/science.1126746)"}
+knitr::include_graphics("https://www.science.org/cms/10.1126/science.1126746/asset/04dcf902-b601-44d0-8a9c-fd7f717b57a3/assets/graphic/765-1.gif")
+```
+
+- In U.S., majority now "accept"
+- Increase over last decade
+
+```{r, fig.cap="[[@Miller2021-lb]](http://dx.doi.org/10.1177/09636625211035919)"}
+knitr::include_graphics("https://journals-sagepub-com.ezaccess.libraries.psu.edu/na101/home/literatum/publisher/sage/journals/content/pusa/0/pusa.ahead-of-print/09636625211035919/20210815/images/medium/10.1177_09636625211035919-fig1.gif")
+```
+
+### Types of evidence
+
+- Fossil
+    + Fossil dating
+- Geological
+    + Where fossils are found relative to one another
+    + How long it takes to form layers
+- Genetic
+    + Rates of mutation
+- Anatomical
+    + Homologous structures across species
+
+> **Nothing in Biology Makes Sense except in the Light of Evolution**
+>
+> *"Seen in the light of evolution, biology is, perhaps, intellectually the most satisfying and inspiring science. Without that light, it becomes a pile of sundry facts some of them interesting or curious, but making no meaningful picture as a whole."*
+
+[[@Dobzhansky1973]](http://dx.doi.org/10.2307/4444260)
+
+### Why Gilmore thinks the theory so controversial (in the U.S.)
+
+- Contradicts verbatim/non-metaphorical reading of some religious texts
+- Makes humans seem less special
+- Time scales involved beyond human experience
+- Scientific method vs. other ways of knowing
+- Found in nature ≠ good for human society
+- Few negative consequences of 'disbelief'
+- U.S. culture individualistic, skeptical, anti-elitist, anti-intellectual
+- Lower levels of religious belief among [U.S. scientists](http://news.rice.edu/2015/12/03/first-worldwide-survey-of-religion-and-science-no-not-all-scientists-are-atheists/)
+- [Politics](http://www.people-press.org/2009/07/09/section-4-scientists-politics-and-religion/)
+- A minority of citizens support teaching [evolution-only](http://www.pbs.org/wgbh/nova/blogs/education/2015/12/evolutionschools/) 
+- Majority of classroom teachers aren't [strong advocates](https://www.sciencedaily.com/releases/2011/01/110127141657.htm)
+
+> A structural equation model indicates that increasing enrollment in baccalaureate-level programs, exposure to college-level science courses, a declining level of religious fundamentalism, and a rising level of civic scientific literacy are responsible for the increased level of public acceptance.
+>
+> [[@Miller2021-lb]](http://dx.doi.org/10.1177/09636625211035919)
+
+## Evolution and development
+
+### Ontogenesis and phylogenesis
+
+- *Ontogenesis*
+    + Development within lifetimes, history of individuals
+- *Phylogenesis*
+    + Change across lifestimes, history of species
+
+#### Ontogeny does not recapitulate phylogeny ([Haeckel](https://en.wikipedia.org/wiki/Ernst_Haeckel)), but...
+
+```{r, fig.cap="Source: Wikipedia", out.width="800px"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg")
+```
+
+### Complex multicellular life emerged "recently"
+
+<!-- History of life on Earth -->
+```{r, fig.cap="http://anthony.liekens.net/pub/timeline.png"}
+knitr::include_graphics("http://anthony.liekens.net/pub/timeline.png")
+```
+
+```{r, fig.cap="Source: http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif"}
+knitr::include_graphics("http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif")
+```
+
+### Nervous system architectures
+
+#### How nervous systems differ
+
+- Body symmetry
+    + radial
+    + bilateral
+
+**An animal with a nerve "net"**
+
+<iframe width="600" height="800" src="https://www.youtube.com/embed/-UI531GMRTM" frameborder="0" allowfullscreen></iframe>
+
+- Segmentation
+- Cephalization (concentration of sensory & neural structures in anterior portion of body)
+- Encasement in bone (vertebrates)
+- Centralized vs. distributed function
+
+**Cephalopods have "intelligent arms"**
+
+<iframe width="700" height="400" src="http://www.sciencedirect.com/science/article/pii/S0022098113000683" frameborder="0" allowfullscreen></iframe>
+
+### The essentials of biological computation
+
+- Ingestion
+- Defense
+- Reproduction
+
+```{r}
+knitr::include_graphics("img/swanson-fig-7.5.jpg")
+```
+
+#### Information processing universals
+
+- Sense/detect via sensors
+  - Specialize by information source/type
+  - Specialize by target location
+    + Interoceptive
+    + Exteroceptive
+- Analyze, evaluate, decide
+  - Current state
+      + World
+      + Organism
+  - Current goals
+  - Past state(s)
+- Act
+    + Move body
+      - Approach/avoid
+      - Manipulate
+      - Ingest
+      - Signal
+    - Change physiological state
+
+### From nerve net to nerve ring, nerve cord, and brain 
+[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)
+
+```{r, fig.cap="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)"}
+knitr::include_graphics("img/nrn.2015.15-f1.jpg")
+```
+
+> Figure 1: Animal phylogeny. A simplified animal phylogenetic tree (showing the evolutionary history of animals), in which lines represent evolutionary diversification. The lengths of the lines are arbitrary, as they do not indicate evolutionary distance. For a brief characterization of the Anthozoa, Bilateria, Ceriantharia, Cnidaria, Ctenophora, Medusozoa and Neuralia, see the glossary. The phylogenetic position of the Ctenophora is not settled, as indicated by a question mark. The Ctenophora image is adapted with permission from Ref. 43, Wiley. The Porifera and Placozoa images are reprinted with permission from Ref. 139 (Nielsen, C. Animal Evolution: Interrelationships of the Living Phyla p31 and p39 (2012)) by the permission of Oxford University Press. The Annelida image is adapted with permission from Ref. 140, Schweizerbart Science Publishers (www.schweizerbart.de).
+>
+> [[@arendt_nerve_2016]](https://doi.org/10.1038/nrn.2015.15)
+
+```{r, fig.cap="[[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)"}
+knitr::include_graphics("img/nrn.2015.15-f2.jpg")
+```
+
+> Figure 2: Comparison of neurodevelopment in the frog, annelid and sea anemone. The frog Xenopus laevis (part a), the annelid Platynereis dumerilii (part b) and the cnidarian Nematostella vectensis (part c) are depicted in their gastrula-like stages (gastrula, trochophora and planula, respectively; upper panels), intermediate developmental (neurula, metatrochophora and late planula, respectively; middle panels) and juvenile stages (tadpole, nectochaete and polyp, respectively; lower panels). Colours demarcate developmental neurogenic regions, and double-headed arrows show the apical (AP)–blastoporal (BL) axis. All views in parts a–c are lateral. At gastrula stages (upper panels), blastoporal ectodermal tissue (around the closing blastopore; red) and apical pole ectodermal tissue (violet) can be distinguished. At subsequent stages, a large part of the ectoderm — incluing the former apical and blastoporal regions — gives rise to neurogenic tissue. The neurogenic tissue comprises regions of distinct molecular identity (indicated by different colours), which will give rise to different parts of the nervous system. In the frog (part a), the neural plate (violet, red and yellow) comprises future forebrain tissue, as well as medial and lateral neural tube tissue; it is laterally bounded by developing peripheral nervous system components (blue). Similar regions are apparent in the annelid (part b), and these give rise to the brain, medial and lateral nerve cord and peripheral nervous system. As reasoned in this article, these regions also exist in the cnidarian (part c). In the frog and annelid worm, these regions are further subdivided into specific subregions by the activity of molecular organizing signals15.
+>
+> [[@arendt_nerve_2016]](http://doi.org/10.1038/nrn.2015.15)
+
+- Neurons and nervous systems 520-570 M years old
+- Diverse nervous systems show developmental similarities at molecular level 
+
+### Vertebrate CNS organization
+
+```{r, fig.cap="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)"}
+knitr::include_graphics("img/northcutt-2002-f1.gif")
+```
+
+```{r, fig.cap="http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg"}
+knitr::include_graphics("http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg")
+```
+
+```{r, fig.cap="http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg"}
+knitr::include_graphics("http://neurosciencelibrary.org/evolution/paleo/images/BrnBodwt6.jpg")
+```
+
+```{r, fig.cap="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)"}
+knitr::include_graphics("img/northcutt-2002-f2.gif")
+```
+
+- Differences in size of the cerebral cortex
+
+```{r, fig.cap="[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)"}
+knitr::include_graphics("http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg")
+```
+
+<smaller>Figure 1. Lateral views of the brains of some mammals to show the evolutionary development of the neocortex (gray). In the hedgehog almost the entire neocortex is occupied by sensory and motor areas. In the prosimian Galago the sensory cortical areas are separated by an area occupied by association cortex (AS). A second area of association cortex is found in front of the motor cortex. In man these anterior and posterior association areas are strongly developed. A, primary auditory cortex; AS, association cortex; Ent, entorhinal cortex; I, insula; M, primary motor cortex; PF, prefrontal cortex; PM, premotor cortex; S, primary somatosensory cortex; V, primary visual cortex. Modified with permission from Nieuwenhuys (1994).</smaller>
+
+| Structural measure | Non-human comparison | Human |
+|--------------------|----------------------|-------|
+| Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
+| Cortical gray + white | mice 40% | 80% |
+| Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+- Evidence for greater gray and white matter (relative to total brain volume) in human cerebral cortex
+
+```{r, fig.cap="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig1_HTML.jpg?as=webp")
+```
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+```{r, fig.cap="[[@hofman_evolution_2014]](https://doi.org/10.3389/fnana.2014.00015)"}
+knitr::include_graphics("http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g002.jpg")
+```
+
+**Take homes**
+
+- Brain sizes scale with body size
+- Brain sizes (more or less) scale with animal class (more or less)
+
+**Old story**
+
+- Within mammals, human brains bigger than expected
+    - Higher *encephalization quotient* -- deviation from species-typical norm
+    
+```{r, fig.cap="[[@Northcutt2002-jg]](http://doi.org/10.1093/icb/42.4.743)"}
+knitr::include_graphics("img/northcutt-2002-f2.gif")
+```
+
+- Humans have larger cerebral cortical gray + white matter than comparable mammals
+
+**vs. New story**
+
+- Does brain size/mass matter (that much)?
+- "Size matters" (brain mass) presumes similarity among brains at micro-level
+- Big (large mass) brains arise in multiple mammalian lineages
+
+```{r, fig.cap="[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)"}
+knitr::include_graphics("http://www.pnas.org/content/109/Supplement_1/10661/F1.large.jpg")
+```
+
+- *# of cortical neurons* more important difference than brain mass
+- The primate advantage -> more cortical neurons, but not larger neurons & not more neurons in cerebellum
+- Human brain just scaled up (non-ape) primate brain
+
+```{r, fig.cap="[[@Herculano-Houzel2012-up]](http://doi.org/10.1073/pnas.1201895109)"}
+knitr::include_graphics("http://www.pnas.org/content/109/Supplement_1/10661/F3.large.jpg")
+```
+
+**# of cortical (or in birds, pallidum) neurons predicts "cognition"?**
+
+```{r, fig.cap="[[@Herculano-Houzel2017-gf]](http://doi.org/10.1016/j.cobeha.2017.02.004)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S2352154616302637-gr3_lrg.jpg")
+```
+
+**The Human Advantage [@Herculano-Houzel2016-oy]**
+
+- Brain
+    - More neurons in cerebral cortex than other mammals
+- Behavior
+    - Less time spent foraging
+        + Higher quality/more energetically dense food
+        + Higher food availability
+    - Cultural factors (agriculture + cooking), see also [@Wrangham2009-vq]
+    
+**A further human advantage**
+
+```{r}
+knitr::include_graphics("http://www.melvinkonner.com/wp-content/uploads/2009/02/eofccover-195x293.jpg")
+```
+
+# Human brain development
+
+## Timeline of milestones
+
+```{r, fig.cap="[[@Silbereis2016-la]](http://dx.doi.org/10.1016/j.neuron.2015.12.008)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg")
+```
+
+> Figure 1. Timeline of Key Human Neurodevelopmental Processes and Functional Milestones
+>
+> [[@Silbereis2016-la]](http://dx.doi.org/10.1016/j.neuron.2015.12.008)
+
+- CNS among earliest-developing, last to finish organ systems
+    - Prolonged developmental period makes CNS especially vulnerable
+- ~ 86 billion neurons in adult CNS
+    - similar # of glia
+    - about 16 (14-32) billion neurons, 80/20% Glu/GABA
+    - 7-80K synapses/cortical neuron
+    - 164 trillion synapses in cerebral cortex, [[@DeFelipe2002-xz]](http://dx.doi.org/10.1023/a:1024130211265)
+    - $10^{15}$ (quadrillion) synapses in CNS
+    - 145-175 km (90-109 mi) of myelinated axons, [[@Marner2003-qu]](http://dx.doi.org/10.1002/cne.10714)
+    - brain ~ 2.5% of body mass, but consumes 18% of $O_2$ at rest, [[@Kety1948-ty]](http://dx.doi.org/10.1172/JCI101994), and has been estimated to consume about 20 W.
+    - millions of neurons generated per hour
+    
+## Prenatal period
+
+### Summary
+
+- 38 weeks from conception/fertilization on average
+- Embryonic period (weeks 1-8), fetal period (weeks 9-)
+- 3 12-13 week trimesters
+
+### Insemination
+
+- Can occur 3-4 days before or up to 1-2 days after...
+    + Ovulation
+
+### Fertilization
+
+- Within ~ 24 hrs of ovulation
+
+### Implantation
+
+- ~ 6 days after fertilization
+
+### Early embryogenesis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAOWQC-OBv0" frameborder="0" allowfullscreen></iframe>
+
+### Formation of *neural tube* (neurulation)
+
+```{r}
+knitr::include_graphics("https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg")
+```
+
+- Embryonic layers: ectoderm, mesoderm, endoderm
+    - Neural tube forms ~ 23 pcd (postconceptual days)
+- Neural tube closes in middle, moves toward rostral & caudal ends, closing by 29 - 30 pcd.
+- Failures of neural tube closure
+    + Anencephaly (rostral neuraxis)
+    + Spina bifida (caudal neuraxis)
+    
+```{r, fig.cap='https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860'}
+knitr::include_graphics("https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/ds00417_im03493_r7_spinabifidababythu_jpg-popup.jpg")
+```
+
+- Neural tube becomes
+    + Ventricles & cerebral aqueduct
+    + Central canal of spinal cord
+    
+```{r}
+knitr::include_graphics("https://www.mussenhealth.us/growth-cones/images/2009_48_104-neural-tube-tion.jpg")
+```
+
+- Rostro-caudal patterning via differential growth into vesicles
+    - Forebrain (prosencephalon)
+    - Midbrain (mesencephalone)
+    - Hindbrain (rhomencephalon)
+
+### Neurogenesis and gliogenesis
+
+- Neuroepithelium cell layer lines neural tube creating ventricular zone (VZ) and subventricular zone (SVZ)
+    - Peri-ventricular regions home to pluripotent stem and progenitor cells that produce new neurons & glia
+- Neurogenesis (of excitatory Glu neurons) observed by 27 pcd (7 pcw; post-conceptual week)
+    - complete by 191 pcd (27 pcw), [[@Silbereis2016-la]](http://dx.doi.org/10.1016/j.neuron.2015.12.008)
+- Most cortical and striatal neurons generated prenatally, but
+    - Cerebellum continues to ~ 18 mos 
+
+```{r, fig.cap="[[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrm1739/MediaObjects/41580_2005_Article_BFnrm1739_Fig1_HTML.jpg?as=webp")
+```
+
+> The lineage trees shown provide a simplified view of the relationship between neuroepithelial cells (NE), radial glial cells (RG) and neurons (N), without (a) and with (b) basal progenitors (BP) as cellular intermediates in the generation of neurons. They also show the types of cell division involved.
+>
+> [[@Gotz2005-yj]](https://doi.org/10.1038/nrm1739)
+
+- Areas in adult human brain that generate new neurons
+    - hippocampus
+    - striatum
+    - olfactory bulb (minimally)
+    - weak evidence for substantial neurogenesis in adult cerebral cortex
+
+```{r, fig.cap='[Ernst & Frisen 2015](https://doi.org/10.1371/journal.pbio.1002045)'}
+knitr::include_graphics("https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002045.g001")
+```
+
+- Neural stem cells
+    - Undergo *symmetric* & *asymmetric* cell division
+    - Generate glia, neurons, and basal progenitor cells
+
+### Radial glia and cell migration
+
+```{r}
+knitr::include_graphics("img/radial-glia.jpg")
+```
+
+```{r}
+knitr::include_graphics("img/neural-tube.jpg")
+```
+
+**Radial unit hypothesis**
+
+```{r, fig.cap="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)"}
+knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg")
+```
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+**Axon growth cone**
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+- Chemoattractants
+    + e.g., Nerve Growth Factor (NGF)
+- Chemorepellents
+- Receptors in growth cone detect chemical gradients
+
+**Glia migrate, too**
+
+```{r, fig.cap="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)"}
+knitr::include_graphics("https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg")
+```
+
+## Differentiation
+
+- Neuron vs. glial cell
+- Cell type
+    - myelin-producing vs. astrocyte vs. microglia
+    - pyramidal cell vs. stellate vs. Purkinje vs. ...
+- NTs released
+- Where to connect
+
+<!-- **Differential gene expression in PFC vs. other** -->
+
+<!-- <div class="centered"> -->
+<!-- <img src="img/johnson-gene-expression-fig-6.jpeg" height=450px> -->
+
+<!-- [[@johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027) -->
+<!-- </div> -->
+
+## Infancy & Early Childhood
+
+### Synaptogenesis
+
+- Begins prenatally (~ 18 pcw)
+- Peak density ~ 15 mos postnatal
+- Spine density in DLPFC ~ 7 yrs postnatal
+- 700K synapses/s on average
+
+```{r}
+knitr::include_graphics("img/synaptic-density-infant.jpg")
+```
+
+### Proliferation, pruning
+
+- Early proliferation
+- Later pruning
+- Rates, peaks differ by area
+
+### Apoptosis
+
+- Programmed cell death
+
+<iframe src="https://preview.redd.it/6dvk3gw8qik71.gif?format=mp4&s=41d7a053554d502f4ada44d7d512147e50924a22"></iframe>
+
+- 20-80%, varies by area
+- Spinal cord >> cortex
+- Quantity of nerve growth factors (NGF) influences
+
+```{r, fig.cap="[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)"}
+knitr::include_graphics("http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg")
+```
+
+### Synaptic rearrangement
+
+```{r}
+knitr::include_graphics("img/huttenlocher.jpg")
+```
+
+- Progressive phase: growth rate >> loss rate
+- Regressive phase: growth rate << loss rate
+
+### Myelination
+
+```{r, fig.cap="[[@Baumann2001-nw]](http://dx.doi.org/10.1152/physrev.2001.81.2.871)"}
+knitr::include_graphics("https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133006.jpeg")
+```
+
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks in mid-20s
+- Non-uniform pattern
+    - Spinal cord before brain
+    - Sensory before motor
+    
+### Gyral development
+
+```{r, fig.cap="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)"}
+knitr::include_graphics("img/chi-77-1.jpg")
+```
+
+```{r, fig.cap="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)"}
+knitr::include_graphics("img/chi-77-2.jpg")
+```
+
+```{r, fig.cap="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)"}
+knitr::include_graphics("img/chi-77-3.jpg")
+```
+
+```{r, fig.cap="[[@Chi1977-hm]](http://doi.org/10.1002/ana.410010109)"}
+knitr::include_graphics("img/chi-77-4.jpg")
+```
+
+### Structural/morphometric development
+
+<div class="centered">
+<img src="http://www.jneurosci.org/content/jneuro/28/47/12176/F2.large.jpg" height=450px>
+
+[[@Knickmeyer2008-vl]](http://doi.org/10.1523/JNEUROSCI.3479-08.2008)
+</div>
+
+#### Synaptogenesis
+
+```{r}
+knitr::include_graphics("img/huttenlocher.jpg")
+```
+
+#### Myelination across human development
+
+```{r, fig.cap="[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)"}
+knitr::include_graphics("http://www.pnas.org/content/107/44/19067/F1.medium.gif")
+```
+
+### Networks in the brain
+
+```{r, fig.cap="[[@irimia_2014]](http://doi.org/10.3389/fnhum.2014.00051)"}
+knitr::include_graphics("https://pressroom.usc.edu/files/2014/02/brain-networks.jpg")
+```
+
+- Age-related functional connectivity increases within visual-related areas [[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)
+
+
+```{r, fig.cap="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg")
+```
+
+**"Control" networks**
+
+```{r, fig.cap="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2a_lrg.jpg")
+```
+
+**non-"control" networks**
+
+```{r, fig.cap="[[@Petrican2017-re]](http://doi.org/10.1016/j.neuroimage.2017.09.025)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S1053811917307735-gr2c_lrg.jpg")
+```
+
+**The "development" of developmental connectomics**
+
+```{r, fig.cap="[[@Cao2017-bl]](http://doi.org/10.1016/j.tins.2017.06.003)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301157-gr2_lrg.jpg")
+```
+
+**Myelination changes "network" properties**
+
+```{r, fig.cap="[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)"}
+knitr::include_graphics("http://www.pnas.org/content/107/44/19067/F2.medium.gif")
+```
+
+**Synaptic rearrangment, myelination change cortical thickness**
+
+- Cortical thickness changes [[@Gogtay2004-bq]](http://doi.org/10.1073/pnas.0402680101)
+
+```{r, fig.cap="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)"}
+knitr::include_graphics("http://www.jneurosci.org/content/jneuro/28/14/3586/F1.large.jpg")
+```
+
+```{r, fig.cap="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)"}
+knitr::include_graphics("http://www.jneurosci.org/content/jneuro/28/14/3586/F2.large.jpg")
+```
+
+```{r, fig.cap="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)"}
+knitr::include_graphics("http://www.jneurosci.org/content/jneuro/28/14/3586/F3.large.jpg")
+```
+
+```{r, fig.cap="[[@Shaw2008-dq]](https://doi.org/10.1523/JNEUROSCI.5309-07.2008)"}
+knitr::include_graphics("http://www.jneurosci.org/content/jneuro/28/14/3586/F4.large.jpg")
+```
+
+### Video depictions {.tabset}
+
+#### Right hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Left hemisphere
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Superior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+#### Inferior
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### Changes in brain energetics (glucose utilization)
+
+```{r, fig.cap="[[@Kuzawa2014-qd]](http://doi.org/10.1073/pnas.1323099111)"}
+knitr::include_graphics("http://www.pnas.org/content/111/36/13010/F1.medium.gif")
+```
+
+### Gene expression across development
+
+```{r, fig.cap="[[@Kang2011-ex]](http://doi.org/10.1038/nature10523)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp")
+```
+
+> a, Comparison between DCX expression in HIP and the density of DCX-immunopositive cells in the human dentate gyrus36. b, Comparison between transcriptome-based dendrite development trajectory in DFC and Golgi-method-based growth of basal dendrites of layer 3 (L3) and 5 (L5) pyramidal neurons in the human DFC41. c, Comparison between transcriptome-based synapse development trajectory in DFC and density of DFC synapses calculated using electron microscopy42. For b and c, PC1 for gene expression was plotted against age to represent the developmental trajectory of genes associated with dendrite (b) or synapse (c) development. Independent data sets were centred, scaled and plotted on a logarithmic scale. d, PC1 value for the indicated sets of genes (expressed as percentage of maximum) plotted against age to represent general trends and regional differences in several neurodevelopmental processes in NCX, HIP and CBC.
+
+## Summary of developmental milestones
+
+### Prenatal
+
++ Neuro- and gliogenesis
++ Migration
++ Synaptogenesis begins
++ Differentiation
++ Apoptosis
++ Myelination begins
++ Infant gene expression ≠ Adult
+
+### Postnatal
+
++ Synaptogenesis
++ Cortical expansion, activity-dependent change
+- Then cubic, quadratic, or linear declines in cortical thickness
++ Myelination
++ Connectivity changes (esp within networks)
++ Prolonged period of postnatal/pre-reproductive development [[@konner_evolution_2011]](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
+
+## How brain development clarifies anatomical structure
+
+### 3-4 weeks
+
+```{r, fig.cap="Source: Swanson"}
+knitr::include_graphics("img/swanson-1.jpg")
+```
+
+### 4 weeks
+
+```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg"}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg")
+```
+
+### ~4 weeks
+
+```{r}
+knitr::include_graphics("img/swanson-2.jpg")
+```
+
+### 6 weeks
+
+```{r}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png")
+```
+
+```{r}
+knitr::include_graphics("img/swanson-3.jpg")
+```
+
+### Beyond 6+ weeks
+
+```{r}
+knitr::include_graphics("img/swanson-4.jpg")
+```
+
+### Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+### From structural development to functional development
+
+```{r, fig.cap="[[@Johnson2001-yy]](http://doi.org/10.1038/35081509)"}
+knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35081509/MediaObjects/41583_2001_Article_BF35081509_Fig3_HTML.gif?as=webp")
+```
+
+> Figure 3: Three accounts of the neural basis of an advance in behavioural abilities in infants.
+> a | A maturational view in which the neuroanatomical maturation of one region, in this case the dorsolateral prefrontal cortex (DLPC), allows new behavioural abilities to emerge. Specifically, maturation of DLPC has been associated with successful performance in the object retrieval task (Fig. 1a)50. Note that although the task itself involves activity in several regions, it is thought to be maturation of only one of these, the DLPC, that results in changed behaviour. b | An interactive specialization view in which the onset of a new behavioural ability is due to changes in the interactions between several regions that were already partially active. In this hypothetical illustration, it is suggested that changes in the interactions between DLPC, parietal cortex and cerebellum might give rise to successful performance in the object retrieval paradigm. In contrast to the maturational view, it is refinement of the connectivity between regions, rather than within a single region, that is important. According to this view, regions adjust their functionality together to allow new computations. c | A skill-learning model, in which the pattern of activation of cortical regions changes during the acquisition of new skills throughout the lifespan. In the example illustrated there is decreasing activation of DLPC and medial frontal cortex (pre-supplementary motor area), accompanied by increasing activation of more posterior regions (such as intraparietal sulcus), as human adults perform a visuomotor sequence learning task77. It is suggested that similar changes might occur during the acquisition of new skills by infants. These three accounts are not necessarily mutually exclusive.
+> [[@Johnson2001-yy]](http://doi.org/10.1038/35081509)
+
+# References

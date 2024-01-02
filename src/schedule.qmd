@@ -9,9 +9,8 @@ title: "Schedule"
 #### Topics
 
 - Structure of the course
-- The connectome and beyond...
 - Levels of analysis
-- Systems
+- Causality in brain and behavior
 
 #### Readings
 
@@ -21,7 +20,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk01-2024-01-08.qmd)
+- [Notes](slides/wk01-2024-01-11.qmd)
 - [@National_Geographic2014-gv]
 
 ---

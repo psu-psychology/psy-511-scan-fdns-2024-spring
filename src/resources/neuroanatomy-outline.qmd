@@ -4,7 +4,7 @@ title: "Neuroanatomy outline"
 
 ## Purpose
 
-This document describes some key neuroanatomical terms that students should know.
+This document describes some of the most important neuroanatomical terms that graduate students in psychology should know.
 
 The structure of the outline is based on that used by the [Allen Brain Atlas](http://atlas.brain-map.org).
 

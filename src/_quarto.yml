@@ -15,16 +15,21 @@ website:
     left:
       - href: index.qmd
         text: home
-      - href: about.qmd
-        text: about
       - href: schedule.qmd
         text: schedule
       - href: evaluation.qmd
         text: evaluation
       - href: policies.qmd
         text: policies
+      - text: slides
+        menu:
+          - href: "slides/wk01-2024-01-11.qmd"
+          - href: "slides/wk02-2024-01-18.qmd"
       - text: resources
         menu:
+          - href: "resources/levels.qmd"
+          - text: "---"
+          - href: "resources/anatomy.qmd"
           - href: "resources/neuroanatomy-outline.qmd"
           - text: "---"
       - text: exercises

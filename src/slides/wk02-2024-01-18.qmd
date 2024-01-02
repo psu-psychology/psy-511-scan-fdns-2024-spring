@@ -1,0 +1,42 @@
+---
+title: "2024-01-11 Thu"
+subtitle: "Course intro"
+date: 2024-01-11
+format: 
+  revealjs:
+    footer: "PSY 511 Spr 2024"
+bibliography: [../bib/packages.bib, ../bib/psu-repro.bib, ../bib/psy-511.bib]
+csl: ../bib/apa.csl
+---
+
+# Prelude
+
+---
+
+<div class="center_video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/snO68aJTOpM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw8E9WnZTQk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- Kids brain song -->
+
+## Announcements
+
+## Today's topics
+
+- Neuroanatomy
+
+# Neuroanatomy
+
+## Brain anatomy through dance
+
+<audio controls loop="loop">
+  <source src="snd/brain_boxing.m4a" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+# Resources
+
+## References

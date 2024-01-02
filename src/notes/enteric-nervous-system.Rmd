@@ -1,0 +1,49 @@
+---
+title: "Enteric nervous system"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output: html_document
+---
+
+# Enteric nervous system
+
+## Anatomy
+
+- A component of the Autonomic Nervous System (ANS), along with the Sympathetic (SNS) and Parasympathetic Nervous Systems (PNS).
+- number of neurons comparable to entire spinal cord (Alloway & Pritchard)
+
+```{r, fig.cap="[[@Furness2012-dy]](http://dx.doi.org/10.1038/nrgastro.2012.32)"}
+knitr::include_graphics("img/enteric-nervous-system.png")
+```
+
+## Gut/brain connection
+
+```{r, fig.cap="[[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223616301138-gr1.jpg")
+```
+
+> Figure 1. Systems-Level Overview of Psychobiotic Action. Blue arrows indicate psychobiotic processes and effects, while red arrows indicate processes associated with leaky gut and inflammation. Probiotics directly introduce beneficial bacteria such as Lactobacilli and Bifidobacteria into the gut. Prebiotics (e.g., galacto-oligosaccharides) support the growth of such bacteria. SCFAs and gut hormones: Both probiotics and prebiotics increase production of short-chain fatty acids (SCFAs), which interact with gut mucosal enteroendocrine cells and catalyse the release of gut hormones such as cholecystokinin (CCK), peptide tyrosine tyrosine (PYY) and glucagon-like peptide- 1 (GLP-1). Prebiotics may have stronger effects in this regard in comparison to probiotics. SCFAs and gut hormones enter circulation and can migrate into the central nervous system. Gut hormones are also secreted by tissues other than enteroendocrine cells. Neurotransmitters: psychobiotics enhance neurotransmitter production in the gut, including dopamine (DA), serotonin (5-HT), noradrenaline (NA), and γ-aminobutyric acid (GABA), which likely modulate neurotransmission in the proximal synapses of the enteric nervous system. Vagal connections: the vagus nerve synapses on enteric neurons and enables gut–brain communication. Stress, barrier function, and cytokines: barrier dysfunction is exacerbated through stress-induced glucocorticoid exposure. This enables migration of bacteria with pro-inflammatory components, increasing inflammation directly and also triggering a rise in pro-inflammatory cytokines via the immunogenic response. These cytokines impair the integrity of the blood–brain barrier and permit access to potentially pathogenic or inflammatory elements. Pro-inflammatory cytokines (red circles) also reduce the integrity of the gut barrier. Psychobiotic action restores gut barrier function and decreases circulating concentrations of glucocorticoids and pro-inflammatory cytokines. They also increase concentrations of anti-inflammatory cytokines (blue circles), which enhance integrity of the blood–brain barrier, the gut barrier, and reduce overall inflammation. Cytokines clustering at the brain represent cytokine interaction with the blood–brain barrier. Central lymphatic vessels: cytokines may interact more directly with the brain than previously appreciated through the recently discovered central lymphatic vessels.
+>
+> [[@Sarkar2016-qf]](https://doi.org/10.1016/j.tins.2016.09.002)
+
+- "Moody microbes or fecal phrenology"? [[@Forsythe2016-ur]](http://dx.doi.org/10.1186/s12916-016-0604-8).
+- 2015 systematic review (with only $n=10$ trials) shows "very limited evidence for the efficacy of probiotic interventions in psychological outcomes." [[@Romijn2015-bu]](http://dx.doi.org/10.1093/nutrit/nuv025).
+- ROG: But do we have good data about what people actually consume?
+
+## Physiology
+
+- electrogastrogram (EGG) from ENS [[@Al_Taee2020-no]](http://dx.doi.org/10.1007/978-3-030-14347-3_50) measures gastric motility
+
+```{r}
+knitr::include_graphics("https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-14347-3_50/MediaObjects/478658_1_En_50_Fig1_HTML.png")
+```
+
+> Fig. 1. Gastric pacesetter potentials or slow waves originate from the pacemaker area on the greater curve. Pacesetter potentials travel in a circumferential and aboral direction at a rate of approximately 3 cycles per minute (cpm). The cutaneously recorded electrogastrogram shows 3-cpm wave pattern. The fundus has no rhythmic electrical activity.
+>
+>  [[@Al_Taee2020-no]](http://dx.doi.org/10.1007/978-3-030-14347-3_50)
+
+- glial cells and neurons work together [[@Ahmadzai2021-ur]](http://dx.doi.org/10.1073/pnas.2025938118)
+
+```{r, fig.cap="[[@Ahmadzai2021-ur]](http://dx.doi.org/10.1073/pnas.2025938118)"}
+knitr::include_graphics("https://www.pnas.org/content/pnas/118/40/e2025938118/F1.large.jpg")
+```
