@@ -5,8 +5,6 @@ date: 2024-01-08
 format: 
   revealjs:
     footer: "PSY 511 Spr 2024"
-bibliography: [../bib/packages.bib, ../bib/psu-repro.bib, ../bib/psy-511.bib]
-csl: ../bib/apa.csl
 ---
 
 # Overview
@@ -15,14 +13,10 @@ csl: ../bib/apa.csl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
 
-## Announcements
-
-## Last time
-
 ## Today's topics
 
+- Why psychology is harder than physics
 - Introduction to the course
-- The connectome and beyond
 
 # Prelude
 
@@ -63,7 +57,6 @@ csl: ../bib/apa.csl
 
 - Why neuroscience is harder than physics
 - Course overview
-- The connectome and beyond
 - Does neuroscience need behavior? Does behavioral science need the brain?
 
 # Why neuroscience is harder than physics
@@ -71,13 +64,13 @@ csl: ../bib/apa.csl
 ---
 
 ```{r, out.width = "800px"}
-knitr::include_graphics("../resources/img/psych-harder-1.jpg")
+knitr::include_graphics("../include/img/psych-harder-1.jpg")
 ```
 
 ---
 
 ```{r, out.width = "800px"}
-knitr::include_graphics("../resources/img/psych-harder-2.jpg")
+knitr::include_graphics("../include/img/psych-harder-2.jpg")
 ```
 
 ## What do we need to know to answer the question?
@@ -92,7 +85,7 @@ knitr::include_graphics("../resources/img/psych-harder-2.jpg")
 ---
 
 ```{r nested-causal-realms, echo = FALSE, out.width="800px", fig.align = "center"}
-knitr::include_graphics("../resources/img/nested-causality-labels.png")
+knitr::include_graphics("../include/img/nested-causality-labels.png")
 ```
 
 ## Some states are more easily measured than others
@@ -157,7 +150,7 @@ knitr::include_graphics("https://stats.idre.ucla.edu/wp-content/uploads/2016/02/
 
 <div class="centered">
 ```{r, out.height="500px"}
-knitr::include_graphics("../resources/img/calabrese-2018.jpg")
+knitr::include_graphics("../include/img/calabrese-2018.jpg")
 ```
 
 [[@Calabrese2018-ve]](http://doi.org/10.1016/j.tins.2018.05.006)
@@ -233,7 +226,7 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13414-019-01760-1/MediaObjects/13414_2019_1760_Fig8_HTML.png?as=webp")
 ```
 
-## And *vice versa*? [[@Cepelewicz2021-rg]](https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/)
+## And *vice versa*? [@Cepelewicz2021-rg]
 
 <iframe src="https://www.quantamagazine.org/mental-phenomena-dont-map-into-the-brain-as-expected-20210824/" height=400px>
 </iframe>
@@ -242,13 +235,13 @@ knitr::include_graphics("https://media.springernature.com/full/springer-static/i
 
 > "*The brainwide representation of behavioral variables suggests that information encoded nearly anywhere in the forebrain is combined with behavioral state variables into a mixed representation...Our data indicate that it happens as early as primary sensory cortex.*"
 > 
-> -- [[@Stringer2019-vf]](http://dx.doi.org/10.1126/science.aav7893)
+> -- [@Stringer2019-vf]
 
 ## And do we have the right "psychological" structures?
 
 > "Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are particularly damaging for the study of **multifaceted constructs like self-regulation**...We conclude that self-regulation lacks coherence as a construct..."
 >
-> -- [[@Eisenberg2019-iy]](http://dx.doi.org/10.1038/s41467-019-10301-1)
+> -- [@Eisenberg2019-iy](http://dx.doi.org/10.1038/s41467-019-10301-1)
 
 # The connectome and beyond
 
@@ -324,6 +317,13 @@ knitr::include_graphics("https://raw.githubusercontent.com/psu-psychology/psy-51
 
 - Psychology is harder than physics
 - Connectomics and beyond
+
+## Next time...
+
+- Neuroanatomy lab
+  - Read/study
+    - Neuroanatomy [notes](resources/anatomy.qmd)
+    - Neuroanatomy [outline](resources/neuroanatomy-outline.qmd)
 
 # Resources
 

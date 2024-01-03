@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>PSYCH 511 • Spring 2024 - Exercise 03 • Neuroanatomy</title>
+<title>PSYCH 511 • Spring 2024 - Exercise 03 • Neurophysiology I</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,8 +66,10 @@ ul.task-list li input[type="checkbox"] {
 </script>
 <script async="" src="https://hypothes.is/embed.js"></script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../css/styles.css">
+<link rel="stylesheet" href="../include/css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -92,10 +94,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html" rel="" target="">
- <span class="menu-text">about</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../schedule.html" rel="" target="">
  <span class="menu-text">schedule</span></a>
   </li>  
@@ -118,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../slides/wk02-2024-01-18.html" rel="" target="">
- <span class="dropdown-text">2024-01-11 Thu</span></a>
+ <span class="dropdown-text">2024-01-18 Thu</span></a>
   </li>  
     </ul>
   </li>
@@ -129,18 +127,22 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
     <a class="dropdown-item" href="../resources/levels.html" rel="" target="">
- <span class="dropdown-text">Levels</span></a>
+ <span class="dropdown-text">Levels of Analysis</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
     <a class="dropdown-item" href="../resources/anatomy.html" rel="" target="">
- <span class="dropdown-text">anatomy</span></a>
+ <span class="dropdown-text">Neuroanatomy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../resources/neuroanatomy-outline.html" rel="" target="">
  <span class="dropdown-text">Neuroanatomy outline</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="../resources/cells.html" rel="" target="">
+ <span class="dropdown-text">Cellular neuroscience</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -150,19 +152,19 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-exercises">    
         <li>
     <a class="dropdown-item" href="../exercises/ex01.html" rel="" target="">
- <span class="dropdown-text">Exercise 01 • Vocabulary</span></a>
+ <span class="dropdown-text">Exercise 01 • Levels/Terms</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../exercises/ex02.html" rel="" target="">
- <span class="dropdown-text">Exercise 02 • Information processing</span></a>
+ <span class="dropdown-text">Exercise 02 • Neuroanatomy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../exercises/ex03.html" rel="" target="">
- <span class="dropdown-text">Exercise 03 • Neuroanatomy</span></a>
+ <span class="dropdown-text">Exercise 03 • Neurophysiology I</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../exercises/ex04.html" rel="" target="">
- <span class="dropdown-text">Exercise 04 • Causal modeling</span></a>
+ <span class="dropdown-text">Exercise 04 • Neurophysiology II</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../exercises/ex05.html" rel="" target="">
@@ -186,18 +188,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#directional-terms" id="toc-directional-terms" class="nav-link active" data-scroll-target="#directional-terms">Directional terms</a></li>
-  <li><a href="#planes-of-section" id="toc-planes-of-section" class="nav-link" data-scroll-target="#planes-of-section">Planes of Section</a></li>
-  <li><a href="#brain-structure" id="toc-brain-structure" class="nav-link" data-scroll-target="#brain-structure">Brain Structure</a></li>
-  <li><a href="#surface-of-cerebral-cortex" id="toc-surface-of-cerebral-cortex" class="nav-link" data-scroll-target="#surface-of-cerebral-cortex">Surface of Cerebral Cortex</a></li>
-  <li><a href="#surface-of-cerebral-cortex-1" id="toc-surface-of-cerebral-cortex-1" class="nav-link" data-scroll-target="#surface-of-cerebral-cortex-1">Surface of Cerebral Cortex</a></li>
-  <li><a href="#surface-of-cerebral-cortex-2" id="toc-surface-of-cerebral-cortex-2" class="nav-link" data-scroll-target="#surface-of-cerebral-cortex-2">Surface of Cerebral Cortex</a></li>
-  <li><a href="#fiber-tracts" id="toc-fiber-tracts" class="nav-link" data-scroll-target="#fiber-tracts">Fiber tracts</a></li>
-  <li><a href="#subcortical-structures" id="toc-subcortical-structures" class="nav-link" data-scroll-target="#subcortical-structures">Subcortical structures</a></li>
-  <li><a href="#subcortical-structures-1" id="toc-subcortical-structures-1" class="nav-link" data-scroll-target="#subcortical-structures-1">Subcortical structures</a></li>
-  <li><a href="#midbrain" id="toc-midbrain" class="nav-link" data-scroll-target="#midbrain">Midbrain</a></li>
-  <li><a href="#hindbrain" id="toc-hindbrain" class="nav-link" data-scroll-target="#hindbrain">Hindbrain</a></li>
-  <li><a href="#ventricles" id="toc-ventricles" class="nav-link" data-scroll-target="#ventricles">Ventricles</a></li>
+  <li><a href="#goals" id="toc-goals" class="nav-link active" data-scroll-target="#goals">Goals</a></li>
+  <li><a href="#activity" id="toc-activity" class="nav-link" data-scroll-target="#activity">Activity</a></li>
+  <li><a href="#submission-details" id="toc-submission-details" class="nav-link" data-scroll-target="#submission-details">Submission details</a></li>
   </ul>
 </nav>
     </div>
@@ -206,7 +199,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Exercise 03 • Neuroanatomy</h1>
+<h1 class="title">Exercise 03 • Neurophysiology I</h1>
 </div>
 
 
@@ -221,508 +214,44 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="directional-terms" class="level2">
-<h2 class="anchored" data-anchor-id="directional-terms">Directional terms</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Direction</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Rostral/caudal</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Anterior/posterior</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Medial/lateral</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Dorsal/ventral</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Superior/inferior</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="goals" class="level2">
+<h2 class="anchored" data-anchor-id="goals">Goals</h2>
+<ol type="1">
+<li>To understand the ionic components and balance of forces that give rise to the <em>resting potential</em>.</li>
+<li>To understand what change in the resting state of neurons causes the <em>action potential</em>.</li>
+</ol>
 </section>
-<section id="planes-of-section" class="level2">
-<h2 class="anchored" data-anchor-id="planes-of-section">Planes of Section</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Plane</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Sagittal_plane">Sagittal</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Coronal_plane">Coronal/frontal</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Transverse_plane">Axial/horizontal/transverse</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="activity" class="level2">
+<h2 class="anchored" data-anchor-id="activity">Activity</h2>
+<p>You may work by yourself or with up to two other people for this activity. If it is easier, you may draw separate figures for the steps below.</p>
+<ol type="1">
+<li>Draw a figure that shows the two principal ions that contribute to the neuron’s resting potential, and where (inside or outside the neuron) they are most heavily concentrated.</li>
+<li>Annotate your figure to show the direction of ion flow along each ion’s concentration gradient<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.</li>
+<li>Annotate your figure to show the direction of ion movement caused by the <span class="math inline">\(Na^+/K^+\)</span> (sodium/potassium) ATPase (pump).</li>
+<li>Annotate your figure to show what spatial pattern of <em>electrical</em> charges (positive/negative voltage; inside the cell/outside the cell) would tend to keep the potassium (<span class="math inline">\(K^+\)</span>) ions where they are most highly concentrated when the neuron is at rest. Explain your reasoning.</li>
+<li>Annotate your figure to show what this <em>same</em> pattern of electrical charges would do to sodium (<span class="math inline">\(Na^+\)</span>) ions.</li>
+<li>What change(s) in the neuron could cause potassium (<span class="math inline">\(K^+\)</span>) ions to move? Which direction would the ions move under these circumstances?</li>
+<li>What change(s) in the neuron could cause sodium (<span class="math inline">\(Na^+\)</span>) ions to move? Which direction would the ions move under these circumstances?</li>
+<li><span class="math inline">\(Na^+/K^+\)</span> (sodium/potassium) ATPase (pump) uses metabolic energy to function. It essentially keeps working constantly. What would happen to the neuron if this process was disrupted somehow?</li>
+</ol>
 </section>
-<section id="brain-structure" class="level2">
-<h2 class="anchored" data-anchor-id="brain-structure">Brain Structure</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Prosencephalon">Forebrain</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Midbrain">Midbrain</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Rhombencephalon">Hindbrain</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="surface-of-cerebral-cortex" class="level2">
-<h2 class="anchored" data-anchor-id="surface-of-cerebral-cortex">Surface of Cerebral Cortex</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Central_sulcus">Central sulcus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Lateral_sulcus">Lateral sulcus/fissure</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Medial_longitudinal_fissure">Longitudinal fissure</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Cerebral_hemisphere">Cerebral hemispheres</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Parietal_lobe">Parietal lobe</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Frontal_lobe">Frontal lobe</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Insular_cortex">Insular cortex</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="surface-of-cerebral-cortex-1" class="level2">
-<h2 class="anchored" data-anchor-id="surface-of-cerebral-cortex-1">Surface of Cerebral Cortex</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Temporal_lobe">Temporal lobe</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Occipital_lobe">Occipital lobe</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="surface-of-cerebral-cortex-2" class="level2">
-<h2 class="anchored" data-anchor-id="surface-of-cerebral-cortex-2">Surface of Cerebral Cortex</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Precentral_gyrus">Precentral gyrus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Postcentral_gyrus">Postcentral gyrus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Superior_temporal_gyrus">Superior temporal gyrus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="fiber-tracts" class="level2">
-<h2 class="anchored" data-anchor-id="fiber-tracts">Fiber tracts</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Corpus_callosum">Corpus callosum</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Anterior_commissure">Anterior commissure</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Posterior_commissure">Posterior commissure</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Olfactory_nerve">Olfactory nerve, Ist</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Optic_nerve">Optic nerve/tract, IInd</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Optic_chiasm">Optic chiasm</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Fornix_(neuroanatomy">Fornix</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="subcortical-structures" class="level2">
-<h2 class="anchored" data-anchor-id="subcortical-structures">Subcortical structures</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Caudate_nucleus">Caudate nucleus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Putamen">Putamen</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Globus_pallidus">Globus Pallidus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Thalamus">Thalamus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="subcortical-structures-1" class="level2">
-<h2 class="anchored" data-anchor-id="subcortical-structures-1">Subcortical structures</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Hypothalamus">Hypothalamus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Pituitary_gland">Pituitary gland</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Hippocampus">Hippocampus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Amygdala">Amygdala</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="midbrain" class="level2">
-<h2 class="anchored" data-anchor-id="midbrain">Midbrain</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Midbrain_tectum">Tectum</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Superior_colliculus">Superior colliculus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Inferior_colliculus">Inferior colliculus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Tegmentum">Tegmentum</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Substantia_nigra">Substantia nigra</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Ventral_tegmental_area">Ventral tegmental area</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Locus_coeruleus">Locus coeruleus</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="hindbrain" class="level2">
-<h2 class="anchored" data-anchor-id="hindbrain">Hindbrain</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Cerebellum">Cerebellum</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Pons">Pons</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Medulla_oblongata">Medulla Oblongata</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Spinal_cord">Spinal cord</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="ventricles" class="level2">
-<h2 class="anchored" data-anchor-id="ventricles">Ventricles</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Structure</th>
-<th>Brain Model</th>
-<th>Specimen</th>
-<th>Atlas</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Lateral_ventricles">Lateral ventricles</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Third_ventricle">3rd ventricle</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><a href="https://en.wikipedia.org/wiki/Cerebral_aqueduct">Cerebral aqueduct</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><a href="https://en.wikipedia.org/wiki/Fourth_ventricle">4th ventricle</a></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="submission-details" class="level2">
+<h2 class="anchored" data-anchor-id="submission-details">Submission details</h2>
+<ul>
+<li>Submit your write-up by <strong>Wednesday, January 31, 2023 at 5:00 pm</strong>.</li>
+<li>If you found any resources that were especially useful to you, please share them.</li>
+</ul>
 
 
 </section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>1<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

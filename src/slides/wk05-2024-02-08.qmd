@@ -1,0 +1,26 @@
+---
+title: "2024-02-08 Thu"
+subtitle: "TOPIC"
+date: 2024-02-08
+format: 
+  revealjs:
+    footer: "PSY 511 Spr 2024"
+---
+
+# Prelude
+
+## Announcements
+
+## Last time...
+
+## Today's topics
+
+# TOPIC
+
+## Main points
+
+## Next time...
+
+# Resources
+
+## References

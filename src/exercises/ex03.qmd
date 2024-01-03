@@ -1,117 +1,27 @@
 ---
-title: "Exercise 03 • Neuroanatomy"
+title: "Exercise 03 • Neurophysiology I"
 ---
 
-## Directional terms
+## Goals
 
-| Direction          | Brain Model | Specimen | Atlas |
-|--------------------|-------------|----------|-------|
-| Rostral/caudal     |             |          |       |
-| Anterior/posterior |             |          |       |
-| Medial/lateral     |             |          |       |
-| Dorsal/ventral     |             |          |       |
-| Superior/inferior  |             |          |       |
+1. To understand the ionic components and balance of forces that give rise to the *resting potential*.
+2. To understand what change in the resting state of neurons causes the *action potential*.
 
+## Activity
 
-## Planes of Section
+You may work by yourself or with up to two other people for this activity.
+If it is easier, you may draw separate figures for the steps below.
 
-| Plane                      | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Sagittal](https://en.wikipedia.org/wiki/Sagittal_plane)                   |             |          |       |
-| [Coronal/frontal](https://en.wikipedia.org/wiki/Coronal_plane) |             |          |       |
-| [Axial/horizontal/transverse](https://en.wikipedia.org/wiki/Transverse_plane)           |             |          |       |
+1. Draw a figure that shows the two principal ions that contribute to the neuron's resting potential, and where (inside or outside the neuron) they are most heavily concentrated.
+2. Annotate your figure to show the direction of ion flow along each ion's concentration gradient^[1].
+3. Annotate your figure to show the direction of ion movement caused by the $Na^+/K^+$ (sodium/potassium) ATPase (pump). 
+4. Annotate your figure to show what spatial pattern of *electrical* charges (positive/negative voltage; inside the cell/outside the cell) would tend to keep the potassium ($K^+$) ions where they are most highly concentrated when the neuron is at rest. Explain your reasoning.
+5. Annotate your figure to show what this *same* pattern of electrical charges would do to sodium ($Na^+$) ions.
+6. What change(s) in the neuron could cause potassium ($K^+$) ions to move? Which direction would the ions move under these circumstances?
+7. What change(s) in the neuron could cause sodium ($Na^+$) ions to move? Which direction would the ions move under these circumstances?
+8. $Na^+/K^+$ (sodium/potassium) ATPase (pump) uses metabolic energy to function. It essentially keeps working constantly. What would happen to the neuron if this process was disrupted somehow?
 
-## Brain Structure
+## Submission details
 
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Forebrain](https://en.wikipedia.org/wiki/Prosencephalon)                  |             |          |       |
-| [Midbrain](https://en.wikipedia.org/wiki/Midbrain)                   |             |          |       |
-| [Hindbrain](https://en.wikipedia.org/wiki/Rhombencephalon)                  |             |          |       |
-
-## Surface of Cerebral Cortex
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Central sulcus](https://en.wikipedia.org/wiki/Central_sulcus)             |             |          |       |
-| [Lateral sulcus/fissure](https://en.wikipedia.org/wiki/Lateral_sulcus)     |             |          |       |
-| [Longitudinal fissure](https://en.wikipedia.org/wiki/Medial_longitudinal_fissure)       |             |          |       |
-| [Cerebral hemispheres](https://en.wikipedia.org/wiki/Cerebral_hemisphere)       |             |          |       |
-| [Parietal lobe](https://en.wikipedia.org/wiki/Parietal_lobe)              |             |          |       |
-| [Frontal lobe](https://en.wikipedia.org/wiki/Frontal_lobe)               |             |          |       |
-| [Insular cortex](https://en.wikipedia.org/wiki/Insular_cortex)             |             |          |       |
-
-## Surface of Cerebral Cortex
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Temporal lobe](https://en.wikipedia.org/wiki/Temporal_lobe)              |             |          |       |
-| [Occipital lobe](https://en.wikipedia.org/wiki/Occipital_lobe)             |             |          |       |
-
-## Surface of Cerebral Cortex
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Precentral gyrus](https://en.wikipedia.org/wiki/Precentral_gyrus)           |             |          |       |
-| [Postcentral gyrus](https://en.wikipedia.org/wiki/Postcentral_gyrus)          |             |          |       |
-| [Superior temporal gyrus](https://en.wikipedia.org/wiki/Superior_temporal_gyrus)    |             |          |       |
-
-## Fiber tracts
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Corpus callosum](https://en.wikipedia.org/wiki/Corpus_callosum)            |             |          |       |
-| [Anterior commissure](https://en.wikipedia.org/wiki/Anterior_commissure)        |             |          |       |
-| [Posterior commissure](https://en.wikipedia.org/wiki/Posterior_commissure)       |             |          |       |
-| [Olfactory nerve, Ist](https://en.wikipedia.org/wiki/Olfactory_nerve)       |             |          |       |
-| [Optic nerve/tract, IInd](https://en.wikipedia.org/wiki/Optic_nerve)    |             |          |       |
-| [Optic chiasm](https://en.wikipedia.org/wiki/Optic_chiasm)               |             |          |       |
-| [Fornix](https://en.wikipedia.org/wiki/Fornix_\(neuroanatomy)                     |             |          |       |
-
-## Subcortical structures
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Caudate nucleus](https://en.wikipedia.org/wiki/Caudate_nucleus)            |             |          |       |
-| [Putamen](https://en.wikipedia.org/wiki/Putamen)                    |             |          |       |
-| [Globus Pallidus](https://en.wikipedia.org/wiki/Globus_pallidus)            |             |          |       |
-| [Thalamus](https://en.wikipedia.org/wiki/Thalamus)                   |             |          |       |
-
-## Subcortical structures
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Hypothalamus](https://en.wikipedia.org/wiki/Hypothalamus)               |             |          |       |
-| [Pituitary gland](https://en.wikipedia.org/wiki/Pituitary_gland)            |             |          |       |
-| [Hippocampus](https://en.wikipedia.org/wiki/Hippocampus)                |             |          |       |
-| [Amygdala](https://en.wikipedia.org/wiki/Amygdala)                   |             |          |       |
-
-## Midbrain
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Tectum](https://en.wikipedia.org/wiki/Midbrain_tectum)                     |             |          |       |
-| [Superior colliculus](https://en.wikipedia.org/wiki/Superior_colliculus)        |             |          |       |
-| [Inferior colliculus](https://en.wikipedia.org/wiki/Inferior_colliculus)        |             |          |       |
-| [Tegmentum](https://en.wikipedia.org/wiki/Tegmentum)                  |             |          |       |
-| [Substantia nigra](https://en.wikipedia.org/wiki/Substantia_nigra)           |             |          |       |
-| [Ventral tegmental area](https://en.wikipedia.org/wiki/Ventral_tegmental_area)     |             |          |       |
-| [Locus coeruleus](https://en.wikipedia.org/wiki/Locus_coeruleus)            |             |          |       |
-
-## Hindbrain
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Cerebellum](https://en.wikipedia.org/wiki/Cerebellum)                 |             |          |       |
-| [Pons](https://en.wikipedia.org/wiki/Pons)                       |             |          |       |
-| [Medulla Oblongata](https://en.wikipedia.org/wiki/Medulla_oblongata)          |             |          |       |
-| [Spinal cord](https://en.wikipedia.org/wiki/Spinal_cord)                |             |          |       |
-
-## Ventricles
-
-| Structure                  | Brain Model | Specimen | Atlas |
-|----------------------------|-------------|----------|-------|
-| [Lateral ventricles](https://en.wikipedia.org/wiki/Lateral_ventricles)         |             |          |       |
-| [3rd ventricle](https://en.wikipedia.org/wiki/Third_ventricle)              |             |          |       |
-| [Cerebral aqueduct](https://en.wikipedia.org/wiki/Cerebral_aqueduct)          |             |          |       |
-| [4th ventricle](https://en.wikipedia.org/wiki/Fourth_ventricle)              |             |          |       |         
+- Submit your write-up by **Wednesday, January 31, 2023 at 5:00 pm**.
+- If you found any resources that were especially useful to you, please share them.

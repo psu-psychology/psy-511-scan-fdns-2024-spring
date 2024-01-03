@@ -32,6 +32,7 @@ website:
           - href: "resources/anatomy.qmd"
           - href: "resources/neuroanatomy-outline.qmd"
           - text: "---"
+          - href: "resources/cells.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
@@ -42,13 +43,13 @@ website:
 format:
   html:
     theme: cosmo
-    css: css/styles.css
+    css: include/css/styles.css
     toc: true
     number-sections: false
     citations-hover: true
     footnotes-hover: true
-    bibliography: [bib/packages.bib, bib/psu-repro.bib, bib/psy-511.bib]
-    csl: bib/apa.csl
+    bibliography: [include/bib/packages.bib, include/bib/psu-repro.bib, include/bib/psy-511.bib]
+    csl: include/bib/apa.csl
 
 editor: source
     

@@ -1,0 +1,50 @@
+---
+title: "2024-01-25 Thu"
+subtitle: "Cellular neuroscience"
+date: 2024-01-25
+format: 
+  revealjs:
+    footer: "PSY 511 Spr 2024"
+---
+
+# Prelude
+
+<div class="centered">
+<iframe src="https://player.vimeo.com/video/210206930" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+<http://www.gregadunn.com/>
+</div>
+
+---
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/nvXuq9jRWKE>
+
+---
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/w15F4r09Pro" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/nvXuq9jRWKE>
+
+---
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/_ul7X5js1vE" frameborder="0" allowfullscreen></iframe>
+
+<https://www.youtube.com/embed/nvXuq9jRWKE>
+
+## Announcements
+
+## Last time...
+
+## Today's topics
+
+# TOPIC
+
+## Main points
+
+## Next time...
+
+# Resources
+
+## References

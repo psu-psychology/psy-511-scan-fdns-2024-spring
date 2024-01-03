@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
 <script async="" src="https://hypothes.is/embed.js"></script>
 
 
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="include/css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -92,10 +92,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">about</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./schedule.html" rel="" target="">
  <span class="menu-text">schedule</span></a>
   </li>  
@@ -118,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./slides/wk02-2024-01-18.html" rel="" target="">
- <span class="dropdown-text">2024-01-11 Thu</span></a>
+ <span class="dropdown-text">2024-01-18 Thu</span></a>
   </li>  
     </ul>
   </li>
@@ -129,18 +125,22 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
     <a class="dropdown-item" href="./resources/levels.html" rel="" target="">
- <span class="dropdown-text">Levels</span></a>
+ <span class="dropdown-text">Levels of Analysis</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
     <a class="dropdown-item" href="./resources/anatomy.html" rel="" target="">
- <span class="dropdown-text">anatomy</span></a>
+ <span class="dropdown-text">Neuroanatomy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./resources/neuroanatomy-outline.html" rel="" target="">
  <span class="dropdown-text">Neuroanatomy outline</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="./resources/cells.html" rel="" target="">
+ <span class="dropdown-text">Cellular neuroscience</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -150,19 +150,19 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-exercises">    
         <li>
     <a class="dropdown-item" href="./exercises/ex01.html" rel="" target="">
- <span class="dropdown-text">Exercise 01 • Vocabulary</span></a>
+ <span class="dropdown-text">Exercise 01 • Levels/Terms</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./exercises/ex02.html" rel="" target="">
- <span class="dropdown-text">Exercise 02 • Information processing</span></a>
+ <span class="dropdown-text">Exercise 02 • Neuroanatomy</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./exercises/ex03.html" rel="" target="">
- <span class="dropdown-text">Exercise 03 • Neuroanatomy</span></a>
+ <span class="dropdown-text">Exercise 03 • Neurophysiology I</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./exercises/ex04.html" rel="" target="">
- <span class="dropdown-text">Exercise 04 • Causal modeling</span></a>
+ <span class="dropdown-text">Exercise 04 • Neurophysiology II</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./exercises/ex05.html" rel="" target="">
@@ -191,8 +191,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#nondiscrimination-statement" id="toc-nondiscrimination-statement" class="nav-link" data-scroll-target="#nondiscrimination-statement">Nondiscrimination Statement</a></li>
   <li><a href="#diversity-statement" id="toc-diversity-statement" class="nav-link" data-scroll-target="#diversity-statement">Diversity Statement</a></li>
   <li><a href="#mandated-reporting-statement" id="toc-mandated-reporting-statement" class="nav-link" data-scroll-target="#mandated-reporting-statement">Mandated Reporting Statement</a></li>
-  <li><a href="#covid-safety-information-last-updated-2021-08-12" id="toc-covid-safety-information-last-updated-2021-08-12" class="nav-link" data-scroll-target="#covid-safety-information-last-updated-2021-08-12">COVID safety information (last updated 2021-08-12)</a></li>
-  <li><a href="#zoom" id="toc-zoom" class="nav-link" data-scroll-target="#zoom">Zoom</a></li>
   </ul>
 </nav>
     </div>
@@ -226,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="late-missed-or-make-up-assignments">Late, missed or make-up assignments</h3>
 <section id="exams" class="level4">
 <h4 class="anchored" data-anchor-id="exams">Exams</h4>
-<p>Make-up exams may be permitted under unusual circumstances such as (a) an interview for graduate school or a job, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.</p>
+<p>Make-up exams may be permitted under unusual circumstances such as (a) an interview, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.</p>
 <p>If you must miss class on the day an exam is scheduled, you must do the following:</p>
 <ol type="1">
 <li>Contact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.</li>
@@ -257,17 +255,19 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="mandated-reporting-statement">Mandated Reporting Statement</h3>
 <p>Penn State’s policies require me, as a faculty member, to share information about incidents of sex-based discrimination and harassment (discrimination, harassment, sexual harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation) with Penn State’s Title IX coordinator or deputy coordinators, regardless of whether the incidents are stated to me in person or shared by students as part of their coursework. For more information regarding the University’s policies and procedures for responding to reports of sexual or gender-based harassment or misconduct, please visit <a href="http://titleix.psu.edu" class="uri">http://titleix.psu.edu</a>.</p>
 <p>Additionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law.</p>
-</section>
-<section id="covid-safety-information-last-updated-2021-08-12" class="level3">
-<h3 class="anchored" data-anchor-id="covid-safety-information-last-updated-2021-08-12">COVID safety information (last updated 2021-08-12)</h3>
-<p>Please consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. <a href="https://virusinfo.psu.edu/covid-19-dashboard/" class="uri">https://virusinfo.psu.edu/covid-19-dashboard/</a>.</p>
-<p>This class will meet in-person unless there is a change in University policy.</p>
-<p>Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. <strong>ALL STUDENTS MUST</strong> wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus. This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations. If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.</p>
-</section>
-<section id="zoom" class="level3">
-<h3 class="anchored" data-anchor-id="zoom">Zoom</h3>
-<p>At some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate.</p>
-<p>While you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect. Please keep your microphone muted unless you want to ask a question or interact with someone. If your microphone is not muted, the entire class will be able to hear what is going on in your environment. As an instructor, I personally like to see people’s faces. As a participant, I am more involved when I have my camera on. I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns. It is your choice as to whether you would like to have the camera on or not.</p>
+<!-- ### COVID safety information (last updated 2021-08-12) -->
+<!-- Please consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. <https://virusinfo.psu.edu/covid-19-dashboard/>. -->
+<!-- This class will meet in-person unless there is a change in University policy. -->
+<!-- Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. **ALL STUDENTS MUST** wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus.  This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations.  If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule. -->
+<!-- ### Zoom -->
+<!-- At some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate. -->
+<!-- While you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect.  -->
+<!-- Please keep your microphone muted unless you want to ask a question or interact with someone.  -->
+<!-- If your microphone is not muted, the entire class will be able to hear what is going on in your environment.  -->
+<!-- As an instructor, I personally like to see people’s faces.  -->
+<!-- As a participant, I am more involved when I have my camera on.  -->
+<!-- I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns.  -->
+<!-- It is your choice as to whether you would like to have the camera on or not. -->
 
 
 </section>

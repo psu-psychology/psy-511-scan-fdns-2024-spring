@@ -4,15 +4,19 @@ title: "Neuroanatomy"
 
 ## Resources
 
-### Harvard Brain Atlas
+### Atlases
 
-```{r, fig.cap="http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm"}
-knitr::include_url("http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm")
-```
+- Harvard Brain Atlas <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
 
-### Allen Brain Atlas
+- Allen Brain Atlas
+  - Human female adult (modified Brodmann): <http://atlas.brain-map.org/atlas?atlas=265297126#atlas=265297126&plate=112360888&structure=10390&x=40320&y=46976&zoom=-7&resolution=124.49&z=3>
+  - Human female adult (gyral): <http://atlas.brain-map.org/atlas?atlas=138322605#atlas=138322605&plate=112360888&structure=10390&x=40320&y=46976&zoom=-7&resolution=124.49&z=3>
+  
+### Datasets
 
-[Allen Brain Atlas](http://atlas.brain-map.org)
+- OpenNeuro: <https://openneuro.org>
+- Neurosynth (fMRI meta-analysis): <http://neurosynth.org>
+- [Table 1 from [@Rahimzadeh2023-op]](https://www.cell.com/action/showFullTableHTML?isHtml=true&tableId=tbl1&pii=S0896-6273%2823%2900717-1)
 
 ## Directional terms
 
@@ -22,15 +26,11 @@ knitr::include_url("http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm")
 - Dorsal/Ventral
 - Rostral/Caudal
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png")
-```
+![Source: Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Blausen_0019_AnatomicalDirectionalReferences.png/800px-Blausen_0019_AnatomicalDirectionalReferences.png)
 
 ### Bipeds vs. quadripeds
 
-```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg"}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/1303_Human_Neuroaxis.jpg/800px-1303_Human_Neuroaxis.jpg")
-```
+![Wikipedia: <https://en.wikipedia.org/wiki/Neuraxis>](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Human_Neuroaxis-en.svg/1280px-Human_Neuroaxis-en.svg.png)
 
 ### Image axes
 
@@ -38,11 +38,17 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/
 - Coronal/Transverse/Frontal
 - Sagittal (from the side)
 
-```{r}
-knitr::include_graphics("http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif")
-```
+![Planes of section from http://www.scienceteacherprogram.org/](http://www.scienceteacherprogram.org/biology/chillemistudentguide1-06/brain_directions_planes_sections__directions_-_small.gif)
 
 ## Supporting structures
+
+### Skull
+
+![Wikipedia: <https://en.wikipedia.org/wiki/Skull>](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Human_skull_side_simplified_%28bones%29.svg/1280px-Human_skull_side_simplified_%28bones%29.svg.png)
+- Occipital 
+- Parietal (2x)
+- Temporal (2x)
+- Frontal
 
 ### Meninges (outside -> in)
 
@@ -52,9 +58,7 @@ knitr::include_graphics("http://www.scienceteacherprogram.org/biology/chillemist
 - Pia mater ('gentle mother')
 - Cerebrospinal fluid (CSF) between Arachnoid membrane and Pia Mater
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png")
-```
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Meninges-en.svg/1280px-Meninges-en.svg.png)
 
 ### Ventricular system
 
@@ -67,53 +71,40 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/8/
     - Midbrain
 - 4th
     - Hindbrain
-
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png")
-```
+    
+![Ventricular system from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/d4/Blausen_0896_Ventricles_Brain.png)
 
 - Ventricles filled with cerebrospinal fluid (CSF)
   - CSF clears metabolites during sleep [@xie2013sleep]?
   - Blockage of CSF flow -> hydrocephalus
+- Ventricles are useful landmarks for brain regions, see [below](anatomy.qmd#organization-of-the-cns)
 
 ### Blood Supply
 
 - Carotid & basilar arteries converge on Circle of Willis
 - Anterior, Middle, and Posterior Cerebral arteries main output
 
-```{r, fig.cap='https://previews.123rf.com/images/hfsimaging/hfsimaging1208/hfsimaging120800005/14672522-drawing-of-the-blood-vessels-at-the-base-of-the-brain-called-the-circle-of-willis.jpg'}
-knitr::include_graphics("https://previews.123rf.com/images/hfsimaging/hfsimaging1208/hfsimaging120800005/14672522-drawing-of-the-blood-vessels-at-the-base-of-the-brain-called-the-circle-of-willis.jpg")
-```
+![Basal view of the brain from https://previews.123rf.com/images/hfsimaging/hfsimaging1208/hfsimaging120800005/14672522-drawing-of-the-blood-vessels-at-the-base-of-the-brain-called-the-circle-of-willis.jpg](https://previews.123rf.com/images/hfsimaging/hfsimaging1208/hfsimaging120800005/14672522-drawing-of-the-blood-vessels-at-the-base-of-the-brain-called-the-circle-of-willis.jpg)
 
-```{r, fig.cap='https://teachmeanatomy.info/wp-content/uploads/Schematic-of-the-Circle-of-Willis.jpg'}
-knitr::include_graphics("https://teachmeanatomy.info/wp-content/uploads/Schematic-of-the-Circle-of-Willis.jpg")
-```
+![Circle of Willis from https://teachmeanatomy.info/wp-content/uploads/Schematic-of-the-Circle-of-Willis.jpg](https://teachmeanatomy.info/wp-content/uploads/Schematic-of-the-Circle-of-Willis.jpg)
 
-```{r, fig.cap='https://teachmeanatomy.info/wp-content/uploads/Regional-Blood-Supply-to-the-Cerebrum-1024x380.jpg'}
-knitr::include_graphics("https://teachmeanatomy.info/wp-content/uploads/Regional-Blood-Supply-to-the-Cerebrum-1024x380.jpg")
-```
+![Blood supply to the cerebrum from https://teachmeanatomy.info/wp-content/uploads/Regional-Blood-Supply-to-the-Cerebrum-1024x380.jpg](https://teachmeanatomy.info/wp-content/uploads/Regional-Blood-Supply-to-the-Cerebrum-1024x380.jpg)
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Cerebrovascular_System.png#/media/File:Cerebrovascular_System.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Cerebrovascular_System.png" alt="Cerebrovascular System.png"></a><br>By &lt;a href="//commons.wikimedia.org/wiki/User:BruceBlaus" title="User:BruceBlaus"&gt;BruceBlaus&lt;/a&gt; - &lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51638412">Link</a></p>
+![Lateral view of cerebrovascular system from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/d5/Cerebrovascular_System.png)
 
 #### Blood/brain barrier
 
 - Cells forming blood vessel walls tightly packed
 - Active transport of molecules typically required
 
-```{r, fig.cap="[[@Abbott2006-jw]](http://dx.doi.org/10.1038/nrn1824)"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig2_HTML.jpg?as=webp")
-```
+![Blood brain barrier. Figure 2 from [@Abbott2006-jw]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig2_HTML.jpg?as=webp)
 
----
-
-```{r, fig.cap="[[@Abbott2006-jw]](http://dx.doi.org/10.1038/nrn1824)"}
-knitr::include_graphics("https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig3_HTML.jpg?as=webp")
-```
+![Transport across the blood/brain barrier. Figure 3 from [@Abbott2006-jw]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1824/MediaObjects/41583_2006_Article_BFnrn1824_Fig3_HTML.jpg?as=webp)
 
 ##### Area Postrema
 
 - In brainstem, blood-brain barrier thin
-- Chemoreceptors (chemical receptors) detect toxins, trigger emesis if necessary
+- Chemoreceptors (chemical receptors) detect toxins, trigger emesis (vomiting) if necessary
 
 ```{r, fig.cap="[[@Begg2013-fb]](http://dx.doi.org/10.1038/nrendo.2013.136)"}
 knitr::include_graphics("https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrendo.2013.136/MediaObjects/41574_2013_Article_BFnrendo2013136_Fig2_HTML.jpg?as=webp")
@@ -121,9 +112,8 @@ knitr::include_graphics("https://media.springernature.com/lw685/springer-static/
 
 ## Organization of the Nervous System
 
-```{r, fig.cap="https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/"}
-knitr::include_graphics("https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg")
-```
+![Nervous system of Harriet Cole from https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/](https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg)
+
 
 - Central Nervous System (CNS) 
   - Brain
@@ -150,17 +140,13 @@ knitr::include_graphics("https://www.pastmedicalhistory.co.uk/wp-content/uploads
 
 - Forebrain, midbrain, hindbrain terminology derives from embryonic stages in CNS development.
 
-```{r, fig.cap="https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg", out.height="500px"}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg")
-```
+![Embryonic human brain from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c8/6_week_embryo_brain.jpg)
+![Cross section of embryonic brain from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1200px-EmbryonicBrain.svg.png)
 
 ### Hindbrain
 
-```{r, fig.cap='https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1200px-EmbryonicBrain.svg.png'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/EmbryonicBrain.svg/1200px-EmbryonicBrain.svg.png")
-```
-
-- Hindbrain: structures adjacent (or caudal to) 4th ventricle
+- Structures adjacent (or caudal to) 4th ventricle
+- Components
     - Medulla oblongata
     - Cerebellum
     - Pons
@@ -177,7 +163,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/b/
 knitr::include_graphics("http://webspace.ship.edu/cgboer/medial-labelled.gif")
 ```
 
-#### [Medulla oblongata](https://en.wikipedia.org/wiki/Medulla_oblongata) {.smaller}
+#### [Medulla oblongata](https://en.wikipedia.org/wiki/Medulla_oblongata) 
 
 - Cardiovascular regulation
 - Muscle tone
@@ -243,7 +229,7 @@ knitr::include_graphics("http://www.radioanatomie.com/30_irm_sagittale_mediane/9
 
 - "Floor" of the midbrain
 - Species-typical movement sequences
-- Neuromodulatory nuclei
+- Neuromodulatory nuclei release NTs
     + Norepinephrine (NE)
     + Serotonin (5-HT)
     + Dopamine (DA) -- from *ventral tegmental area (VTA)*
@@ -662,7 +648,7 @@ knitr::include_graphics("http://www.brain-maps.com/gehirn/brodmann_areale.jpg")
 - Commissural fibers
 
 ```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 1."}
-knitr::include_graphics("img/brainstem-white-matter-schematic.jpg")
+knitr::include_graphics("../include/img/brainstem-white-matter-schematic.jpg")
 ```
 
 ### Brainstem projections
@@ -672,7 +658,7 @@ knitr::include_graphics("img/brainstem-white-matter-schematic.jpg")
 - Superior/inferior cerebellar peduncles (from/to cerebellum)
 
 ```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 8."}
-knitr::include_graphics("img/projection-fiber-schematic.jpg")
+knitr::include_graphics("../include/img/projection-fiber-schematic.jpg")
 ```
 
 ### Projection fiber tracts
@@ -682,11 +668,11 @@ knitr::include_graphics("img/projection-fiber-schematic.jpg")
     - Cortico-{pontine, bulbar, reticular} tracts
 
 ```{r}
-knitr::include_graphics("img/cortical-white-matter-schematic.jpg")
+knitr::include_graphics("../include/img/cortical-white-matter-schematic.jpg")
 ```
 
 ```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 11."}
-knitr::include_graphics("img/cortical-white-matter.jpg")
+knitr::include_graphics("../include/img/cortical-white-matter.jpg")
 ```
 
 ### Cortical white matter tracts

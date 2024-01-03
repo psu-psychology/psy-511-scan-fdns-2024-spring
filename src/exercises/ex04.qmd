@@ -1,76 +1,37 @@
 ---
-title: "Exercise 04 • Causal modeling"
+title: "Exercise 04 • Neurophysiology II"
 ---
 
-## Aim
+## Goals
+
+1. To understand what change in the resting state of neurons causes the *action potential*.
+2. To understand how the action potential results in the release of neurotransmitter from the axon terminal (terminal button).
 
 ## Activity
 
-Choose a psychological phenomenon you know well or care about.
+You may work by yourself or with up to two other people for this activity.
+If it is easier, you may draw separate figures for the steps below.
 
-Draw a diagram that depicts the relationships among the *principal* causes of or influences on that phenomenon.
+1. Draw a figure that shows the two principal ions that contribute to the neuron's resting potential, and where (inside or outside the neuron) they are most heavily concentrated.
+2. Annotate your figure to show the direction of ion flow along each ion's concentration gradient^[1].
+3. Annotate your figure to show the direction of ion movement caused by the $Na^+/K^+$ (sodium/potassium) ATPase (pump). 
+4. Annotate your figure to show what spatial pattern of *electrical* charges (positive/negative voltage; inside the cell/outside the cell) would tend to keep the potassium ($K^+$) ions where they are most highly concentrated when the neuron is at rest. Explain your reasoning.
+5. Annotate your figure to show what this *same* pattern of electrical charges would do to sodium ($Na^+$) ions.
+6. What change(s) in the neuron could cause potassium ($K^+$) ions to move? Which direction would the ions move under these circumstances?
+7. What change(s) in the neuron could cause sodium ($Na^+$) ions to move? Which direction would the ions move under these circumstances?
 
-It may help you to think about the causes or influences as falling into the following categories:
+## Submission details
 
-- External to the person
-- Physical/physiological states outside the nervous system
-- Nervous system states
+- Submit a photocopy of your outline by **Wednesday, January 24, 2023 at 5:00 pm**.
+- If you found any resources that were especially useful to you, please share them.
 
-If the phenomenon has characteristic behaviors or mental states, please indicate those, as well.
+## Simulation
 
-You may also want to depict the flow of information or the direction of causality.
+<iframe src="https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
 
-Here is a cartoon example:
+[1]: Remember that ions flow *down* the concentration gradient, from regions of high concentration to regions of lower concentration.
 
-## Example 1
-
-```{mermaid}
-flowchart TD
-  A[Stub toe] --> B(Pain receptors in skin)
-  B --> C{Pain processing in brain}
-  C --> D{Activate language center}
-  D --> E(Say ouch)
-  C --> J{Activate motor region}
-  J --> F(Move foot/leg)
-  A --> H(Toe bleeds)
-```
-
-## Example 2
-
-```{mermaid}
-flowchart TD
-  A[Stub toe] --> B(Pain receptors in skin)
-  B --> C{Pain processing in brain}
-  C --> D{Activate language center}
-  D --> E(Say ouch)
-  C --> J{Activate motor region}
-  J --> F(Move foot/leg)
-  J --> G(Shift balance)
-  A --> H(Toe bleeds)
-```
-
-## Example 3
-
-```{mermaid}
-flowchart TD
-  A[Stub toe] --> B(Pain receptors in skin)
-  B --> C{Pain processing in brain}
-  C --> D{Activate language center}
-  D --> E(Say ouch)
-  C --> J{Activate motor region}
-  J --> F(Move foot/leg)
-  J --> G(Shift balance)
-  A --> H(Toe bleeds)
-  C --> I{Activate memory of past injury}
-  J --> K(Rub foot)
-  C --> L(Trigger hormone release)
-  F --> K
-  G --> K
-  K --> C
-  K --> B
-  L --> B
-  L --> C
-  L --> D
-  L --> J
-  L --> H
-```

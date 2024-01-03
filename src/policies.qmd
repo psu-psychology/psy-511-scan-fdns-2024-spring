@@ -14,7 +14,7 @@ When you complete assignments, remember the **ABC**s to avoid plagiarism: **A**l
 
 #### Exams
 
-Make-up exams may be permitted under unusual circumstances such as (a) an interview for graduate school or a job, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.
+Make-up exams may be permitted under unusual circumstances such as (a) an interview, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.
 
 If you must miss class on the day an exam is scheduled, you must do the following:
 
@@ -58,22 +58,22 @@ Penn State's policies require me, as a faculty member, to share information abou
  
 Additionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law.
 
-### COVID safety information (last updated 2021-08-12)
+<!-- ### COVID safety information (last updated 2021-08-12) -->
 
-Please consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. <https://virusinfo.psu.edu/covid-19-dashboard/>.
+<!-- Please consult the Penn State Covid-19 Dashboard for updates on masking policies, instructional-mode changes, etc. <https://virusinfo.psu.edu/covid-19-dashboard/>. -->
 
-This class will meet in-person unless there is a change in University policy.
+<!-- This class will meet in-person unless there is a change in University policy. -->
 
-Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. **ALL STUDENTS MUST** wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus.  This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations.  If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule.
+<!-- Penn State University requires everyone to wear a face mask in all university buildings, including classrooms, regardless of vaccination status. **ALL STUDENTS MUST** wear a mask appropriately (i.e., covering both your mouth and nose) while you are indoors on campus.  This is to protect your health and safety as well as the health and safety of your classmates, instructor, and the university community. Anyone attending class without a mask will be asked to put one on or leave. Instructors may end class if anyone present refuses to appropriately wear a mask for the duration of class. Students who refuse to wear masks appropriately may face disciplinary action for Code of Conduct violations.  If you feel you cannot wear a mask during class, please speak with your adviser immediately about your options for altering your schedule. -->
 
-### Zoom
-	
-At some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate.
+<!-- ### Zoom -->
 
-While you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect. 
-Please keep your microphone muted unless you want to ask a question or interact with someone. 
-If your microphone is not muted, the entire class will be able to hear what is going on in your environment. 
-As an instructor, I personally like to see people’s faces. 
-As a participant, I am more involved when I have my camera on. 
-I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns. 
-It is your choice as to whether you would like to have the camera on or not.
+<!-- At some point in the semester, I may decide to use Zoom to allow students who are unable to attend class in person to participate. -->
+
+<!-- While you are on Zoom, keep in mind that this is a classroom environment and others should be treated with respect.  -->
+<!-- Please keep your microphone muted unless you want to ask a question or interact with someone.  -->
+<!-- If your microphone is not muted, the entire class will be able to hear what is going on in your environment.  -->
+<!-- As an instructor, I personally like to see people’s faces.  -->
+<!-- As a participant, I am more involved when I have my camera on.  -->
+<!-- I realize, however, that there are many reasons why you might not want to turn on your camera such as poor internet connection, joining via phone, or other privacy concerns.  -->
+<!-- It is your choice as to whether you would like to have the camera on or not. -->

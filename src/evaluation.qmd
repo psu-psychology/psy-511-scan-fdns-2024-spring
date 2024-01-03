@@ -6,10 +6,10 @@ PSY 511 course performance will be evaluated based on the following scheme:
 
 | Component           | Points                      | % of Grade |
 |---------------------|------------------------------|-------|
-| Quizzes             | 10 pts * 3 quizzes = 30      | 33.3    |
-| Participation       | 15 wks * 2 pts/wk = 30       | 33.3    |
+| Exercises           | 10 pts * 3 quizzes = 30 pts      | 33.3    |
+| Participation       | 15 wks * 2 pts/wk = 30 pts       | 33.3    |
 | Paper               | 30 pts                       | 33.3    |
-| **TOTAL**           | **90**                      | **100** |
+| **TOTAL**           | **90**                       | **100** |
 
 ### For clinical area graduate students
 
