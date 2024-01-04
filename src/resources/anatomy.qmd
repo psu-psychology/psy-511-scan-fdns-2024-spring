@@ -369,7 +369,7 @@ Source: [@Floris2012-ro]
 - Also known as Rolandic Fissure or Fissure of Rolando
 - Divides frontal from parietal lobe
 
-![Central Sulcus (Rolandic Fissure or Fissure of Rolando)](https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png)
+![Central Sulcus (Rolandic Fissure or Fissure of Rolando)](https://upload.wikimedia.org/wikipedia/commons/4/46/LobesCaptsLateral.png)
 
 ##### Frontal lobe
 
@@ -389,14 +389,9 @@ Source: [@Floris2012-ro]
     + Frontal eye fields (FEF)
 - Prefrontal cortex
     + Planning, problem solving, working memory...?
-    
-- Secondary olfactory cortex
+- Components of olfactory system
 
 ![Olfactory cortex from [@Saive2014-uh]. Figure 1. Schematic view of the human olfactory system. The primary and secondary olfactory cortices are represented in blue and green, respectively. Amyg, amygdala; Ento, entorhinal cortex; Hipp, hippocampus; OFC, orbitofrontal cortex; PC, piriform cortex; Thal, thalamus (adapted from Royet et al., 2014)](https://www.frontiersin.org/files/Articles/92469/fnbeh-08-00240-HTML/image_m/fnbeh-08-00240-g001.jpg)
-
-```{r, fig.cap="[[@Saive2014-uh]](http://doi.org/10.3389/fnbeh.2014.00240)"}
-knitr::include_graphics("https://www.frontiersin.org/files/Articles/92469/fnbeh-08-00240-HTML/image_m/fnbeh-08-00240-g001.jpg")
-```
 
 - Basal forebrain
     + [Nucleus accumbens (NAcc)](https://en.wikipedia.org/wiki/Nucleus_accumbens), part of ventral striatum
@@ -432,42 +427,31 @@ knitr::include_graphics("https://www.frontiersin.org/files/Articles/92469/fnbeh-
 - Ventral to frontal, parietal lobes
 - Inferior to lateral fissure
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png")
-```
+![Lateral figure of brain lobes](https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png)
 
 - Primary auditory cortex (A-I or A1)
 
-```{r, fig.cap="https://en.wikipedia.org/wiki/Auditory_cortex"}
-knitr::include_graphics("https://en.wikipedia.org/wiki/Auditory_cortex#/media/File:Brodmann_41_42.png")
-```
+![Primary Auditory Cortex from https://en.wikipedia.org/wiki/Auditory_cortex](https://upload.wikimedia.org/wikipedia/commons/8/81/Brodmann_41_42.png)
 
-**Superior Temporal Sulcus**
+**Superior Temporal Gyrus**
 
-```{r}
-knitr::include_graphics("https://en.wikipedia.org/wiki/Superior_temporal_sulcus#/media/File:Superior_temporal_sulcus.png")
-```
+![Superior temporal gyrus](https://upload.wikimedia.org/wikipedia/commons/1/1d/Superior_temporal_gyrus.png)
 
-- Object, face recognition; biological motion processing
+- Neurons sensitive to objects, faces; biological motion processing
 - Language processing
 
 **Inferior Temporal Gyrus (ITG)**
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png")
-```
+![Inferior temporal gyrus](https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png)
 
 - Continuation of ventral visual processing stream
 
-```{r, fig.cap="https://en.wikipedia.org/wiki/Inferior_temporal_gyrus"}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/f/f6/Inferior_temporal_gyrus_coronal_sections.gif")
-```
+![Coronal MRI views of inferior temporal gyrus](https://upload.wikimedia.org/wikipedia/commons/f/f6/Inferior_temporal_gyrus_coronal_sections.gif)
 
-**Entorhinal Cortex (ER)**
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png")
-```
+**Entorhinal (ER) & Parahippocampal Cortex **
+
+![Mid-saggital view human cortex](https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png)
 
 - Storage of memories about events, objects 
 - Amygdala, hippocampus
@@ -478,89 +462,62 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/15/Med
 - Dorsal to temporal lobe
 - Posterior to central sulcus
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png")
-```
+![Lateral illustration of human forebrain](https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png)
 
 - Primary somatosensory cortex (S-I or S1)
   - information from sensors in skin, muscles, tendons, joints and viscera
 - Post-central gyrus
     
-```{r, fig.cap="https://en.wikipedia.org/wiki/Postcentral_gyrus"}
-knitr::include_graphics("https://en.wikipedia.org/wiki/Postcentral_gyrus#/media/File:Postcentral_gyrus.png")
-```
-    
+![Postcentral gyrus](https://upload.wikimedia.org/wikipedia/commons/6/66/Postcentral_gyrus.png)    
+  
 - Perception of spatial relations, action planning
 
 **Inferior Parietal Lobule**
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png")
-```
-
+![Inferior parietal lobule](https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png)
 - e.g., language, mathematical operations, body image, etc.
 
 **Superior Parietal Lobule**
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png")
-```
+![Superior parietal lobule](https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png)
 
 - damage to can cause spatial hemi-neglect
 
-```{r, fig.cap="https://en.wikipedia.org/wiki/Superior_parietal_lobule"}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/d/d8/Superior_parietal_lobule_sagittal_sections.gif")
-```
+![MRI sequence of superior parietal lobule from https://en.wikipedia.org/wiki/Superior_parietal_lobule ](https://upload.wikimedia.org/wikipedia/commons/d/d8/Superior_parietal_lobule_sagittal_sections.gif)
 
 ##### Occipital lobe
 
 - Caudal to parietal & temporal lobes
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png")
-```
+![](https://upload.wikimedia.org/wikipedia/commons/9/96/Brain_diagram_fr.png)
 
 - Primary visual cortex (V1)
 - Secondary visual areas (V2...V7)
 
-```{r}
-knitr::include_graphics("http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png")
-```
+![Visual cortex from https://www.aao.org/education/bcscsnippetdetail.aspx?id=da6920e2-a380-4857-be07-82770a46de03](https://www.aao.org/image.axd?id=88d6f21c-45ba-4ecc-90ac-fda9fa6ab057&t=637442500965101296)
 
 ##### Insular cortex (insula)
 
 - medial to temporal lobe
 - deep inside lateral fissure
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png")
-```
+![Insular cortex from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png)
 
 - Primary gustatory cortex
 - Self-awareness, interpersonal experiences, motor control, interoception
 
-```{r, fig.cap="[[@Namkung2017-gc]](http://dx.doi.org/10.1016/j.tins.2017.02.002)"}
-knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0166223617300176-gr1.jpg")
-```
+![[@Namkung2017-gc]](https://ars.els-cdn.com/content/image/1-s2.0-S0166223617300176-gr1.jpg)
 
 ##### Brodmann Areas
 
-- [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
-
-```{r}
-knitr::include_graphics("http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg")
-```
+![[Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)](ttp://www.spektrum.de/lexika/images/bio/fff1209_w.jpg)
 
 - Cytoarchitectonic (cellular architecture) differences in cerebral cortex
-- Numbered areas, e.g. V1 == Area 17
+- Numbered areas, e.g. V1 == Area 17 or BA 17
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png")
-```
+![Brodmann areas](https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png)
 
-```{r}
-knitr::include_graphics("http://www.brain-maps.com/gehirn/brodmann_areale.jpg")
-```
+![Brodmann maps in color](http://www.brain-maps.com/gehirn/brodmann_areale.jpg)
 
 ## White matter pathways
 
@@ -569,9 +526,7 @@ knitr::include_graphics("http://www.brain-maps.com/gehirn/brodmann_areale.jpg")
 - Association fibers
 - Commissural fibers
 
-```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 1."}
-knitr::include_graphics("../include/img/brainstem-white-matter-schematic.jpg")
-```
+![Schematic of brain stem white matter pathways from [@oishi2010mri Chapter 3, Figure 1.]](../include/img/brainstem-white-matter-schematic.jpg)
 
 ### Brainstem projections
 
@@ -579,23 +534,15 @@ knitr::include_graphics("../include/img/brainstem-white-matter-schematic.jpg")
 - Dorsal column/medial lemniscus (ascending/afferent)
 - Superior/inferior cerebellar peduncles (from/to cerebellum)
 
-```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 8."}
-knitr::include_graphics("../include/img/projection-fiber-schematic.jpg")
-```
+![White matter projections from [@oishi2010mri Chapter 3, Figure 8.]](../include/img/projection-fiber-schematic.jpg)
 
 ### Projection fiber tracts
 
 - Internal capsule
     - Thalamic radiation
     - Cortico-{pontine, bulbar, reticular} tracts
-
-```{r}
-knitr::include_graphics("../include/img/cortical-white-matter-schematic.jpg")
-```
-
-```{r, fig.cap="[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 11."}
-knitr::include_graphics("../include/img/cortical-white-matter.jpg")
-```
+    
+![Schematic of brain stem white matter pathways from [@oishi2010mri Chapter 3, Figure 12.]](../include/img/cortical-white-matter.jpg)
 
 ### Cortical white matter tracts
 
@@ -610,20 +557,12 @@ knitr::include_graphics("../include/img/cortical-white-matter.jpg")
 - Anterior commissure (AC)
 - Posterior commissure (PC)
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png")
-```
-
-```{r}
-knitr::include_graphics("https://i.redd.it/7qobxge7gp611.jpg")
-```
-<!-- Corpus Callosum -->
+![Corpus callosum](https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png)
+![Dissection of human corpus callosum](https://i.redd.it/7qobxge7gp611.jpg)
 
 **Anterior, Posterior Commissures**
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png")
-```
+![Anterior and posterior commissures from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png)
 
 ## Spinal cord
 
@@ -633,16 +572,12 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/22/Gra
 - Spinal segments & 31 nerve pairs 
 - Cauda equina
 
-```{r}
-knitr::include_graphics("http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg")
-```
+![Divisions of the spinal cord](http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg)
 
 - Spinal segments (rostral to caudal) ennervate specific body segments
 - When focusing on the skin, these are called *dermatomes*
 
-```{r}
-knitr::include_graphics("https://steppingstoneblogcom.files.wordpress.com/2018/02/dermatome.jpg?w=863&h=1&crop=1")
-```
+![Dermatomes](https://steppingstoneblogcom.files.wordpress.com/2018/02/dermatome.jpg?w=863&h=1&crop=1)
 
 - Dorsal/Ventral
     + Dorsal root (sensory)
@@ -650,18 +585,11 @@ knitr::include_graphics("https://steppingstoneblogcom.files.wordpress.com/2018/0
 - Grey (interior) vs. white matter (exterior)
     + Cerebral cortex opposite (grey exterior, white interior)
 
-```{r}
-knitr::include_graphics("https://image.slidesharecdn.com/thespinalcord-2003-141108070925-conversion-gate02/95/the-spinal-cord-4-638.jpg?cb=1415430697")
-```
-<!-- Cross section of the spinal cord. -->
+![Spinal cord cross-section](https://image.slidesharecdn.com/thespinalcord-2003-141108070925-conversion-gate02/95/the-spinal-cord-4-638.jpg?cb=1415430697)
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/e/e6/Gray675.png")
-```
+![Anterior and posterior roots of spinal cord](https://upload.wikimedia.org/wikipedia/commons/e/e6/Gray675.png)
 
-```{r}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Medulla_spinalis_-_Section_-_English.svg/1024px-Medulla_spinalis_-_Section_-_English.svg.png")
-```
+![Axial view of spinal cord anterior and posterior roots](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Medulla_spinalis_-_Section_-_English.svg/1024px-Medulla_spinalis_-_Section_-_English.svg.png)
 
 ## Organization of the PNS 
 
@@ -678,15 +606,12 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/d/
 vagus (X), etc. 
 - Spinal nerves
 
-```{r}
-knitr::include_graphics("http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg")
-```
+
+![Cranial nerves from https://www.britannica.com/science/cranial-nerve#/media/1/141797/46720](https://cdn.britannica.com/44/54244-004-892C5169/nerves-pairs-muscles-region-head-sense-organs.jpg?s=1500x700&q=85)
 
 #### Spinal nerves
 
-```{r}
-knitr::include_graphics("https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg")
-```
+![Nervous system of Harriet Cole from https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/](https://www.pastmedicalhistory.co.uk/wp-content/uploads/2018/08/A-model-of-the-human-nervous-system-by-Rufus-Benjamin-Weaver..jpg)
 
 ### Autonomic nervous system
 
@@ -697,16 +622,12 @@ knitr::include_graphics("https://www.pastmedicalhistory.co.uk/wp-content/uploads
     + Sympathetic
     + Parasympathetic
     + Enteric (gut, intestinal tract)
+    
+![Autonomic nervous system](https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF)
 
-```{r}
-knitr::include_graphics("https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF")
-```
+- Bipolar (continuum) vs. bivariate autonomic space [@Berntson1991-vq]
 
-- Bipolar (continuum) vs. bivariate autonomic space [[@Berntson1991-vq]](https://www.ncbi.nlm.nih.gov/pubmed/1660159)
-
-```{r}
-knitr::include_graphics("https://www.researchgate.net/profile/John_Cacioppo/publication/265843107/figure/fig1/AS:669383823216652@1536604948373/Bivariate-model-of-autonomic-space-right-contrasted-with-the-reciprocal.png")
-```
+![[@Berntson1991-vq]](https://www.researchgate.net/profile/John_Cacioppo/publication/265843107/figure/fig1/AS:669383823216652@1536604948373/Bivariate-model-of-autonomic-space-right-contrasted-with-the-reciprocal.png)
 
 #### Sympathetic division
 
@@ -715,8 +636,8 @@ knitr::include_graphics("https://www.researchgate.net/profile/John_Cacioppo/publ
 - Spinal cord
     + ganglion chain along spinal column to End organs
 - Neurotransmitters (NTs)
-    + Preganglionic: ACh 
-    + Post: NE
+    + Preganglionic: acetylcholine (ACh) 
+    + Post: norepinephrine (NE)
     
 #### Parasympathetic division
 
@@ -730,25 +651,13 @@ knitr::include_graphics("https://www.researchgate.net/profile/John_Cacioppo/publ
 
 - Heart rate variability
 
-```{r, fig.cap='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Neurovisceral_integration_model.png/330px-Neurovisceral_integration_model.png'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Neurovisceral_integration_model.png/330px-Neurovisceral_integration_model.png")
-```
+![Influences on heart rate](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Neurovisceral_integration_model.png/330px-Neurovisceral_integration_model.png)
 
 - Galvanic skin response (GSR)
 - [Pupillary response](https://en.wikipedia.org/wiki/Pupillary_response)
 
-```{r, fig.cap='https://upload.wikimedia.org/wikipedia/commons/a/a5/Gray840.png'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/a5/Gray840.png")
-```
+![Circuit controlling pupillary diameter](https://upload.wikimedia.org/wikipedia/commons/a/a5/Gray840.png)
 
 - electrogastrogram (EGG) for ENS [[@Al_Taee2020-no]](http://dx.doi.org/10.1007/978-3-030-14347-3_50)
 
-```{r}
-knitr::include_graphics("https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-14347-3_50/MediaObjects/478658_1_En_50_Fig1_HTML.png")
-```
-
-> Fig. 1. Gastric pacesetter potentials or slow waves originate from the pacemaker area on the greater curve. Pacesetter potentials travel in a circumferential and aboral direction at a rate of approximately 3 cycles per minute (cpm). The cutaneously recorded electrogastrogram shows 3-cpm wave pattern. The fundus has no rhythmic electrical activity.
->
->  [[@Al_Taee2020-no]](http://dx.doi.org/10.1007/978-3-030-14347-3_50)
-
-## References
+![Electrogastogram from [@Al_Taee2020-no]. Fig. 1. Gastric pacesetter potentials or slow waves originate from the pacemaker area on the greater curve. Pacesetter potentials travel in a circumferential and aboral direction at a rate of approximately 3 cycles per minute (cpm). The cutaneously recorded electrogastrogram shows 3-cpm wave pattern. The fundus has no rhythmic electrical activity.](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-030-14347-3_50/MediaObjects/478658_1_En_50_Fig1_HTML.png)
