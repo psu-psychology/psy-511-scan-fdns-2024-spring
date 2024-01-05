@@ -6,20 +6,20 @@ PSY 511 course performance will be evaluated based on the following scheme:
 
 | Component           | Points                      | % of Grade |
 |---------------------|------------------------------|-------|
-| Exercises           | 10 pts * 3 quizzes = 30 pts      | 33.3    |
-| Participation       | 15 wks * 2 pts/wk = 30 pts       | 33.3    |
-| Paper               | 30 pts                       | 33.3    |
+| Exercises           | 10 pts/exercise * 5 = 50 pts | 50.0    |
+| Participation       | 15 wks * 1 pt/wk = 15 pts    | 15.0    |
+| Paper/Project       | 35 pts                       | 35    |
 | **TOTAL**           | **90**                       | **100** |
 
 ### For clinical area graduate students
 
-Quiz 1 covers material related to biology-related discipline specific knowledge (DSK). 
+Exercises 1-4 cover material related to biology-related discipline specific knowledge (DSK). 
 
-Quiz 2 covers material related to cognitive-related discipline specific knowledge (DSK).
+Exercises 1, and 4-6 cover material related to cognitive-related discipline specific knowledge (DSK).
 
-Quiz 3 covers material related to affect-related discipline specific knowledge (DSK).
+Exercises 1, and 7-8 cover material related to affect-related discipline specific knowledge (DSK).
 
-Classroom participation and the final paper assess advanced integrative knowledge (AIK).
+Classroom participation and the final paper/project assess advanced integrative knowledge (AIK).
 
 For students to receive a passing grade (B or better for the course, they must receive a passing grade (B or better or Satisfactory) for each assignment or activity designed to assess DSK and IAK.
 Students have one opportunity to re-do an assignment if they do not initially receive a passing grade.
@@ -39,20 +39,18 @@ Students have one opportunity to re-do an assignment if they do not initially re
 | 60-69   | 60-69   | D     |
 | <59     | <59     | F     |
 
-## Paper
+## Exercises
 
-Please write a critical review in the style of a [Behavioral and Brain Sciences (BBS)](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences) commentary.
-The target of your review could be a published article in BBS or an article published in another journal.
-Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries.
-Typically, a BBS commentary is [restricted to 1,000 words](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/information/instructions-contributors), but you have latitude to write up to 2,500 words. 
+There will be eight (8) exercises throughout the term.
+Five (5) of the 8 will count toward the final course grade.
+Significant work on these can and will be done in-class.
+More details will be provided for each exercise.
 
-**Do's**
+## Paper/Project
 
-- Always put your last name and first name in the file name of all documents you submit. For example, `gilmore-rick-psy-511-2021-final-paper.docx` works fine.
-- Submit your paper as a MS Word document or as a Google drive document that I can comment on using the track changes feature.
-- Include a cover page and title. Make sure to add page numbers.
-- Unpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.
-- Include all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.
-- Include author-date citations in the text.
-- Use double-spacing.
-- Run spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices.
+A significant part of the grade in PSY 511 is a [final paper or project](resources/final-project.qmd).
+
+The paper or project can take on a number of forms, depending on a student's scholarly interests.
+
+A 1-2 page project proposal, worth five (5) points, will be due before Spring Break.
+The final project submission will be due during finals week.

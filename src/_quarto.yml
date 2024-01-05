@@ -30,7 +30,6 @@ website:
           - href: "resources/levels.qmd"
           - text: "---"
           - href: "resources/anatomy.qmd"
-          - href: "resources/neuroanatomy-outline.qmd"
           - text: "---"
           - href: "resources/cells.qmd"
       - text: exercises
@@ -40,6 +39,7 @@ website:
           - href: "exercises/ex03.qmd"
           - href: "exercises/ex04.qmd"
           - href: "exercises/ex05.qmd"
+          - href: "exercises/ex06.qmd"
 format:
   html:
     theme: cosmo

@@ -12,7 +12,6 @@ title: "Schedule"
 - Levels of analysis
 - Causality in brain and behavior
 - Does neuroscience need behavior? If so, what does psychology need?
-- [Exercise 01](exercises/ex01.qmd)
 
 #### Readings
 
@@ -24,21 +23,21 @@ title: "Schedule"
 #### Materials
 
 - [slides](slides/wk01-2024-01-11.qmd)
+- [[Exercise 01](exercises/ex01.qmd) assigned]{.green_assigned}
 
 ---
 
 ## Week 2
 
-### Wednesday, January 24
+### Wednesday, January 17
 
-- [Exercise 01](exercises/ex02.qmd) write-up due.
+- [[Exercise 01](exercises/ex01.qmd) write-up due]{.orange_due}.
 
 ### Thursday, January 18
 
 #### Topics
 
 - Neuroanatomy lab
-- [Exercise 02](exercises/ex02.qmd)
 
 #### Readings
 
@@ -48,6 +47,7 @@ title: "Schedule"
 
 - [slides](slides/wk02-2024-01-18.qmd)
 - [Allen Brain Atlas](http://atlas.brain-map.org/atlas?atlas=138322605#atlas=138322605&structure=10390&resolution=119.78&x=31680.307112068967&y=42751.00179211847&zoom=-6&plate=112360949).
+- [[Exercise 02](exercises/ex02.qmd) distributed]{.green_assigned}
 
 ---
 
@@ -55,7 +55,7 @@ title: "Schedule"
 
 ### Wednesday, January 24
 
-- [Exercise 02](exercises/ex02.qmd) write-up due.
+- [[Exercise 02](exercises/ex02.qmd) write-up due.]{.orange_due}
 
 ### Thursday, January 25
 
@@ -65,7 +65,6 @@ title: "Schedule"
   - Anatomy
   - Physiology
     - Resting potential
-- [Exercise 03](exercises/ex03.qmd)
 
 #### Readings
 
@@ -77,6 +76,7 @@ title: "Schedule"
 #### Materials
 
 - [slides](slides/wk03-2024-01-25.qmd)
+- [[Exercise 03](exercises/ex03.qmd) distributed.]{.green_assigned}
 
 ---
 
@@ -89,7 +89,7 @@ title: "Schedule"
 - Cellular neuroscience II
   - Action potential
   - Synaptic transmission
-- [Exercise 04](exercises/ex04.qmd)
+- [[Exercise 04](exercises/ex04.qmd) assigned]{.green_assigned}
 
 #### Readings
 
@@ -105,7 +105,7 @@ title: "Schedule"
 
 ### Wednesday, February 7
 
-- [Exercise 03](exercises/ex03.qmd) write-up due.
+- [[Exercise 03](exercises/ex03.qmd) write-up due.]{.orange_due}
 
 ### Thursday, February 8
 
@@ -124,6 +124,7 @@ title: "Schedule"
 #### Materials
 
 - [slides](slides/wk05-2024-02-08.qmd)
+- [[Exercise 05](exercises/ex05.qmd) distributed]{.green_assigned}
 
 ---
 
@@ -131,7 +132,7 @@ title: "Schedule"
 
 ### Wednesday, February 14
 
-- [Exercise 04](exercises/ex04.qmd) write-up due.
+- [[Exercise 04](exercises/ex04.qmd) write-up due.]{.orange_due}
 
 ### Thursday, February 15
 
@@ -150,10 +151,15 @@ title: "Schedule"
 #### Materials
 
 - [Notes](slides/wk06-2024-02-15.qmd)
+- [[Exercise 06](exercises/ex06.qmd) distributed]{.green_assigned}.
 
 ---
 
 ## Week 7
+
+### Wednesday, February 21
+
+- [[Exercise 05](exercises/ex05.qmd) write-up due.]{.orange_due}
 
 ### Thursday, February 22
 
@@ -174,6 +180,10 @@ title: "Schedule"
 
 ## Week 8
 
+### Wednesday, February 28
+
+- [[Exercise 06](exercises/ex06.qmd) write-up due.]{.orange_due}
+
 ### Thursday, February 29
 
 #### Topics
@@ -190,6 +200,10 @@ title: "Schedule"
 #### Materials
 
 - [Notes](slides/wk08-2024-02-29.qmd)
+
+#### Due
+
+- [[Final project/paper proposal](resources/final-project){.orange_due}]
 
 ---
 
