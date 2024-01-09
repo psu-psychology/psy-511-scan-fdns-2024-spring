@@ -403,21 +403,21 @@
     "href": "resources/levels.html",
     "title": "Levels of Analysis",
     "section": "",
-    "text": "(Sejnowski, Churchland, & Movshon, 2014)"
+    "text": "(Sejnowski, Churchland, & Movshon, 2014, fig. 1)"
   },
   {
     "objectID": "resources/levels.html#levels-of-analysis",
     "href": "resources/levels.html#levels-of-analysis",
     "title": "Levels of Analysis",
     "section": "",
-    "text": "(Sejnowski, Churchland, & Movshon, 2014)"
+    "text": "(Sejnowski, Churchland, & Movshon, 2014, fig. 1)"
   },
   {
     "objectID": "resources/levels.html#cognitive-science-as-complexity-science-favela2020-uc",
     "href": "resources/levels.html#cognitive-science-as-complexity-science-favela2020-uc",
     "title": "Levels of Analysis",
     "section": "Cognitive science as complexity science (Favela, 2020)",
-    "text": "Cognitive science as complexity science (Favela, 2020)\n\nknitr::include_graphics(\"https://wires.onlinelibrary.wiley.com/cms/asset/40519f8a-bf86-4289-8b40-aa6e6385b3fb/wcs1525-fig-0001-m.png\")\n\n\n\n\n(Favela, 2020)"
+    "text": "Cognitive science as complexity science (Favela, 2020)\n\n\n\n(Favela, 2020, fig. 1)"
   },
   {
     "objectID": "resources/levels.html#david-marr-1945-1980",
@@ -448,11 +448,11 @@
     "text": "Your turn"
   },
   {
-    "objectID": "resources/levels.html#does-neuroscience-need-behavior-does-behavioral-science-need-the-brain",
-    "href": "resources/levels.html#does-neuroscience-need-behavior-does-behavioral-science-need-the-brain",
+    "objectID": "resources/levels.html#does-neuroscience-need-behavior",
+    "href": "resources/levels.html#does-neuroscience-need-behavior",
     "title": "Levels of Analysis",
-    "section": "Does neuroscience need behavior? Does behavioral science need the brain?",
-    "text": "Does neuroscience need behavior? Does behavioral science need the brain?"
+    "section": "Does neuroscience need behavior?",
+    "text": "Does neuroscience need behavior?\n\nDoes behavioral science need the brain?\nWhat does psychology need?"
   },
   {
     "objectID": "resources/levels.html#discussion-of",
@@ -466,7 +466,7 @@
     "href": "resources/levels.html#key-points",
     "title": "Levels of Analysis",
     "section": "Key points",
-    "text": "Key points\n\nQuestions ‘often tacit…belief in the reductionist program for understanding the link between brain and behavior’\nBehavior -&gt; understanding; neural inverventions -&gt; causality\nMarr’s 3 levels (computation; algorithm; implementation)\n\n\n\n\nknitr::include_graphics(\"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg\")\n\n\n\n\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017)\n\n\n\n\nknitr::include_graphics(\"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg\")\n\n\n\n\n(Krakauer et al., 2017)"
+    "text": "Key points\n\nQuestions ‘often tacit…belief in the reductionist program for understanding the link between brain and behavior’\nBehavior -&gt; understanding; neural inverventions -&gt; causality\nMarr’s 3 levels (computation; algorithm; implementation)\n\n\n\n\nknitr::include_graphics(\"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg\")\n\n\n\n\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017)\n\n\n\n\nknitr::include_graphics(\"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg\")\n\n\n\n\nKrakauer et al. (2017)"
   },
   {
     "objectID": "resources/levels.html#main-points",
@@ -525,16 +525,30 @@
     "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to consider behaviors (e.g., movements, facial expressions, vocalizations), physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.), and mental states (e.g. thoughts, memories, feelings).\nCausal diagrams\nCovariates, external influences"
   },
   {
+    "objectID": "exercises/ex08-devo.html",
+    "href": "exercises/ex08-devo.html",
+    "title": "Exercise 08 • Development",
+    "section": "",
+    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
+  },
+  {
+    "objectID": "exercises/ex08-devo.html#goals",
+    "href": "exercises/ex08-devo.html#goals",
+    "title": "Exercise 08 • Development",
+    "section": "",
+    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
+  },
+  {
     "objectID": "exercises/ex08-devo.html#activity",
     "href": "exercises/ex08-devo.html#activity",
-    "title": "Exercise 08 •",
+    "title": "Exercise 08 • Development",
     "section": "Activity",
-    "text": "Activity"
+    "text": "Activity\n\nChoose a psychological domain that interests you.\nIn the spirit of (Blumberg & Adolph, 2023), write a short essay (3-5 pp) where you apply a developmental neuroscience perspective to the domain. In doing so, concisely answer the following questions:\n\n\nHow does psychological functioning change over development?\nWhat brain systems are most directly implicated in the phenomenon?\nDoes our current understanding of developmental patterns in these systems provide useful information about the domain?\nWhat information about brain structure or function is needed to understand the phenomenon more thoroughly?"
   },
   {
     "objectID": "exercises/ex08-devo.html#submission-details",
     "href": "exercises/ex08-devo.html#submission-details",
-    "title": "Exercise 08 •",
+    "title": "Exercise 08 • Development",
     "section": "Submission details",
     "text": "Submission details\n\nSubmit your write-up by Wednesday, February 28, 2024 at 5:00 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
@@ -798,11 +812,25 @@
     "text": "Submission details\n\nSubmit your write-up by Wednesday, February 21, 2024 at 5:00 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
+    "objectID": "exercises/ex07-evo-devo.html",
+    "href": "exercises/ex07-evo-devo.html",
+    "title": "Exercise 07 • Evolution & Development",
+    "section": "",
+    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
+  },
+  {
+    "objectID": "exercises/ex07-evo-devo.html#goals",
+    "href": "exercises/ex07-evo-devo.html#goals",
+    "title": "Exercise 07 • Evolution & Development",
+    "section": "",
+    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
+  },
+  {
     "objectID": "exercises/ex07-evo-devo.html#activity",
     "href": "exercises/ex07-evo-devo.html#activity",
     "title": "Exercise 07 • Evolution & Development",
     "section": "Activity",
-    "text": "Activity"
+    "text": "Activity\nAnswer the following questions in a few short sentences:\n\nWhat feature(s) of the human brain are similar to closely related animals (e.g., mammals and especially primates)?\nWhat feature(s) of the human brain distinguish it from these closely related animals?\nWhy is it especially hard to tie changes in human brain structure to particular human psychological characteristics?\n\nAnswer the following question in a paragraph or two:\n\nConsider a psychological domain that interests you, is an evolutionary perspective useful? Why or why not?"
   },
   {
     "objectID": "exercises/ex07-evo-devo.html#submission-details",
@@ -1012,42 +1040,42 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Structure of the course\nLevels of analysis\nCausality in brain and behavior\nDoes neuroscience need behavior? If so, what does psychology need?\n\n\n\n\n\n(Churchland & Sejnowski, 1988).\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017).\nOptional: (Parada & Rossi, 2018).\n\n\n\n\n\nslides\nExercise 01 assigned"
+    "text": "Structure of the course\nLevels of analysis\nCausality in brain and behavior\nDoes neuroscience need behavior? If so, what does psychology need?\n\n\n\n\n\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017).\nOptional: (Parada & Rossi, 2018).\nOptional: (Churchland & Sejnowski, 1988).\nOptional: (Favela, 2020).\n\n\n\n\n\nSlides\nExercise 01 assigned"
   },
   {
     "objectID": "schedule.html#week-1",
     "href": "schedule.html#week-1",
     "title": "Schedule",
     "section": "",
-    "text": "Structure of the course\nLevels of analysis\nCausality in brain and behavior\nDoes neuroscience need behavior? If so, what does psychology need?\n\n\n\n\n\n(Churchland & Sejnowski, 1988).\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017).\nOptional: (Parada & Rossi, 2018).\n\n\n\n\n\nslides\nExercise 01 assigned"
+    "text": "Structure of the course\nLevels of analysis\nCausality in brain and behavior\nDoes neuroscience need behavior? If so, what does psychology need?\n\n\n\n\n\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\n(Krakauer, Ghazanfar, Gomez-Marin, MacIver, & Poeppel, 2017).\nOptional: (Parada & Rossi, 2018).\nOptional: (Churchland & Sejnowski, 1988).\nOptional: (Favela, 2020).\n\n\n\n\n\nSlides\nExercise 01 assigned"
   },
   {
     "objectID": "schedule.html#week-2",
     "href": "schedule.html#week-2",
     "title": "Schedule",
     "section": "Week 2",
-    "text": "Week 2\n\nWednesday, January 17\n\nExercise 01 write-up due.\n\n\n\nThursday, January 18\n\nTopics\n\nNeuroanatomy lab\n\n\n\nReadings\n\nNeuroanatomy notes\n\n\n\nMaterials\n\nslides\nAllen Brain Atlas.\nExercise 02 distributed"
+    "text": "Week 2\n\nWednesday, January 17\n\nExercise 01 write-up due.\n\n\n\nThursday, January 18\n\nTopics\n\nNeuroanatomy lab\n\n\n\nReadings\n\nNeuroanatomy notes\n\n\n\nMaterials\n\nSlides\nAllen Brain Atlas.\nExercise 02 distributed"
   },
   {
     "objectID": "schedule.html#week-3",
     "href": "schedule.html#week-3",
     "title": "Schedule",
     "section": "Week 3",
-    "text": "Week 3\n\nWednesday, January 24\n\nExercise 02 write-up due.\n\n\n\nThursday, January 25\n\nTopics\n\nCellular neuroscience I\n\nAnatomy\nPhysiology\n\nResting potential\n\n\n\n\n\nReadings\n\nCellular neuroscience notes\nOptional: (Zeng & Sanes, 2017).\nOptional: (Oliveira, Sardinha, Guerra-Gomes, Araque, & Sousa, 2015).\nOptional: (Distéfano-Gagné, Bitarafan, Lacroix, & Gosselin, 2023).\n\n\n\nMaterials\n\nslides\nExercise 03 distributed."
+    "text": "Week 3\n\nWednesday, January 24\n\nExercise 02 write-up due.\n\n\n\nThursday, January 25\n\nTopics\n\nCellular neuroscience I\n\nAnatomy\nPhysiology\n\nResting potential\n\n\n\n\n\nReadings\n\nCellular neuroscience notes\nOptional: (Zeng & Sanes, 2017).\nOptional: (Oliveira, Sardinha, Guerra-Gomes, Araque, & Sousa, 2015).\nOptional: (Distéfano-Gagné, Bitarafan, Lacroix, & Gosselin, 2023).\n\n\n\nMaterials\n\nSlides\nExercise 03 distributed."
   },
   {
     "objectID": "schedule.html#week-4",
     "href": "schedule.html#week-4",
     "title": "Schedule",
     "section": "Week 4",
-    "text": "Week 4\n\nThursday, February 1\n\nTopics\n\nCellular neuroscience II\n\nAction potential\nSynaptic transmission\n\nExercise 04 assigned\n\n\n\nReadings\n\nCellular neuroscience notes\n\n\n\nMaterials\n\nslides"
+    "text": "Week 4\n\nThursday, February 1\n\nTopics\n\nCellular neuroscience II\n\nAction potential\nSynaptic transmission\n\nExercise 04 assigned\n\n\n\nReadings\n\nCellular neuroscience notes\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-5",
     "href": "schedule.html#week-5",
     "title": "Schedule",
     "section": "Week 5",
-    "text": "Week 5\n\nWednesday, February 7\n\nExercise 03 write-up due.\n\n\n\nThursday, February 8\n\nTopics\n\nNeurochemistry\n\nNeurotransmitters\nHormones\n\nNeurocomputing\n\n\n\nReadings\n\nNeurochemistry notes\nOptional: (Sarkar et al., 2016).\n\n\n\nMaterials\n\nslides\nExercise 05 distributed"
+    "text": "Week 5\n\nWednesday, February 7\n\nExercise 03 write-up due.\n\n\n\nThursday, February 8\n\nTopics\n\nNeurochemistry\n\nNeurotransmitters\nHormones\n\nNeurocomputing\n\n\n\nReadings\n\nNeurochemistry notes\nOptional: (Sarkar et al., 2016).\n\n\n\nMaterials\n\nSlides\nExercise 05 distributed"
   },
   {
     "objectID": "schedule.html#week-6",
@@ -1082,49 +1110,49 @@
     "href": "schedule.html#week-9",
     "title": "Schedule",
     "section": "Week 9",
-    "text": "Week 9\n\nWednesday, March 13\n\nExercise 07 write-up due.\nExercise 08 write-up due.\n\n\n\nThursday, March 14\n\nTopics\n\nPerception\n\n\n\nReadings\n\n(Murray, Lewkowicz, Amedi, & Wallace, 2016).\n(Tallon-Baudry, 2023).\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 9\n\nWednesday, March 13\n\nExercise 07 write-up due.\nExercise 08 write-up due.\n\n\n\nThursday, March 14\n\nTopics\n\nPerception\n\n\n\nReadings\n\n(Murray, Lewkowicz, Amedi, & Wallace, 2016).\n(Tallon-Baudry, 2023).\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-10",
     "href": "schedule.html#week-10",
     "title": "Schedule",
     "section": "Week 10",
-    "text": "Week 10\n\nThursday, March 21\n\nTopics\n\nAction\n\n\n\nReadings\n\n(Nielsen, 2016)\n(Shenoy, Sahani, & Churchland, 2013)\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 10\n\nThursday, March 21\n\nTopics\n\nAction\n\n\n\nReadings\n\n(Nielsen, 2016)\n(Shenoy, Sahani, & Churchland, 2013)\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-11",
     "href": "schedule.html#week-11",
     "title": "Schedule",
     "section": "Week 11",
-    "text": "Week 11\n\nThursday, March 28\n\nTopics\n\nLanguage & cognition\n\n\n\nReadings\n\nWatch: (MITCBMM, 2018).\n(Hagoort & Indefrey, 2014).\n(Anderson, Pyke, & Fincham, 2016).\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 11\n\nThursday, March 28\n\nTopics\n\nLanguage & cognition\n\n\n\nReadings\n\nWatch: (MITCBMM, 2018).\n(Hagoort & Indefrey, 2014).\n(Anderson, Pyke, & Fincham, 2016).\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-12",
     "href": "schedule.html#week-12",
     "title": "Schedule",
     "section": "Week 12",
-    "text": "Week 12\n\nThursday, April 4\n\nTopics\n\nLearning & memory\n\n\n\nReadings\n\n(Squire & Wixted, 2011)\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 12\n\nThursday, April 4\n\nTopics\n\nLearning & memory\n\n\n\nReadings\n\n(Squire & Wixted, 2011)\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-13",
     "href": "schedule.html#week-13",
     "title": "Schedule",
     "section": "Week 13",
-    "text": "Week 13\n\nThursday, April 11\n\nTopics\n\nDisorder & disease I\n\n\n\nReadings\n\n(Howes, Bukala, & Beck, 2023).\n(Hunt, Kopell, Traub, & Whittington, 2017).\n(Volk, Chiu, Sharma, & Huganir, 2015).\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 13\n\nThursday, April 11\n\nTopics\n\nDisorder & disease I\n\n\n\nReadings\n\n(Howes, Bukala, & Beck, 2023).\n(Hunt, Kopell, Traub, & Whittington, 2017).\n(Volk, Chiu, Sharma, & Huganir, 2015).\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-14",
     "href": "schedule.html#week-14",
     "title": "Schedule",
     "section": "Week 14",
-    "text": "Week 14\n\nThursday, April 18\n\nTopics\n\nDisorder & disease II\n\n\n\nReadings\n\n(Moncrieff et al., 2022).\n(Pawluski, Lonstein, & Fleming, 2017).\n(Namkung, Kim, & Sawa, 2017)\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 14\n\nThursday, April 18\n\nTopics\n\nDisorder & disease II\n\n\n\nReadings\n\n(Moncrieff et al., 2022).\n(Pawluski, Lonstein, & Fleming, 2017).\n(Namkung, Kim, & Sawa, 2017)\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-15",
     "href": "schedule.html#week-15",
     "title": "Schedule",
     "section": "Week 15",
-    "text": "Week 15\n\nThursday, April 25\n\nTopics\n\nFear, stress, pleasure, & reward\n\n\n\nReadings\n\n(Pellman & Kim, 2016).\n(Musazzi, Tornese, Sala, & Popoli, 2017).\n(Hu, 2016).\n(Watabe-Uchida, Eshel, & Uchida, 2017).\n(Campbell & Lobo, 2023).\n\n\n\nMaterials\n\nNotes"
+    "text": "Week 15\n\nThursday, April 25\n\nTopics\n\nFear, stress, pleasure, & reward\n\n\n\nReadings\n\n(Pellman & Kim, 2016).\n(Musazzi, Tornese, Sala, & Popoli, 2017).\n(Hu, 2016).\n(Watabe-Uchida, Eshel, & Uchida, 2017).\n(Campbell & Lobo, 2023).\n\n\n\nMaterials\n\nSlides"
   },
   {
     "objectID": "schedule.html#week-16",

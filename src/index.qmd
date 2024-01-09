@@ -1,6 +1,6 @@
 ---
 title: "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)"
-subtitle: "PSY 511 • Spring 2024"
+subtitle: "PSY 511.003 • Spring 2024"
 format: html
 css: include/css/styles.css
 bibliography: [include/bib/packages.bib, include/bib/psu-repro.bib, include/bib/psy-511.bib]

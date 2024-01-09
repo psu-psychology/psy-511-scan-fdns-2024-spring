@@ -40,6 +40,8 @@ website:
           - href: "exercises/ex04.qmd"
           - href: "exercises/ex05.qmd"
           - href: "exercises/ex06.qmd"
+          - href: "exercises/ex07-evo-devo-qmd"
+          - href: "exercises/ex08-devo.qmd"
 format:
   html:
     theme: cosmo

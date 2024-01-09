@@ -15,14 +15,15 @@ title: "Schedule"
 
 #### Readings
 
-- [@Churchland1988-aj].
 - [@Siddiqi2022-wl].
 - [@Krakauer2017-xl].
 - Optional: [@Parada2018-rp].
+- Optional: [@Churchland1988-aj].
+- Optional: [@Favela2020-uc].
 
 #### Materials
 
-- [slides](slides/wk01-2024-01-11.qmd)
+- [Slides](slides/wk01-2024-01-11.qmd)
 - [[Exercise 01](exercises/ex01.qmd) assigned]{.green_assigned}
 
 ---
@@ -45,7 +46,7 @@ title: "Schedule"
 
 #### Materials
 
-- [slides](slides/wk02-2024-01-18.qmd)
+- [Slides](slides/wk02-2024-01-18.qmd)
 - [Allen Brain Atlas](http://atlas.brain-map.org/atlas?atlas=138322605#atlas=138322605&structure=10390&resolution=119.78&x=31680.307112068967&y=42751.00179211847&zoom=-6&plate=112360949).
 - [[Exercise 02](exercises/ex02.qmd) distributed]{.green_assigned}
 
@@ -75,7 +76,7 @@ title: "Schedule"
 
 #### Materials
 
-- [slides](slides/wk03-2024-01-25.qmd)
+- [Slides](slides/wk03-2024-01-25.qmd)
 - [[Exercise 03](exercises/ex03.qmd) distributed.]{.green_assigned}
 
 ---
@@ -97,7 +98,7 @@ title: "Schedule"
 
 #### Materials
 
-- [slides](slides/wk04-2024-02-01.qmd)
+- [Slides](slides/wk04-2024-02-01.qmd)
 
 ---
 
@@ -123,7 +124,7 @@ title: "Schedule"
 
 #### Materials
 
-- [slides](slides/wk05-2024-02-08.qmd)
+- [Slides](slides/wk05-2024-02-08.qmd)
 - [[Exercise 05](exercises/ex05.qmd) distributed]{.green_assigned}
 
 ---
@@ -238,7 +239,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk09-2024-03-14.qmd)
+- [Slides](slides/wk09-2024-03-14.qmd)
 
 ---
 
@@ -257,7 +258,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk10-2024-03-21.qmd)
+- [Slides](slides/wk10-2024-03-21.qmd)
 
 ---
 
@@ -277,7 +278,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk11-2024-03-28.qmd)
+- [Slides](slides/wk11-2024-03-28.qmd)
 
 ---
 
@@ -295,7 +296,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk12-2024-04-04.qmd)
+- [Slides](slides/wk12-2024-04-04.qmd)
 
 ---
 
@@ -315,7 +316,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk13-2024-04-11.qmd)
+- [Slides](slides/wk13-2024-04-11.qmd)
 
 ## Week 14
 
@@ -333,7 +334,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk14-2024-04-18.qmd)
+- [Slides](slides/wk14-2024-04-18.qmd)
 
 ---
 
@@ -355,7 +356,7 @@ title: "Schedule"
 
 #### Materials
 
-- [Notes](slides/wk15-2024-04-25.qmd)
+- [Slides](slides/wk15-2024-04-25.qmd)
 
 ---
 

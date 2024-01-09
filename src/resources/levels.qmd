@@ -5,21 +5,12 @@ bibliography: ["../include/bib/psy-511.bib"]
 
 ## Levels of analysis
 
-<div class="centered">
-<a href="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp">
-<img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp" width="600px">
-</a>
+![[@Sejnowski2014-aa Figure 1]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp)
 
-<small>
-[[@Sejnowski2014-aa]](http://doi.org/10.1038/nn.3839)
-</small>
-</div>
 
 ## Cognitive science as complexity science [@Favela2020-uc]
 
-```{r, fig.cap="[[@Favela2020-uc]](http://dx.doi.org/10.1002/wcs.1525)"}
-knitr::include_graphics("https://wires.onlinelibrary.wiley.com/cms/asset/40519f8a-bf86-4289-8b40-aa6e6385b3fb/wcs1525-fig-0001-m.png")
-```
+![[@Favela2020-uc Figure 1]](https://wires.onlinelibrary.wiley.com/cms/asset/8a77f337-943b-4df9-8da8-b7206093f08d/wcs1525-fig-0001-m.jpg)
 
 ## David Marr (1945-1980)
 
@@ -48,7 +39,10 @@ knitr::include_graphics("https://wires.onlinelibrary.wiley.com/cms/asset/baa7ce3
     
 ## Your turn
 
-## Does neuroscience need behavior? Does behavioral science need the brain?
+## Does neuroscience need behavior? 
+
+- Does behavioral science need the brain?
+- What does psychology need?
 
 ## Discussion of...
 
@@ -77,7 +71,7 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S089662731
 knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg")
 ```
 
-[[@Krakauer2017-xl]](http://dx.doi.org/10.1016/j.neuron.2016.12.041)
+[@Krakauer2017-xl](http://dx.doi.org/10.1016/j.neuron.2016.12.041)
 </div>
 
 ## Main points
