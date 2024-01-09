@@ -169,12 +169,14 @@ title: "Schedule"
 
 #### Readings
 
-- Optional: [@hofman_evolution_2014].
+- [@Charvet2012-bg]
+- [@hofman_evolution_2014]
 - Optional: [@Castrillon2023-mt].
 
 #### Materials
 
 - [Notes](slides/wk07-2024-02-22.qmd)
+- [[Exercise 07](exercises/ex07-evo-devo.qmd) distributed]{.green_assigned}
 
 ---
 
@@ -200,6 +202,7 @@ title: "Schedule"
 #### Materials
 
 - [Notes](slides/wk08-2024-02-29.qmd)
+- [[Exercise 08](exercises/ex08-devo.qmd) distributed]{.green_assigned}
 
 #### Due
 
@@ -217,6 +220,11 @@ title: "Schedule"
 
 ## Week 9
 
+### Wednesday, March 13
+
+- [[Exercise 07](exercises/ex07-evo-devo.qmd) write-up due.]{.orange_due}
+- [[Exercise 08](exercises/ex08-devo.qmd) write-up due.]{.orange_due}
+
 ### Thursday, March 14
 
 #### Topics
@@ -225,8 +233,8 @@ title: "Schedule"
 
 #### Readings
 
-- Murray, M. M., Lewkowicz, D. J., Amedi, A., & Wallace, M. T. (2016). Multisensory processes: A balancing act across the lifespan. *Trends in Neurosciences*, *39*(8), 567–579. Retrieved July 28, 2016, from <https://www.sciencedirect.com/science/article/pii/S0166223616300480>
-- (Optional) Tallon-Baudry, C. (2023). Interoception: Probing internal state is inherent to perception and cognition. *Neuron*, *111*(12), 1854–1857. https://doi.org/10.1016/j.neuron.2023.04.019
+- [@Murray2016-up].
+- [@Tallon-Baudry2023-ac].
 
 #### Materials
 
@@ -244,8 +252,8 @@ title: "Schedule"
 
 #### Readings
 
-- Nielsen, J. B. (2016). Human spinal motor control. *Annual Review of Neuroscience*, *39*, 81–101. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-013913>
-- Shenoy, K. V., Sahani, M., & Churchland, M. M. (2013). Cortical control of arm movements: A dynamical systems perspective. *Annual Review of Neuroscience*, *36*, 337–359. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-062111-150509>.
+- [@Nielsen2016-hs]
+- [@Shenoy2013-zi]
 
 #### Materials
 
@@ -263,7 +271,9 @@ title: "Schedule"
 
 #### Readings
 
-- Hagoort, P., & Indefrey, P. (2014). The neurobiology of language beyond single words. *Annual Review of Neuroscience*, *37*, 347–362. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-013847>.
+- Watch: [@Mitcbmm2018-lr].
+- [@Hagoort2014-au].
+- [@Anderson2016-bx].
 
 #### Materials
 
@@ -281,7 +291,7 @@ title: "Schedule"
 
 #### Readings
 
-- Squire, L. R., & Wixted, J. T. (2011). The cognitive neuroscience of human memory since H.M. *Annual Review of Neuroscience*, *34*, 259–288. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-061010-113720>.
+- [@Squire2011-zg]
 
 #### Materials
 
@@ -299,9 +309,9 @@ title: "Schedule"
 
 #### Readings
 
-- Howes, O. D., Bukala, B. R. & Beck, K. (2023). Schizophrenia: from neurochemistry to circuits, symptoms and treatments. *Nature Reviews Neurology*. https://doi.org/10.1038/s41582-023-00904-0
-- Hunt, M. J., Kopell, N. J., Traub, R. D., & Whittington, M. A. (2017). Aberrant network activity in schizophrenia. *Trends in Neurosciences*, *40*(6), 371–382. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.04.003>.
-- Volk, L., Chiu, S.-L., Sharma, K., & Huganir, R. L. (2015). Glutamate synapses in human cognitive disorders. *Annual Review of Neuroscience*, *38*, 127–149. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071714-033821>.
+- [@Howes2023-vk].
+- [@Hunt2017-si].
+- [@Volk2015-ki].
 
 #### Materials
 
@@ -317,36 +327,13 @@ title: "Schedule"
 
 #### Readings
 
-- Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P. & Horowitz, M. A. (2022). The serotonin theory of depression: a systematic umbrella review of the evidence. Molecular Psychiatry. https://doi.org/10.1038/s41380-022-01661-0
-- Pawluski, J. L., Lonstein, J. S., & Fleming, A. S. (2017). The neurobiology of postpartum anxiety and depression. *Trends in Neurosciences*, *40*(2), 106–120. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.11.009>.
-- Namkung, H., Kim, S.-H., & Sawa, A. (2017). The insula: An underestimated brain area in clinical neuroscience, psychiatry, and neurology. *Trends in Neurosciences*, *40*(4), 200–207. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.02.002>.
+- [@Moncrieff2022-os].
+- [@Pawluski2017-dy].
+- [@Namkung2017-gc]
 
 #### Materials
 
 - [Notes](slides/wk14-2024-04-18.qmd)
-
-<!-- ### Wednesday, December 1 -->
-
-<!-- - Topics -->
-<!--     + Networks all the way down -->
-<!-- - Read/Watch -->
-<!--     + Raichle, M. E. (2015). The brain’s default mode network. *Annual Review of Neuroscience*, *38*, 433–447. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-071013-014030> -->
-<!-- - Optional -->
-<!--     + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185 -->
-<!--     + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016 -->
-
-<!-- ### Friday, December 3 -->
-
-<!-- - Topics -->
-<!--     + Networks all the way down -->
-<!-- - Read/Watch -->
-<!--     + Bullmore, E., & Sporns, O. (2009). Complex brain networks: Graph theoretical analysis of structural and functional systems. *Nature Reviews Neuroscience*, *10*(3), 186–198. <https://doi.org/10.1038/nrn2575>. -->
-<!-- - Optional -->
-<!--     + Bargmann, C. I. (2012). Beyond the connectome: how neuromodulators shape neural circuits. *BioEssays: News and Reviews in Molecular, Cellular and Developmental Biology*, *34*(6), 458–465. https://doi.org/10.1002/bies.201100185. -->
-<!--     - Bassett, D. S., & Sporns, O. (2017). Network neuroscience. Nature Neuroscience, 20(3), 353–364. https://doi.org/10.1038/nn.4502. -->
-<!--     + Kopell, N. J., Gritton, H. J., Whittington, M. A., & Kramer, M. A. (2014). Beyond the connectome: the dynome. *Neuron*, *83*(6), 1319–1328. https://doi.org/10.1016/j.neuron.2014.08.016 -->
-
-<!-- - **Quiz 3** due. -->
 
 ---
 
@@ -360,11 +347,11 @@ title: "Schedule"
 
 #### Readings
 
-- Pellman, B. A., & Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? *Trends in Neurosciences*, *39*(6), 420–431. Retrieved from <https://dx.doi.org/10.1016/j.tins.2016.04.001> -->
-- Musazzi, L., Tornese, P., Sala, N., & Popoli, M. (2017). Acute or chronic? A stressful question. *Trends in Neurosciences*. Retrieved from <https://dx.doi.org/10.1016/j.tins.2017.07.002>
-- Hu, H. (2016). Reward and aversion. *Annual Review of Neuroscience*, *39*, 297–324. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-070815-014106> -->
-- Watabe-Uchida, M., Eshel, N., & Uchida, N. (2017). Neural circuitry of reward prediction error. *Annual Review of Neuroscience*, *40*, 373–394. Retrieved from <https://dx.doi.org/10.1146/annurev-neuro-072116-031109>
-- (Optional) Campbell, R. R. & Lobo, M. K. (2023). Pallidal circuits drive addiction behavior. *Trends in Neurosciences*, *46*(12), 1042–1053. https://doi.org/10.1016/j.tins.2023.10.001
+- [@Pellman2016-xu].
+- [@Musazzi2017-lr].
+- [@Hu2016-yw].
+- [@Watabe-Uchida2017-gi].
+- [@Campbell2023-dm].
 
 #### Materials
 
