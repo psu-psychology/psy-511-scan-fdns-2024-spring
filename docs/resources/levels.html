@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -163,7 +129,7 @@ div.csl-indent {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
         <li>
     <a class="dropdown-item" href="../slides/wk01-2024-01-11.html" rel="" target="">
- <span class="dropdown-text">2024-01-08 Mon</span></a>
+ <span class="dropdown-text">Foundations of Social, Cognitive, and Affective Neuroscience</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../slides/wk02-2024-01-18.html" rel="" target="">
@@ -252,12 +218,14 @@ div.csl-indent {
   <li><a href="#david-marr-1945-1980" id="toc-david-marr-1945-1980" class="nav-link" data-scroll-target="#david-marr-1945-1980">David Marr (1945-1980)</a></li>
   <li><a href="#marrs-three-levels" id="toc-marrs-three-levels" class="nav-link" data-scroll-target="#marrs-three-levels">Marr’s Three Levels</a></li>
   <li><a href="#scientific-story-telling-at-different-levels-of-analysis" id="toc-scientific-story-telling-at-different-levels-of-analysis" class="nav-link" data-scroll-target="#scientific-story-telling-at-different-levels-of-analysis">Scientific “story-telling” at different levels of analysis</a></li>
-  <li><a href="#your-turn" id="toc-your-turn" class="nav-link" data-scroll-target="#your-turn">Your turn</a></li>
+  <li><a href="#your-turn" id="toc-your-turn" class="nav-link" data-scroll-target="#your-turn">Your turn</a>
+  <ul class="collapse">
   <li><a href="#does-neuroscience-need-behavior" id="toc-does-neuroscience-need-behavior" class="nav-link" data-scroll-target="#does-neuroscience-need-behavior">Does neuroscience need behavior?</a></li>
   <li><a href="#discussion-of" id="toc-discussion-of" class="nav-link" data-scroll-target="#discussion-of">Discussion of…</a></li>
   <li><a href="#key-points" id="toc-key-points" class="nav-link" data-scroll-target="#key-points">Key points</a></li>
   <li><a href="#main-points" id="toc-main-points" class="nav-link" data-scroll-target="#main-points">Main points</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -301,42 +269,27 @@ div.csl-indent {
 </section>
 <section id="david-marr-1945-1980" class="level2">
 <h2 class="anchored" data-anchor-id="david-marr-1945-1980">David Marr (1945-1980)</h2>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGutDYqHcIazwkXdQtGfedIVfGG-DcrtMAK_j93DQgrMI8lsiH7WGttQlgdh0-jO_u4w&amp;usqp=CAU"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGutDYqHcIazwkXdQtGfedIVfGG-DcrtMAK_j93DQgrMI8lsiH7WGttQlgdh0-jO_u4w&amp;usqp=CAU.png" class="img-fluid figure-img"></p>
 <figcaption class="figure-caption">David Marr</figcaption>
 </figure>
 </div>
-</div>
-</div>
 <hr>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262514620%26type%3D.jpg?itok=7HDFLFlL"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262514620%26type%3D.jpg?itok=7HDFLFlL" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><a href="https://mitpress.mit.edu/books/vision"><span class="citation" data-cites="Marr1980-cu">(<span>Marr, 1980</span>)</span></a></figcaption>
+<figcaption class="figure-caption"><span class="citation" data-cites="Marr1980-cu">(<a href="#ref-Marr1980-cu" role="doc-biblioref">Marr, 1980</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 </section>
 <section id="marrs-three-levels" class="level2">
 <h2 class="anchored" data-anchor-id="marrs-three-levels">Marr’s Three Levels</h2>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://wires.onlinelibrary.wiley.com/cms/asset/baa7ce31-781c-496a-a687-4e9df7a8e371/wcs1525-fig-0003-m.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://wires.onlinelibrary.wiley.com/cms/asset/baa7ce31-781c-496a-a687-4e9df7a8e371/wcs1525-fig-0003-m.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><a href="http://dx.doi.org/10.1002/wcs.1525"><span class="citation" data-cites="Favela2020-uc">(<span>Favela, 2020</span>)</span></a></figcaption>
+<figcaption class="figure-caption"><span class="citation" data-cites="Favela2020-uc">(<a href="#ref-Favela2020-uc" role="doc-biblioref">Favela, 2020, fig. 3</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 </section>
 <section id="scientific-story-telling-at-different-levels-of-analysis" class="level2">
@@ -352,9 +305,8 @@ div.csl-indent {
 </ul></li>
 </ul>
 </section>
-<section id="your-turn" class="level2">
-<h2 class="anchored" data-anchor-id="your-turn">Your turn</h2>
-</section>
+<section id="your-turn" class="level1">
+<h1>Your turn</h1>
 <section id="does-neuroscience-need-behavior" class="level2">
 <h2 class="anchored" data-anchor-id="does-neuroscience-need-behavior">Does neuroscience need behavior?</h2>
 <ul>
@@ -365,33 +317,30 @@ div.csl-indent {
 <section id="discussion-of" class="level2">
 <h2 class="anchored" data-anchor-id="discussion-of">Discussion of…</h2>
 <p>Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., &amp; Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. <em>Neuron</em>, <em>93</em>(3), 480–490. <a href="https://dx.doi.org/10.1016/j.neuron.2016.12.041" class="uri">https://dx.doi.org/10.1016/j.neuron.2016.12.041</a>.</p>
+<p>Parada, F. J. &amp; Rossi, A. (2018). If neuroscience needs behavior, what does psychology need? <em>Frontiers in Psychology</em>, <em>9</em>, 433. <a href="https://doi.org/10.3389/fpsyg.2018.00433" class="uri">https://doi.org/10.3389/fpsyg.2018.00433</a>.</p>
 </section>
 <section id="key-points" class="level2">
 <h2 class="anchored" data-anchor-id="key-points">Key points</h2>
 <ul>
 <li>Questions ‘often tacit…belief in the reductionist program for understanding the link between brain and behavior’</li>
-<li>Behavior -&gt; understanding; neural inverventions -&gt; causality</li>
+<li>Behavior -&gt; understanding; neural interventions -&gt; causality</li>
 <li>Marr’s 3 levels (computation; algorithm; implementation)</li>
 </ul>
 <hr>
-<div class="centered">
-<div class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
-<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg" class="img-fluid" width="750"></p>
-</div>
-</div>
-<p><a href="http://dx.doi.org/10.1016/j.neuron.2016.12.041"><span class="citation" data-cites="Krakauer2017-xl">(<span>Krakauer, Ghazanfar, Gomez-Marin, MacIver, &amp; Poeppel, 2017</span>)</span></a></p>
+<p>![<a href="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr3.jpg"><span class="citation" data-cites="Krakauer2017-xl">Krakauer, Ghazanfar, Gomez-Marin, MacIver, &amp; Poeppel (<span>2017</span>)</span> Figure 3</a></p>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><span class="citation" data-cites="Krakauer2017-xl">(<a href="#ref-Krakauer2017-xl" role="doc-biblioref">Krakauer et al., 2017, fig. 4</a>)</span></figcaption>
+</figure>
 </div>
 <hr>
-<div class="centered">
-<div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
-<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr4.jpg" class="img-fluid" width="800"></p>
-</div>
-</div>
-<p><a href="http://dx.doi.org/10.1016/j.neuron.2016.12.041"><span class="citation" data-cites="Krakauer2017-xl">Krakauer et al. (<span>2017</span>)</span></a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.frontiersin.org/files/Articles/362280/fpsyg-09-00433-HTML/image_m/fpsyg-09-00433-g001.jpg" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption"><span class="citation" data-cites="Parada2018-rp">(<a href="#ref-Parada2018-rp" role="doc-biblioref">Parada &amp; Rossi, 2018, fig. 1</a>)</span></figcaption>
+</figure>
 </div>
 </section>
 <section id="main-points" class="level2">
@@ -407,6 +356,7 @@ div.csl-indent {
 
 
 </section>
+</section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
 <div id="ref-Favela2020-uc" class="csl-entry" role="listitem">
@@ -417,6 +367,9 @@ Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., &amp; Poeppe
 </div>
 <div id="ref-Marr1980-cu" class="csl-entry" role="listitem">
 Marr, D. (1980). <em>Vision</em>. Retrieved from <a href="https://mitpress.mit.edu/books/vision">https://mitpress.mit.edu/books/vision</a>
+</div>
+<div id="ref-Parada2018-rp" class="csl-entry" role="listitem">
+Parada, F. J., &amp; Rossi, A. (2018). If neuroscience needs behavior, what does psychology need? <em>Frontiers in Psychology</em>, <em>9</em>, 433. <a href="https://doi.org/10.3389/fpsyg.2018.00433">https://doi.org/10.3389/fpsyg.2018.00433</a>
 </div>
 <div id="ref-Sejnowski2014-aa" class="csl-entry" role="listitem">
 Sejnowski, T. J., Churchland, P. S., &amp; Movshon, J. A. (2014). Putting big data to good use in neuroscience. <em>Nat. Neurosci.</em>, <em>17</em>(11), 1440–1441. <a href="https://doi.org/10.1038/nn.3839">https://doi.org/10.1038/nn.3839</a>
