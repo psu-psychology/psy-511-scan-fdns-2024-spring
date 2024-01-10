@@ -235,6 +235,30 @@ format:
 [@Eisenberg2019-iy]
 </p>
 
+## "Behavioural biologists don't agree on what constitutes behaviour"
+
+>Behavioural biology is a major discipline within biology, centred on the key concept of ‘behaviour’. But how is ‘behaviour’ defined, and how should it be defined? We outline what characteristics we believe a scientific definition should have, and why we think it is important that a definition have these traits. We then examine the range of available published definitions for behaviour. 
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
+---
+
+>Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
+---
+
+>We offer a new definition, based largely on survey responses: "Behaviour is the internally coordinated responses (actions or inactions) of whole living organisms (individuals or groups) to internal and/or external stimuli, excluding responses more easily understood as developmental changes."
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
 ## Sciences of complexity
 
 ![[@Favela2020-uc Figure 1]](https://wires.onlinelibrary.wiley.com/cms/asset/8a77f337-943b-4df9-8da8-b7206093f08d/wcs1525-fig-0001-m.jpg)
@@ -267,18 +291,11 @@ format:
 - What algorithm is used to carry out the computation?
 - What hardware implements the algorithm?
 
-
-
 # Break
 
 # Your turn
 
 ## Does neuroscience need behavior? 
-
-- Does behavioral science need the brain?
-- What does psychology need?
-
-## Discussion of...
 
 Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: Correcting a reductionist bias. *Neuron*, *93*(3), 480–490. <https://dx.doi.org/10.1016/j.neuron.2016.12.041>.
 
@@ -289,6 +306,40 @@ Parada, F. J. & Rossi, A. (2018). If neuroscience needs behavior, what does psyc
 - Questions 'often tacit...belief in the reductionist program for understanding the link between brain and behavior'
 - Behavior -> understanding; neural interventions -> causality
 - Marr's 3 levels (computation; algorithm; implementation)
+
+#W But what is behavior?
+
+## "Behavioural biologists don't agree on what constitutes behaviour"
+
+>Behavioural biology is a major discipline within biology, centred on the key concept of ‘behaviour’. But how is ‘behaviour’ defined, and how should it be defined? We outline what characteristics we believe a scientific definition should have, and why we think it is important that a definition have these traits. We then examine the range of available published definitions for behaviour. 
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
+---
+
+>Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
+---
+
+>We offer a new definition, based largely on survey responses: "Behaviour is the internally coordinated responses (actions or inactions) of whole living organisms (individuals or groups) to internal and/or external stimuli, excluding responses more easily understood as developmental changes."
+
+<p style="text-align:center;">
+[@Levitis2009-br]
+</p>
+
+---
+
+![[@Krakauer2017-xl Figure 1]](https://ars-els-cdn-com/content/image/1-s2.0-S0896627316310406-gr1.jpg)
+
+---
+
+![[@Krakauer2017-xl Figure 2]](https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr2.jpg)
 
 ---
 
