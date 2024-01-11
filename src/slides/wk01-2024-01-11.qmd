@@ -168,7 +168,7 @@ format:
 
 ## Structure
 
-<https://psu-psychology.github.io/psy-511-scan-fdns-2024/>
+<https://psu-psychology.github.io/psy-511-scan-fdns-2024-spring/>
 
 ## Questions
 
@@ -229,7 +229,11 @@ format:
 
 ## And do we have the right "psychological" structures?
 
->"Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are particularly damaging for the study of **multifaceted constructs like self-regulation**...We conclude that self-regulation lacks coherence as a construct..."
+>"Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are 
+
+---
+
+>...particularly damaging for the study of **multifaceted constructs like self-regulation**...We conclude that self-regulation lacks coherence as a construct..."
 
 <p style="text-align:center;">
 [@Eisenberg2019-iy]
@@ -237,7 +241,11 @@ format:
 
 ## "Behavioural biologists don't agree on what constitutes behaviour"
 
->Behavioural biology is a major discipline within biology, centred on the key concept of ‘behaviour’. But how is ‘behaviour’ defined, and how should it be defined? We outline what characteristics we believe a scientific definition should have, and why we think it is important that a definition have these traits. We then examine the range of available published definitions for behaviour. 
+>Behavioural biology is a major discipline within biology, centred on the key concept of ‘behaviour’. But how is ‘behaviour’ defined, and how should it be defined? We outline what characteristics we believe a scientific definition should have, and why we think it is important 
+
+---
+
+>that a definition have these traits. We then examine the range of available published definitions for behaviour. 
 
 <p style="text-align:center;">
 [@Levitis2009-br]
@@ -245,7 +253,11 @@ format:
 
 ---
 
->Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
+>Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, 
+
+---
+
+>each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
 
 <p style="text-align:center;">
 [@Levitis2009-br]

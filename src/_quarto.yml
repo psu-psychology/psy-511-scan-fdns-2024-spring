@@ -4,10 +4,10 @@ project:
     - "*.qmd"
     - "exercises/*.qmd"
     - "slides/*.qmd"
+    - "resources/*.qmd"
   output-dir: "../docs"
-
 website:
-  title: "PSYCH 511 • Spring 2024"
+  title: "PSYCH 511.003 • Spring 2024"
   comments: 
     hypothesis:
       theme: clean
@@ -24,7 +24,7 @@ website:
       - text: slides
         menu:
           - href: "slides/wk01-2024-01-11.qmd"
-          - href: "slides/wk02-2024-01-18.qmd"
+            text: Week-01
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -46,12 +46,9 @@ format:
   html:
     theme: cosmo
     css: include/css/styles.css
-    toc: true
-    number-sections: false
+    csl: include/bib/apa.csl
+    bibliography: [include/bib/psu-repro.bib, include/bib/packages.bib, include/bib/psy-511.bib]
     citations-hover: true
     footnotes-hover: true
-    bibliography: [include/bib/packages.bib, include/bib/psu-repro.bib, include/bib/psy-511.bib]
-    csl: include/bib/apa.csl
-
 editor: source
     
