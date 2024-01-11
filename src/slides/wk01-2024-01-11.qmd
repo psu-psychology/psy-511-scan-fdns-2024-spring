@@ -32,7 +32,7 @@ format:
 [@National_Geographic2014-gv]
 </p>
 
----
+## Gilmore bio
 
 ::: {layout-nrow=2}
 
@@ -229,11 +229,11 @@ format:
 
 ## And do we have the right "psychological" structures?
 
->"Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are 
+>"Psychological sciences have identified a wealth of cognitive processes and behavioral phenomena, yet struggle to produce cumulative knowledge. Progress is hamstrung by siloed scientific traditions and a focus on explanation over prediction, two issues that are particularly damaging...
 
 ---
 
->...particularly damaging for the study of **multifaceted constructs like self-regulation**...We conclude that self-regulation lacks coherence as a construct..."
+>...for the study of **multifaceted constructs like self-regulation**...We conclude that self-regulation lacks coherence as a construct..."
 
 <p style="text-align:center;">
 [@Eisenberg2019-iy]
@@ -245,7 +245,7 @@ format:
 
 ---
 
->that a definition have these traits. We then examine the range of available published definitions for behaviour. 
+>...that a definition have these traits. We then examine the range of available published definitions for behaviour. 
 
 <p style="text-align:center;">
 [@Levitis2009-br]
@@ -253,11 +253,11 @@ format:
 
 ---
 
->Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, 
+>Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves...
 
 ---
 
->each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
+>...each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
 
 <p style="text-align:center;">
 [@Levitis2009-br]
@@ -331,7 +331,7 @@ Parada, F. J. & Rossi, A. (2018). If neuroscience needs behavior, what does psyc
 
 ---
 
-![[@Krakauer2017-xl Figure 1]](https://ars-els-cdn-com/content/image/1-s2.0-S0896627316310406-gr1.jpg)
+![[@Krakauer2017-xl Figure 1]](https://ars.els-cdn.com/content/image/1-s2.0-S0896627316310406-gr1.jpg)
 
 ---
 

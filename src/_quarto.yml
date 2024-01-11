@@ -24,7 +24,7 @@ website:
       - text: slides
         menu:
           - href: "slides/wk01-2024-01-11.qmd"
-            text: Week-01
+            text: "Week-01 • Course introduction"
       - text: resources
         menu:
           - href: "resources/levels.qmd"

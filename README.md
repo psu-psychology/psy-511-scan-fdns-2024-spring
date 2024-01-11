@@ -7,4 +7,7 @@ The site is built using [Quarto](https://quarto.org).
 Source code can be found in `src/`.
 The rendered site can be found in `docs/`.
 
+The course site can be found here:
+<https://psu-psychology.github.io/psy-511-scan-fdns-2024-spring/>
+
 
