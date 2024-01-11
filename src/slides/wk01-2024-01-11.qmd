@@ -319,27 +319,11 @@ Parada, F. J. & Rossi, A. (2018). If neuroscience needs behavior, what does psyc
 - Behavior -> understanding; neural interventions -> causality
 - Marr's 3 levels (computation; algorithm; implementation)
 
-#W But what is behavior?
+## But what is behavior?
 
 ## "Behavioural biologists don't agree on what constitutes behaviour"
 
->Behavioural biology is a major discipline within biology, centred on the key concept of ‘behaviour’. But how is ‘behaviour’ defined, and how should it be defined? We outline what characteristics we believe a scientific definition should have, and why we think it is important that a definition have these traits. We then examine the range of available published definitions for behaviour. 
-
-<p style="text-align:center;">
-[@Levitis2009-br]
-</p>
-
----
-
->Finding no consensus, we present survey responses from 174 members of three behaviour-focused scientific societies as to their understanding of the term. Here again, we find surprisingly widespread disagreement as to what qualifies as behaviour. Respondents contradict themselves, each other, and published definitions, indicating that they are using individually variable intuitive, rather than codified, meanings of `behaviour.'
-
-<p style="text-align:center;">
-[@Levitis2009-br]
-</p>
-
----
-
->We offer a new definition, based largely on survey responses: "Behaviour is the internally coordinated responses (actions or inactions) of whole living organisms (individuals or groups) to internal and/or external stimuli, excluding responses more easily understood as developmental changes."
+>..."Behaviour is the internally coordinated responses (actions or inactions) of whole living organisms (individuals or groups) to internal and/or external stimuli, excluding responses more easily understood as developmental changes."
 
 <p style="text-align:center;">
 [@Levitis2009-br]
