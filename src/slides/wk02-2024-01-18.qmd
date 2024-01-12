@@ -1,10 +1,13 @@
 ---
-title: "2024-01-18 Thu"
-subtitle: "Neuroanatomy"
+title: "Neuroanatomy"
+subtitle: "PSY 511.003"
 date: 2024-01-18
+bibliography: [../include/bib/packages.bib, ../include/bib/psu-repro.bib, ../include/bib/psy-511.bib]
+csl: ../include/bib/apa.csl
+css: ../include/css/styles.css
 format: 
   revealjs:
-    footer: "PSY 511 Spr 2024"
+    footer: "[PSYCH 511.003](../index.html): 2024-01-18 Thu"
 ---
 
 # Prelude

@@ -21,4 +21,4 @@ title: "Exercise 01 • Levels/Terms"
 
 - Give your paper a file name following this convention: "psy-511-spr-2024-LASTNAME-FIRSTNAME-ex01.docx"
 - Provide full APA format citations with DOIs.
-- Your write-up is [due **Wednesday, January 17, 2024 at 5:00 pm**]{.orange_due}.
+- Your write-up is [due **Wednesday, January 17, 2024 at 11:59 pm**]{.orange_due}.

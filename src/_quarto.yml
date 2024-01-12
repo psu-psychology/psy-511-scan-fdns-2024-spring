@@ -25,6 +25,8 @@ website:
         menu:
           - href: "slides/wk01-2024-01-11.qmd"
             text: "Week-01 • Course introduction"
+          - href: "slides/wk02-2024-01-18.qmd"
+            text: "Week-02 • Neuroanatomy"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -40,7 +42,7 @@ website:
           - href: "exercises/ex04.qmd"
           - href: "exercises/ex05.qmd"
           - href: "exercises/ex06.qmd"
-          - href: "exercises/ex07-evo-devo-qmd"
+          - href: "exercises/ex07-evo-devo.qmd"
           - href: "exercises/ex08-devo.qmd"
 format:
   html:
