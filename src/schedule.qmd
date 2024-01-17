@@ -17,7 +17,7 @@ title: "Schedule"
 
 - [@Siddiqi2022-wl].
 - [@Krakauer2017-xl].
-- Optional: [@Parada2018-rp].
+- Optional: [@Parada2018-rp]chrome.
 - Optional: [@Churchland1988-aj].
 - Optional: [@Favela2020-uc].
 

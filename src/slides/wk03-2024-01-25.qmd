@@ -1,6 +1,6 @@
 ---
 title: "2024-01-25 Thu"
-subtitle: "Cellular neuroscience"
+subtitle: "Cellular neuroscience I"
 date: 2024-01-25
 format: 
   revealjs:
@@ -36,6 +36,8 @@ format:
 ## Announcements
 
 ## Last time...
+
+- Neuroanatomy
 
 ## Today's topics
 
