@@ -34,29 +34,43 @@ format:
 
 ## Last time...
 
-- Does neuroscience need behavior?
+- Levels of analysis
+
+## Spatial & temporal levels
+
+![[@Sejnowski2014-aa Figure 1]](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnn.3839/MediaObjects/41593_2014_Article_BFnn3839_Fig1_HTML.jpg?as=webp)
+
+## ≠ Marr's levels
+
+![[@Favela2020-uc Figure 3]](https://wires.onlinelibrary.wiley.com/cms/asset/9fa6c8e5-30fa-4e6f-a5cf-e9407ed098c0/wcs1525-fig-0003-m.jpg)
+
+## Computational level
+
+- What has to be computed?
+  - What is the shape/form of that unknown object?
+  - What did that person just say?
+  - Is that unknown object a threat to me?
+  
+## Algorithmic level
+
+- What's the 'recipe' for...
+  - computing shape
+  - perceiving speech
+  - recognizing threats
+
+## Implementation level
+
+- How do...
+  - neurons
+  - areas
+  - networks
+- implement the recipe?
 
 ## Causality in neuroscience
 
 - [@Siddiqi2022-wl].
 - Stimulation & lesion studies needed for inferring *causation*.
-
----
-
-### Bradford-Hill criteria [@Hill2015-jb]
-
-- Strength of association
-- Consistency
-- Specificity
-- Temporality
-- Biological gradient (i.e. dose-response)
-
----
-
-- Plausibility
-- Coherence
-- Experiment
-- Analogy
+- Bradford-Hill criteria [@Hill2015-jb]
 
 ## Today's topics
 

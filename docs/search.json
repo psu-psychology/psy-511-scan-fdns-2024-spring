@@ -1264,14 +1264,49 @@
     "href": "slides/wk02-2024-01-18.html#last-time",
     "title": "Neuroanatomy",
     "section": "Last time…",
-    "text": "Last time…\n\nDoes neuroscience need behavior?"
+    "text": "Last time…\n\nLevels of analysis"
+  },
+  {
+    "objectID": "slides/wk02-2024-01-18.html#spatial-temporal-levels",
+    "href": "slides/wk02-2024-01-18.html#spatial-temporal-levels",
+    "title": "Neuroanatomy",
+    "section": "Spatial & temporal levels",
+    "text": "Spatial & temporal levels\n\n(Sejnowski, Churchland, & Movshon, 2014, fig. 1)"
+  },
+  {
+    "objectID": "slides/wk02-2024-01-18.html#marrs-levels",
+    "href": "slides/wk02-2024-01-18.html#marrs-levels",
+    "title": "Neuroanatomy",
+    "section": "≠ Marr’s levels",
+    "text": "≠ Marr’s levels\n\n(Favela, 2020, fig. 3)"
+  },
+  {
+    "objectID": "slides/wk02-2024-01-18.html#computational-level",
+    "href": "slides/wk02-2024-01-18.html#computational-level",
+    "title": "Neuroanatomy",
+    "section": "Computational level",
+    "text": "Computational level\n\nWhat has to be computed?\n\nWhat is the shape/form of that unknown object?\nWhat did that person just say?\nIs that unknown object a threat to me?"
+  },
+  {
+    "objectID": "slides/wk02-2024-01-18.html#algorithmic-level",
+    "href": "slides/wk02-2024-01-18.html#algorithmic-level",
+    "title": "Neuroanatomy",
+    "section": "Algorithmic level",
+    "text": "Algorithmic level\n\nWhat’s the ‘recipe’ for computing shape, perceiving speech, recognizing threats…"
+  },
+  {
+    "objectID": "slides/wk02-2024-01-18.html#implementation-level",
+    "href": "slides/wk02-2024-01-18.html#implementation-level",
+    "title": "Neuroanatomy",
+    "section": "Implementation level",
+    "text": "Implementation level\n\nHow do neurons, areas, networks, implement the algorithm?"
   },
   {
     "objectID": "slides/wk02-2024-01-18.html#causality-in-neuroscience",
     "href": "slides/wk02-2024-01-18.html#causality-in-neuroscience",
     "title": "Neuroanatomy",
     "section": "Causality in neuroscience",
-    "text": "Causality in neuroscience\n\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\nStimulation & lesion studies needed for inferring causation."
+    "text": "Causality in neuroscience\n\n(Siddiqi, Kording, Parvizi, & Fox, 2022).\nStimulation & lesion studies needed for inferring causation.\nBradford-Hill criteria (Hill, 2015)"
   },
   {
     "objectID": "slides/wk02-2024-01-18.html#todays-topics",
@@ -1369,7 +1404,7 @@
     "href": "slides/wk02-2024-01-18.html#references",
     "title": "Neuroanatomy",
     "section": "References",
-    "text": "References\n\n\nPSYCH 511.003: 2024-01-18 Thu\n\n\n\nctdalilah. (2006, October). Pinky and the brain-brainstem. Youtube. Retrieved from https://www.youtube.com/watch?v=snO68aJTOpM\n\n\nHill, A. B. (2015). The environment and disease: Association or causation? 1965. Journal of the Royal Society of Medicine, 108(1), 32–37. https://doi.org/10.1177/0141076814562718\n\n\nKids Learning Tube. (2015, October). Human body for Kids/Brain Song/Human body systems. Youtube. Retrieved from https://www.youtube.com/watch?v=Qw8E9WnZTQk\n\n\nSiddiqi, S. H., Kording, K. P., Parvizi, J., & Fox, M. D. (2022). Causal mapping of human brain function. Nature Reviews. Neuroscience, 23(6), 361–375. https://doi.org/10.1038/s41583-022-00583-8\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733"
+    "text": "References\n\n\nPSYCH 511.003: 2024-01-18 Thu\n\n\n\nctdalilah. (2006, October). Pinky and the brain-brainstem. Youtube. Retrieved from https://www.youtube.com/watch?v=snO68aJTOpM\n\n\nFavela, L. H. (2020). Cognitive science as complexity science. Wiley Interdisciplinary Reviews. Cognitive Science, 11(4), e1525. https://doi.org/10.1002/wcs.1525\n\n\nHill, A. B. (2015). The environment and disease: Association or causation? 1965. Journal of the Royal Society of Medicine, 108(1), 32–37. https://doi.org/10.1177/0141076814562718\n\n\nKids Learning Tube. (2015, October). Human body for Kids/Brain Song/Human body systems. Youtube. Retrieved from https://www.youtube.com/watch?v=Qw8E9WnZTQk\n\n\nSejnowski, T. J., Churchland, P. S., & Movshon, J. A. (2014). Putting big data to good use in neuroscience. Nat. Neurosci., 17(11), 1440–1441. https://doi.org/10.1038/nn.3839\n\n\nSiddiqi, S. H., Kording, K. P., Parvizi, J., & Fox, M. D. (2022). Causal mapping of human brain function. Nature Reviews. Neuroscience, 23(6), 361–375. https://doi.org/10.1038/s41583-022-00583-8\n\n\nSwanson, L. W. (2005). Anatomy of the soul as reflected in the cerebral hemispheres: Neural circuits underlying voluntary control of basic motivated behaviors. Journal of Comparative Neurology, 493(1), 122–131. https://doi.org/10.1002/cne.20733"
   },
   {
     "objectID": "slides/wk04-2024-02-01.html#announcements",
