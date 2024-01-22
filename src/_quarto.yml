@@ -34,6 +34,8 @@ website:
             text: "Week-01 • Course introduction"
           - href: "slides/wk02-2024-01-18.qmd"
             text: "Week-02 • Neuroanatomy"
+          - href: "slides/wk03-2024-01-25.qmd"
+            text: "Week-03 • Cellular Neuroscience I"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
