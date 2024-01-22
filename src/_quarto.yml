@@ -6,6 +6,13 @@ project:
     - "slides/*.qmd"
     - "resources/*.qmd"
   output-dir: "../docs"
+  resources:
+    - "include/snd/*.m4a"
+    - "include/snd/*.wav"
+    - "include/img/*.png"
+    - "include/img/*.jpg"
+    - "include/img/*.gif"
+    - "include/img/*.mov"
 website:
   title: "PSYCH 511.003 • Spring 2024"
   comments: 
