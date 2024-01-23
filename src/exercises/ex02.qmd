@@ -5,6 +5,8 @@ format:
   pdf: default
 ---
 
+**Name:**____________________________
+
 ## Goals
 
 1. To use core neuroanatomical terms in multiple contexts.

@@ -605,10 +605,6 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 
 ![[@eyherabide_bursts_2009]](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
 
-```{r, fig.cap="[[@eyherabide_bursts_2009]](http://dx.doi.org/10.3389/neuro.01.002.2009)"}
-knitr::include_graphics("http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif")
-```    
-
 ##### Generating action potentials
 
 - *Axon hillock*
