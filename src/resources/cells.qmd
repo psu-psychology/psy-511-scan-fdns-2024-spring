@@ -6,6 +6,64 @@ format:
     toc-depth: 4
 ---
 
+## Why animals need nervous systems
+
+[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
+
+- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
+  - Tiny, single-celled bacterium
+  - Feeds on glucose
+  - Chemo ("taste") receptors on surface membrane
+  - Flagellum for movement
+  - Food concentration regulates duration of "move" phase
+  - ~4 ms for chemical signal to diffuse from anterior/posterior
+  
+<div class="centered">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
+  - 300K larger than E. Coli
+  - Propulsion through coordinated beating of cilia
+  - Diffusion from head to tail ~40 s!
+  - Use *electrical* signaling instead
+    - $Na^+$ channel opens (e.g., when stretched)
+    - Voltage-gated $Ca^{++}$ channels open, $Ca^{++}$ enters, triggers cilia
+    - Signal across cell within ms
+
+<div class="centered">
+<iframe width="800" height="450" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+C Elegans swimming.
+</div>
+
+- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
+  - ~10x larger than paramecium
+  - 302 neurons + 56 glial cells (out of 959)
+  - Swim, forage, mate
+
+## Neural communication types
+
+- Electrical
+    + Fast(er) (10-100x)
+    + Within neurons
+    + From one part of body to another
+    - Point-to-point connections for specificity
+    - Metabolically costly to create & maintain
+    - How to reliably send a message from here to there?
+- Chemical
+    + Diffusion slow(er)
+    + Within & between neurons 
+    + or other cells
+    - Molecular matching (binding) for specificity
+    - Metabolically efficient
+    
+## So, why do large/complex animals need nervous systems?
+    
+---
+
 ## Cellular neuroanatomy
 
 ### How many neurons and glia?
@@ -216,54 +274,6 @@ brain |> ggplot() +
 
 ## Neurophysiology
 
-## Why animals need brains
-
-[Sterling & Laughlin, 2015](https://mitpress.mit.edu/neuraldesign%20)
-
-- [*Escherichia Coli (E. Coli)*](https://en.wikipedia.org/wiki/Escherichia_coli)
-  - Tiny, single-celled bacterium
-  - Feeds on glucose
-  - Chemo ("taste") receptors on surface membrane
-  - Flagellum for movement
-  - Food concentration regulates duration of "move" phase
-  - ~4 ms for chemical signal to diffuse from anterior/posterior
-  
-<div class="centered">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/QGAm6hMysTA?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-- [*Paramecium*](https://en.wikipedia.org/wiki/Paramecium)
-  - 300K larger than E. Coli
-  - Propulsion through coordinated beating of cilia
-  - Diffusion from head to tail ~40 s!
-  - Use *electrical* signaling instead
-    - $Na^+$ channel opens (e.g., when stretched)
-    - Voltage-gated $Ca^{++}$ channels open, $Ca^{++}$ enters, triggers cilia
-    - Signal across cell within ms
-
-<div class="centered">
-<iframe width="800" height="450" src="https://www.youtube.com/embed/GgZHziFWR7M?rel=0" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<div class="notes">
-C Elegans swimming.
-</div>
-
-- [*Caenorhabditis Elegans (C. Elegans)*](https://en.wikipedia.org/wiki/Caenorhabditis_elegans)
-  - ~10x larger than paramecium
-  - 302 neurons + 56 glial cells (out of 959)
-  - Swim, forage, mate
-
-## Neural communication types
-
-- Electrical
-    + Fast(er)
-    + Within neurons
-- Chemical
-    + Diffusion slow(er)
-    + Within & between neurons 
-    + or other cells
-    
 ### Electrical communication
 
 - Electrical potential (== voltage)
