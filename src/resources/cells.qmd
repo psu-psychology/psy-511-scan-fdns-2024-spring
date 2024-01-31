@@ -44,7 +44,7 @@ C Elegans swimming.
   - 302 neurons + 56 glial cells (out of 959)
   - Swim, forage, mate
 
-## Neural communication types
+### Neural communication types
 
 - Electrical
     + Fast(er) (10-100x)
@@ -60,9 +60,7 @@ C Elegans swimming.
     - Molecular matching (binding) for specificity
     - Metabolically efficient
     
-## So, why do large/complex animals need nervous systems?
-    
----
+### So, why do large/complex animals need nervous systems?
 
 ## Cellular neuroanatomy
 
@@ -295,7 +293,7 @@ $$E = IR$$
 
 ![How capacitors work](http://hyperphysics.phy-astr.gsu.edu/hbase/electric/imgele/capchg.png)
 
-#### Resting potential
+### Resting potential
 
 - Potential energy
     - Energy that could be released if circumstances change
@@ -317,7 +315,7 @@ $$E = IR$$
     + Positively charged particles pulled in
     + Negatively charged particles pushed out
     
-##### Contributors to
+#### Contributors to
 
 - Ions
   - Potassium, $K^+$
@@ -329,7 +327,7 @@ $$E = IR$$
 - Separation between charges
 - A balance of forces
 
-##### Party metaphor
+#### Party metaphor
 
 - Annie ($A^-$) was having a party.
     + Used to date Nate ($Na^+$), but now sees Karl ($K^+$)
@@ -342,7 +340,7 @@ $$E = IR$$
 
 ![](http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png)
 
-##### Ion channels
+#### Ion channels
 
 - Macromolecules that form openings in membrane
 - Different types of subunits
@@ -359,7 +357,7 @@ $$E = IR$$
 
 ![](https://o.quizlet.com/llrX-BszQf7YdSzCVg-9.A.png)
 
-##### Conditions
+#### Conditions
 
 **Neuron at rest permeable to $K^+$**
 
@@ -439,7 +437,7 @@ Under typical conditions
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/PtKAeihnbv0" frameborder="0" allowfullscreen></iframe>
 
-#### Action potential
+### Action potential
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png)
 
@@ -491,7 +489,7 @@ Under typical conditions
 
 :::
 
-##### Components
+#### Components
 
 | Phase             | Neuron State |
 |-------------------|--------------|
@@ -511,7 +509,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/4/
 knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif")
 ```
 
-###### Neuron at rest
+##### Neuron at rest
 
 - Driving force on $K^+$ weakly <span class="red">outward</span>
     - -70 mV - (-90 mV) = +20 mV
@@ -528,7 +526,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 | Rest  | $K^+$  | 20 mV         | out            | small          |
 |       | $Na^+$ | 125 mV        | in             | small          |
 
-###### Rising phase
+##### Rising phase
 
 - Voltage-gated $Na^+$ channels open
 - Membrane permeability to $Na^+$ increases
@@ -543,7 +541,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 |       | $Na^+$ | shrinking     | in             | high           |
 
 
-###### Peak
+##### Peak
 
 - Membrane permeability to $Na^+$ reverts to resting state
     - Voltage-gated $Na^+$ channels close & inactivate
@@ -559,7 +557,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 | Peak  | $K^+$  | 120 mV        | out            | high           |
 |       | $Na^+$ | 20 mV         | in            | small          |
 
-###### Falling phase
+##### Falling phase
 
 - $K^+$ outflow
     - Through voltage-gated $K^+$ and passive $K^+$ channels
@@ -573,7 +571,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 | Falling | K | shrinking     | out            | high           |
 |       | $Na^+$ | growing       | in             | small          |
 
-###### Refractory phase
+##### Refractory phase
 
 **Absolute**
 
@@ -603,7 +601,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 
 <iframe width="800" height="550" src="https://phet.colorado.edu/sims/html/neuron/latest/neuron_en.html" frameborder="0" allowfullscreen></iframe> 
 
-##### APs and Information Processing
+#### APs and Information Processing
 
 - AP amplitudes don't vary (much)
     + All or none
@@ -615,7 +613,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 
 ![[@eyherabide_bursts_2009]](http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif)
 
-##### Generating action potentials
+#### Generating action potentials
 
 - *Axon hillock*
     + Portion of soma adjacent to axon
@@ -627,7 +625,7 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png)
     
-##### Propagation of action potentials
+#### Propagation
 
 - Propagation
     + move down axon, away from soma, toward axon terminals.
@@ -662,77 +660,113 @@ knitr::include_graphics("http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgb
     + <http://briansimulator.org/demo/>
     + <http://www.gribblelab.org/compneuro/3_Modelling_Action_Potentials.html>
 
-<!-- ## Chemical communication: Synaptic transmission -->
+## Synaptic transmission
 
-<!-- - Synapse permits neuron to pass electrical or chemical messages to another neuron or target cell (muscle, gland, etc.) -->
+*Synapse* permits neuron to pass electrical or chemical messages to another neuron or target cell (muscle, gland, etc.)
 
-<!-- ```{r} -->
-<!-- knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/3/33/Blausen_0843_SynapseTypes.png") -->
-<!-- ``` -->
+### Synapse Types & Locations
 
-<!-- - Gap junctions -->
-<!--   - *Cytosol* flows through adjacent neurons -->
-<!--   - Bidirectional ion flow (current) between neurons -->
+- Chemical
+- Electrical
+  - Gap junctions
+  - *Cytosol* (and ionic current) flows through adjacent neurons 
 
-<!-- ### What happens when AP runs out of axon? -->
+![https://commons.wikimedia.org/wiki/File:Gap_cell_junction-en.svg#/media/File:Gap_cell_junction-en.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/1200px-Gap_cell_junction-en.svg.png)
 
-<!-- - Rapid change in voltage triggers neurotransmitter (NT) release -->
-<!-- - Voltage-gated calcium Ca++ channels open -->
-<!-- - Ca++ causes *synaptic vesicles* to bind with presynaptic membrane, merge -->
-<!-- - NTs diffuse across *synaptic cleft* -->
-<!-- - NTs bind with *receptors* on *postsynaptic membrane* -->
-<!-- - NTs unbind, are inactivated -->
+### Steps in chemical transmission
 
-<!-- ### Receptor/channel types -->
+- *Voltage-gated calcium Ca++ channels* open
+- $Ca^{++}$ influx causes *synaptic vesicles* to bind with presynaptic membrane, fuse with membrane, spill contents via *exocytosis*
 
-<!-- #### Leak/passive -->
+![[Figure 1 from @Haucke2011-ub]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2948/MediaObjects/41583_2011_Article_BFnrn2948_Fig1_HTML.jpg?as=webp)
 
-<!-- - Vary in selectivity, permeability -->
+![[@Hastoy2017-it]](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg)
 
-<!-- #### Transporters/exchangers -->
+```{r, fig.cap="[[@Hastoy2017-it]](https://doi.org/10.1016/j.ceca.2017.10.005)",  out.width="900px"}
+knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg")
+```
 
-<!-- + Ionic -->
-<!--     * $Na^+$/$K^+$ -->
-<!-- + Chemical -->
-<!--     * e.g., Dopamine transporter (DAT) -->
+![[@Hastoy2017-it]](https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg)
 
-<!-- #### Ionotropic receptors (receptor + ion channel) -->
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg/1502px-Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg)
 
-<!-- + Ligand-gated -->
-<!-- + Open/close channel -->
+- NTs diffuse across *synaptic cleft*
+- NTs bind with *receptors* on *postsynaptic membrane*
+  - Cause some post-synaptic effect
+- NTs unbind from receptor
+- NTs inactivated
+- NTs diffuse along concentration gradient
 
-<!-- #### Metabotropic receptors (receptor only) -->
+![Source: https://commons.wikimedia.org/wiki/File%3ASynapseSchematic_en.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SynapseSchematic_en.svg/512px-SynapseSchematic_en.svg.png)
 
-<!-- + Triggers 2nd messengers -->
-<!-- + G-proteins -->
-<!-- + Open/close adjacent channels, change metabolism -->
+**Relative sizes**
 
-<!-- ```{r} -->
-<!-- knitr::include_graphics("https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg") -->
-<!-- ``` -->
+- Neural membrane ~8 nm
+- Synaptic vesicles ~40-60 or ~90-120 nm
+- Synaptic cleft ~20-50 nm
+- Cleft small relative to vesicles
 
-<!-- ```{r} -->
-<!-- knitr::include_graphics("http://webvision.med.utah.edu/imageswv/GLU5.jpeg") -->
-<!-- ``` -->
+### Receptor/channel types
 
-<!-- ### Receptors generate *postsynaptic potentials (PSPs)* -->
+#### Leak/passive
 
-<!-- - Small voltage changes -->
-<!-- - Amplitude scales with # of receptors activated -->
-<!-- - *Excitatory PSPs (EPSPs)* -->
-<!--     + Depolarize neuron (make more +) -->
-<!-- - *Inhibitory (IPSPs)* -->
-<!--     + Hyperpolarize neuron (make more -) -->
+- Vary in selectivity, permeability
 
-<!-- ### NTs inactivated -->
+#### Transporters/exchangers
 
-<!-- - Buffering -->
-<!--     + e.g., glutamate into astrocytes -->
-<!-- - Reuptake via transporters -->
-<!--     + e.g., serotonin via serotonin transporter (SERT) -->
-<!-- - Enzymatic degradation -->
-<!--     + e.g., acetylcholine esterase (AChE) degrades acetylcholine (ACh) -->
++ Ionic
+    * $Na^+$/$K^+$ ATP-ase/pump
++ Chemical
+    * e.g., Dopamine transporter (DAT)
 
-<!-- --- -->
+#### Ionotropic receptors (receptor + ion channel)
 
-<!-- # References -->
+- Ligand-gated
+- Open/close channel
+- Ions flow in/out depending on membrane voltage and ion type
+- Fast-responding (< 2 ms), but short-duration effects (< 100 ms)
+
+#### Metabotropic receptors (receptor only)
+
+- G-proteins ->
+- Trigger 2nd messengers
+- Open/close adjacent channels, change metabolism
+
+![http://webvision.med.utah.edu/imageswv/GLU5.jpeg](http://webvision.med.utah.edu/imageswv/GLU5.jpeg)
+
+### Receptors generate *postsynaptic potentials (PSPs)*
+
+- Small voltage changes
+- Amplitude scales with # of receptors activated
+- *Excitatory PSPs (EPSPs)*
+    + Depolarize neuron (make more +)
+- *Inhibitory (IPSPs)*
+    + Hyperpolarize neuron (make more -)
+
+### NTs inactivated
+
+- Buffering
+    + e.g., glutamate into astrocytes [@GLIA:GLIA10]
+- *Reuptake* via *[transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter)*
+    + e.g., serotonin via serotonin transporter (SERT)
+- Enzymatic degradation
+    + e.g., acetylcholine esterase (AChE) degrades acetylcholine (ACh)
+
+### Questions to ponder
+
+- Why do NTs diffuse from pre- to post-synaptic membrane?
+- Why must NTs be inactivated?
+- What sort of PSP would *opening* a $Na^+$ channel produce?
+- What sort of PSP would *opening* a $Cl^-$ channel produce?
+- What sort of PSP would *closing* a $K^+$ produce?
+
+### Synapse location and function
+
+![Source: Blausen.com staff https://commons.wikimedia.org/wiki/File%3ABlausen_0843_SynapseTypes.png](https://upload.wikimedia.org/wikipedia/commons/3/33/Blausen_0843_SynapseTypes.png)
+
+- on dendrites
+    + usually excitatory 
+- on cell bodies
+    + usually inhibitory 
+- on axons 
+    + usually modulatory (change p(fire))

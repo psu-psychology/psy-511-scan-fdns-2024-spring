@@ -36,6 +36,8 @@ website:
             text: "Week-02 • Neuroanatomy"
           - href: "slides/wk03-2024-01-25.qmd"
             text: "Week-03 • Cellular Neuroscience I"
+          - href: "slides/wk04-2024-02-01.qmd"
+            text: "Week-04 • Cellular Neuroscience II"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
