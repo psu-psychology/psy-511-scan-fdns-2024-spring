@@ -15,6 +15,10 @@ format:
 
 <https://www.youtube.com/embed/nvXuq9jRWKE>
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6LGJ7evrAg?si=Qg3ntXDNLdmPu8Pr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Announcements
 
 - [[Exercise 04](exercises/ex04.qmd) assigned]{.green_assigned}
