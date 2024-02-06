@@ -38,6 +38,8 @@ website:
             text: "Week-03 • Cellular Neuroscience I"
           - href: "slides/wk04-2024-02-01.qmd"
             text: "Week-04 • Cellular Neuroscience II"
+          - href: "slides/wk05-2024-02-08.qmd"
+            text: "Week-05• Neurochemistry"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -45,6 +47,8 @@ website:
           - href: "resources/anatomy.qmd"
           - text: "---"
           - href: "resources/cells.qmd"
+          - text: "---"
+          - href: "resources/neurochemistry.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
