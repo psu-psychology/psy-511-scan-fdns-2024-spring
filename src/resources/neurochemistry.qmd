@@ -205,7 +205,7 @@ format:
 - Both NT and hormone
     - As NT: Released in small amounts by medulla oblongata
     - As hormone: Released by adrenal medulla
-- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$ receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
+- Binds to ($\alpha_{1,2}$, $\beta_{1,2,3}$) receptors in blood vessels, cardiac muscle, lungs, eye muscles controlling pupil dilation, liver, pancreas, etc.
 - Release enhanced by cortisol from adrenal cortex
 - Unusual in NOT being part of negative feedback system controlling its own release
 
@@ -220,7 +220,7 @@ format:
 - Most (90%; [[@De_Ponti2004-lo]](http://dx.doi.org/10.1136/gut.2003.035568)) of body's 5-HT regulates digestion
 - Separate cortical, subcortical 5-HT projection pathways?
 
-![[@Ren2018-zl]](https://3c1703fe8d.site.internapcdn.net/newman/csz/news/800/2018/anewmapofthe.jpg)
+![[@Ren2018-zl]](https://ars.els-cdn.com/content/image/1-s2.0-S0092867418309711-fx1.jpg)
 
 - Seven receptor families (5-HT 1-7) with 14 types
 - All but one metabotropic
