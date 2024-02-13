@@ -143,6 +143,7 @@ title: "Schedule"
 
 #### Readings
 
+- [Methods notes](resources/methods.qmd)
 - Watch: [@Mitcbmm2019-oj]
 - Review: [@noauthor_undated-wk].
 - Recommended: [@Cohen2017-og].
@@ -207,7 +208,7 @@ title: "Schedule"
 
 #### Due
 
-- [[Final project/paper proposal](resources/final-project){.orange_due}]
+- [Final project/paper proposal](resources/final-project.qmd){.orange_due}
 
 ---
 
