@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -22,7 +22,7 @@ ul.task-list li input[type="checkbox"] {
 }
 /* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -58,6 +58,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -98,7 +99,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -107,6 +114,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -118,9 +126,41 @@ div.csl-indent {
 }
 </script>
 <script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../include/css/styles.css">
 </head>
@@ -129,9 +169,9 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">PSYCH 511.003 • Spring 2024</span>
     </a>
@@ -143,126 +183,126 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
- <span class="menu-text">home</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../schedule.html" rel="" target="">
- <span class="menu-text">schedule</span></a>
+    <a class="nav-link" href="../schedule.html"> 
+<span class="menu-text">schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../evaluation.html" rel="" target="">
- <span class="menu-text">evaluation</span></a>
+    <a class="nav-link" href="../evaluation.html"> 
+<span class="menu-text">evaluation</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../policies.html" rel="" target="">
- <span class="menu-text">policies</span></a>
+    <a class="nav-link" href="../policies.html"> 
+<span class="menu-text">policies</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">slides</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
         <li>
-    <a class="dropdown-item" href="../slides/wk01-2024-01-11.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk01-2024-01-11.html">
  <span class="dropdown-text">Week-01 • Course introduction</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk02-2024-01-18.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk02-2024-01-18.html">
  <span class="dropdown-text">Week-02 • Neuroanatomy</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk03-2024-01-25.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk03-2024-01-25.html">
  <span class="dropdown-text">Week-03 • Cellular Neuroscience I</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk04-2024-02-01.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk04-2024-02-01.html">
  <span class="dropdown-text">Week-04 • Cellular Neuroscience II</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk05-2024-02-08.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk05-2024-02-08.html">
  <span class="dropdown-text">Week-05• Neurochemistry</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk06-2024-02-15.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk06-2024-02-15.html">
  <span class="dropdown-text">Week-06• Methods</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">resources</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="../resources/levels.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/levels.html">
  <span class="dropdown-text">Levels of Analysis</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/anatomy.html" rel="" target="">
- <span class="dropdown-text">Neuroanatomy</span></a>
+    <a class="dropdown-item" href="../resources/anatomy.qmd">
+ <span class="dropdown-text"></span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/cells.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/cells.html">
  <span class="dropdown-text">Cellular neuroscience</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/neurochemistry.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/neurochemistry.html">
  <span class="dropdown-text">Neurochemistry</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/methods.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/methods.html">
  <span class="dropdown-text">Neuroscience methods</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-exercises" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-exercises" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">exercises</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-exercises">    
         <li>
-    <a class="dropdown-item" href="../exercises/ex01.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex01.html">
  <span class="dropdown-text">Exercise 01 • Levels/Terms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex02.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex02.html">
  <span class="dropdown-text">Exercise 02 • Neuroanatomy</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex03.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex03.html">
  <span class="dropdown-text">Exercise 03 • Neurophysiology I</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex04.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex04.html">
  <span class="dropdown-text">Exercise 04 • Neurophysiology II</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex05.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex05.html">
  <span class="dropdown-text">Exercise 05 • Neurochemistry</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex06.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex06.html">
  <span class="dropdown-text">Exercise 06 • Methods</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex07-evo-devo.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex07-evo-devo.html">
  <span class="dropdown-text">Exercise 07 • Evolution &amp; Development</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex08-devo.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex08-devo.html">
  <span class="dropdown-text">Exercise 08 • Development</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -354,7 +394,9 @@ div.csl-indent {
   </div>
   
 
+
 </header>
+
 
 <section id="why-animals-need-nervous-systems" class="level2">
 <h2 class="anchored" data-anchor-id="why-animals-need-nervous-systems">Why animals need nervous systems</h2>
@@ -450,14 +492,14 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/azevedo-et-al-fig-1.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="azevedo2009equal">(<a href="#ref-azevedo2009equal" role="doc-biblioref">Azevedo et al., 2009</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="azevedo2009equal">(<a href="#ref-azevedo2009equal" role="doc-biblioref">Azevedo et al., 2009</a>)</span></figcaption>
 </figure>
 </div>
 <div class="cell" data-layout-align="center">
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="cells_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="cells_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -466,7 +508,7 @@ div.csl-indent {
 <div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="cells_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+<p><img src="cells_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid quarto-figure quarto-figure-center figure-img" width="672"></p>
 </figure>
 </div>
 </div>
@@ -496,13 +538,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Astrocyte</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Astrocyte</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Astrocyte5.jpg/1024px-Astrocyte5.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Astrocyte</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Astrocyte</figcaption>
 </figure>
 </div>
 <ul>
@@ -515,7 +557,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Metabolic_interactions_between_astrocytes_and_neurons_with_major_reactions.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Astrocyte</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Astrocyte</figcaption>
 </figure>
 </div>
 <ul>
@@ -534,13 +576,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Neuron_with_oligodendrocyte_and_myelin_sheath.svg/615px-Neuron_with_oligodendrocyte_and_myelin_sheath.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Oligodendrocyte</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Oligodendrocyte</figcaption>
 </figure>
 </div>
 </section>
@@ -554,13 +596,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.brainfacts.org/-/media/Brainfacts2/Brain-Anatomy-and-Function/Cells-and-Circuits/Article-Images/012918-IOTW.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2018/schwann-cells-keep-signals-strong-012918</figcaption>
+<figcaption>https://www.brainfacts.org/brain-anatomy-and-function/cells-and-circuits/2018/schwann-cells-keep-signals-strong-012918</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Neuron_Hand-tuned.svg/1920px-Neuron_Hand-tuned.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Schwann_cell</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Schwann_cell</figcaption>
 </figure>
 </div>
 <ul>
@@ -578,7 +620,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Microglia_and_neurons.jpg/1200px-Microglia_and_neurons.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 </section>
@@ -606,7 +648,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <section id="dendrites" class="level5">
@@ -619,7 +661,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://i.stack.imgur.com/kfriB.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://biology.stackexchange.com/questions/44082/can-the-dendrites-of-sensory-neurons-be-a-meter-long</figcaption>
+<figcaption>https://biology.stackexchange.com/questions/44082/can-the-dendrites-of-sensory-neurons-be-a-meter-long</figcaption>
 </figure>
 </div>
 <section id="dendritic-spines" class="level6">
@@ -627,7 +669,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <ul>
@@ -652,7 +694,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 </section>
@@ -699,7 +741,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn1008/MediaObjects/41583_2003_Article_BFnrn1008_Fig1_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Torres2003-ry">(Figure 1 from <a href="#ref-Torres2003-ry" role="doc-biblioref">Torres, Gainetdinov, &amp; Caron, 2003</a>)</span>. Monoamine transporters are localized to perisynaptic sites, where they are crucial for the termination of monoamine transmission and the maintenance of presynaptic monoamine storage. Several selective pharmacological agents acting at each monoamine transporter are shown. Amph., amphetamine; DA, dopamine; DAT, Dopamine transporter; L-DOPA, L-3,4-dihydroxyphenylalanine; 5-HT, 5-hydroxytryptamine; MPP+, 1-methyl-4-phenylpyridinium; MDMA, (+)-3,4-methylenedioxymethamphetamine; NA, noradrenaline; NET, noradrenaline transporter; SERT, 5-HT transporter</figcaption>
+<figcaption><span class="citation" data-cites="Torres2003-ry">(Figure 1 from <a href="#ref-Torres2003-ry" role="doc-biblioref">Torres, Gainetdinov, &amp; Caron, 2003</a>)</span>. Monoamine transporters are localized to perisynaptic sites, where they are crucial for the termination of monoamine transmission and the maintenance of presynaptic monoamine storage. Several selective pharmacological agents acting at each monoamine transporter are shown. Amph., amphetamine; DA, dopamine; DAT, Dopamine transporter; L-DOPA, L-3,4-dihydroxyphenylalanine; 5-HT, 5-hydroxytryptamine; MPP+, 1-methyl-4-phenylpyridinium; MDMA, (+)-3,4-methylenedioxymethamphetamine; NA, noradrenaline; NET, noradrenaline transporter; SERT, 5-HT transporter</figcaption>
 </figure>
 </div>
 </section>
@@ -722,7 +764,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Neurons_uni_bi_multi_pseudouni.svg/2000px-Neurons_uni_bi_multi_pseudouni.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <ul>
@@ -737,32 +779,32 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/GolgiStainedPyramidalCell.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Pyramidal cell (Wikipedia)</figcaption>
+<figcaption>Pyramidal cell (Wikipedia)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Pyramsdal-and-Spiny-stellate-cell.JPG" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Pyramidal cell (left) | Stellate cell (right) from Wikipedia</figcaption>
+<figcaption>Pyramidal cell (left) | Stellate cell (right) from Wikipedia</figcaption>
 </figure>
 </div>
 <p><strong>Morphology, physiology, gene transcription</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn.2017.85/MediaObjects/41583_2017_Article_BFnrn201785_Fig1_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Zeng2017-sg">(Figure 1 from <a href="#ref-Zeng2017-sg" role="doc-biblioref">Zeng &amp; Sanes, 2017</a>)</span>. Neurons can be classified using morphological, physiological and molecular criteria. a | Representative examples of five subclasses of cortical neurons obtained from brain slices. The cells were filled with biocytin, stained and imaged following patch clamp recording (see part b). Each subclass has distinct morphological features. For the four interneurons on the left, the dendrites are shown in dark grey and the axons in light grey. The soma of the 5-hydroxytryptamine receptor 3A-expressing (HTR3A+) sparse neuro- gliaform cell is located in layer 1, and its axons are also concentrated in this layer. The vasoactive intestinal peptide-expressing (VIP+) bipolar cell has a characteristic bipolar dendritic extension. The soma of the somatostatin-expressing (SST+) deep Martinotti cell is located in layer 5/6, and its axons extend upward into layer 1. The parvalbumin-expressing (PVALB+) basket cell has basket-like axonal arborisation. For the excitatory neuron on the right, the apical dendrites are shown in dark grey and the basal dendrites in light grey. This is a layer 5, thick-tufted cell from a retinol-binding protein 4 (Rbp4) gene promoter-driven Cre-expressing mouse. The cell features thick apical dendritic tufts extending into layer 1. These morphological features are consistent with those described in published reports49,130,140. b | Differential electrophysiological responses of the five subclasses of neurons shown in part a to square pulses of current in patch clamp recordings. For example, the HTR3A+ cell is late spiking, whereas the PVALB+ cell is fast spiking. These responses are consistent with those described in published reports49,130,140. c | Differential molecular signatures of the five subclasses of cortical neurons illustrated in part a derived from single-cell RNA-sequencing data. The violin plot shows the collective gene expression profile for each gene of all the cells in a type (cluster). We define the smallest discrete clusters of cells as types and the aggregates of types that share common features as classes or subclasses. Each transcriptomic cell type is shown as a column of data points with the same colour (the colour coding corresponds to that of the transcriptomic taxonomy shown in Fig. 5). Shown here are three interneuron cell types expressing Htr3a but notVip, six interneuron cell types expressing Vip, six interneuron cell types expressing Sst and seven interneuron cell types expressing Pvalb. All of the interneurons express glutamate decarboxylase 1 (Gad1). Also shown are eight layer 5 excitatory neuron types, all of which express solute carrier family 17 member 7 (Slc17a7). All of the cells express synaptosome-associated protein 25 (Snap25). The height of each ‘violin’-shaped data point represents the range of expression levels of the gene, and the width represents the proportion of cells displaying a particular level of expression. Parts a and b are from the Allen Cell Types Database (see Further Information). Part c is adapted with permission from Ref. 136.</figcaption>
+<figcaption><span class="citation" data-cites="Zeng2017-sg">(Figure 1 from <a href="#ref-Zeng2017-sg" role="doc-biblioref">Zeng &amp; Sanes, 2017</a>)</span>. Neurons can be classified using morphological, physiological and molecular criteria. a | Representative examples of five subclasses of cortical neurons obtained from brain slices. The cells were filled with biocytin, stained and imaged following patch clamp recording (see part b). Each subclass has distinct morphological features. For the four interneurons on the left, the dendrites are shown in dark grey and the axons in light grey. The soma of the 5-hydroxytryptamine receptor 3A-expressing (HTR3A+) sparse neuro- gliaform cell is located in layer 1, and its axons are also concentrated in this layer. The vasoactive intestinal peptide-expressing (VIP+) bipolar cell has a characteristic bipolar dendritic extension. The soma of the somatostatin-expressing (SST+) deep Martinotti cell is located in layer 5/6, and its axons extend upward into layer 1. The parvalbumin-expressing (PVALB+) basket cell has basket-like axonal arborisation. For the excitatory neuron on the right, the apical dendrites are shown in dark grey and the basal dendrites in light grey. This is a layer 5, thick-tufted cell from a retinol-binding protein 4 (Rbp4) gene promoter-driven Cre-expressing mouse. The cell features thick apical dendritic tufts extending into layer 1. These morphological features are consistent with those described in published reports49,130,140. b | Differential electrophysiological responses of the five subclasses of neurons shown in part a to square pulses of current in patch clamp recordings. For example, the HTR3A+ cell is late spiking, whereas the PVALB+ cell is fast spiking. These responses are consistent with those described in published reports49,130,140. c | Differential molecular signatures of the five subclasses of cortical neurons illustrated in part a derived from single-cell RNA-sequencing data. The violin plot shows the collective gene expression profile for each gene of all the cells in a type (cluster). We define the smallest discrete clusters of cells as types and the aggregates of types that share common features as classes or subclasses. Each transcriptomic cell type is shown as a column of data points with the same colour (the colour coding corresponds to that of the transcriptomic taxonomy shown in Fig. 5). Shown here are three interneuron cell types expressing Htr3a but notVip, six interneuron cell types expressing Vip, six interneuron cell types expressing Sst and seven interneuron cell types expressing Pvalb. All of the interneurons express glutamate decarboxylase 1 (Gad1). Also shown are eight layer 5 excitatory neuron types, all of which express solute carrier family 17 member 7 (Slc17a7). All of the cells express synaptosome-associated protein 25 (Snap25). The height of each ‘violin’-shaped data point represents the range of expression levels of the gene, and the width represents the proportion of cells displaying a particular level of expression. Parts a and b are from the Allen Cell Types Database (see Further Information). Part c is adapted with permission from Ref. 136.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnrn.2017.85/MediaObjects/41583_2017_Article_BFnrn201785_Fig6_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Zeng2017-sg">(Figure 6 from <a href="#ref-Zeng2017-sg" role="doc-biblioref">Zeng &amp; Sanes, 2017</a>)</span>. The figure shows a proposed hierarchical classification of cells in the retina (a) and cerebral cortex (b). In both areas, individual cell types can be grouped into classes, and intermediate levels of subclasses can be determined based on distinct morphological, physiological and molecular features. Higher-order groupings (such as those shown in part a, including sensory neurons, interneurons and projection neurons) may emerge once enough areas have been provided and compared. Types are the commonly recognized (‘validated’) terminal branches in the current hierarchical arrangement of cell types. Lower-order groupings into subtypes may largely be provisional until additional data are collected that could determine if they could form new types or should be merged into other types. Dashed lines indicate the presence of additional types that cannot be labelled due to lack of space. The question marks in part a indicate that the hierarchical relationship among the indicated cell types remains unclear. The question mark in part b indicates that the status of the cortical cell groups indicated may be either subclasses, types or subtypes. CT, cortico-thalamic neurons; DS, direction-selective retinal ganglion cells (RGCs); F, forkhead box P2 (Foxp2)-expressing RGCs; HTR3A, 5-hydroxytryptamine receptor 3A; ipRGC, intrinsically photosensitive RGCs; IT, intratelencephalic neurons; L4, layer 4; L6b, layer 6b subplate neurons; nGnG, non-GABAergic-non-glycinergic amacrine cells; ooDSGC, ON-OFF direction-selective RGCs; PT, pyramidal tract neurons; PVALB, parvalbumin; SST, somatostatin; VIP, vasoactive intestinal peptide.</figcaption>
+<figcaption><span class="citation" data-cites="Zeng2017-sg">(Figure 6 from <a href="#ref-Zeng2017-sg" role="doc-biblioref">Zeng &amp; Sanes, 2017</a>)</span>. The figure shows a proposed hierarchical classification of cells in the retina (a) and cerebral cortex (b). In both areas, individual cell types can be grouped into classes, and intermediate levels of subclasses can be determined based on distinct morphological, physiological and molecular features. Higher-order groupings (such as those shown in part a, including sensory neurons, interneurons and projection neurons) may emerge once enough areas have been provided and compared. Types are the commonly recognized (‘validated’) terminal branches in the current hierarchical arrangement of cell types. Lower-order groupings into subtypes may largely be provisional until additional data are collected that could determine if they could form new types or should be merged into other types. Dashed lines indicate the presence of additional types that cannot be labelled due to lack of space. The question marks in part a indicate that the hierarchical relationship among the indicated cell types remains unclear. The question mark in part b indicates that the status of the cortical cell groups indicated may be either subclasses, types or subtypes. CT, cortico-thalamic neurons; DS, direction-selective retinal ganglion cells (RGCs); F, forkhead box P2 (Foxp2)-expressing RGCs; HTR3A, 5-hydroxytryptamine receptor 3A; ipRGC, intrinsically photosensitive RGCs; IT, intratelencephalic neurons; L4, layer 4; L6b, layer 6b subplate neurons; nGnG, non-GABAergic-non-glycinergic amacrine cells; ooDSGC, ON-OFF direction-selective RGCs; PT, pyramidal tract neurons; PVALB, parvalbumin; SST, somatostatin; VIP, vasoactive intestinal peptide.</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-018-0205-2/MediaObjects/41593_2018_205_Fig4_HTML.png?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Boldog2018-dj">(Figure 4 from <a href="#ref-Boldog2018-dj" role="doc-biblioref">Boldog et al., 2018</a>)</span>. a, Examples of different firing patterns induced by current injections in layer 1 interneurons. Firing pattern of an RC (top), an NGFC (middle), and an unidentified layer 1 interneuron (bottom). b, SVM-based wrapper-feature selection of electrophysiological parameters for the identification of RCs. Anatomically identified RCs (red dots) and other types of interneurons with known morphology (black dots) are mapped to the distribution of electrophysiological features ranked as the two best delineators by SVM. Black lines show the best hyperplane separating RCs from other interneuron types. c,d, RCs exhibit a distinct impedance profile relative to neurogliaform and other human interneurons in layer 1. (c) Individual responses of anatomically identified rosehip (red), neurogliaform (blue), and other (black) interneurons to current injections with an exponential chirp (0.2–200 Hz; top). Traces were normalized to the amplitude of the rosehip response at 200 Hz. (d) Left: normalized impedance (Z) profiles of distinct groups of interneurons. RCs (n=5) had higher impedance in the range of 0.9–12.4 Hz compared to neurogliaform (n=5) and other (n=5) interneurons. Shaded regions represent s.d. Right: impedances were similar at the lowest frequency (Z0.2 Hz; left), but resonance magnitude (Q) calculated as maximal impedance value divided by the impedance at lowest frequency (middle) and frequencies of maximal impedance (fmax; right) showed significant differences (P &lt; 0.05, ANOVA with Bonferroni post hoc correction). e, Automatized selection of recording periods for assessing subthreshold membrane potential oscillations (boxed segments) and detection of bursts (bars) for measuring intraburst spiking frequency demonstrated on an RC response to near-rheobasic stimulation showing stuttering firing behavior. f, Averaged fast fast Fourier transforms (FFTs) of membrane potential oscillations had higher power between 3.8 and 80 Hz in RCs compared to neurogliaform and other interneurons. g, Intraburst frequency of RCs peaked in the gamma range. AP, action potential.</figcaption>
+<figcaption><span class="citation" data-cites="Boldog2018-dj">(Figure 4 from <a href="#ref-Boldog2018-dj" role="doc-biblioref">Boldog et al., 2018</a>)</span>. a, Examples of different firing patterns induced by current injections in layer 1 interneurons. Firing pattern of an RC (top), an NGFC (middle), and an unidentified layer 1 interneuron (bottom). b, SVM-based wrapper-feature selection of electrophysiological parameters for the identification of RCs. Anatomically identified RCs (red dots) and other types of interneurons with known morphology (black dots) are mapped to the distribution of electrophysiological features ranked as the two best delineators by SVM. Black lines show the best hyperplane separating RCs from other interneuron types. c,d, RCs exhibit a distinct impedance profile relative to neurogliaform and other human interneurons in layer 1. (c) Individual responses of anatomically identified rosehip (red), neurogliaform (blue), and other (black) interneurons to current injections with an exponential chirp (0.2–200 Hz; top). Traces were normalized to the amplitude of the rosehip response at 200 Hz. (d) Left: normalized impedance (Z) profiles of distinct groups of interneurons. RCs (n=5) had higher impedance in the range of 0.9–12.4 Hz compared to neurogliaform (n=5) and other (n=5) interneurons. Shaded regions represent s.d. Right: impedances were similar at the lowest frequency (Z0.2 Hz; left), but resonance magnitude (Q) calculated as maximal impedance value divided by the impedance at lowest frequency (middle) and frequencies of maximal impedance (fmax; right) showed significant differences (P &lt; 0.05, ANOVA with Bonferroni post hoc correction). e, Automatized selection of recording periods for assessing subthreshold membrane potential oscillations (boxed segments) and detection of bursts (bars) for measuring intraburst spiking frequency demonstrated on an RC response to near-rheobasic stimulation showing stuttering firing behavior. f, Averaged fast fast Fourier transforms (FFTs) of membrane potential oscillations had higher power between 3.8 and 80 Hz in RCs compared to neurogliaform and other interneurons. g, Intraburst frequency of RCs peaked in the gamma range. AP, action potential.</figcaption>
 </figure>
 </div>
 </section>
@@ -791,7 +833,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ka-perseus-images.s3.amazonaws.com/16b4aecbaae9e2a5e0b50fc70ace724f471ad0c0.svg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Simple circuit schematic</figcaption>
+<figcaption>Simple circuit schematic</figcaption>
 </figure>
 </div>
 <ul>
@@ -800,7 +842,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://hyperphysics.phy-astr.gsu.edu/hbase/electric/imgele/capchg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">How capacitors work</figcaption>
+<figcaption>How capacitors work</figcaption>
 </figure>
 </div>
 </section>
@@ -878,7 +920,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35067500/MediaObjects/41583_2001_Article_BF35067500_Fig1_HTML.gif?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Moss2001-tb">(Figure 1 from <a href="#ref-Moss2001-tb" role="doc-biblioref">Moss &amp; Smart, 2001</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Moss2001-tb">(Figure 1 from <a href="#ref-Moss2001-tb" role="doc-biblioref">Moss &amp; Smart, 2001</a>)</span></figcaption>
 </figure>
 </div>
 <ul>
@@ -937,7 +979,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Nernst equation</figcaption>
+<figcaption>Nernst equation</figcaption>
 </figure>
 </div>
 <p><strong>Neuron at resting potential has low <span class="math inline">\(Na^+\)</span> permeability</strong></p>
@@ -951,19 +993,19 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Goldman-Hodgkin-Katz equation</figcaption>
+<figcaption>Goldman-Hodgkin-Katz equation</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Ions contributing to the resting potential</figcaption>
+<figcaption>Ions contributing to the resting potential</figcaption>
 </figure>
 </div>
 <p><strong>Summary of forces</strong></p>
@@ -1048,7 +1090,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <ul>
@@ -1167,13 +1209,21 @@ Note
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" class="img-fluid"></p>
+<div>
+<figure class="figure">
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
 </div>
 </div>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<p><img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" class="img-fluid"></p>
+<div>
+<figure class="figure">
+<p><img src="http://hyperphysics.phy-astr.gsu.edu/hbase/Biology/imgbio/actpot4.gif" class="img-fluid figure-img"></p>
+</figure>
+</div>
 </div>
 </div>
 <section id="neuron-at-rest" class="level5">
@@ -1421,7 +1471,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="eyherabide_bursts_2009">(<a href="#ref-eyherabide_bursts_2009" role="doc-biblioref">Eyherabide et al., 2009</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="eyherabide_bursts_2009">(<a href="#ref-eyherabide_bursts_2009" role="doc-biblioref">Eyherabide et al., 2009</a>)</span></figcaption>
 </figure>
 </div>
 </section>
@@ -1443,7 +1493,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 </section>
@@ -1511,7 +1561,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gap_cell_junction-en.svg/1200px-Gap_cell_junction-en.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://commons.wikimedia.org/wiki/File:Gap_cell_junction-en.svg#/media/File:Gap_cell_junction-en.svg</figcaption>
+<figcaption>https://commons.wikimedia.org/wiki/File:Gap_cell_junction-en.svg#/media/File:Gap_cell_junction-en.svg</figcaption>
 </figure>
 </div>
 </section>
@@ -1524,13 +1574,13 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2948/MediaObjects/41583_2011_Article_BFnrn2948_Fig1_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Haucke2011-ub">(Figure 1 from <a href="#ref-Haucke2011-ub" role="doc-biblioref">Haucke, Neher, &amp; Sigrist, 2011</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Haucke2011-ub">(Figure 1 from <a href="#ref-Haucke2011-ub" role="doc-biblioref">Haucke, Neher, &amp; Sigrist, 2011</a>)</span></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Hastoy2017-it">(<a href="#ref-Hastoy2017-it" role="doc-biblioref">Hastoy, Clark, Rorsman, &amp; Lang, 2017</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Hastoy2017-it">(<a href="#ref-Hastoy2017-it" role="doc-biblioref">Hastoy, Clark, Rorsman, &amp; Lang, 2017</a>)</span></figcaption>
 </figure>
 </div>
 <div class="cell">
@@ -1539,7 +1589,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-fx1.jpg" class="img-fluid figure-img" width="900"></p>
-<figcaption class="figure-caption"><a href="https://doi.org/10.1016/j.ceca.2017.10.005"><span class="citation" data-cites="Hastoy2017-it">(<span>Hastoy et al., 2017</span>)</span></a></figcaption>
+<figcaption><a href="https://doi.org/10.1016/j.ceca.2017.10.005"><span class="citation" data-cites="Hastoy2017-it">(<span>Hastoy et al., 2017</span>)</span></a></figcaption>
 </figure>
 </div>
 </div>
@@ -1547,13 +1597,13 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0143416017301495-gr1_lrg.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Hastoy2017-it">(<a href="#ref-Hastoy2017-it" role="doc-biblioref">Hastoy et al., 2017</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Hastoy2017-it">(<a href="#ref-Hastoy2017-it" role="doc-biblioref">Hastoy et al., 2017</a>)</span></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg/1502px-Junctional_complex_and_pinocytotic_vesicles_-_embryonic_brain-TEM.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Wikipedia</figcaption>
+<figcaption>Wikipedia</figcaption>
 </figure>
 </div>
 <ul>
@@ -1569,7 +1619,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SynapseSchematic_en.svg/512px-SynapseSchematic_en.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Source: https://commons.wikimedia.org/wiki/File%3ASynapseSchematic_en.svg</figcaption>
+<figcaption>Source: https://commons.wikimedia.org/wiki/File%3ASynapseSchematic_en.svg</figcaption>
 </figure>
 </div>
 <p><strong>Relative sizes</strong></p>
@@ -1620,7 +1670,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://webvision.med.utah.edu/imageswv/GLU5.jpeg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">http://webvision.med.utah.edu/imageswv/GLU5.jpeg</figcaption>
+<figcaption>http://webvision.med.utah.edu/imageswv/GLU5.jpeg</figcaption>
 </figure>
 </div>
 </section>
@@ -1672,7 +1722,7 @@ Note
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Blausen_0843_SynapseTypes.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Source: Blausen.com staff https://commons.wikimedia.org/wiki/File%3ABlausen_0843_SynapseTypes.png</figcaption>
+<figcaption>Source: Blausen.com staff https://commons.wikimedia.org/wiki/File%3ABlausen_0843_SynapseTypes.png</figcaption>
 </figure>
 </div>
 <ul>
@@ -1695,7 +1745,7 @@ Note
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-GLIA:GLIA10" class="csl-entry" role="listitem">
 Anderson, C. M., &amp; Swanson, R. A. (2000). Astrocyte glutamate transport: Review of properties, regulation, and physiological functions. <em>Glia</em>, <em>32</em>(1), 1–14. <a href="https://doi.org/10.1002/1098-1136(200010)32:1<1::AID-GLIA10>3.0.CO;2-W">https://doi.org/10.1002/1098-1136(200010)32:1&lt;1::AID-GLIA10&gt;3.0.CO;2-W</a>
 </div>
@@ -1806,10 +1856,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1819,8 +1868,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1833,6 +1891,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1876,6 +2053,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1901,6 +2079,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1961,6 +2165,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
