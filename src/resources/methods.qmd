@@ -57,7 +57,7 @@ format:
 
 ---
 
-![https://publicdomainreview.org/collection/illustrations-of-the-nervous-system-golgi-and-cajal/](https://the-public-domain-review.imgix.net/collections/illustrations-of-the-nervous-system-golgi-and-cajal/golgi-olfactory-top-thumb.jpg?fit=max&w=1200&h=850)
+![<https://publicdomainreview.org/collection/illustrations-of-the-nervous-system-golgi-and-cajal/>](https://the-public-domain-review.imgix.net/collections/illustrations-of-the-nervous-system-golgi-and-cajal/golgi-olfactory-top-thumb.jpg?fit=max&w=1200&h=850)
 
 #### [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
 
@@ -69,9 +69,10 @@ format:
 - Cell density ~ color intensity
 
 ![](https://i.pinimg.com/originals/24/ba/58/24ba5870a0b3ac2ce8e3620853e12c8b.jpg)
-![https://www.researchgate.net/figure/Nissl-staining-and-Golgi-stain-in-rats-30days-after-infarction-A-Nissl-staining-of-the_fig4_355182651](https://www.researchgate.net/publication/355182651/figure/fig4/AS:1077963713970180@1634017985463/Nissl-staining-and-Golgi-stain-in-rats-30days-after-infarction-A-Nissl-staining-of-the.png)
 
-#### [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl)
+![<https://www.researchgate.net/figure/Nissl-staining-and-Golgi-stain-in-rats-30days-after-infarction-A-Nissl-staining-of-the_fig4_355182651>](https://www.researchgate.net/publication/355182651/figure/fig4/AS:1077963713970180@1634017985463/Nissl-staining-and-Golgi-stain-in-rats-30days-after-infarction-A-Nissl-staining-of-the.png)
+
+#### Franz Nissl
 
 ![Franz Nissl (Wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Franz_Nissl.jpg/440px-Franz_Nissl.jpg)
 
@@ -92,7 +93,7 @@ format:
 - CUBIC (“clear, unobstructed brain/body imaging cocktails and computational analysis")
 - [@Susaki2014-xj]
 
-![[@Ando2018-ze]. Fig. 21.2. Immunostaining of CUBIC-clarified 500-μm-thick slices from human Alzheimer disease postmortem brain frontal cortex. Human Alzheimer disease frontal cortex tissue immunostained for Aß (6E10, red) and for tau (B19, green). Stack depth of 264 μm; step size = 1 μm. Stack photos were taken with a two-photon microscope equipped with a 20 × air objective. Scale bar, 100 μm.](https://ars.els-cdn.com/content/image/1-s2.0-B9780444636393000219-f21-02-9780444636393.jpg)
+![[Fig 21.2 from @Ando2018-ze]. Immunostaining of CUBIC-clarified 500-μm-thick slices from human Alzheimer disease postmortem brain frontal cortex. Human Alzheimer disease frontal cortex tissue immunostained for Aß (6E10, red) and for tau (B19, green). Stack depth of 264 μm; step size = 1 μm. Stack photos were taken with a two-photon microscope equipped with a 20 × air objective. Scale bar, 100 μm.](https://ars.els-cdn.com/content/image/1-s2.0-B9780444636393000219-f21-02-9780444636393.jpg)
 
 #### Evaluating micro/cellular techniques
 
@@ -117,11 +118,13 @@ format:
 
 ##### Tomography
 
+- Structured sequence of 2D images -> 3D reconstruction
+
 ![http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg](../include/img/cat-scan-pineapple.jpg)
 
 ---
 
-![https://medium.com/datadriveninvestor/detecting-brain-hemorrhage-in-computed-tomography-ct-imaging-d1276cb6bdb7](https://miro.medium.com/max/1024/1*j09PgBpdJIHXhlyjcby0HA.jpeg)
+![<https://medium.com/datadriveninvestor/detecting-brain-hemorrhage-in-computed-tomography-ct-imaging-d1276cb6bdb7>](https://miro.medium.com/max/1024/1*j09PgBpdJIHXhlyjcby0HA.jpeg)
 
 #### Magnetic Resonance Imaging (MRI)
 
@@ -135,6 +138,7 @@ format:
 - Strength of RF ~ density of $H$ (or other target)
 - [$k$-space](https://radiopaedia.org/articles/k-space-1?lang=us) (frequency/phase) -> anatomical space
     - [Fourier analysis and synthesis](https://en.wikipedia.org/wiki/Fourier_transform) important for psychological/neural science, but possibly unfamiliar to many.
+    - Frequency and phase $/rightarrow$ amplitude and location
 
 ![http://s.hswstatic.com/gif/mri-steps.jpg](../include/img/mri-steps.jpg)
 
@@ -163,7 +167,7 @@ format:
 - Colored portions are statistical maps placed on top of a base structural map.
 - Maps (a) provide information about the comparison in brain volumes between patients and controls in those areas, and in (b) functional imaging differences in an n-back task.
 
-#### Mapping the wiring diagram ("connectome")
+### Mapping the wiring diagram ("connectome")
 
 ![Fire alarm circuit schematic](https://i.stack.imgur.com/2OT3B.png)
 
@@ -171,14 +175,16 @@ format:
 
 ![[@Jonas2017-sk]](../include/img/jonas-kording-2017.jpg)
 
-##### Retrograde (output -> input) vs. anterograde (input -> output) tracers
+#### Microscale
+
+Retrograde (output -> input) vs. anterograde (input -> output) tracers
 
 ![http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png](../include/img/retrograde-anterograde-tracers.png)
 {{< video https://www.youtube.com/embed/nvXuq9jRWKE >}}
 
 <https://www.youtube.com/embed/nvXuq9jRWKE>
 
-##### Diffusion Tensor Imaging (DTI)
+#### Diffusion Tensor Imaging (DTI)
 
 - Structural MRI technique
 - Diffusion tensor: measurement of spatial pattern of $H_2O$ diffusion in small volume
@@ -189,7 +195,7 @@ format:
 
 ![https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg](https://www.nap.edu/openbook/13373/xhtml/images/p26.jpg)
 
-##### Visualizing the connectome
+#### Visualizing the connectome
 
 ![[Figure 2 from @Bonilha2015-qx]. Fig 2. Link-wise ICCs. Each matrix entry represents the ICC observed for the white matter link between the gray matter ROI in the row and the gray matter ROI in the column.](https://journals.plos.org/plosone/article/figure/image?size=large&download=&id=10.1371/journal.pone.0135247.g002)
 
@@ -367,15 +373,19 @@ Generate "predicted" BOLD response to event; compare to actual
 
 ![https://scx1.b-cdn.net/csz/news/800/2015/562df18a48c5c.png](https://scx1.b-cdn.net/csz/news/800/2015/562df18a48c5c.png)
 
-### Magneto-encephalography (MEG)
+#### Magneto-encephalography (MEG)
 
 - Like EEG, but measuring magnetic fields
-- Electrical and magnetic fields orthogonal
 - High temporal resolution
-- Magnetic fields propagate w/o distortion
-    - But are orthogonal to electric field
+- Magnetic fields ($\vec{B}$) propagate w/o distortion
+    - But oriented orthogonal to electric field ($\vec{E}$)
 
 ![https://en.wikipedia.org/wiki/Electromagnetic_field](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Onde_electromagnetique.svg/220px-Onde_electromagnetique.svg.png)
+
+![<https://www.humanconnectome.org/study/hcp-young-adult/project-protocol/meg-eeg>](https://www.humanconnectome.org/storage/app/media/art/meg-eeg-fig1-draft.png)
+
+- Strongest signals from sulci $\perp$ to cortical surface 
+- vs. EEG that favors signals from neurons $\parallel$ to cortical surface
 
 - Requires shielded chamber (to keep out strong magnetic fields)
 - ++ cost vs. EEG
@@ -418,7 +428,7 @@ New device minimizes problems with motion
 - *Double dissociation*: Damage to area Z leaves behavior Y intact 
 - Weak spatial/temporal resolution
 
-### Stimulating the brain
+#### Stimulating the brain
 
 - Electrical (**Direct Current Stimulation - DCS**)
 - Pharmacological
@@ -426,7 +436,7 @@ New device minimizes problems with motion
 - Spatial/temporal resolution?
 - Assume stimulation mimics natural activity?
 
-#### Deep brain stimulation as therapy
+##### Deep brain stimulation as therapy
 
 - Depression 
 - Epilepsy
@@ -467,7 +477,7 @@ New device minimizes problems with motion
 
 ### Or synthesizing one...
 
-### Human brain organoids
+#### Human brain organoids
 
 > Brain organoids represent a powerful tool for studying human neurological diseases, particularly those that affect brain growth and structure. However, many diseases manifest with clear evidence of physiological and network abnormality in the absence of anatomical changes, raising the question of whether organoids possess sufficient neural network complexity to model these conditions. Here, we explore the network-level functions of brain organoids using calcium sensor imaging and extracellular recording approaches that together reveal the existence of complex network dynamics reminiscent of intact brain preparations. We demonstrate highly abnormal and epileptiform-like activity in organoids derived from induced pluripotent stem cells from individuals with Rett syndrome, accompanied by transcriptomic differences revealed by single-cell analyses. We also rescue key physiological activities with an unconventional neuroregulatory drug, pifithrin-α. Together, these findings provide an essential foundation for the utilization of brain organoids to study intact and disordered human brain network formation and illustrate their utility in therapeutic discovery.
 >
