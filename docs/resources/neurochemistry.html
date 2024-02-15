@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
+  margin-bottom: 0em;
 }
 .hanging-indent div.csl-entry {
   margin-left:2em;
@@ -64,7 +65,13 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -73,6 +80,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -84,9 +92,41 @@ div.csl-indent {
 }
 </script>
 <script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../include/css/styles.css">
 </head>
@@ -95,9 +135,9 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">PSYCH 511.003 • Spring 2024</span>
     </a>
@@ -109,126 +149,126 @@ div.csl-indent {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
- <span class="menu-text">home</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../schedule.html" rel="" target="">
- <span class="menu-text">schedule</span></a>
+    <a class="nav-link" href="../schedule.html"> 
+<span class="menu-text">schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../evaluation.html" rel="" target="">
- <span class="menu-text">evaluation</span></a>
+    <a class="nav-link" href="../evaluation.html"> 
+<span class="menu-text">evaluation</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../policies.html" rel="" target="">
- <span class="menu-text">policies</span></a>
+    <a class="nav-link" href="../policies.html"> 
+<span class="menu-text">policies</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">slides</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
         <li>
-    <a class="dropdown-item" href="../slides/wk01-2024-01-11.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk01-2024-01-11.html">
  <span class="dropdown-text">Week-01 • Course introduction</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk02-2024-01-18.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk02-2024-01-18.html">
  <span class="dropdown-text">Week-02 • Neuroanatomy</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk03-2024-01-25.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk03-2024-01-25.html">
  <span class="dropdown-text">Week-03 • Cellular Neuroscience I</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk04-2024-02-01.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk04-2024-02-01.html">
  <span class="dropdown-text">Week-04 • Cellular Neuroscience II</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk05-2024-02-08.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk05-2024-02-08.html">
  <span class="dropdown-text">Week-05• Neurochemistry</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../slides/wk06-2024-02-15.html" rel="" target="">
+    <a class="dropdown-item" href="../slides/wk06-2024-02-15.html">
  <span class="dropdown-text">Week-06• Methods</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">resources</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="../resources/levels.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/levels.html">
  <span class="dropdown-text">Levels of Analysis</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/anatomy.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/anatomy.html">
  <span class="dropdown-text">Neuroanatomy</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/cells.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/cells.html">
  <span class="dropdown-text">Cellular neuroscience</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/neurochemistry.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/neurochemistry.html">
  <span class="dropdown-text">Neurochemistry</span></a>
   </li>  
         <li><hr class="dropdown-divider"></li>
         <li>
-    <a class="dropdown-item" href="../resources/methods.html" rel="" target="">
+    <a class="dropdown-item" href="../resources/methods.html">
  <span class="dropdown-text">Neuroscience methods</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-exercises" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-exercises" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">exercises</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-exercises">    
         <li>
-    <a class="dropdown-item" href="../exercises/ex01.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex01.html">
  <span class="dropdown-text">Exercise 01 • Levels/Terms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex02.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex02.html">
  <span class="dropdown-text">Exercise 02 • Neuroanatomy</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex03.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex03.html">
  <span class="dropdown-text">Exercise 03 • Neurophysiology I</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex04.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex04.html">
  <span class="dropdown-text">Exercise 04 • Neurophysiology II</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex05.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex05.html">
  <span class="dropdown-text">Exercise 05 • Neurochemistry</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex06.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex06.html">
  <span class="dropdown-text">Exercise 06 • Methods</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex07-evo-devo.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex07-evo-devo.html">
  <span class="dropdown-text">Exercise 07 • Evolution &amp; Development</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../exercises/ex08-devo.html" rel="" target="">
+    <a class="dropdown-item" href="../exercises/ex08-devo.html">
  <span class="dropdown-text">Exercise 08 • Development</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -317,7 +357,9 @@ div.csl-indent {
   </div>
   
 
+
 </header>
+
 
 <section id="neurotransmitters" class="level2">
 <h2 class="anchored" data-anchor-id="neurotransmitters">Neurotransmitters</h2>
@@ -444,13 +486,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Fig-GABAA_receptor.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/GABAA_receptor</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/GABAA_receptor</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GABAA-receptor-protein-example.png/800px-GABAA-receptor-protein-example.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/GABAA_receptor</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/GABAA_receptor</figcaption>
 </figure>
 </div>
 </section>
@@ -482,7 +524,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://imotions.com/wp-content/uploads/2022/10/Sympathetic-parasympathetic-nervous-systems.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://imotions.com/blog/learning/research-fundamentals/nervous-system/</figcaption>
+<figcaption>https://imotions.com/blog/learning/research-fundamentals/nervous-system/</figcaption>
 </figure>
 </div>
 <table class="table">
@@ -529,13 +571,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://cdn.britannica.com/92/183192-050-1741C2F9/Belladonna-nightshade-leaves-berries-alkaloids-humans.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://cdn.britannica.com/92/183192-050-1741C2F9/Belladonna-nightshade-leaves-berries-alkaloids-humans.jp</figcaption>
+<figcaption>https://cdn.britannica.com/92/183192-050-1741C2F9/Belladonna-nightshade-leaves-berries-alkaloids-humans.jp</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Eye_treated_with_dilating_eye_drops.jpg/800px-Eye_treated_with_dilating_eye_drops.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://commons.wikimedia.org/wiki/File:Eye_treated_with_dilating_eye_drops.jpg</figcaption>
+<figcaption>https://commons.wikimedia.org/wiki/File:Eye_treated_with_dilating_eye_drops.jpg</figcaption>
 </figure>
 </div>
 </section>
@@ -544,19 +586,19 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41386-021-01070-x/MediaObjects/41386_2021_1070_Fig1_HTML.png?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Avram2021-vs">(Figure 1 from <a href="#ref-Avram2021-vs" role="doc-biblioref">Avram et al., 2021</a>)</span>. Fig. 1: Map of the cholinergic basal forebrain. The region of interest depicts the cholinergic basal forebrain, based on a cytoarchitectonic map of cholinergic nuclei, overlaid on a human brain template in Montreal Neurological Institute space. The BFCN mask is based on combined histology and postmortem MRI [63], containing several cholinergic subdivisions within the basal forebrain, including the medial septal nucleus, diagonal band of Broca, nucleus subputaminalis, the basal magnocellular complex, and nucleus basalis of Meynert [57, 72]</figcaption>
+<figcaption><span class="citation" data-cites="Avram2021-vs">(Figure 1 from <a href="#ref-Avram2021-vs" role="doc-biblioref">Avram et al., 2021</a>)</span>. Fig. 1: Map of the cholinergic basal forebrain. The region of interest depicts the cholinergic basal forebrain, based on a cytoarchitectonic map of cholinergic nuclei, overlaid on a human brain template in Montreal Neurological Institute space. The BFCN mask is based on combined histology and postmortem MRI [63], containing several cholinergic subdivisions within the basal forebrain, including the medial septal nucleus, diagonal band of Broca, nucleus subputaminalis, the basal magnocellular complex, and nucleus basalis of Meynert [57, 72]</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://onlinelibrary.wiley.com/cms/asset/9d8f9564-5c0c-476e-a252-d9fc572eff66/cne23415-fig-0017-m.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Mesulam2013-no">(Figure 17 from <a href="#ref-Mesulam2013-no" role="doc-biblioref">Mesulam, 2013</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Mesulam2013-no">(Figure 17 from <a href="#ref-Mesulam2013-no" role="doc-biblioref">Mesulam, 2013</a>)</span></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.frontiersin.org/files/Articles/300066/fncir-11-00108-HTML/image_m/fncir-11-00108-g008.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Avery2017-iv">(Figure 8 from <a href="#ref-Avery2017-iv" role="doc-biblioref">Avery &amp; Krichmar, 2017</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Avery2017-iv">(Figure 8 from <a href="#ref-Avery2017-iv" role="doc-biblioref">Avery &amp; Krichmar, 2017</a>)</span></figcaption>
 </figure>
 </div>
 </section>
@@ -643,7 +685,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Dopaminergic_pathways.svg/1280px-Dopaminergic_pathways.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">The main dopaminergic pathways of the (Wikipedia)</figcaption>
+<figcaption>The main dopaminergic pathways of the (Wikipedia)</figcaption>
 </figure>
 </div>
 <section id="clinical-relevance" class="level5">
@@ -707,13 +749,13 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Locus_coeruleus_highlighted.jpg/300px-Locus_coeruleus_highlighted.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Locus Coeruleus (Wikipedia)</figcaption>
+<figcaption>Locus Coeruleus (Wikipedia)</figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.researchgate.net/publication/338194613/figure/fig1/AS:842586742857728@1577899742543/Locus-coeruleus-LC-efferent-pathways-and-relevant-functions-LC-projects-throughout-the.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://www.researchgate.net/publication/338194613/figure/fig1/AS:842586742857728@1577899742543/Locus-coeruleus-LC-efferent-pathways-and-relevant-functions-LC-projects-throughout-the.png</figcaption>
+<figcaption>https://www.researchgate.net/publication/338194613/figure/fig1/AS:842586742857728@1577899742543/Locus-coeruleus-LC-efferent-pathways-and-relevant-functions-LC-projects-throughout-the.png</figcaption>
 </figure>
 </div>
 <ul>
@@ -790,7 +832,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Serotonergic_neurons.svg/1280px-Serotonergic_neurons.svg.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Serotonin_pathway</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Serotonin_pathway</figcaption>
 </figure>
 </div>
 <ul>
@@ -802,7 +844,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0092867418309711-fx1.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Ren2018-zl">(<a href="#ref-Ren2018-zl" role="doc-biblioref">Ren et al., 2018</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Ren2018-zl">(<a href="#ref-Ren2018-zl" role="doc-biblioref">Ren et al., 2018</a>)</span></figcaption>
 </figure>
 </div>
 <ul>
@@ -834,7 +876,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://www.frontiersin.org/files/Articles/300066/fncir-11-00108-HTML/image_m/fncir-11-00108-g001.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Avery2017-iv">(Figure 1 from <a href="#ref-Avery2017-iv" role="doc-biblioref">Avery &amp; Krichmar, 2017</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="Avery2017-iv">(Figure 1 from <a href="#ref-Avery2017-iv" role="doc-biblioref">Avery &amp; Krichmar, 2017</a>)</span></figcaption>
 </figure>
 </div>
 <ul>
@@ -852,7 +894,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg</figcaption>
+<figcaption>http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg</figcaption>
 </figure>
 </div>
 </section>
@@ -864,7 +906,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn1034/MediaObjects/41583_2003_Article_BFnrn1034_Fig1_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Haas2003-gh">(<a href="#ref-Haas2003-gh" role="doc-biblioref">Haas &amp; Panula, 2003</a>)</span>. About 64,000 histamine-producing neurons, located in the tuberomamillary nucleus119 of the human brain, innervate all of the major parts of the cerebrum, cerebellum, posterior piuitary and the spinal cord.</figcaption>
+<figcaption><span class="citation" data-cites="Haas2003-gh">(<a href="#ref-Haas2003-gh" role="doc-biblioref">Haas &amp; Panula, 2003</a>)</span>. About 64,000 histamine-producing neurons, located in the tuberomamillary nucleus119 of the human brain, innervate all of the major parts of the cerebrum, cerebellum, posterior piuitary and the spinal cord.</figcaption>
 </figure>
 </div>
 <ul>
@@ -878,7 +920,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/psychotropic-drug-targets.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Source: https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&amp;name=Chapter%202&amp;title=Summary</figcaption>
+<figcaption>Source: https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&amp;name=Chapter%202&amp;title=Summary</figcaption>
 </figure>
 </div>
 <ul>
@@ -1045,7 +1087,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Source: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg</figcaption>
+<figcaption>Source: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1807_The_Posterior_Pituitary_Complex.jpg/594px-1807_The_Posterior_Pituitary_Complex.jpg</figcaption>
 </figure>
 </div>
 </section>
@@ -1065,7 +1107,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2647/MediaObjects/41583_2009_Article_BFnrn2647_Fig1_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 1 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span>. Figure 1: General scheme of brain acute-stress regulatory pathways. Stressors activate brainstem and/or forebrain limbic structures. The brainstem can generate rapid hypothalamic-pituitary-adrenal (HPA) axis and autonomic nervous system (ANS) responses through direct projections to hypophysiotrophic neurons in the paraventricular nucleus of the hypothalamus (PVN) or to preganglionic autonomic neurons (stress response triggers). By contrast, forebrain limbic regions have no direct connections with the HPA axis or the ANS and thus require intervening synapses before they can access autonomic or neuroendocrine neurons (top-down regulation). A high proportion of these intervening neurons are located in hypothalamic nuclei that are also responsive to homeostatic status, providing a mechanism by which the descending limbic information can be modulated according to the physiological status of the animal (‘middle management’). BST, bed nucleus of the stria terminalis; CVO, circumventricular organ; SAM, sympathoadrenomedullary system.</figcaption>
+<figcaption><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 1 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span>. Figure 1: General scheme of brain acute-stress regulatory pathways. Stressors activate brainstem and/or forebrain limbic structures. The brainstem can generate rapid hypothalamic-pituitary-adrenal (HPA) axis and autonomic nervous system (ANS) responses through direct projections to hypophysiotrophic neurons in the paraventricular nucleus of the hypothalamus (PVN) or to preganglionic autonomic neurons (stress response triggers). By contrast, forebrain limbic regions have no direct connections with the HPA axis or the ANS and thus require intervening synapses before they can access autonomic or neuroendocrine neurons (top-down regulation). A high proportion of these intervening neurons are located in hypothalamic nuclei that are also responsive to homeostatic status, providing a mechanism by which the descending limbic information can be modulated according to the physiological status of the animal (‘middle management’). BST, bed nucleus of the stria terminalis; CVO, circumventricular organ; SAM, sympathoadrenomedullary system.</figcaption>
 </figure>
 </div>
 <ul>
@@ -1079,7 +1121,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2647/MediaObjects/41583_2009_Article_BFnrn2647_Fig2_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 2 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span></figcaption>
+<figcaption><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 2 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span></figcaption>
 </figure>
 </div>
 <ul>
@@ -1092,7 +1134,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650001.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Deussing2018-ub">(<a href="#ref-Deussing2018-ub" role="doc-biblioref">Deussing &amp; Chen, 2018</a>)</span>. FIGURE 1. Effector systems of the stress response. A stressor elicits rapid activation of the autonomic nervous system with its sympathoneuronal (SN) and sympatho-adrenomedullary (SAM) limbs releasing their main effectors, noradrenaline and adrenaline, respectively. Activation of the hypothalamic-pituitary-adrenocortical (HPA) axis results in synthesis and release of its main effector, cortisol or corticosterone, in rodents. ACTH, adrenocorticotropic hormone; CRF, corticotropin-releasing factor.</figcaption>
+<figcaption><span class="citation" data-cites="Deussing2018-ub">(<a href="#ref-Deussing2018-ub" role="doc-biblioref">Deussing &amp; Chen, 2018</a>)</span>. FIGURE 1. Effector systems of the stress response. A stressor elicits rapid activation of the autonomic nervous system with its sympathoneuronal (SN) and sympatho-adrenomedullary (SAM) limbs releasing their main effectors, noradrenaline and adrenaline, respectively. Activation of the hypothalamic-pituitary-adrenocortical (HPA) axis results in synthesis and release of its main effector, cortisol or corticosterone, in rodents. ACTH, adrenocorticotropic hormone; CRF, corticotropin-releasing factor.</figcaption>
 </figure>
 </div>
 <ul>
@@ -1114,7 +1156,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2647/MediaObjects/41583_2009_Article_BFnrn2647_Fig3_HTML.jpg?as=webp" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 3 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span>. Figure 3: The brain circuitry that regulates HPA axis stress responses. Stress-induced activation of the dorsal part of the medial parvocellular paraventricular nucleus of the hypothalamus (PVNmpd) originates in several brain regions (excitatory inputs are coloured blue with solid lines and inhibitory (GABA (γ-aminobutyric acid)-ergic) inputs are coloured red with dashed lines). The paraventricular nucleus of the hypothalamus (PVN) receives direct noradrenergic, adrenergic and peptidergic innervation from the nucleus of the solitary tract (NTS). The dorsomedial components of the dorsomedial hypothalamus (dmDMH) and the arcuate nucleus (Arc) provide intrahypothalamic stress excitation. The anterior part of the bed nucleus of the stria terminalis (BST), particularly the anteroventral nucleus of the BST (avBST), activates hypothalamic-pituitary-adrenocortical (HPA) axis stress responses. The PVN also receives a stress-excitatory drive from the dorsal raphe, the tuberomammillary nucleus, the supramammillary nucleus and the spinal cord, among others (omitted in the interest of space). Activation of the PVNmpd is inhibited by numerous hypothalamic circuits, including the medial preoptic area (mPOA), the ventrolateral component of the dorsomedial hypothalamus (vlDMH) and local neurons in the peri-PVN region (pPVN), encompassing the PVN surround and the subparaventricular zone. The posterior subregions of the bed nucleus of the stria terminalis (pBST) provide a prominent forebrain inhibition of HPA axis responses; most of these inputs are GABAergic. Brain sections are modified, with permission, from Ref. 154 © (1998) Academic Press.</figcaption>
+<figcaption><span class="citation" data-cites="ulrich-lai_neural_2009">(Figure 3 from <a href="#ref-ulrich-lai_neural_2009" role="doc-biblioref">Ulrich-Lai &amp; Herman, 2009</a>)</span>. Figure 3: The brain circuitry that regulates HPA axis stress responses. Stress-induced activation of the dorsal part of the medial parvocellular paraventricular nucleus of the hypothalamus (PVNmpd) originates in several brain regions (excitatory inputs are coloured blue with solid lines and inhibitory (GABA (γ-aminobutyric acid)-ergic) inputs are coloured red with dashed lines). The paraventricular nucleus of the hypothalamus (PVN) receives direct noradrenergic, adrenergic and peptidergic innervation from the nucleus of the solitary tract (NTS). The dorsomedial components of the dorsomedial hypothalamus (dmDMH) and the arcuate nucleus (Arc) provide intrahypothalamic stress excitation. The anterior part of the bed nucleus of the stria terminalis (BST), particularly the anteroventral nucleus of the BST (avBST), activates hypothalamic-pituitary-adrenocortical (HPA) axis stress responses. The PVN also receives a stress-excitatory drive from the dorsal raphe, the tuberomammillary nucleus, the supramammillary nucleus and the spinal cord, among others (omitted in the interest of space). Activation of the PVNmpd is inhibited by numerous hypothalamic circuits, including the medial preoptic area (mPOA), the ventrolateral component of the dorsomedial hypothalamus (vlDMH) and local neurons in the peri-PVN region (pPVN), encompassing the PVN surround and the subparaventricular zone. The posterior subregions of the bed nucleus of the stria terminalis (pBST) provide a prominent forebrain inhibition of HPA axis responses; most of these inputs are GABAergic. Brain sections are modified, with permission, from Ref. 154 © (1998) Academic Press.</figcaption>
 </figure>
 </div>
 <ul>
@@ -1123,7 +1165,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://journals.physiology.org/cms/10.1152/physrev.00042.2017/asset/images/medium/z9j0041828650004.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption"><span class="citation" data-cites="Deussing2018-ub">(<a href="#ref-Deussing2018-ub" role="doc-biblioref">Deussing &amp; Chen, 2018</a>)</span>. FIGURE 4. Distribution of mRNA expression of corticotropin-releasing factor (CRF)-related peptides in the rodent brain. Three-dimensional expression patterns of CRF-related peptide were collapsed onto a single sagittal brain section. Depicted are well-documented sites of high to moderate expression. Sites of expression are indicated by colored dots: CRF (orange), urocortin (UCN) 1 (green), UCN2 (light blue), UCN3 (purple). 7, Facial nerve; 12, hypoglossal nerve; Amb, ambiguous nucleus; AP, area postrema; arc, arcuate nucleus; Bar, Barrington’s nucleus; BLA, basolateral amygdala; BNST, bed nucleus of the stria terminalis (d, dorsal aspect; v, ventral aspect); CA1, cornu ammonis subfield 1; CA3, cornu ammonis subfield 3; CC, corpus callosum; CeA, central amygdala; Cereb, cerebellum; CingCx, cingulate cortex; CPu, caudate putamen; DeepN, deep nucleus of cerebellum; DG, dentate gyrus; EW, Edinger Westphal nucleus; FrCx, frontal cortex; GPe, external globus pallidus; Hip, hippocampus; IC, inferior colliculus; IO, inferior olive; IPN, interpeduncular nucleus; LC, locus coeruleus; LH, lateral hypothalamus; LS, lateral septum; LSO, lateral superior olive; LTDg, laterodorsal tegmental nucleus; MeA, medial amygdala; MePO, median preoptic area; MGN, medial geniculate nucleus; MS, medial septum; MVN, medial vestibular nucleus; NAc, nucleus accumbens; NTS, nucleus of the solitary tract; OB, olfactory bulb; OccCx, occipital cortex; OT, olfactory tubercle; PAG, periaqueductal gray; ParCx, parietal cortex; PB, parabrachial nucleus; PFA, perifornical area; PG, pontine gray; Pir, piriform cortex; Pit, pituitary (p, lobe, anterior lobe, intermediate, posterior lobe); PM, premammillary nucleus; PPTg, pedunculopontine tegmental nucleus; PVN, paraventricular nucleus of the hypothalamus; R, red nucleus; RN, raphe nuclei; RTB, reticular thalamic nucleus; SC, superior colliculus; SN, substantia nigra; Sp5n, spinal trigeminal nucleus; SPO, superior paraolivary nucleus; VMH, ventromedial hypothalamus, VTA, ventral tegmental area.</figcaption>
+<figcaption><span class="citation" data-cites="Deussing2018-ub">(<a href="#ref-Deussing2018-ub" role="doc-biblioref">Deussing &amp; Chen, 2018</a>)</span>. FIGURE 4. Distribution of mRNA expression of corticotropin-releasing factor (CRF)-related peptides in the rodent brain. Three-dimensional expression patterns of CRF-related peptide were collapsed onto a single sagittal brain section. Depicted are well-documented sites of high to moderate expression. Sites of expression are indicated by colored dots: CRF (orange), urocortin (UCN) 1 (green), UCN2 (light blue), UCN3 (purple). 7, Facial nerve; 12, hypoglossal nerve; Amb, ambiguous nucleus; AP, area postrema; arc, arcuate nucleus; Bar, Barrington’s nucleus; BLA, basolateral amygdala; BNST, bed nucleus of the stria terminalis (d, dorsal aspect; v, ventral aspect); CA1, cornu ammonis subfield 1; CA3, cornu ammonis subfield 3; CC, corpus callosum; CeA, central amygdala; Cereb, cerebellum; CingCx, cingulate cortex; CPu, caudate putamen; DeepN, deep nucleus of cerebellum; DG, dentate gyrus; EW, Edinger Westphal nucleus; FrCx, frontal cortex; GPe, external globus pallidus; Hip, hippocampus; IC, inferior colliculus; IO, inferior olive; IPN, interpeduncular nucleus; LC, locus coeruleus; LH, lateral hypothalamus; LS, lateral septum; LSO, lateral superior olive; LTDg, laterodorsal tegmental nucleus; MeA, medial amygdala; MePO, median preoptic area; MGN, medial geniculate nucleus; MS, medial septum; MVN, medial vestibular nucleus; NAc, nucleus accumbens; NTS, nucleus of the solitary tract; OB, olfactory bulb; OccCx, occipital cortex; OT, olfactory tubercle; PAG, periaqueductal gray; ParCx, parietal cortex; PB, parabrachial nucleus; PFA, perifornical area; PG, pontine gray; Pir, piriform cortex; Pit, pituitary (p, lobe, anterior lobe, intermediate, posterior lobe); PM, premammillary nucleus; PPTg, pedunculopontine tegmental nucleus; PVN, paraventricular nucleus of the hypothalamus; R, red nucleus; RN, raphe nuclei; RTB, reticular thalamic nucleus; SC, superior colliculus; SN, substantia nigra; Sp5n, spinal trigeminal nucleus; SPO, superior paraolivary nucleus; VMH, ventromedial hypothalamus, VTA, ventral tegmental area.</figcaption>
 </figure>
 </div>
 </section>
@@ -1147,7 +1189,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Change_in_plasma_cortisol_cycle_over_24_hours.jpg/440px-Change_in_plasma_cortisol_cycle_over_24_hours.jpg" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://en.wikipedia.org/wiki/Cortisol</figcaption>
+<figcaption>https://en.wikipedia.org/wiki/Cortisol</figcaption>
 </figure>
 </div>
 <ul>
@@ -1171,7 +1213,7 @@ div.csl-indent {
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://64.media.tumblr.com/29ad3be13cc42500c5c0eb496b465745/tumblr_nr55r27dOB1tqg84mo1_640.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">https://64.media.tumblr.com/29ad3be13cc42500c5c0eb496b465745/tumblr_nr55r27dOB1tqg84mo1_640.png</figcaption>
+<figcaption>https://64.media.tumblr.com/29ad3be13cc42500c5c0eb496b465745/tumblr_nr55r27dOB1tqg84mo1_640.png</figcaption>
 </figure>
 </div>
 <p><strong>Oxytocin’s role…</strong></p>
@@ -1240,7 +1282,7 @@ div.csl-indent {
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-Ardura2003-tw" class="csl-entry" role="listitem">
 Ardura, J., Gutierrez, R., Andres, J., &amp; Agapito, T. (2003). Emergence and evolution of the circadian rhythm of melatonin in children. <em>Horm. Res.</em>, <em>59</em>(2), 66–72. <a href="https://doi.org/68571">https://doi.org/68571</a>
 </div>
@@ -1372,10 +1414,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1385,8 +1426,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1399,6 +1449,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1442,6 +1611,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1467,6 +1637,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1527,6 +1723,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
