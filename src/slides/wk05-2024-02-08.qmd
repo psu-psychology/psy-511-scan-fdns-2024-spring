@@ -11,8 +11,8 @@ format:
 
 ## Announcements
 
-- [[Exercise 03](exercises/ex03.qmd) write-up due yesterday.]{.orange_due}
-- [[Exercise 04](exercises/ex04.qmd) write-up due next Wednesday, February 14]{.green_assigned}
+- [[Exercise 03](../exercises/ex03.qmd) write-up due yesterday.]{.orange_due}
+- [[Exercise 04](../exercises/ex04.qmd) write-up due next Wednesday, February 14]{.green_assigned}
 
 ## Last time...
 
@@ -44,7 +44,7 @@ format:
 
 ---
 
-[Link to resources/neurochemistry](resources/neurochemistry.qmd)
+[Link to resources/neurochemistry](../resources/neurochemistry.qmd)
 
 ## Main points
 

@@ -24,7 +24,7 @@ format:
 
 ## Announcements
 
-- [[Exercise 03](exercises/ex03.qmd) distributed.]{.green_assigned}
+- [[Exercise 03](../exercises/ex03.qmd) distributed.]{.green_assigned}
   - due next in two weeks [on Wednesday, February 7]{.orange_due}
 
 ## Last time...

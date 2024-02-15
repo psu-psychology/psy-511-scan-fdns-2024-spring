@@ -351,7 +351,7 @@ Parada, F. J. & Rossi, A. (2018). If neuroscience needs behavior, what does psyc
 
 ## Exercise 01
 
-- [[Due next Wednesday](exercises/ex01.qmd)]{.orange_due}
+- [[Due next Wednesday](../exercises/ex01.qmd)]{.orange_due}
 
 ## Main points
 
@@ -362,7 +362,7 @@ Parada, F. J. & Rossi, A. (2018). If neuroscience needs behavior, what does psyc
 
 - Neuroanatomy lab
   - Read/study
-    - Neuroanatomy [notes](resources/anatomy.qmd)
+    - Neuroanatomy [notes](../resources/anatomy.qmd)
     - Bring to class a copy of [Exercise 02](exercises/ex02.pdf)
 
 # Resources

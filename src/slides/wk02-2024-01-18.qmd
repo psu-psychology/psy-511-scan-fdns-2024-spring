@@ -77,7 +77,7 @@ format:
 - Neuroanatomy
   - Brief overview
   - In-class lab
-  - [Exercise 02](exercises/ex02.qmd)
+  - [Exercise 02](../exercises/ex02.qmd)
 
 # Neuroanatomy
 
