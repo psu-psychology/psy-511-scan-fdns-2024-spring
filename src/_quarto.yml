@@ -39,9 +39,11 @@ website:
           - href: "slides/wk04-2024-02-01.qmd"
             text: "Week-04 • Cellular Neuroscience II"
           - href: "slides/wk05-2024-02-08.qmd"
-            text: "Week-05• Neurochemistry"
+            text: "Week-05 • Neurochemistry"
           - href: "slides/wk06-2024-02-15.qmd"
-            text: "Week-06• Methods"
+            text: "Week-06 • Methods"
+          - href: "slides/wk07-2024-02-22.qmd"
+            text: "Week-07 • Evolution"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -53,6 +55,10 @@ website:
           - href: "resources/neurochemistry.qmd"
           - text: "---"
           - href: "resources/methods.qmd"
+          - text: "---"
+          - href: "resources/evolution.qmd"
+          - text: "---"
+          - href: "resources/development.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
