@@ -152,7 +152,7 @@ Forebrain, midbrain, hindbrain terminology derives from embryonic stages in CNS 
 
 - Lobes, marked by sulci/fissures, adjacency to bones of skull
 - Functional areas marked by gyri & sulci
-- [Brodmann Areas](resources/anatomy.qmd#brodmann-areas)
+- [Brodmann Areas](../resources/anatomy.qmd#brodmann-areas)
   - Microstructural (cellular composition) features
 
 ---
@@ -230,7 +230,7 @@ Multiple hierarchies
 
 ## Next time...
 
-- [Cellular neuroscience I](slides/wk03-2024-01-25.qmd)
+- [Cellular neuroscience I](wk03-2024-01-25.qmd)
 
 # Resources
 

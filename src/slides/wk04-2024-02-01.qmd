@@ -21,8 +21,8 @@ format:
 
 ## Announcements
 
-- [[Exercise 04](exercises/ex04.qmd) assigned]{.green_assigned}
-- Next Wednesday, February 7, [[Exercise 03](exercises/ex03.qmd) write-up due.]{.orange_due}
+- [[Exercise 04](../exercises/ex04.qmd) assigned]{.green_assigned}
+- Next Wednesday, February 7, [[Exercise 03](../exercises/ex03.qmd) write-up due.]{.orange_due}
 
 
 ## Last time...
