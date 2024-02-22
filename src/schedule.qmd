@@ -171,7 +171,7 @@ title: "Schedule"
 
 #### Readings
 
-- [Methods notes](resources/evolution.qmd)
+- [evolution resources](resources/evolution.qmd)
 - [@Charvet2012-bg]
 - [@hofman_evolution_2014]
 - Optional: [@Castrillon2023-mt].
