@@ -9,9 +9,11 @@ format:
 
 # Prelude
 
----
+## {.center}
 
+<div class="center_img">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j6y1o6woVaY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 

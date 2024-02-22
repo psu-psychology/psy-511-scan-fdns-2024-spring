@@ -28,3 +28,9 @@ pre code {
 p {
   font-size: 1.2em;
 }
+
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -14,8 +14,6 @@ The proposal is due on [Thursday, February 29, 2024]{.orange_due}
 
 ## Project options
 
-## Paper options
-
 ### BBS-style critical review
 
 Please write a critical review in the style of a [Behavioral and Brain Sciences (BBS)](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences) commentary.

@@ -139,9 +139,9 @@ format:
 
 ## Vertebrate CNS organization
 
-![[Figure 1 from @Northcutt2002-jg]](../include/img/northcutt-2002-f1.gif)
+![[Figure 1 from @Northcutt2002-jg]](../include/img/northcutt-2002-f1.gif){.lightbox}
 
-![http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg](http://www.bio.miami.edu/dana/pix/vertebrate_brains.jpg)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ENwGSoMh3t4yc2xlElUfUg.png){.lightbox}
 
 ![Jerison <https://brainmuseum.org/evolution/paleo/index.html>](https://brainmuseum.org/evolution/paleo/images/brnbodwt4.gif){.lightbox}
 
