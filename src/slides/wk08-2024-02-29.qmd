@@ -1,25 +1,45 @@
 ---
-title: "2024-02-29 Thu"
-subtitle: "TOPIC"
+title: "Development of the human nervous system"
+subtitle: "PSY 511.003"
 date: 2024-02-29
 format: 
   revealjs:
-    footer: "PSY 511 Spr 2024"
+    footer: "[PSY 511 Spr 2024](../index.html)"
 ---
 
 # Prelude
 
 ## Announcements
 
+- [Exercise 06](../exercises/ex06.qmd) [write-up due yesterday.]{.orange_due}
+- Final project/paper proposal [due today](../resources/final-project.qmd){.orange_due}
+
 ## Last time...
+
+- Evolution of nervous systems
+
+---
+
+### Humans reached our current biological form about 200,000 years ago. What have beenthe main drivers of change since then?
+
+---
+
+## The basic vertebrate brain plan is hundreds of millions of years old. What are some implications of this for understanding brain/behavior relations in humans today?
 
 ## Today's topics
 
-# TOPIC
+- Human brain development
 
 ## Main points
 
+- CNS among earliest-developing, last to "finish" organ systems
+- Development clarifies anatomy
+- Prenatal vs. postnatal
+- Changing structures, changing functions
+
 ## Next time...
+
+- Perception
 
 # Resources
 

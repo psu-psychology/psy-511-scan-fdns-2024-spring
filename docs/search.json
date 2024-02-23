@@ -494,7 +494,7 @@
     "href": "resources/final-project.html#project-options",
     "title": "Final project",
     "section": "Project options",
-    "text": "Project options\n\nBBS-style critical review\nPlease write a critical review in the style of a Behavioral and Brain Sciences (BBS) commentary. The target of your review could be a published article in BBS or an article published in another journal. Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries. Typically, a BBS commentary is restricted to 1,000 words, but you have latitude to write up to 2,500 words.\nDo’s\n\nAlways put your last name and first name in the file name of all documents you submit. For example, gilmore-rick-psy-511-2021-final-paper.docx works fine.\nSubmit your paper as a MS Word document or as a Google drive document that I can comment on using the track changes feature.\nInclude a cover page and title. Make sure to add page numbers.\nUnpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.\nInclude all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.\nInclude author-date citations in the text.\nUse double-spacing.\nRun spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices."
+    "text": "Project options\n\nBBS-style critical review\nWrite a critical review in the style of a Behavioral and Brain Sciences (BBS) commentary. The target of your review could be a published article in BBS or an article published in another journal. Examine some existing BBS papers in your areas of interest to see how authors choose to structure their commentaries. Typically, a BBS commentary is restricted to 1,000 words, but you have latitude to write up to 2,500 words.\n\n\nPopular science piece\nChoose a method, a nervous system structure, neurotransmitter or hormone, or a psychological state, and write a “what do we know about” style of piece targeted at the general, science-literate public. Consult The New York Times, Scientific American, The New Scientist, or The Economist for illustrative examples of the structure and style of the piece. Your piece should be 1,500-2,500 words, and could include illustrations you create, or videos or figures you find (and cite sources for) on the internet. If you choose a psychological state or behavior, please incorporate a biological perspective in some meaningful way. If you want to create a website for your content using Quarto or a similar tool, that is also acceptable.\n\n\nResearch proposal\nPropose a research study that incorporates one or more biological measures and some well-defined behavior or set of behaviors or psychological states. Make sure to highlight how biological measures inform and enrich our understanding about the behaviors or psychological states. Your proposal can be up 1,500-2,500 words.\nDo’s\n\nAlways put your last name and first name in the file name of all documents you submit. For example, gilmore-rick-psy-511-2024-final-paper.docx works fine.\nSubmit your paper as a MS Word document using Canvas.\nInclude a cover page and title. Make sure to add page numbers.\nUnpack and define all acronyms when you first mention them. Define or explain technical terms and concepts.\nInclude all end-of-paper citations in a format that is convenient to you and easy to extract from your reference manager.\nInclude author-date citations in the text.\nUse double-spacing.\nRun spell-check on your paper before you submit. I also suggest reading your paper out loud as a way to catch run-on sentences, awkward phrasing, and odd word choices."
   },
   {
     "objectID": "resources/development.html",
@@ -655,7 +655,7 @@
     "href": "exercises/ex04.html#activity",
     "title": "Exercise 04 • Neurophysiology II",
     "section": "Activity",
-    "text": "Activity\nYou may work by yourself or with up to two other people for this activity. If it is easier, you may draw figures and annotate them.\nAnswer the following questions in no more than a few sentences:\n\nWhat event(s) trigger the rising phase of the action potential in the axon terminal?\nWhat event(s) occur at the peak of the action potential?\nWhat event(s) occur during the falling phase of the action potential?\nWhy does the membrane potential overshoot (become more negative than) the typical resting potential?\nWhy can’t the neuron fire another action potential during the absolute refractory period? What do we need to do to generate an action potential during the relative refractory period?\nWhat makes “computing” with wires and action potentials “expensive” for the nervous system?\nHow do psychologists benefit from learning more about these details of neurophysiology?"
+    "text": "Activity\nYou may work by yourself or with up to two other people for this activity. If it is easier, you may draw figures and annotate them.\nAnswer the following questions in no more than a few sentences:\n\nWhat event(s) trigger the rising phase of the action potential in the axon initial segment?\nWhat event(s) occur at the peak of the action potential?\nWhat event(s) occur during the falling phase of the action potential?\nWhy does the membrane potential overshoot (become more negative than) the typical resting potential?\nWhy can’t the neuron fire another action potential during the absolute refractory period? What do we need to do to generate an action potential during the relative refractory period?\nWhat makes “computing” with wires and action potentials “expensive” for the nervous system?\nHow do psychologists benefit from learning more about these details of neurophysiology?"
   },
   {
     "objectID": "exercises/ex04.html#submission-details",
@@ -1598,42 +1598,49 @@
   {
     "objectID": "slides/wk08-2024-02-29.html#announcements",
     "href": "slides/wk08-2024-02-29.html#announcements",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "Announcements",
-    "text": "Announcements"
+    "text": "Announcements\n\nExercise 06 write-up due yesterday.\nFinal project/paper proposal due today"
   },
   {
     "objectID": "slides/wk08-2024-02-29.html#last-time",
     "href": "slides/wk08-2024-02-29.html#last-time",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "Last time…",
-    "text": "Last time…"
+    "text": "Last time…\n\nEvolution of nervous systems"
+  },
+  {
+    "objectID": "slides/wk08-2024-02-29.html#the-basic-vertebrate-brain-plan-is-hundreds-of-millions-of-years-old.-what-are-some-implications-of-this-for-understanding-brainbehavior-relations-in-humans-today",
+    "href": "slides/wk08-2024-02-29.html#the-basic-vertebrate-brain-plan-is-hundreds-of-millions-of-years-old.-what-are-some-implications-of-this-for-understanding-brainbehavior-relations-in-humans-today",
+    "title": "Development of the human nervous system",
+    "section": "The basic vertebrate brain plan is hundreds of millions of years old. What are some implications of this for understanding brain/behavior relations in humans today?",
+    "text": "The basic vertebrate brain plan is hundreds of millions of years old. What are some implications of this for understanding brain/behavior relations in humans today?"
   },
   {
     "objectID": "slides/wk08-2024-02-29.html#todays-topics",
     "href": "slides/wk08-2024-02-29.html#todays-topics",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "Today’s topics",
-    "text": "Today’s topics"
+    "text": "Today’s topics\n\nHuman brain development"
   },
   {
     "objectID": "slides/wk08-2024-02-29.html#main-points",
     "href": "slides/wk08-2024-02-29.html#main-points",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "Main points",
-    "text": "Main points"
+    "text": "Main points\n\nCNS among earliest-developing, last to “finish” organ systems\nDevelopment clarifies anatomy\nPrenatal vs. postnatal\nChanging structures, changing functions"
   },
   {
     "objectID": "slides/wk08-2024-02-29.html#next-time",
     "href": "slides/wk08-2024-02-29.html#next-time",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "Next time…",
-    "text": "Next time…"
+    "text": "Next time…\n\nPerception"
   },
   {
     "objectID": "slides/wk08-2024-02-29.html#references",
     "href": "slides/wk08-2024-02-29.html#references",
-    "title": "2024-02-29 Thu",
+    "title": "Development of the human nervous system",
     "section": "References",
     "text": "References\n\n\n\nPSY 511 Spr 2024"
   }

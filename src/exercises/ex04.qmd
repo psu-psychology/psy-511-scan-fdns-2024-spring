@@ -14,7 +14,7 @@ If it is easier, you may draw figures and annotate them.
 
 Answer the following questions in no more than a few sentences:
 
-1. What event(s) trigger the *rising phase* of the action potential in the axon terminal?
+1. What event(s) trigger the *rising phase* of the action potential in the axon initial segment?
 2. What event(s) occur at the *peak* of the action potential?
 3. What event(s) occur during the *falling phase* of the action potential?
 4. Why does the membrane potential overshoot (become more negative than) the typical resting potential?
