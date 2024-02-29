@@ -9,6 +9,10 @@ format:
 
 # Prelude
 
+{{< video https://youtu.be/h1kSUkMtNWk?si=Cpp-gDDOiP50W5Yl >}}
+
+[@Spacenukes2012-pp]
+
 ## Announcements
 
 - [Exercise 06](../exercises/ex06.qmd) [write-up due yesterday.]{.orange_due}

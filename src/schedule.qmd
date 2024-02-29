@@ -201,7 +201,7 @@ title: "Schedule"
 - [@Cao2017-bl].
 - [@Blumberg2023-fs].
 - Optional: [@Larsen2023-wx].
-- Optional: [@rakic2009evolution].
+- Optional: [@Rakic2009-jk].
 
 #### Materials
 
