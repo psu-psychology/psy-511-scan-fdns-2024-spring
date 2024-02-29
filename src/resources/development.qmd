@@ -10,10 +10,11 @@ format:
 
 ### Timeline of milestones
 
-![[Figure 1 from @Silbereis2016-la]]. Timeline of Key Human Neurodevelopmental Processes and Functional Milestones.](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+![[Figure 1 from @Silbereis2016-la]. Timeline of Key Human Neurodevelopmental Processes and Functional Milestones.](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
 
 - CNS among earliest-developing, last to finish organ systems
-    - Prolonged developmental period makes CNS especially vulnerable
+    - Prolonged developmental period...makes CNS especially vulnerable
+    - ...makes CNS especially *open* to external influences
 - ~ 86 billion neurons in adult CNS
     - similar # of glia
     - about 16 (14-32) billion neurons, 80/20% Glu/GABA
@@ -28,9 +29,9 @@ format:
 
 #### Summary
 
-- 38 weeks from conception/fertilization on average
+- ~38 weeks from conception/fertilization on average
 - Embryonic period (weeks 1-8), fetal period (weeks 9-)
-- 3 12-13 week trimesters
+- Three 12-13 week trimesters
 
 #### Insemination
 
@@ -54,7 +55,11 @@ format:
 ![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg){.lightbox}
 
 - Embryonic layers: ectoderm, mesoderm, endoderm
-    - Neural tube forms ~ 23 pcd (postconceptual days)
+    - Neural tube forms ~ 23 pcd (*p*ost*c*onceptual *d*ays) from dorsal *ectoderm*
+    - "Skin-brain" axis [@Jameson2023-jd].
+    
+![[Figure 1 from @Jameson2023-jd]. The ectoderm and neurodevelopmental divergence. This figure describes the evolutionary and developmental skin-brain connection, common molecular factors that underpin this relationship in utero and post-birth, the existing evidence for associations between atopic disease and neurodevelopmental delay, and potential early life markers that could identify neurodevelopmental divergence.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41380-022-01829-8/MediaObjects/41380_2022_1829_Fig1_HTML.png?as=webp)
+
 - Neural tube closes in middle, moves toward rostral & caudal ends, closing by 29 - 30 pcd.
 - Failures of neural tube closure
     + Anencephaly (rostral neuraxis)
@@ -90,10 +95,10 @@ format:
     - olfactory bulb (minimally)
     - weak evidence for substantial neurogenesis in adult cerebral cortex
 
-![[Figure 1 from @Ernst2015-iz]. Schematic illustration of adult neurogenesis in the adult rodent and human brain. New neurons are indicated in green. (A) Neuroblasts that are generated in the subventricular zone lining the lateral ventricle (LV) in rodents migrate to the OB, a structure crucial for olfaction, where they integrate as interneurons. (B) Neuroblasts are present in the subventricular zone also in humans, and new neurons integrate in the adjacent striatum, which plays an essential role in movement coordination, procedural learning, and memory, as well as motivational and emotional control. New neurons are continuously generated in the DG of the hippocampus—a brain structure essential for memory and mood control—in both rodents and humans (A, B). A limited subpopulation of DG neurons are subject to exchange in rodents (C), whereas the majority turn over in humans (D) [4–6]. The neurons within the turning over population are continuously exchanged. A value of 100% on the y-axis means that all neurons have been replaced since the individual’s birth.](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002045/1/pbio.1002045.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20240218%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240218T141448Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6f5396a8230bcda2f74e7e7554130841653fedaf941032eaae01059f68de2aba4c92d93e1dc94efb0e8c2cf1f8415435fd347e4e5938c06276e3674f72985dbb10852b1cc3cb302169efc533f2034e71cf61b1d2f18df85f84ddc800e79741049cd016dc2dd58da2c44e9392ac12e46667924dd8db21152bde4efe00907357cb18fb4b546a10c896b2c075929fdcfab12947afdd379754d260032a84bd0a5946b58a0aeaff1179d1f7fb329a294c97181d314b3634ce9ded142b634b00286ed6e10f70250e61f9837c8e25499620385a9523b02a320a637cf7c9d8c54d7ee4bea4d1772d472ecae6c665c54fcc6f22a1c05ba95e9d4ed4bc3a29477d9cec937a){.lightbox}
+![[Figure 1 from @Ernst2015-iz]. Schematic illustration of adult neurogenesis in the adult rodent and human brain. New neurons are indicated in green. (A) Neuroblasts that are generated in the subventricular zone lining the lateral ventricle (LV) in rodents migrate to the OB, a structure crucial for olfaction, where they integrate as interneurons. (B) Neuroblasts are present in the subventricular zone also in humans, and new neurons integrate in the adjacent striatum, which plays an essential role in movement coordination, procedural learning, and memory, as well as motivational and emotional control. New neurons are continuously generated in the DG of the hippocampus—a brain structure essential for memory and mood control—in both rodents and humans (A, B). A limited subpopulation of DG neurons are subject to exchange in rodents (C), whereas the majority turn over in humans (D) [4–6]. The neurons within the turning over population are continuously exchanged. A value of 100% on the y-axis means that all neurons have been replaced since the individual’s birth.](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002045/1/pbio.1002045.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20240229%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240229T170130Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=83860d877a678cbcec3efc6ca073131da6f4c2ca11c9c468311a8ca4a4e8f45b3a034ca7c4b2ccdf583ae6f0d6b6dc49368fc0e55b86afd90c64e3541d8407475e5a613ef145c37073f6cba944f3f9c999378ac9261c73948508ba3e4b57c5b1aca033d3161ea3f80bdebca4c202181eb3d27208488d5157e90cb3e0fccc711cbfb1be54be024efa51959fc2eaa72e014b032fa3f3914972be22904a88455caad0f90493d1624c82303d1b568c92a5bfb6adc24f3581b958a6ee6c6e7b07baa0e23ea000d2eec8b44a69609975ec7980138104f761232e3812a92083b5142d00e27b78032309f1d34e830705c1ee3189947781c88079b1b50f0bae85dac1da3a){.lightbox}
 
 - Neural stem cells
-    - Undergo *symmetric* & *asymmetric* cell division
+    - Undergo *symmetric* & *asymmetric* cell division 
     - Generate glia, neurons, and basal progenitor cells
 
 ### Radial glia and cell migration
@@ -105,8 +110,7 @@ format:
 
 **Radial unit hypothesis**
 
-![[Figure 2 from @rakic2009evolution]](http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg)
-
+![[Figure 2 from @Rakic2009-jk]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig2_HTML.jpg?as=webp)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
 
@@ -167,11 +171,11 @@ format:
 - Spinal cord >> cortex
 - Quantity of nerve growth factors (NGF) influences
 
-![[Figure 3 from @rakic2009evolution]](http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg)
+![[Figure 3 from @Rakic2009-jk]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig3_HTML.jpg?as=webp)
 
 ### Synaptic rearrangement
 
-![](../include/img/huttenlocher.jpg)
+![](../include/img/huttenlocher.jpg){width=75% fig-align="center"}
 
 - Progressive phase: growth rate >> loss rate
 - Regressive phase: growth rate << loss rate
@@ -190,7 +194,7 @@ format:
 
 ![[@Chi1977-hm]](../include/img/chi-77-1.jpg)
 
-![[[@Chi1977-hm]](../include/img/chi-77-2.jpg)
+![[@Chi1977-hm]](../include/img/chi-77-2.jpg)
 
 ![[@Chi1977-hm]](../include/img/chi-77-3.jpg)
 
@@ -252,30 +256,30 @@ format:
 
 ![[Figure 4 from @Shaw2008-dq]](http://www.jneurosci.org/content/jneuro/28/14/3586/F4.large.jpg)
 
-### Video depictions 
+#### Video depictions 
 
-#### Right hemisphere
+##### Right hemisphere
 
 <video width="320" height="240" controls>
   <source src="../include/mov/02680Movie1.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-#### Left hemisphere
+#####Left hemisphere
 
 <video width="320" height="240" controls>
   <source src="../include/mov/02680Movie2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-#### Superior
+##### Superior
 
 <video width="320" height="240" controls>
   <source src="../include/mov/02680Movie3.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-#### Inferior
+##### Inferior
 
 <video width="320" height="240" controls>
   <source src="../include/mov/02680Movie4.mp4" type="video/mp4">
@@ -284,15 +288,15 @@ Your browser does not support the video tag.
 
 ### Changes in brain energetics (glucose utilization)
 
-![[Figure 1 from @Kuzawa2014-qd]](http://www.pnas.org/content/111/36/13010/F1.medium.gif)
+![[Figure 1 from @Kuzawa2014-qd]](https://www.pnas.org/cms/10.1073/pnas.1323099111/asset/36abb8b8-6e1f-4a61-b5db-718340542d99/assets/graphic/pnas.1323099111fig01.jpeg)
 
 ### Gene expression across development
 
 ![[Figure 5 from @Kang2011-ex]. a, Comparison between DCX expression in HIP and the density of DCX-immunopositive cells in the human dentate gyrus36. b, Comparison between transcriptome-based dendrite development trajectory in DFC and Golgi-method-based growth of basal dendrites of layer 3 (L3) and 5 (L5) pyramidal neurons in the human DFC41. c, Comparison between transcriptome-based synapse development trajectory in DFC and density of DFC synapses calculated using electron microscopy42. For b and c, PC1 for gene expression was plotted against age to represent the developmental trajectory of genes associated with dendrite (b) or synapse (c) development. Independent data sets were centred, scaled and plotted on a logarithmic scale. d, PC1 value for the indicated sets of genes (expressed as percentage of maximum) plotted against age to represent general trends and regional differences in several neurodevelopmental processes in NCX, HIP and CBC.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature10523/MediaObjects/41586_2011_Article_BFnature10523_Fig5_HTML.jpg?as=webp)
 
-### Summary of developmental milestones
+## Summary of developmental milestones
 
-#### Prenatal
+### Prenatal
 
 + Neuro- and gliogenesis
 + Migration
@@ -302,7 +306,7 @@ Your browser does not support the video tag.
 + Myelination begins
 + Infant gene expression ≠ Adult
 
-#### Postnatal
+### Postnatal
 
 + Synaptogenesis
 + Cortical expansion, activity-dependent change
@@ -311,7 +315,7 @@ Your browser does not support the video tag.
 + Connectivity changes (esp within networks)
 + Prolonged period of postnatal/pre-reproductive development [[@konner_evolution_2011]](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
 
-### How brain development clarifies anatomical structure
+## How brain development clarifies anatomical structure
 
 ### 3-4 weeks
 
@@ -348,6 +352,26 @@ Your browser does not support the video tag.
 | Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
 |                | --                   | Mylencephalon      | Medulla oblongata |
 
-### From structural development to functional development
+## From structural development to functional development
 
 ![[@Johnson2001-yy]. Figure 3: Three accounts of the neural basis of an advance in behavioural abilities in infants. a | A maturational view in which the neuroanatomical maturation of one region, in this case the dorsolateral prefrontal cortex (DLPC), allows new behavioural abilities to emerge. Specifically, maturation of DLPC has been associated with successful performance in the object retrieval task (Fig. 1a)50. Note that although the task itself involves activity in several regions, it is thought to be maturation of only one of these, the DLPC, that results in changed behaviour. b | An interactive specialization view in which the onset of a new behavioural ability is due to changes in the interactions between several regions that were already partially active. In this hypothetical illustration, it is suggested that changes in the interactions between DLPC, parietal cortex and cerebellum might give rise to successful performance in the object retrieval paradigm. In contrast to the maturational view, it is refinement of the connectivity between regions, rather than within a single region, that is important. According to this view, regions adjust their functionality together to allow new computations. c | A skill-learning model, in which the pattern of activation of cortical regions changes during the acquisition of new skills throughout the lifespan. In the example illustrated there is decreasing activation of DLPC and medial frontal cortex (pre-supplementary motor area), accompanied by increasing activation of more posterior regions (such as intraparietal sulcus), as human adults perform a visuomotor sequence learning task77. It is suggested that similar changes might occur during the acquisition of new skills by infants. These three accounts are not necessarily mutually exclusive.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35081509/MediaObjects/41583_2001_Article_BF35081509_Fig3_HTML.gif?as=webp)
+
+>Researchers routinely use motor behaviors (e.g., eye, face, and limb movements) to index cognition in the human neonate.
+
+>When developmental researchers use infant movements to index cognition, they often assume that the cortex is involved in producing the behavior.
+
+>However, cortical control of movement is absent at birth, emerging gradually over the first several postnatal months and beyond; before cortical outflow emerges, brainstem networks produce complex motor behavior.
+
+>Thus, cortical control of the motor behaviors used to infer cognition in neonates is not neurobiologically plausible.
+
+>Researchers should be cautious when making claims about developmental continuity between newborn and adult cognition (i.e., ‘core knowledge’) and its supporting neural architecture.
+
+[@Blumberg2023-ce]
+
+![[Figure 1 from @Blumberg2023-ce]](https://ars.els-cdn.com/content/image/1-s2.0-S136466132200331X-gr1_lrg.jpg)
+
+![[Figure I from @Blumberg2023-ce]. Sensory origins of primary motor cortex (M1). (A) Boundaries of primary cortical areas in rats: primary somatosensory cortex (S1, red) and M1 (blue), and primary auditory (A1) and visual (V1) cortex. (B) Enlargements of red and blue regions in (A) show the somatotopic organization of S1 and M1. Adapted, with permission, from [92]. (C) Perievent histogram showing sensory responsiveness of an individual neuron in the forelimb region of M1 at P20. The neuron’s firing rate is shown in relation to movement onset (vertical broken line) for twitches (red) and wake movements (black). This neuron is representative of all M1 neurons recorded at this age. Neurons fire above baseline (0 on the y-axis) after – not before – movement onset during both sleep and wake, indicative of sensory responding. Adapted, with permission, from [9].](https://ars.els-cdn.com/content/image/1-s2.0-S136466132200331X-b1_lrg.jpg)
+
+![[Figure 2 from @Blumberg2023-ce]. Protracted development of motor maps in M1.
+
+(A) Representative motor maps in rat pups at postnatal day (P) 25 and P30 and in adult rats at P60. Each map was produced using intracortical microstimulation in the forelimb region of M1 in anesthetized animals. The legends indicate the simple (i.e., single joint) and complex (i.e., multijoint) movements evoked at each stimulation site. Rectangles around the maps demarcate identical cortical surface areas. Adapted, with permission, from [17]. (B) Representative motor maps in kittens at P63 and P86 and in adult cats. Each map was produced using intracortical microstimulation in the forelimb region of M1 in anesthetized animals. The legend indicates the single-joint forelimb movements (shoulder, elbow, wrist) and multijoint movements evoked at each stimulation site. Movements of the digits occurred with movements of other joints. Colors denote the threshold electric current for movement production as indicated by the color bar at right. The black lines show the location of the cruciate sulcus. Adapted, with permission, from [24]. Both figure parts are used with permission of the American Physiological Society; permission conveyed through Copyright Clearance, Inc.](https://ars.els-cdn.com/content/image/1-s2.0-S136466132200331X-gr2_lrg.jpg)

@@ -44,6 +44,8 @@ website:
             text: "Week-06 • Methods"
           - href: "slides/wk07-2024-02-22.qmd"
             text: "Week-07 • Evolution"
+          - href: "slides/wk08-2024-02-29.qmd"
+            text: "Week-08 • Development"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -77,5 +79,7 @@ format:
     bibliography: [include/bib/psu-repro.bib, include/bib/packages.bib, include/bib/psy-511.bib]
     citations-hover: true
     footnotes-hover: true
+    toc: true
+    toc-depth: 4
 editor: source
     

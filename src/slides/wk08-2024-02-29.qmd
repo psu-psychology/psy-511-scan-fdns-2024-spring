@@ -20,22 +20,40 @@ format:
 
 ---
 
-### Humans reached our current biological form about 200,000 years ago. What have beenthe main drivers of change since then?
+### Humans reached our current biological form about 200,000 years ago. What have been the main drivers of *psychological* change since then?
 
 ---
 
-## The basic vertebrate brain plan is hundreds of millions of years old. What are some implications of this for understanding brain/behavior relations in humans today?
+### How do *psychological* changes over evolutionary time spans influence *biological* functions within individual lifespans?
+
+---
+
+### The basic vertebrate brain plan is hundreds of millions of years old. What are some implications of this for understanding brain/behavior relations in humans today?
+
+## Exercise 07
+
+- [exercises/ex07-evo-devo](../exercises/ex07-evo-devo.qmd)
 
 ## Today's topics
 
 - Human brain development
+
+## Thinking developmentally
+
+- What is the story?
+- [resources/development](../resources/development.qmd)
 
 ## Main points
 
 - CNS among earliest-developing, last to "finish" organ systems
 - Development clarifies anatomy
 - Prenatal vs. postnatal
-- Changing structures, changing functions
+- Changing structures changing functions
+- Progress through regress (e.g. apoptosis, synaptic pruning, cortical thinning)
+
+## Exercise 08
+
+- [exercises/ex08-devo](../exercises/ex08-devo.qmd)
 
 ## Next time...
 
