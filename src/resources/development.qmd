@@ -10,7 +10,7 @@ format:
 
 ### Timeline of milestones
 
-![[Figure 1 from @Silbereis2016-la]. Timeline of Key Human Neurodevelopmental Processes and Functional Milestones.](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg)
+![[Figure 1 from @Silbereis2016-la]. Timeline of Key Human Neurodevelopmental Processes and Functional Milestones.](https://ars.els-cdn.com/content/image/1-s2.0-S0896627315010806-gr1_lrg.jpg){.lightbox width=75% fig-align="center"}
 
 - CNS among earliest-developing, last to finish organ systems
     - Prolonged developmental period...makes CNS especially vulnerable
@@ -52,26 +52,26 @@ format:
 
 #### Formation of *neural tube* (neurulation)
 
-![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg){.lightbox}
+![](https://as1.ftcdn.net/jpg/02/52/77/94/500_F_252779434_4Hr3vF8H3wDOH0RslaVw5nLnYoKACiP6.jpg){.lightbox width=75% fig-align="center"}
 
 - Embryonic layers: ectoderm, mesoderm, endoderm
     - Neural tube forms ~ 23 pcd (*p*ost*c*onceptual *d*ays) from dorsal *ectoderm*
     - "Skin-brain" axis [@Jameson2023-jd].
     
-![[Figure 1 from @Jameson2023-jd]. The ectoderm and neurodevelopmental divergence. This figure describes the evolutionary and developmental skin-brain connection, common molecular factors that underpin this relationship in utero and post-birth, the existing evidence for associations between atopic disease and neurodevelopmental delay, and potential early life markers that could identify neurodevelopmental divergence.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41380-022-01829-8/MediaObjects/41380_2022_1829_Fig1_HTML.png?as=webp)
+![[Figure 1 from @Jameson2023-jd]. The ectoderm and neurodevelopmental divergence. This figure describes the evolutionary and developmental skin-brain connection, common molecular factors that underpin this relationship in utero and post-birth, the existing evidence for associations between atopic disease and neurodevelopmental delay, and potential early life markers that could identify neurodevelopmental divergence.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41380-022-01829-8/MediaObjects/41380_2022_1829_Fig1_HTML.png?as=webp){.lightbox width=75% fig-align="center"}
 
 - Neural tube closes in middle, moves toward rostral & caudal ends, closing by 29 - 30 pcd.
 - Failures of neural tube closure
     + Anencephaly (rostral neuraxis)
     + Spina bifida (caudal neuraxis)
 
-![https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/ds00417_im03493_r7_spinabifidababythu_jpg-popup.jpg){.lightbox}
+![https://www.mayoclinic.org/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/08/26/11/10/ds00417_im03493_r7_spinabifidababythu_jpg-popup.jpg){.lightbox width=75% fig-align="center"}
 
 - Neural tube becomes
     + Ventricles & cerebral aqueduct
     + Central canal of spinal cord
 
-![](https://www.mussenhealth.us/growth-cones/images/2009_48_104-neural-tube-tion.jpg){.lightbox}
+![](https://www.mussenhealth.us/growth-cones/images/2009_48_104-neural-tube-tion.jpg){.lightbox width=75% fig-align="center"}
 
 - Rostro-caudal patterning via differential growth into vesicles
     - Forebrain (prosencephalon)
@@ -87,7 +87,7 @@ format:
 - Most cortical and striatal neurons generated prenatally, but
     - Cerebellum continues to ~ 18 mos 
 
-![[Figure 1 from @Gotz2005-yj]. The lineage trees shown provide a simplified view of the relationship between neuroepithelial cells (NE), radial glial cells (RG) and neurons (N), without (a) and with (b) basal progenitors (BP) as cellular intermediates in the generation of neurons. They also show the types of cell division involved.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrm1739/MediaObjects/41580_2005_Article_BFnrm1739_Fig1_HTML.jpg?as=webp){.lightbox}
+![[Figure 1 from @Gotz2005-yj]. The lineage trees shown provide a simplified view of the relationship between neuroepithelial cells (NE), radial glial cells (RG) and neurons (N), without (a) and with (b) basal progenitors (BP) as cellular intermediates in the generation of neurons. They also show the types of cell division involved.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrm1739/MediaObjects/41580_2005_Article_BFnrm1739_Fig1_HTML.jpg?as=webp){.lightbox width=75% fig-align="center"}
 
 - Areas in adult human brain that generate new neurons
     - hippocampus
@@ -95,7 +95,7 @@ format:
     - olfactory bulb (minimally)
     - weak evidence for substantial neurogenesis in adult cerebral cortex
 
-![[Figure 1 from @Ernst2015-iz]. Schematic illustration of adult neurogenesis in the adult rodent and human brain. New neurons are indicated in green. (A) Neuroblasts that are generated in the subventricular zone lining the lateral ventricle (LV) in rodents migrate to the OB, a structure crucial for olfaction, where they integrate as interneurons. (B) Neuroblasts are present in the subventricular zone also in humans, and new neurons integrate in the adjacent striatum, which plays an essential role in movement coordination, procedural learning, and memory, as well as motivational and emotional control. New neurons are continuously generated in the DG of the hippocampus—a brain structure essential for memory and mood control—in both rodents and humans (A, B). A limited subpopulation of DG neurons are subject to exchange in rodents (C), whereas the majority turn over in humans (D) [4–6]. The neurons within the turning over population are continuously exchanged. A value of 100% on the y-axis means that all neurons have been replaced since the individual’s birth.](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002045/1/pbio.1002045.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20240229%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240229T170130Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=83860d877a678cbcec3efc6ca073131da6f4c2ca11c9c468311a8ca4a4e8f45b3a034ca7c4b2ccdf583ae6f0d6b6dc49368fc0e55b86afd90c64e3541d8407475e5a613ef145c37073f6cba944f3f9c999378ac9261c73948508ba3e4b57c5b1aca033d3161ea3f80bdebca4c202181eb3d27208488d5157e90cb3e0fccc711cbfb1be54be024efa51959fc2eaa72e014b032fa3f3914972be22904a88455caad0f90493d1624c82303d1b568c92a5bfb6adc24f3581b958a6ee6c6e7b07baa0e23ea000d2eec8b44a69609975ec7980138104f761232e3812a92083b5142d00e27b78032309f1d34e830705c1ee3189947781c88079b1b50f0bae85dac1da3a){.lightbox}
+![[Figure 1 from @Ernst2015-iz]. Schematic illustration of adult neurogenesis in the adult rodent and human brain. New neurons are indicated in green. (A) Neuroblasts that are generated in the subventricular zone lining the lateral ventricle (LV) in rodents migrate to the OB, a structure crucial for olfaction, where they integrate as interneurons. (B) Neuroblasts are present in the subventricular zone also in humans, and new neurons integrate in the adjacent striatum, which plays an essential role in movement coordination, procedural learning, and memory, as well as motivational and emotional control. New neurons are continuously generated in the DG of the hippocampus—a brain structure essential for memory and mood control—in both rodents and humans (A, B). A limited subpopulation of DG neurons are subject to exchange in rodents (C), whereas the majority turn over in humans (D) [4–6]. The neurons within the turning over population are continuously exchanged. A value of 100% on the y-axis means that all neurons have been replaced since the individual’s birth.](https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002045/1/pbio.1002045.g001.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20240229%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240229T170130Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=83860d877a678cbcec3efc6ca073131da6f4c2ca11c9c468311a8ca4a4e8f45b3a034ca7c4b2ccdf583ae6f0d6b6dc49368fc0e55b86afd90c64e3541d8407475e5a613ef145c37073f6cba944f3f9c999378ac9261c73948508ba3e4b57c5b1aca033d3161ea3f80bdebca4c202181eb3d27208488d5157e90cb3e0fccc711cbfb1be54be024efa51959fc2eaa72e014b032fa3f3914972be22904a88455caad0f90493d1624c82303d1b568c92a5bfb6adc24f3581b958a6ee6c6e7b07baa0e23ea000d2eec8b44a69609975ec7980138104f761232e3812a92083b5142d00e27b78032309f1d34e830705c1ee3189947781c88079b1b50f0bae85dac1da3a){.lightbox width=75% fig-align="center"}
 
 - Neural stem cells
     - Undergo *symmetric* & *asymmetric* cell division 
@@ -103,9 +103,9 @@ format:
 
 ### Radial glia and cell migration
 
-![](../include/img/radial-glia.jpg){.lightbox}
+![](../include/img/radial-glia.jpg){.lightbox width=75% fig-align="center"}
 
-![](../include/img/neural-tube.jpg){.lightbox}
+![](../include/img/neural-tube.jpg){.lightbox width=75% fig-align="center"}
 
 
 **Radial unit hypothesis**
@@ -127,7 +127,7 @@ format:
 
 **Glia migrate, too**
 
-![[@Baumann2001-nw]](https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg){.lightbox}
+![[@Baumann2001-nw]](https://www.physiology.org/na101/home/literatum/publisher/physio/journals/content/physrev/2001/physrev.2001.81.issue-2/physrev.2001.81.2.871/production/images/medium/9j0210133004.jpeg){.lightbox width=75% fig-align="center"}
 
 ## Differentiation
 
@@ -140,7 +140,7 @@ format:
 
 **Differential gene expression in PFC vs. other**
 
-![[@johnson2009functional]](../include/img/johnson-gene-expression-fig-6.jpeg)
+![[@johnson2009functional]](../include/img/johnson-gene-expression-fig-6.jpeg){width=75% fig-align="center"}
 
 ## Infancy & Early Childhood
 
@@ -171,7 +171,7 @@ format:
 - Spinal cord >> cortex
 - Quantity of nerve growth factors (NGF) influences
 
-![[Figure 3 from @Rakic2009-jk]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig3_HTML.jpg?as=webp)
+![[Figure 3 from @Rakic2009-jk]](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnrn2719/MediaObjects/41583_2009_Article_BFnrn2719_Fig3_HTML.jpg?as=webp){width=75% fig-align="center"}
 
 ### Synaptic rearrangement
 

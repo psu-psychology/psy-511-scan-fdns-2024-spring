@@ -40,14 +40,22 @@ format:
 
 ## Thinking developmentally
 
+- What causes/influences what?
+- Correlation is not causation, but...
+  - Causes must (logically) temporally precede effects
+  - Correlation *necessary* but not *sufficient*
+- What are the developmental functions?
+  - $x_{t+1}=F_1(x_t)$ or within domain/measure
+  - $y_{t+1}=F_2(x_t)$ or across domains/measures
 - What is the story?
 - [resources/development](../resources/development.qmd)
 
 ## Main points
 
 - CNS among earliest-developing, last to "finish" organ systems
-- Development clarifies anatomy
+- Development clarifies (aspects of) anatomy
 - Prenatal vs. postnatal
+  - [Altricial vs. precocial](https://en.wikipedia.org/wiki/Precociality_and_altriciality)
 - Changing structures changing functions
 - Progress through regress (e.g. apoptosis, synaptic pruning, cortical thinning)
 
