@@ -1,0 +1,26 @@
+---
+title: "Language & Cognition"
+subtitle: "PSY 511.003"
+date: 2024-03-28
+format: 
+  revealjs:
+    footer: "[PSY 511 Spr 2024](../index.html)"
+---
+
+# Prelude
+
+## Announcements
+
+## Last time...
+
+# Main
+
+## Today's topics
+
+## Main points
+
+## Next time...
+
+# Resources
+
+## References

@@ -46,6 +46,7 @@ website:
             text: "Week-07 • Evolution"
           - href: "slides/wk08-2024-02-29.qmd"
             text: "Week-08 • Development"
+          - href: "slides/wk09-2024-03-14.qmd"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -61,6 +62,8 @@ website:
           - href: "resources/evolution.qmd"
           - text: "---"
           - href: "resources/development.qmd"
+          - text: "---"
+          - href: "resources/perception.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
