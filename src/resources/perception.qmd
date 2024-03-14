@@ -207,7 +207,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
     + Just noticeable difference (JND): How much of a change is noticeable?
       - JND a function of absolute intensity!
     
-![Psychophysical functions](https://www.psywww.com/intropsych/ch04-senses/04stevenscurves.jpg")
+![Psychophysical functions](https://www.psywww.com/intropsych/ch04-senses/04stevenscurves.jpg)
 
 - Information propagates in CNS at different speeds
     - Bigger diameter: Faster
@@ -273,15 +273,12 @@ Sorry, Mrs. Potraz, there are more than five senses!
 #### Somatosensory: Somatotopic maps in S1 & M1
 
 ![](http://bio1152.nicerweb.com/Locked/media/ch49/49_16-MotorSensoryCorts-L.jpg)
+
 ### Sensivity non-uniform
 
 #### Two-point touch thresholds
 
 ![](../include/img/two-point-thresholds.jpg)
-
-```{r}
-knitr::include_graphics("../include/img/two-point-thresholds.jpg")
-```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t97QiEiKjD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -433,10 +430,6 @@ plot(g, vertex.size=50, vertex.color="gray")
     + 3 wavelength ranges
 
 ![https://foundationsofvision.stanford.edu/](https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/rod.cone_.distribution2-1024x467.png)
-
-```{r, fig.cap="https://foundationsofvision.stanford.edu/"}
-knitr::include_graphics("https://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/rod.cone_.distribution2-1024x467.png")
-```
 
 ![http://cnx.org/content/col11496/1.6/](../include/img/1416_Color_Sensitivity.jpg)
 
