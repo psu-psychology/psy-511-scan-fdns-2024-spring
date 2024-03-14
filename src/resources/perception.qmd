@@ -305,6 +305,15 @@ knitr::include_graphics("../include/img/two-point-thresholds.jpg")
 
 ![](../include/img/biospsych-labeled-lines.jpg)
 
+### Feedforward and feedback
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+el <- rbind(c("Wrld","Sens"), c("Sens","Mind"), c("Mind", "Act"), c("Mind","Sens"), c("Act", "Mind"), c("Act", "Wrld"))
+g <- graph_from_edgelist(el)
+g$layout <- layout_in_circle
+plot(g, vertex.size=50, vertex.color="gray")
+```
+
 ## Case study: Vision
 
 ### Animals respond to visual illusions, too

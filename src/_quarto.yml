@@ -47,6 +47,7 @@ website:
           - href: "slides/wk08-2024-02-29.qmd"
             text: "Week-08 • Development"
           - href: "slides/wk09-2024-03-14.qmd"
+            text: "Week-09 • Perception"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
