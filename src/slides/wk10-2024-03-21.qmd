@@ -24,13 +24,41 @@ format:
 
 ## Last time...
 
+- Perception
+
+---
+
+### Give an example of an *exteroceptive* source of information.
+
+---
+
+### Give an example of an *interoceptive* source of information.
+
+---
+
+### How are neural systems for different information types special or unique?
+
+---
+
+### How are many neural systems for different information types similar to one another?
+
 # Main
 
 ## Today's topics
 
+- Action
+
 ## Main points
 
+- Organisms have multiple impacts on the world
+  - Movements are one of them
+- Control of movement determined by multiple sources
+- Cerebral cortex + basal ganglia + cerebellum + spinal circuits
+- Feedforward + feedback circuits
+
 ## Next time...
+
+- Language and cognition
 
 # Resources
 
