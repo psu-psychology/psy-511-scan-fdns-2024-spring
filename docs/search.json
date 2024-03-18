@@ -515,14 +515,14 @@
     "href": "resources/perception.html#processing",
     "title": "Perception",
     "section": "Processing",
-    "text": "Processing\n\nPhysics of sensation\nSorry, Mrs. Potraz, there are more than five senses!\n\n\n\nInformal name\nSource\n\n\n\n\nVision\nElectromagnetic radiation\n\n\nAudition\nMechanical vibration in air/water\n\n\nTouch\nMechanical vibration of skin on surface\n\n\nVestibular\nRotation & linear acceleration of head\n\n\nOlfaction\nChemical patterns in air/water\n\n\nGustation\nChemical patterns in mouth\n\n\nElectroception\nElectromagnetic radiation\n\n\nMagnetoreception\nElectromagnetic radiation patterns\n\n\nKinesthesia\nPosition, velocity, acceleration of limbs, body\n\n\n\n\n\nPsychophysics (from physics to psychology)\n\nWhat is the energy/chemical channel?\nChannels carry different types of information about\n\nWhat is out there?\nWhere is it located or moving?\n\nConvey information at different rates, with varied precision\nInformation often signaled by multiple sources\n\n\n\nVision\n\nSource: Electromagnetic radiation\n\nReflected from surfaces\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion\n\n\n\n\nAudition\n\nSource: Mechanical vibrations in air or water\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect\n\n\n\n\nChemosensation\n\nSource: Chemicals in mouth, nasal cavity\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients\n\n\n\n\nSomatosensation\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin\n\n\n\n\nInteroception\n\nHunger/thirst\n\nReceptors for nutrient, fluid levels\n\nEnergy levels\n\nReceptors for hormones, NTs\nANS responses\n\nTemperature\n\nReceptors in skin, viscera\n\nMating interest\n\nReceptors for hormones, NTs\nANS responses\n\nBody position & movement (proprioception)\n\nReceptors in muscles, joints, skin\n\n\n\n\n\n(Figure 2 from Namkung, Kim, & Sawa, 2017). Figure 2. Interoceptive Information and Its Integration with Emotional, Cognitive, and Motivational Signals from an Array of Cortical and Subcortical Regions. Interoceptive information of constantly changing body states arrives in the posterior insula by ascending sensory inputs from dedicated spinal and brainstem pathways via specific thalamic relays. This information is projected rostrally onto the anterior insula, where it is integrated with emotional, cognitive, and motivational signals from an array of cortical and subcortical regions. As a result, the anterior insula supports unique subjective feeling states. The anterior insula regulates the introduction of subjective feelings into cognitive and motivational processes by virtue of its cortical location at the cross-roads of numerous pathways involved in higher cognition and motivation. Abbreviations: AI, anterior insula; AMG, amygdala; dACC, dorsal anterior cingulate cortex; DLPFC, dorsolateral prefrontal cortex; PI, posterior insula; THAL, thalamus; VMPFC, ventromedial prefrontal cortex; VS, ventral striatum.\n\n\n\n\nFeatures of sensory signals\n\nChange across time\n\nTonic (sustained) vs. phasic (transient) responses\n\n\n\n\nhttps://www.researchgate.net/figure/Two-types-of-receptions-differing-by-the-rate-of-adaptation-to-the-dynamical-stimulus-A_fig1_51231510\n\n\n\nAdaptation\n\nDecline in sensitivity with sustained stimulation\nMost sensory systems attuned to change\nJust noticeable difference (JND): How much of a change is noticeable?\n\nJND a function of absolute intensity!\n\n\n\n\n\n\nPsychophysical functions\n\n\n\nInformation propagates in CNS at different speeds\n\nBigger diameter: Faster\nDenser myelin: Faster\n\n\n\n\n\n\nConsist of repeating signals (e.g. patterns)\n\nIn space (textures)\nIn time\n\n\nVision: Spatial frequency/contrast sensitivity\n\n\n\n(Roark & Stringham, 2019)\n\n\n\n\nAudition: Frequencies in sound\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing\n\n\n\n\nSomatosensation: Textures\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full\n\n\n\n\n\nCompare (&gt;1) sensors located in different parts of the body\n\nEyes\nEars\nSkin surface\nNostrils\nTongue\n\n\n\n\n“Receptive fields”\n\nArea on sensory surface (e.g., retina, skin) that when stimulated changes neuron’s firing\n\n\nTactile\n ##### Visual\n\n\n\nhttps://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/chapter-6-the-cortical-representation/\n\n\n\n\n\n\nTopographic maps\n\nAuditory: Tonotopic maps\n\n\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2830355/\n\n\n\n\nVisual: Retinotopic maps\n\n\n\n(Dougherty et al., 2003)\n\n\n\n\n\n\n\n\nSomatosensory: Somatotopic maps in S1 & M1\n\n\n\n\nSensivity non-uniform\n\nTwo-point touch thresholds\n\n\n\n\n\nSomatosensory homunculus\n\n\n\nVisual acuity non-uniform\n\n\n\nWikipedia\n\n\n\n\nHearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/\n\n\n\n\n\nHierarchical/sequential AND parallel\n\n\n\n\n\nFeedforward and feedback"
+    "text": "Processing\n\nPhysics of sensation\nSorry, Mrs. Potraz, there are more than five senses!\n\n\n\nInformal name\nSource\n\n\n\n\nVision\nElectromagnetic radiation\n\n\nAudition\nMechanical vibration in air/water\n\n\nTouch\nMechanical vibration of skin on surface\n\n\nVestibular\nRotation & linear acceleration of head\n\n\nOlfaction\nChemical patterns in air/water\n\n\nGustation\nChemical patterns in mouth\n\n\nElectroception\nElectromagnetic radiation\n\n\nMagnetoreception\nElectromagnetic radiation patterns\n\n\nKinesthesia\nPosition, velocity, acceleration of limbs, body\n\n\n\n\nPsychophysics (from physics to psychology)\n\nWhat is the energy/chemical channel?\nChannels carry different types of information about\n\nWhat is out there?\nWhere is it located or moving?\n\nConvey information at different rates, with varied precision\nInformation often signaled by multiple sources\n\n\n\nVision\n\nSource: Electromagnetic radiation\n\nReflected from surfaces\n\nWhat is it?\n\nShape, size, surface properties (color, texture, reflectance, etc.)\nWavelength/frequency, intensity\n\nWhere is it?\n\nPosition: Left/right; up/down on retina\nNear/far: retinal disparity, interposition, height above horizon…\nOrientation, motion\n\n\n\n\nAudition\n\nSource: Mechanical vibrations in air or water\nWhat is it?\n\nPattern of frequencies, amplitudes, durations\n\nWhere is it?\n\nLeft/right or up/down: Interaural time/phase, intensity differences, pinnae filtering\nMotion: Frequency shifts via Doppler effect\n\n\n\n\nChemosensation\n\nSource: Chemicals in mouth, nasal cavity\nWhat is it?\n\nMixtures of chemicals\n\nWhere is it?\n\nLeft/right; up/down; near/far via intensity gradients\n\n\n\n\nSomatosensation\n\nSource: Thermal or mechanical stimulation (vibration/pressure) of skin\nWhat is it?\n\nShape, size, smoothness, mass, temperature, deformability: Pattern of stimulation\n\nWhere it it?\n\nPattern of cutaneous receptors on skin\n\n\n\n\nInteroception\n\nHunger/thirst\n\nReceptors for nutrient, fluid levels\n\nEnergy levels\n\nReceptors for hormones, NTs\nANS responses\n\nTemperature\n\nReceptors in skin, viscera\n\nMating interest\n\nReceptors for hormones, NTs\nANS responses\n\nBody position & movement (proprioception)\n\nReceptors in muscles, joints, skin\n\n\n\n\n\n(Figure 2 from Namkung, Kim, & Sawa, 2017). Figure 2. Interoceptive Information and Its Integration with Emotional, Cognitive, and Motivational Signals from an Array of Cortical and Subcortical Regions. Interoceptive information of constantly changing body states arrives in the posterior insula by ascending sensory inputs from dedicated spinal and brainstem pathways via specific thalamic relays. This information is projected rostrally onto the anterior insula, where it is integrated with emotional, cognitive, and motivational signals from an array of cortical and subcortical regions. As a result, the anterior insula supports unique subjective feeling states. The anterior insula regulates the introduction of subjective feelings into cognitive and motivational processes by virtue of its cortical location at the cross-roads of numerous pathways involved in higher cognition and motivation. Abbreviations: AI, anterior insula; AMG, amygdala; dACC, dorsal anterior cingulate cortex; DLPFC, dorsolateral prefrontal cortex; PI, posterior insula; THAL, thalamus; VMPFC, ventromedial prefrontal cortex; VS, ventral striatum.\n\n\n\n\n\nFeatures of sensory signals\n\nChange across time\n\nTonic (sustained) vs. phasic (transient) responses\n\n\n\n\nhttps://www.researchgate.net/figure/Two-types-of-receptions-differing-by-the-rate-of-adaptation-to-the-dynamical-stimulus-A_fig1_51231510\n\n\n\nAdaptation\n\nDecline in sensitivity with sustained stimulation\nMost sensory systems attuned to change\n\nJust noticeable difference (JND): How much of a change is noticeable?\n\nMost psychophysical functions are non-linear\nJND a function of absolute intensity!\n\n\n\n\n\nPsychophysical functions\n\n\n\nInformation propagates in CNS at different speeds\n\nBigger diameter: Faster\nDenser myelin: Faster\n\n\n\n\n\n\nConsist of repeating signals (e.g. patterns)\n\nIn space (textures)\nIn time\n\n\nVision: Spatial frequency/contrast sensitivity\n\n\n\n(Roark & Stringham, 2019)\n\n\n\n\nAudition: Frequencies in sound\n\n\n\nhttps://www.mwmresearchgroup.org/blog/key-concepts-fourier-transforms-and-signal-processing\n\n\n\n\nSomatosensation: Textures\n\n\n\nFigure 1 from https://www.frontiersin.org/articles/10.3389/fnhum.2022.862344/full\n\n\n\n\n\nCompare (&gt;1) sensors located in different parts of the body\n\nEyes\nEars\nSkin surface\nNostrils\nTongue\n\n\n\n\n“Receptive fields”\n\nArea on sensory surface (e.g., retina, skin) that when stimulated changes neuron’s firing\n\n\nTactile\n ##### Visual\n\n\n\nhttps://openbooks.lib.msu.edu/neuroscience/chapter/vision-the-retina/\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/chapter-6-the-cortical-representation/\n\n\n\n\n\n\nTopographic maps\n\nAuditory: Tonotopic maps\n\n\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2830355/\n\n\n\n\nVisual: Retinotopic maps\n\n\n\n(Dougherty et al., 2003)\n\n\n\n\n\n\n\n\nSomatosensory: Somatotopic maps in S1 & M1\n\n\n\n\nSensivity non-uniform\n\nTwo-point touch thresholds\n\n\n\n\n\nSomatosensory homunculus\n\n\n\nVisual acuity non-uniform\n\n\n\nWikipedia\n\n\n\n\nHearing thresholds non-uniform\n\n\n\nhttp://auditoryneuroscience.com/\n\n\n\n\n\nHierarchical/sequential AND parallel\n\n\n\n\n\nFeedforward and feedback"
   },
   {
     "objectID": "resources/perception.html#case-study-vision",
     "href": "resources/perception.html#case-study-vision",
     "title": "Perception",
     "section": "Case study: Vision",
-    "text": "Case study: Vision\n\nAnimals respond to visual illusions, too\n\n\n\nhttps://www.illusionsindex.org/i/rotating-snakes\n\n\nA cat responds…\nhttps://www.reddit.com/r/youseeingthisshit/comments/p9y7v1/the_reaction_of_the_cat_on_the_optical_illusion/?ref=share&ref_source=embed&utm_content=title&utm_medium=post_embed&utm_name=85f1a01593f447e092c5b300e5561d6e&utm_source=embedly&utm_term=p9y7v1\n\n\n\n(Smith, Chouinard, & Byosiere, 2021)\n\n\n\n\n\n(Smith et al., 2021)\n\n\n\n\nProperties of Electromagnetic (EM) radiation\n\n\n\nhttp://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg\n\n\n\nWavelength/frequency\nIntensity\nLocation/position of source\nReflects off some materials\nRefracted (bent) moving through other materials\nInformation across space (and time)\n\n\n\n\nhttp://apod.nasa.gov/apod/ap140605.html\n\n\n\nLight provides fast (2.99 million m/s; 186 million mi/hr) information about surfaces at a distance\nvs. sound (340 m/s; 767 mi/hr)\nvs. chemical signals (min/mi)\n\n\nReflectance spectra differ by surface\n\n\n\nRandeberg (2005)\n\n\n\n\n\nhttp://http://www.vgt.vito.be/userguide/book_1/4/42/ie42bd.gif\n\n\n\n\nOptic array specifies geometry of environment\n\n\n\nGibson\n\n\n\n\nCategories of wavelength specify perception of color\n\nEyes categorize wavelength into relative intensities within wavelength bands\nRGB ~ Red, Green, Blue\n\nLong, medium, short wavelengths\n\nColor is a neural/psychological construct\n\n\n\n\n\nThe biological camera\n\n\n\n\npart of a self-stabilizing system…\n\n\n\nhttps://www.youtube.com/embed/JGArTWOJtXs\n\n\nParts of the eye\n\nCornea - refraction (2/3 of total)\nPupil - light intensity; diameter regulated by Iris.\nLens - refraction (remaining 1/3; focus)\nRetina - light detection\n\n~ skin or organ of Corti in inner ear\n\nPigment epithelium - regenerate photopigment\nMuscles - move eye, reshape lens, change pupil diameter\n\n\n\nGeometry of retinal image\n\nImage inverted (up/down)\nImage reversed (left/right)\nPoint-to-point map (retinotopic)\nBinocular and monocular zones\n\n\n\n\n\nThe fovea\n\n\n\nhttp://www.brainhq.com/sites/default/files/fovea.jpg\n\n\n\nCentral 1-2 deg of visual field\nAligned with visual axis\nRetinal ganglion cells pushed aside\nHighest acuity vision == best for details\nAcuity varies from center to periphery\n\n\n\n\n\nhttp://michaeldmann.net/pix_7/blndspot.gif\n\n\n\nWhat part of the skin is like the fovea?\n\n\n\n\nPhotoreceptors in retina detect light\n\n\nRods\n\n~120 M/eye\nMostly in periphery\nActive in low light conditions\nOne wavelength range\n\nCones\n\n~5 M/eye\nMostly in center\n3 wavelength ranges\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/\n\n\n\n\n\nhttp://cnx.org/content/col11496/1.6/\n\n\n\n\nPhotoreceptor physiology\n\nOuter segment\n\nMembrane disks\nPhotopigments\n\nSense light, trigger chemical cascade\n\n\nInner segment\n\nSynaptic terminal\n\nLight hyperpolarizes photoreceptor!\n\nThe dark current\n\n\n\n\n\nRetina\n\nPhysiologically backwards\n\nDark current\n\nAnatomically inside-out\n\nPhotoreceptors at back of eye\n\n\n\n\n\nhttp://www.retinareference.com/anatomy/\n\n\n\nInformation flows…\n\nFrom photoreceptors…\nTo Bipolar cells\n\n&lt;-&gt; and Horizontal cells\n\nTo Retinal ganglion cells\n\n&lt;-&gt; and Amacrine cells\n\nTo cerebral cortex\n\n\n\nCenter-surround receptive fields\n\n\nCenter region\n\nExcites (or inhibits)\n\nSurround region\n\nDoes the opposite\n\nBipolar cells & Retinal Ganglion cells -&gt;\nMost activated by “donuts” of light/dark\n\nLocal contrast (light/dark differences)\n\n\n\n\nOpponent processing\n\n\n\nhttp://www.visualexpert.com/sbfaqimages/RGBOpponent.gif\n\n\n\nBlack (darker) vs. white (lighter) (achromatic)\nLong (red) vs. Medium (green) wavelength cones\n(Long + Medium) vs. Short cones\nCan’t really see reddish-green or bluish-yellow\n\n“Oppose” one another at cellular/circuit level\nDEMO\n\n\n\n\n\nFrom eye to brain\n\n\nRetinal ganglion cells\n2nd/II cranial (optic) nerve\n\nOptic chiasm (\\(\\chi\\) - asm): Partial crossing of fibers\nNasal hemiretina (lateral/peripheral visual field) cross\nLeft visual field (from L & R retinae) -&gt; right hemisphere & vice versa\n\nLateral Geniculate Nucleus (LGN) of thalamus (receives 90% of retinal projections)\nHypothalamus\n\nSuprachiasmatic nucleus (superior to the optic chiasm): Synchronizes day/night cycle with circadian rhythms\n\nSuperior colliculus & brainstem\n\n\nLGN\n\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)\n\nRetinotopic map of opposite visual field\n\n\n\nFrom LGN to V1\n\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe\nCreate “stria of Gennari” (visible stripe in layer 4)\nCalcarine fissure (medial occiptal lobe) divides lower/upper visual field\n\n\n\nHuman V1\n\n\n\nhttp://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png\n\n\n\n\n\n(Dougherty et al., 2003)\n\n\n\nFovea overrepresented\n\nAnalogous to somatosensation\nHigh acuity in fovea vs. lower outside it\n\nUpper visual field/lower (ventral) V1 and vice versa\n\n\n\nLaminar, columnar organization\n\n\n6 laminae (layers)\n\nInput: Layer 4 (remember stria of Gennari?)\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)\n\nColumns\n\nOrientation/angle\nSpatial frequency\nColor/wavelength\nEye of origin, ocular dominance\n\n\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png\n\n\n\n\nFrom center-surround receptive fields to line detection\n\n\n\n\n(Panichello, Cheung, & Bar, 2013)\n\n\n\n\nOcular dominance columns\n\n\n\n\n\n\nBeyond V1\n - Larger, more complex receptive fields - Dorsal stream (where/how) + Toward parietal lobe - Ventral stream (what)\n\n\nWhat is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?"
+    "text": "Case study: Vision\n\nAnimals respond to visual illusions, too\n\n\n\nhttps://www.illusionsindex.org/i/rotating-snakes\n\n\nA cat responds…\nhttps://www.reddit.com/r/youseeingthisshit/comments/p9y7v1/the_reaction_of_the_cat_on_the_optical_illusion/?ref=share&ref_source=embed&utm_content=title&utm_medium=post_embed&utm_name=85f1a01593f447e092c5b300e5561d6e&utm_source=embedly&utm_term=p9y7v1\n\n\n\n(Smith, Chouinard, & Byosiere, 2021)\n\n\n\n\n\n(Smith et al., 2021)\n\n\n\n\nProperties of Electromagnetic (EM) radiation\n\n\n\nhttp://en.wikipedia.org/wiki/File:EM_Spectrum_Properties_edit.svg\n\n\n\nWavelength/frequency\nIntensity\nLocation/position of source\nReflects off some materials\nRefracted (bent) moving through other materials\nInformation across space (and time)\n\n\n\n\nhttp://apod.nasa.gov/apod/ap140605.html\n\n\n\nLight provides fast (2.99 million m/s; 186 million mi/hr) information about surfaces at a distance\nvs. sound (340 m/s; 767 mi/hr)\nvs. chemical signals (min/mi)\n\n\nReflectance spectra differ by surface\n\n\n\nRandeberg (2005)\n\n\n\n\n\nhttp://http://www.vgt.vito.be/userguide/book_1/4/42/ie42bd.gif\n\n\n\n\nOptic array specifies geometry of environment\n\n\n\nGibson\n\n\n\n\nCategories of wavelength specify perception of color\n\nEyes categorize wavelength into relative intensities within wavelength bands\nRGB ~ Red, Green, Blue\n\nLong, medium, short wavelengths\n\nColor is a neural/psychological construct\n\n\n\n\n\nThe biological camera\n\n\n\n\npart of a self-stabilizing system…\n\n\n\nhttps://www.youtube.com/embed/JGArTWOJtXs\n\n\nParts of the eye\n\nCornea - refraction (2/3 of total)\nPupil - light intensity; diameter regulated by Iris.\nLens - refraction (remaining 1/3; focus)\nRetina - light detection\n\n~ skin or organ of Corti in inner ear\n\nPigment epithelium - regenerate photopigment\nMuscles - move eye, reshape lens, change pupil diameter\n\n\n\nGeometry of retinal image\n\nImage inverted (up/down)\nImage reversed (left/right)\nPoint-to-point map (retinotopic)\nBinocular and monocular zones\n\n\n\n\n\nThe fovea\n\n\n\nhttp://www.brainhq.com/sites/default/files/fovea.jpg\n\n\n\nCentral 1-2 deg of visual field\nAligned with visual axis\nRetinal ganglion cells pushed aside\nHighest acuity vision == best for details\nAcuity varies from center to periphery\n\n\n\n\n\nhttp://michaeldmann.net/pix_7/blndspot.gif\n\n\n\nWhat part of the skin is like the fovea?\n\n\n\n\nPhotoreceptors in retina detect light\n\n\nRods\n\n~120 M/eye\nMostly in periphery\nActive in low light conditions\nOne wavelength range\n\nCones\n\n~5 M/eye\nMostly in center\n3 wavelength ranges\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/\n\n\n\n\n\nhttp://cnx.org/content/col11496/1.6/\n\n\n\n\nPhotoreceptor physiology\n\nOuter segment\n\nMembrane disks\nPhotopigments\n\nSense light, trigger chemical cascade\n\n\nInner segment\n\nSynaptic terminal\n\nLight hyperpolarizes photoreceptor!\n\nThe dark current\n\n\n\n\n\nRetina\n\nPhysiologically backwards\n\nDark current\n\nAnatomically inside-out\n\nPhotoreceptors at back of eye\n\n\n\n\n\nhttp://www.retinareference.com/anatomy/\n\n\n\nInformation flows…\n\nFrom photoreceptors…\nTo Bipolar cells\n\n&lt;-&gt; and Horizontal cells\n\nTo Retinal ganglion cells\n\n&lt;-&gt; and Amacrine cells\n\nTo cerebral cortex\n\n\n\nCenter-surround receptive fields\n\n\nCenter region\n\nExcites (or inhibits)\n\nSurround region\n\nDoes the opposite\n\nBipolar cells & Retinal Ganglion cells -&gt;\nMost activated by “donuts” of light/dark\n\nLocal contrast (light/dark differences)\n\n\n\n\nOpponent processing\n\n\n\nhttp://www.visualexpert.com/sbfaqimages/RGBOpponent.gif\n\n\n\nBlack (darker) vs. white (lighter) (achromatic)\nLong (red) vs. Medium (green) wavelength cones\n(Long + Medium) vs. Short cones\nCan’t really see reddish-green or bluish-yellow\n\n“Oppose” one another at cellular/circuit level\nDEMO\n\n\n\n\n\nFrom eye to brain\n\n\nRetinal ganglion cells\n2nd/II cranial (optic) nerve\n\nOptic chiasm (\\(\\chi\\) - asm): Partial crossing of fibers\nNasal hemiretina (lateral/peripheral visual field) cross\nLeft visual field (from L & R retinae) -&gt; right hemisphere & vice versa\n\nLateral Geniculate Nucleus (LGN) of thalamus (receives 90% of retinal projections)\nHypothalamus\n\nSuprachiasmatic nucleus (superior to the optic chiasm): Synchronizes day/night cycle with circadian rhythms\n\nSuperior colliculus & brainstem\n\n\nLGN\n\n\n6 layers + intralaminar zone\n\nParvocellular (small cells): chromatic\nMagnocellular (big cells): achromatic\nKoniocellular (chromatic - short wavelength?)\n\nRetinotopic map of opposite visual field\n\n\n\nFrom LGN to V1\n\n\nVia optic radiations\nPrimary visual cortex (V1) in occipital lobe\nCreate “stria of Gennari” (visible stripe in layer 4)\nCalcarine fissure (medial occiptal lobe) divides lower/upper visual field\n\n\n\nHuman V1\n\n\n\nhttp://www.scholarpedia.org/w/images/3/3a/03-Human-V1.png\n\n\n\n\n\n(Dougherty et al., 2003)\n\n\n\nFovea overrepresented\n\nAnalogous to somatosensation\nHigh acuity in fovea vs. lower outside it\n\nUpper visual field/lower (ventral) V1 and vice versa\n\n\n\nLaminar, columnar organization\n\n\n6 laminae (layers)\n\nInput: Layer 4 (remember stria of Gennari?)\nOutput: Layers 2-3 (to cortex), 5 (to brainstem), 6 (to LGN)\n\nColumns\n\nOrientation/angle\nSpatial frequency\nColor/wavelength\nEye of origin, ocular dominance\n\n\n\n\n\n\n\nhttps://foundationsofvision.stanford.edu/wp-content/uploads/2012/02/dir.selective.png\n\n\n\n\nFrom center-surround receptive fields to line detection\n\n\n\n\n(Panichello, Cheung, & Bar, 2013)\n\n\n\n\nOcular dominance columns\n\n\n\n\n\n\nBeyond V1\n\n\nLarger, more complex receptive fields\nDorsal stream (where/how)\n\nToward parietal lobe\n\nVentral stream (what)\n\n\n\nWhat is vision for?\n\nWhat is it? (form perception)\nWhere is it? (space perception)\nHow do I get from here to there (action control)\nWhat time (or time of year) is it?"
   },
   {
     "objectID": "resources/neuroanatomy-outline.html",
@@ -763,207 +763,109 @@
     "text": "Organization of the PNS\n\nSomatic division\nAutonomic division (Autonomic Nervous System)\n\n\nSomatic division\n\nCranial nerves\n\nAfferents (input), efferents (output), or mixed\nInnervate head and neck\nOlfactory (I), optic (II), (VIII) auditory, vagus (X), etc.\nSpinal nerves\n\n\n\n\nCranial nerves from https://www.britannica.com/science/cranial-nerve#/media/1/141797/46720\n\n\n\n\nSpinal nerves\n\n\n\nNervous system of Harriet Cole from https://www.pastmedicalhistory.co.uk/the-nervous-system-of-harriet-cole/\n\n\n\n\n\nAutonomic nervous system\n\nCNS & PNS components\nControls “vegetative functions”\n\nLimited voluntary control\n\nThree divisions\n\nSympathetic\nParasympathetic\nEnteric (gut, intestinal tract)\n\n\n\n\n\nAutonomic nervous system\n\n\n\nBipolar (continuum) vs. bivariate autonomic space (Berntson, Cacioppo, & Quigley, 1991)\n\n\n\n\n(Berntson et al., 1991)\n\n\n\nSympathetic division\n\nPrepares body for action\n“Fight or flight”\nSpinal cord\n\nganglion chain along spinal column to End organs\n\nNeurotransmitters (NTs)\n\nPreganglionic: acetylcholine (ACh)\nPost: norepinephrine (NE)\n\n\n\n\nParasympathetic division\n\n“Around” sympathetic\nRestorative function\n“Rest & digest”\nSpinal cord (or Vagus n. from Xth cranial n.) -&gt; ganglia near end organs -&gt; end organ\n\nNT: ACh\n\n\n\n\nIllustrative measures of ANS function\n\nHeart rate variability\n\n\n\n\nInfluences on heart rate\n\n\n\nGalvanic skin response (GSR)\nPupillary response\n\n\n\n\nCircuit controlling pupillary diameter\n\n\n\nelectrogastrogram (EGG) for ENS (Al Taee & Al-Jumaily, 2020)\n\n\n\n\nElectrogastogram from (Al Taee & Al-Jumaily, 2020). Fig. 1. Gastric pacesetter potentials or slow waves originate from the pacemaker area on the greater curve. Pacesetter potentials travel in a circumferential and aboral direction at a rate of approximately 3 cycles per minute (cpm). The cutaneously recorded electrogastrogram shows 3-cpm wave pattern. The fundus has no rhythmic electrical activity."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
+    "objectID": "policies.html",
+    "href": "policies.html",
+    "title": "Policies & Values",
     "section": "",
-    "text": "Source: https://anthelionartschool.com/creativity-and-happiness/"
+    "text": "Academic Integrity\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nStudents are responsible for maintaining academic integrity. Violations include cheating on exams, talking to others during exams, looking at another student’s test materials or answers during an exam, removing exams from the classroom without consent from the instructor, plagiarizing (do not copy from someone else!), and dishonesty in any aspect of course participation.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\n\n\nLate, missed or make-up assignments\n\nExams\nMake-up exams may be permitted under unusual circumstances such as (a) an interview, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.\nIf you must miss class on the day an exam is scheduled, you must do the following:\n\nContact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.\nArrange with the TA or instructor to take a make-up exam as soon as possible, but no later than one (1) week following the date of the scheduled exam. It is your responsibility, not the TA’s or the instructor’s to schedule an approved make-up exam in a timely way.\n\n\n\nQuizzes\nNo make-up quizzes will be given except under unusual circumstances. You may ask for a copy of the quiz for studying purposes, however.\n\n\nAccommodation for persons with disabilities\nPenn State welcomes students with disabilities into the University’s educational programs. Please refer to the information provided by Student Disability Resources (SDR) at http://equity.psu.edu/student-disability-resources/ for information about the procedures required to obtain reasonable accommodations in this course. Students should discussSDR-approved accommodations with their instructor as early in the semester as possible, even if they have taken another course with the instructor. Please note: students are not required to provide their instructor with information about the nature of their condition.\nPenn State students are also welcome to contact other units for assistance with personal concerns that interfere with academic progress, including: Counseling and Psychological Services (CAPS; http://studentaffairs.psu.edu/counseling/), the Office of Student Affairs (http://studentaffairs.psu.edu/), Career Services (http://studentaffairs.psu.edu/career/), the Center for Women Students (http://studentaffairs.psu.edu/womenscenter/), the LGBTQA Student Resource Center (http://studentaffairs.psu.edu/lgbtqa/), the Office of Sexual Misconduct Prevention and Response (http://titleix.psu.edu/), Penn State Educational Equity (http://equity.psu.edu/), the Multicultural Resource Center (http://equity.psu.edu/mrc), and University Health Services (http://studentaffairs.psu.edu/health/).\n\n\n\nNondiscrimination Statement\nThe Pennsylvania State University is committed to equal access to programs, facilities, admission and employment for all persons. It is the policy of the University to maintain an environment free of harassment and free of discrimination against any person because of age, race, color, ancestry, national origin, religion, creed, service in the uniformed services (as defined in state and federal law), veteran status, sex, sexual orientation, marital or family status, pregnancy, pregnancy-related conditions, physical or mental disability, gender, perceived gender, gender identity, genetic information or political ideas. Discriminatory conduct and harassment, as well as sexual misconduct and relationship violence, violates the dignity of individuals, impedes the realization of the University’s educational mission, and will not be tolerated.\nDirect all inquiries regarding the nondiscrimination policy to:\nDr. Kenneth Lehrman III Vice Provost for Affirmative Action Affirmative Action Office The Pennsylvania State University 328 Boucke Building University Park, PA 16802-5901 Email: kfl2@psu.edu Tel (814) 863-0471\n\n\nDiversity Statement\nThis classroom is a place where you will be treated with respect. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Penn State is committed to creating an educational environment which is free from intolerance directed toward individuals or groups and strives to create and maintain an environment that fosters respect for others as stated in Policy AD29 Statement on Intolerance.\n\n\nMandated Reporting Statement\nPenn State’s policies require me, as a faculty member, to share information about incidents of sex-based discrimination and harassment (discrimination, harassment, sexual harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation) with Penn State’s Title IX coordinator or deputy coordinators, regardless of whether the incidents are stated to me in person or shared by students as part of their coursework. For more information regarding the University’s policies and procedures for responding to reports of sexual or gender-based harassment or misconduct, please visit http://titleix.psu.edu.\nAdditionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law."
   },
   {
-    "objectID": "index.html#instructor",
-    "href": "index.html#instructor",
-    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
-    "section": "Instructor",
-    "text": "Instructor\nRick O. Gilmore, Ph.D. Professor of Psychology 114 Moore Building\n+1 (814) 865-3664 rog1 AT-SYMBOL psu PERIOD edu Schedule an appointment Lab site: https://gilmore-lab.github.io Personal site: https://rick-gilmore.com"
+    "objectID": "exercises/exXX.html",
+    "href": "exercises/exXX.html",
+    "title": "Exercise XX • Information processing",
+    "section": "",
+    "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to consider behaviors (e.g., movements, facial expressions, vocalizations), physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.), and mental states (e.g. thoughts, memories, feelings).\nCausal diagrams\nCovariates, external influences"
   },
   {
-    "objectID": "index.html#meeting-location-and-time",
-    "href": "index.html#meeting-location-and-time",
-    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
-    "section": "Meeting Location and Time",
-    "text": "Meeting Location and Time\n467 Moore Thursdays, 1-3 PM."
+    "objectID": "exercises/exXX.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
+    "href": "exercises/exXX.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
+    "title": "Exercise XX • Information processing",
+    "section": "",
+    "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to consider behaviors (e.g., movements, facial expressions, vocalizations), physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.), and mental states (e.g. thoughts, memories, feelings).\nCausal diagrams\nCovariates, external influences"
   },
   {
-    "objectID": "index.html#about-the-course",
-    "href": "index.html#about-the-course",
-    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
-    "section": "About the course",
-    "text": "About the course\nThe first scientific psychologists were physiologists fascinated by the possibility of understanding the mind by studying the brain. In this course, we will explore the historical roots and contemporary challenges associated with the study of biological approaches to complex adaptive behavior. In doing so, we will read and examine critically primary source readings that discuss basic patterns and processes of brain structure and function. The goal is to provide students with a basic foundation of knowledge about the structures and functions of the nervous system that can provide the basis for future study.\nThis course is one of two required courses for the Specialization in Cognitive and Affective Neuroscience (SCAN)."
+    "objectID": "exercises/ex08-devo.html",
+    "href": "exercises/ex08-devo.html",
+    "title": "Exercise 08 • Development",
+    "section": "",
+    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
   },
   {
-    "objectID": "index.html#prerequisites",
-    "href": "index.html#prerequisites",
-    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
-    "section": "Prerequisites",
-    "text": "Prerequisites\nUndergraduate coursework in neuroscience or physiological psychology such as the equivalents of PSYCH 260 or BIO 469/470."
+    "objectID": "exercises/ex08-devo.html#goals",
+    "href": "exercises/ex08-devo.html#goals",
+    "title": "Exercise 08 • Development",
+    "section": "",
+    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
   },
   {
-    "objectID": "exercises/exXX-causal-modeling.html#activity",
-    "href": "exercises/exXX-causal-modeling.html#activity",
-    "title": "Exercise 04 • Causal modeling",
+    "objectID": "exercises/ex08-devo.html#activity",
+    "href": "exercises/ex08-devo.html#activity",
+    "title": "Exercise 08 • Development",
     "section": "Activity",
-    "text": "Activity\nChoose a psychological phenomenon you know well or care about.\nDraw a diagram that depicts the relationships among the principal causes of or influences on that phenomenon.\nIt may help you to think about the causes or influences as falling into the following categories:\n\nExternal to the person\nPhysical/physiological states outside the nervous system\nNervous system states\n\nIf the phenomenon has characteristic behaviors or mental states, please indicate those, as well.\nYou may also want to depict the flow of information or the direction of causality.\nHere is a cartoon example:"
+    "text": "Activity\n\nChoose a psychological domain that interests you.\nIn the spirit of (Blumberg & Adolph, 2023), write a short essay (3-5 pp) where you apply a developmental neuroscience perspective to the domain. In doing so, concisely answer the following questions:\n\n\nHow does psychological functioning change over development?\nWhat brain systems are most directly implicated in the phenomenon?\nDoes our current understanding of developmental patterns in these systems provide useful information about the domain?\nWhat information about brain structure or function is needed to understand the phenomenon more thoroughly?"
   },
   {
-    "objectID": "exercises/exXX-causal-modeling.html#example-1",
-    "href": "exercises/exXX-causal-modeling.html#example-1",
-    "title": "Exercise 04 • Causal modeling",
-    "section": "Example 1",
-    "text": "Example 1\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  A --&gt; H(Toe bleeds)"
-  },
-  {
-    "objectID": "exercises/exXX-causal-modeling.html#example-2",
-    "href": "exercises/exXX-causal-modeling.html#example-2",
-    "title": "Exercise 04 • Causal modeling",
-    "section": "Example 2",
-    "text": "Example 2\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)"
-  },
-  {
-    "objectID": "exercises/exXX-causal-modeling.html#example-3",
-    "href": "exercises/exXX-causal-modeling.html#example-3",
-    "title": "Exercise 04 • Causal modeling",
-    "section": "Example 3",
-    "text": "Example 3\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)\n  C --&gt; I{Activate memory of past injury}\n  J --&gt; K(Rub foot)\n  C --&gt; L(Trigger hormone release)\n  F --&gt; K\n  G --&gt; K\n  K --&gt; C\n  K --&gt; B\n  L --&gt; B\n  L --&gt; C\n  L --&gt; D\n  L --&gt; J\n  L --&gt; H"
-  },
-  {
-    "objectID": "exercises/ex07-evo-devo.html",
-    "href": "exercises/ex07-evo-devo.html",
-    "title": "Exercise 07 • Evolution & Development",
-    "section": "",
-    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
-  },
-  {
-    "objectID": "exercises/ex07-evo-devo.html#goals",
-    "href": "exercises/ex07-evo-devo.html#goals",
-    "title": "Exercise 07 • Evolution & Development",
-    "section": "",
-    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
-  },
-  {
-    "objectID": "exercises/ex07-evo-devo.html#activity",
-    "href": "exercises/ex07-evo-devo.html#activity",
-    "title": "Exercise 07 • Evolution & Development",
-    "section": "Activity",
-    "text": "Activity\nAnswer the following questions in a few short sentences:\n\nWhat feature(s) of the human brain are similar to closely related animals (e.g., mammals and especially primates)?\nWhat feature(s) of the human brain distinguish it from these closely related animals?\nWhy is it especially hard to tie changes in human brain structure to particular human psychological characteristics?\n\nAnswer the following question in a paragraph or two:\n\nConsider a psychological domain that interests you, is an evolutionary perspective useful? Why or why not?"
-  },
-  {
-    "objectID": "exercises/ex07-evo-devo.html#submission-details",
-    "href": "exercises/ex07-evo-devo.html#submission-details",
-    "title": "Exercise 07 • Evolution & Development",
+    "objectID": "exercises/ex08-devo.html#submission-details",
+    "href": "exercises/ex08-devo.html#submission-details",
+    "title": "Exercise 08 • Development",
     "section": "Submission details",
     "text": "Submission details\n\nSubmit your write-up by Wednesday, March 13, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
-    "objectID": "exercises/ex05.html",
-    "href": "exercises/ex05.html",
-    "title": "Exercise 05 • Neurochemistry",
+    "objectID": "exercises/ex06.html",
+    "href": "exercises/ex06.html",
+    "title": "Exercise 06 • Methods",
     "section": "",
-    "text": "To understand some basic facts about neurotransmitters and their functions in communication.\nTo understand some basic facts about hormones and their functions in communication.\nTo understand how chemical (via neurotransmitters and hormones) and electrical (via action potentials) compare with one another."
+    "text": "To understand what aspect of neural structure or function a given method measures.\nTo understand what spatial and temporal scales characterize different methods.\nTo understand the comparative strengths and weaknesses of different methods in answering questions about behavior and internal states (thoughts, feelings, and memories)."
   },
   {
-    "objectID": "exercises/ex05.html#goals",
-    "href": "exercises/ex05.html#goals",
-    "title": "Exercise 05 • Neurochemistry",
+    "objectID": "exercises/ex06.html#goals",
+    "href": "exercises/ex06.html#goals",
+    "title": "Exercise 06 • Methods",
     "section": "",
-    "text": "To understand some basic facts about neurotransmitters and their functions in communication.\nTo understand some basic facts about hormones and their functions in communication.\nTo understand how chemical (via neurotransmitters and hormones) and electrical (via action potentials) compare with one another."
+    "text": "To understand what aspect of neural structure or function a given method measures.\nTo understand what spatial and temporal scales characterize different methods.\nTo understand the comparative strengths and weaknesses of different methods in answering questions about behavior and internal states (thoughts, feelings, and memories)."
   },
   {
-    "objectID": "exercises/ex05.html#activity",
-    "href": "exercises/ex05.html#activity",
-    "title": "Exercise 05 • Neurochemistry",
+    "objectID": "exercises/ex06.html#activity",
+    "href": "exercises/ex06.html#activity",
+    "title": "Exercise 06 • Methods",
     "section": "Activity",
-    "text": "Activity\n\nStarting with the arrival of the action potential at the terminal button, describe the main steps that lead to the release of neurotransmitter from the presynaptic terminal.\nDescribe how the binding of neurotransmitter onto an ionotropic post-synaptic receptor influences the post-synaptic cell. What is an example of a neurotransmitter that has this effect?\nDescribe how the binding of neurotransmitter onto a metabotropic post-synaptic receptor influences the post-synaptic cell. What is an example of a neurotransmitter that has this sort of effect?\nDescribe at least two ways that neurotransmitters released at a synapse are inactivated, with an example for each.\nDescribe some of the key features and roles of glutamate and GABA in the CNS.\nDescribe at least two features that monoamine neurotransmitter systems have in common.\nIdentify a structure in the CNS that controls the endocrine and neural responses to situations that require behavioral activation or increased activity and arousal. Give an example of how this might work in practice."
+    "text": "Activity\nAnswer the following questions in a few sentences:\n\nWhat technique(s) for recording neural activity have especially high spatial and temporal resolution?\nWhich of these techniques would be most suitable for use with human participants?\nWhy is functional MRI considered an indirect measure of neuronal activity?\n\nChoose a behavior, an internal psychological state, or a disorder that interests you or your group partners. Search the literature for one to three (1-3) papers that illustrate two to three (2-3) different methods. Answer the following questions about these papers and methods in a few sentences:\n\nFor each method, describe what evidence it provides about the neurological basis of your topic.\nHow do the different sources of evidence compare with one another?\nWhat essential gaps exist in our understanding of the psychological phenomenon based on the biological evidence?"
   },
   {
-    "objectID": "exercises/ex05.html#submission-details",
-    "href": "exercises/ex05.html#submission-details",
-    "title": "Exercise 05 • Neurochemistry",
+    "objectID": "exercises/ex06.html#submission-details",
+    "href": "exercises/ex06.html#submission-details",
+    "title": "Exercise 06 • Methods",
     "section": "Submission details",
-    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 21, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
+    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 28, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
-    "objectID": "exercises/ex03.html",
-    "href": "exercises/ex03.html",
-    "title": "Exercise 03 • Neurophysiology I",
+    "objectID": "exercises/ex04.html",
+    "href": "exercises/ex04.html",
+    "title": "Exercise 04 • Neurophysiology II",
     "section": "",
-    "text": "To understand some basic facts about neurons and glia.\nTo understand the ionic components and balance of forces that give rise to the resting potential."
+    "text": "To understand what change(s) in the resting state of neurons cause the action potential.\nTo understand how the action potential results in the release of neurotransmitter from the axon terminal (terminal button)."
   },
   {
-    "objectID": "exercises/ex03.html#goals",
-    "href": "exercises/ex03.html#goals",
-    "title": "Exercise 03 • Neurophysiology I",
+    "objectID": "exercises/ex04.html#goals",
+    "href": "exercises/ex04.html#goals",
+    "title": "Exercise 04 • Neurophysiology II",
     "section": "",
-    "text": "To understand some basic facts about neurons and glia.\nTo understand the ionic components and balance of forces that give rise to the resting potential."
+    "text": "To understand what change(s) in the resting state of neurons cause the action potential.\nTo understand how the action potential results in the release of neurotransmitter from the axon terminal (terminal button)."
   },
   {
-    "objectID": "exercises/ex03.html#activity",
-    "href": "exercises/ex03.html#activity",
-    "title": "Exercise 03 • Neurophysiology I",
+    "objectID": "exercises/ex04.html#activity",
+    "href": "exercises/ex04.html#activity",
+    "title": "Exercise 04 • Neurophysiology II",
     "section": "Activity",
-    "text": "Activity\nYou may work by yourself or with up to two other people for this activity.\nAnswer the following questions in no more than a few sentences:\n\nDescribe at least two ways that neurons differ from other cells in the body.\nWhat are the two main types of myelin-producing glial cells, and where in the body are they found?\n\nDraw and annotate figure(s) to answer the following questions:\n\nDraw a figure that shows the two principal ions that contribute to the neuron’s resting potential, and where (inside or outside the neuron) they are most heavily concentrated.\nAnnotate your figure to show the direction of ion flow along each ion’s concentration gradient1.\nAnnotate your figure to show the direction of ion movement caused by the \\(Na^+/K^+\\) (sodium/potassium) ATPase (pump).\nAnnotate your figure to show what spatial pattern of electrical charges (positive/negative voltage; inside the cell/outside the cell) would tend to keep the potassium (\\(K^+\\)) ions where they are most highly concentrated when the neuron is at rest. Explain your reasoning.\nAnnotate your figure to show what this same pattern of electrical charges would do to sodium (\\(Na^+\\)) ions.\n\nAnswer the following questions in no more than a few sentences:\n\nWhat change(s) in the neuron could cause potassium (\\(K^+\\)) ions to move? Which direction would the ions move under these circumstances?\nWhat change(s) in the neuron could cause sodium (\\(Na^+\\)) ions to move? Which direction would the ions move under these circumstances?\n\\(Na^+/K^+\\) (sodium/potassium) ATPase (pump) uses metabolic energy to function. It essentially keeps working constantly. What would happen to the neuron if this process was disrupted somehow?"
+    "text": "Activity\nYou may work by yourself or with up to two other people for this activity. If it is easier, you may draw figures and annotate them.\nAnswer the following questions in no more than a few sentences:\n\nWhat event(s) trigger the rising phase of the action potential in the axon initial segment?\nWhat event(s) occur at the peak of the action potential?\nWhat event(s) occur during the falling phase of the action potential?\nWhy does the membrane potential overshoot (become more negative than) the typical resting potential?\nWhy can’t the neuron fire another action potential during the absolute refractory period? What do we need to do to generate an action potential during the relative refractory period?\nWhat makes “computing” with wires and action potentials “expensive” for the nervous system?\nHow do psychologists benefit from learning more about these details of neurophysiology?"
   },
   {
-    "objectID": "exercises/ex03.html#submission-details",
-    "href": "exercises/ex03.html#submission-details",
-    "title": "Exercise 03 • Neurophysiology I",
+    "objectID": "exercises/ex04.html#submission-details",
+    "href": "exercises/ex04.html#submission-details",
+    "title": "Exercise 04 • Neurophysiology II",
     "section": "Submission details",
-    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 7, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
-  },
-  {
-    "objectID": "exercises/ex03.html#footnotes",
-    "href": "exercises/ex03.html#footnotes",
-    "title": "Exercise 03 • Neurophysiology I",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nRemember that ions flow down the concentration gradient, from regions of high concentration to regions of lower concentration↩︎"
-  },
-  {
-    "objectID": "exercises/ex01.html",
-    "href": "exercises/ex01.html",
-    "title": "Exercise 01 • Levels/Terms",
-    "section": "",
-    "text": "Begin reading the literature about biological approaches to psychology with a critical, analytic perspective.\nHighlight concepts and terms that you want to understand more thoroughly.\nApply the idea of levels of analysis to the relevant literature."
-  },
-  {
-    "objectID": "exercises/ex01.html#goals",
-    "href": "exercises/ex01.html#goals",
-    "title": "Exercise 01 • Levels/Terms",
-    "section": "",
-    "text": "Begin reading the literature about biological approaches to psychology with a critical, analytic perspective.\nHighlight concepts and terms that you want to understand more thoroughly.\nApply the idea of levels of analysis to the relevant literature."
-  },
-  {
-    "objectID": "exercises/ex01.html#tasks",
-    "href": "exercises/ex01.html#tasks",
-    "title": "Exercise 01 • Levels/Terms",
-    "section": "Tasks",
-    "text": "Tasks\n\nChoose two papers relevant to your personal research interests that you want to understand more thoroughly.\nScan the papers and highlight 3-5 terms or concepts that you are especially interested in understanding.\nSubmit a short (1-2 pp) write-up that includes the following:\n\n\nWhich articles did you choose and why did you choose them.\nWhat terms or concepts did you choose and why did you choose them.\nWhat level or levels of analysis do the terms reflect?"
-  },
-  {
-    "objectID": "exercises/ex01.html#submission-details",
-    "href": "exercises/ex01.html#submission-details",
-    "title": "Exercise 01 • Levels/Terms",
-    "section": "Submission details",
-    "text": "Submission details\n\nGive your paper a file name following this convention: “psy-511-spr-2024-LASTNAME-FIRSTNAME-ex01.docx”\nProvide full APA format citations with DOIs.\nYour write-up is due Wednesday, January 17, 2024 at 11:59 pm."
-  },
-  {
-    "objectID": "evaluation.html",
-    "href": "evaluation.html",
-    "title": "Evaluation",
-    "section": "",
-    "text": "PSY 511 course performance will be evaluated based on the following scheme:"
-  },
-  {
-    "objectID": "evaluation.html#exercises",
-    "href": "evaluation.html#exercises",
-    "title": "Evaluation",
-    "section": "Exercises",
-    "text": "Exercises\nThere will be eight (8) exercises throughout the term. Five (5) of the 8 will count toward the final course grade. Significant work on these can and will be done in-class. More details will be provided for each exercise."
-  },
-  {
-    "objectID": "evaluation.html#paperproject",
-    "href": "evaluation.html#paperproject",
-    "title": "Evaluation",
-    "section": "Paper/Project",
-    "text": "Paper/Project\nA significant part of the grade in PSY 511 is a final paper or project.\nThe paper or project can take on a number of forms, depending on a student’s scholarly interests.\nA 1-2 page project proposal, worth five (5) points, will be due before Spring Break. The final project submission will be due during finals week."
+    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 14, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
     "objectID": "exercises/ex02.html",
@@ -1057,109 +959,319 @@
     "text": "Ventricles\n\n\n\nStructure\nBrain Model\nSpecimen\nPaper Atlas\nElectronic Atlas\n\n\n\n\nLateral ventricles\n\n\n\n\n\n\n3rd ventricle\n\n\n\n\n\n\nCerebral aqueduct\n\n\n\n\n\n\n4th ventricle"
   },
   {
-    "objectID": "exercises/ex04.html",
-    "href": "exercises/ex04.html",
-    "title": "Exercise 04 • Neurophysiology II",
+    "objectID": "evaluation.html",
+    "href": "evaluation.html",
+    "title": "Evaluation",
     "section": "",
-    "text": "To understand what change(s) in the resting state of neurons cause the action potential.\nTo understand how the action potential results in the release of neurotransmitter from the axon terminal (terminal button)."
+    "text": "PSY 511 course performance will be evaluated based on the following scheme:"
   },
   {
-    "objectID": "exercises/ex04.html#goals",
-    "href": "exercises/ex04.html#goals",
-    "title": "Exercise 04 • Neurophysiology II",
+    "objectID": "evaluation.html#exercises",
+    "href": "evaluation.html#exercises",
+    "title": "Evaluation",
+    "section": "Exercises",
+    "text": "Exercises\nThere will be eight (8) exercises throughout the term. Five (5) of the 8 will count toward the final course grade. Significant work on these can and will be done in-class. More details will be provided for each exercise."
+  },
+  {
+    "objectID": "evaluation.html#paperproject",
+    "href": "evaluation.html#paperproject",
+    "title": "Evaluation",
+    "section": "Paper/Project",
+    "text": "Paper/Project\nA significant part of the grade in PSY 511 is a final paper or project.\nThe paper or project can take on a number of forms, depending on a student’s scholarly interests.\nA 1-2 page project proposal, worth five (5) points, will be due before Spring Break. The final project submission will be due during finals week."
+  },
+  {
+    "objectID": "exercises/ex01.html",
+    "href": "exercises/ex01.html",
+    "title": "Exercise 01 • Levels/Terms",
     "section": "",
-    "text": "To understand what change(s) in the resting state of neurons cause the action potential.\nTo understand how the action potential results in the release of neurotransmitter from the axon terminal (terminal button)."
+    "text": "Begin reading the literature about biological approaches to psychology with a critical, analytic perspective.\nHighlight concepts and terms that you want to understand more thoroughly.\nApply the idea of levels of analysis to the relevant literature."
   },
   {
-    "objectID": "exercises/ex04.html#activity",
-    "href": "exercises/ex04.html#activity",
-    "title": "Exercise 04 • Neurophysiology II",
-    "section": "Activity",
-    "text": "Activity\nYou may work by yourself or with up to two other people for this activity. If it is easier, you may draw figures and annotate them.\nAnswer the following questions in no more than a few sentences:\n\nWhat event(s) trigger the rising phase of the action potential in the axon initial segment?\nWhat event(s) occur at the peak of the action potential?\nWhat event(s) occur during the falling phase of the action potential?\nWhy does the membrane potential overshoot (become more negative than) the typical resting potential?\nWhy can’t the neuron fire another action potential during the absolute refractory period? What do we need to do to generate an action potential during the relative refractory period?\nWhat makes “computing” with wires and action potentials “expensive” for the nervous system?\nHow do psychologists benefit from learning more about these details of neurophysiology?"
+    "objectID": "exercises/ex01.html#goals",
+    "href": "exercises/ex01.html#goals",
+    "title": "Exercise 01 • Levels/Terms",
+    "section": "",
+    "text": "Begin reading the literature about biological approaches to psychology with a critical, analytic perspective.\nHighlight concepts and terms that you want to understand more thoroughly.\nApply the idea of levels of analysis to the relevant literature."
   },
   {
-    "objectID": "exercises/ex04.html#submission-details",
-    "href": "exercises/ex04.html#submission-details",
-    "title": "Exercise 04 • Neurophysiology II",
+    "objectID": "exercises/ex01.html#tasks",
+    "href": "exercises/ex01.html#tasks",
+    "title": "Exercise 01 • Levels/Terms",
+    "section": "Tasks",
+    "text": "Tasks\n\nChoose two papers relevant to your personal research interests that you want to understand more thoroughly.\nScan the papers and highlight 3-5 terms or concepts that you are especially interested in understanding.\nSubmit a short (1-2 pp) write-up that includes the following:\n\n\nWhich articles did you choose and why did you choose them.\nWhat terms or concepts did you choose and why did you choose them.\nWhat level or levels of analysis do the terms reflect?"
+  },
+  {
+    "objectID": "exercises/ex01.html#submission-details",
+    "href": "exercises/ex01.html#submission-details",
+    "title": "Exercise 01 • Levels/Terms",
     "section": "Submission details",
-    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 14, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
+    "text": "Submission details\n\nGive your paper a file name following this convention: “psy-511-spr-2024-LASTNAME-FIRSTNAME-ex01.docx”\nProvide full APA format citations with DOIs.\nYour write-up is due Wednesday, January 17, 2024 at 11:59 pm."
   },
   {
-    "objectID": "exercises/ex06.html",
-    "href": "exercises/ex06.html",
-    "title": "Exercise 06 • Methods",
+    "objectID": "exercises/ex03.html",
+    "href": "exercises/ex03.html",
+    "title": "Exercise 03 • Neurophysiology I",
     "section": "",
-    "text": "To understand what aspect of neural structure or function a given method measures.\nTo understand what spatial and temporal scales characterize different methods.\nTo understand the comparative strengths and weaknesses of different methods in answering questions about behavior and internal states (thoughts, feelings, and memories)."
+    "text": "To understand some basic facts about neurons and glia.\nTo understand the ionic components and balance of forces that give rise to the resting potential."
   },
   {
-    "objectID": "exercises/ex06.html#goals",
-    "href": "exercises/ex06.html#goals",
-    "title": "Exercise 06 • Methods",
+    "objectID": "exercises/ex03.html#goals",
+    "href": "exercises/ex03.html#goals",
+    "title": "Exercise 03 • Neurophysiology I",
     "section": "",
-    "text": "To understand what aspect of neural structure or function a given method measures.\nTo understand what spatial and temporal scales characterize different methods.\nTo understand the comparative strengths and weaknesses of different methods in answering questions about behavior and internal states (thoughts, feelings, and memories)."
+    "text": "To understand some basic facts about neurons and glia.\nTo understand the ionic components and balance of forces that give rise to the resting potential."
   },
   {
-    "objectID": "exercises/ex06.html#activity",
-    "href": "exercises/ex06.html#activity",
-    "title": "Exercise 06 • Methods",
+    "objectID": "exercises/ex03.html#activity",
+    "href": "exercises/ex03.html#activity",
+    "title": "Exercise 03 • Neurophysiology I",
     "section": "Activity",
-    "text": "Activity\nAnswer the following questions in a few sentences:\n\nWhat technique(s) for recording neural activity have especially high spatial and temporal resolution?\nWhich of these techniques would be most suitable for use with human participants?\nWhy is functional MRI considered an indirect measure of neuronal activity?\n\nChoose a behavior, an internal psychological state, or a disorder that interests you or your group partners. Search the literature for one to three (1-3) papers that illustrate two to three (2-3) different methods. Answer the following questions about these papers and methods in a few sentences:\n\nFor each method, describe what evidence it provides about the neurological basis of your topic.\nHow do the different sources of evidence compare with one another?\nWhat essential gaps exist in our understanding of the psychological phenomenon based on the biological evidence?"
+    "text": "Activity\nYou may work by yourself or with up to two other people for this activity.\nAnswer the following questions in no more than a few sentences:\n\nDescribe at least two ways that neurons differ from other cells in the body.\nWhat are the two main types of myelin-producing glial cells, and where in the body are they found?\n\nDraw and annotate figure(s) to answer the following questions:\n\nDraw a figure that shows the two principal ions that contribute to the neuron’s resting potential, and where (inside or outside the neuron) they are most heavily concentrated.\nAnnotate your figure to show the direction of ion flow along each ion’s concentration gradient1.\nAnnotate your figure to show the direction of ion movement caused by the \\(Na^+/K^+\\) (sodium/potassium) ATPase (pump).\nAnnotate your figure to show what spatial pattern of electrical charges (positive/negative voltage; inside the cell/outside the cell) would tend to keep the potassium (\\(K^+\\)) ions where they are most highly concentrated when the neuron is at rest. Explain your reasoning.\nAnnotate your figure to show what this same pattern of electrical charges would do to sodium (\\(Na^+\\)) ions.\n\nAnswer the following questions in no more than a few sentences:\n\nWhat change(s) in the neuron could cause potassium (\\(K^+\\)) ions to move? Which direction would the ions move under these circumstances?\nWhat change(s) in the neuron could cause sodium (\\(Na^+\\)) ions to move? Which direction would the ions move under these circumstances?\n\\(Na^+/K^+\\) (sodium/potassium) ATPase (pump) uses metabolic energy to function. It essentially keeps working constantly. What would happen to the neuron if this process was disrupted somehow?"
   },
   {
-    "objectID": "exercises/ex06.html#submission-details",
-    "href": "exercises/ex06.html#submission-details",
-    "title": "Exercise 06 • Methods",
+    "objectID": "exercises/ex03.html#submission-details",
+    "href": "exercises/ex03.html#submission-details",
+    "title": "Exercise 03 • Neurophysiology I",
     "section": "Submission details",
-    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 28, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
+    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 7, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
-    "objectID": "exercises/ex08-devo.html",
-    "href": "exercises/ex08-devo.html",
-    "title": "Exercise 08 • Development",
+    "objectID": "exercises/ex03.html#footnotes",
+    "href": "exercises/ex03.html#footnotes",
+    "title": "Exercise 03 • Neurophysiology I",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRemember that ions flow down the concentration gradient, from regions of high concentration to regions of lower concentration↩︎"
+  },
+  {
+    "objectID": "exercises/ex05.html",
+    "href": "exercises/ex05.html",
+    "title": "Exercise 05 • Neurochemistry",
     "section": "",
-    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
+    "text": "To understand some basic facts about neurotransmitters and their functions in communication.\nTo understand some basic facts about hormones and their functions in communication.\nTo understand how chemical (via neurotransmitters and hormones) and electrical (via action potentials) compare with one another."
   },
   {
-    "objectID": "exercises/ex08-devo.html#goals",
-    "href": "exercises/ex08-devo.html#goals",
-    "title": "Exercise 08 • Development",
+    "objectID": "exercises/ex05.html#goals",
+    "href": "exercises/ex05.html#goals",
+    "title": "Exercise 05 • Neurochemistry",
     "section": "",
-    "text": "Practice taking a developmental neuroscience perspective to psychological phenomena.\nIllustrate how taking such a perspective does or does not inform understanding about a particular phenomenon."
+    "text": "To understand some basic facts about neurotransmitters and their functions in communication.\nTo understand some basic facts about hormones and their functions in communication.\nTo understand how chemical (via neurotransmitters and hormones) and electrical (via action potentials) compare with one another."
   },
   {
-    "objectID": "exercises/ex08-devo.html#activity",
-    "href": "exercises/ex08-devo.html#activity",
-    "title": "Exercise 08 • Development",
+    "objectID": "exercises/ex05.html#activity",
+    "href": "exercises/ex05.html#activity",
+    "title": "Exercise 05 • Neurochemistry",
     "section": "Activity",
-    "text": "Activity\n\nChoose a psychological domain that interests you.\nIn the spirit of (Blumberg & Adolph, 2023), write a short essay (3-5 pp) where you apply a developmental neuroscience perspective to the domain. In doing so, concisely answer the following questions:\n\n\nHow does psychological functioning change over development?\nWhat brain systems are most directly implicated in the phenomenon?\nDoes our current understanding of developmental patterns in these systems provide useful information about the domain?\nWhat information about brain structure or function is needed to understand the phenomenon more thoroughly?"
+    "text": "Activity\n\nStarting with the arrival of the action potential at the terminal button, describe the main steps that lead to the release of neurotransmitter from the presynaptic terminal.\nDescribe how the binding of neurotransmitter onto an ionotropic post-synaptic receptor influences the post-synaptic cell. What is an example of a neurotransmitter that has this effect?\nDescribe how the binding of neurotransmitter onto a metabotropic post-synaptic receptor influences the post-synaptic cell. What is an example of a neurotransmitter that has this sort of effect?\nDescribe at least two ways that neurotransmitters released at a synapse are inactivated, with an example for each.\nDescribe some of the key features and roles of glutamate and GABA in the CNS.\nDescribe at least two features that monoamine neurotransmitter systems have in common.\nIdentify a structure in the CNS that controls the endocrine and neural responses to situations that require behavioral activation or increased activity and arousal. Give an example of how this might work in practice."
   },
   {
-    "objectID": "exercises/ex08-devo.html#submission-details",
-    "href": "exercises/ex08-devo.html#submission-details",
-    "title": "Exercise 08 • Development",
+    "objectID": "exercises/ex05.html#submission-details",
+    "href": "exercises/ex05.html#submission-details",
+    "title": "Exercise 05 • Neurochemistry",
+    "section": "Submission details",
+    "text": "Submission details\n\nSubmit your write-up by Wednesday, February 21, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
+  },
+  {
+    "objectID": "exercises/ex07-evo-devo.html",
+    "href": "exercises/ex07-evo-devo.html",
+    "title": "Exercise 07 • Evolution & Development",
+    "section": "",
+    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
+  },
+  {
+    "objectID": "exercises/ex07-evo-devo.html#goals",
+    "href": "exercises/ex07-evo-devo.html#goals",
+    "title": "Exercise 07 • Evolution & Development",
+    "section": "",
+    "text": "To practice thinking and reasoning critically about how evolutionary perspectives can inform understanding about psychological phenomena."
+  },
+  {
+    "objectID": "exercises/ex07-evo-devo.html#activity",
+    "href": "exercises/ex07-evo-devo.html#activity",
+    "title": "Exercise 07 • Evolution & Development",
+    "section": "Activity",
+    "text": "Activity\nAnswer the following questions in a few short sentences:\n\nWhat feature(s) of the human brain are similar to closely related animals (e.g., mammals and especially primates)?\nWhat feature(s) of the human brain distinguish it from these closely related animals?\nWhy is it especially hard to tie changes in human brain structure to particular human psychological characteristics?\n\nAnswer the following question in a paragraph or two:\n\nConsider a psychological domain that interests you, is an evolutionary perspective useful? Why or why not?"
+  },
+  {
+    "objectID": "exercises/ex07-evo-devo.html#submission-details",
+    "href": "exercises/ex07-evo-devo.html#submission-details",
+    "title": "Exercise 07 • Evolution & Development",
     "section": "Submission details",
     "text": "Submission details\n\nSubmit your write-up by Wednesday, March 13, 2024 at 11:59 pm.\nIf you work with other people, please indicate the name(s) of your co-authors in your document. You need not include them in the document file name, however.\nIf you found any resources that were especially useful to you in answering these questions, please cite them."
   },
   {
-    "objectID": "exercises/exXX.html",
-    "href": "exercises/exXX.html",
-    "title": "Exercise XX • Information processing",
-    "section": "",
-    "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to consider behaviors (e.g., movements, facial expressions, vocalizations), physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.), and mental states (e.g. thoughts, memories, feelings).\nCausal diagrams\nCovariates, external influences"
+    "objectID": "exercises/exXX-causal-modeling.html#activity",
+    "href": "exercises/exXX-causal-modeling.html#activity",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Activity",
+    "text": "Activity\nChoose a psychological phenomenon you know well or care about.\nDraw a diagram that depicts the relationships among the principal causes of or influences on that phenomenon.\nIt may help you to think about the causes or influences as falling into the following categories:\n\nExternal to the person\nPhysical/physiological states outside the nervous system\nNervous system states\n\nIf the phenomenon has characteristic behaviors or mental states, please indicate those, as well.\nYou may also want to depict the flow of information or the direction of causality.\nHere is a cartoon example:"
   },
   {
-    "objectID": "exercises/exXX.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
-    "href": "exercises/exXX.html#choose-a-behavior-or-mental-state-you-want-to-better-understand",
-    "title": "Exercise XX • Information processing",
-    "section": "",
-    "text": "Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.\nWhen thinking about outputs make sure to consider behaviors (e.g., movements, facial expressions, vocalizations), physiological states (e.g., changes in heart rate, hormone concentrations in the blood, etc.), and mental states (e.g. thoughts, memories, feelings).\nCausal diagrams\nCovariates, external influences"
+    "objectID": "exercises/exXX-causal-modeling.html#example-1",
+    "href": "exercises/exXX-causal-modeling.html#example-1",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 1",
+    "text": "Example 1\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  A --&gt; H(Toe bleeds)"
   },
   {
-    "objectID": "policies.html",
-    "href": "policies.html",
-    "title": "Policies & Values",
+    "objectID": "exercises/exXX-causal-modeling.html#example-2",
+    "href": "exercises/exXX-causal-modeling.html#example-2",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 2",
+    "text": "Example 2\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)"
+  },
+  {
+    "objectID": "exercises/exXX-causal-modeling.html#example-3",
+    "href": "exercises/exXX-causal-modeling.html#example-3",
+    "title": "Exercise 04 • Causal modeling",
+    "section": "Example 3",
+    "text": "Example 3\n\n\n\n\n\nflowchart TD\n  A[Stub toe] --&gt; B(Pain receptors in skin)\n  B --&gt; C{Pain processing in brain}\n  C --&gt; D{Activate language center}\n  D --&gt; E(Say ouch)\n  C --&gt; J{Activate motor region}\n  J --&gt; F(Move foot/leg)\n  J --&gt; G(Shift balance)\n  A --&gt; H(Toe bleeds)\n  C --&gt; I{Activate memory of past injury}\n  J --&gt; K(Rub foot)\n  C --&gt; L(Trigger hormone release)\n  F --&gt; K\n  G --&gt; K\n  K --&gt; C\n  K --&gt; B\n  L --&gt; B\n  L --&gt; C\n  L --&gt; D\n  L --&gt; J\n  L --&gt; H"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
     "section": "",
-    "text": "Academic Integrity\nPenn State defines academic integrity as the pursuit of scholarly activity in an open, honest and responsible manner. All students should act with personal integrity, respect others dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts (Faculty Senate Policy 49-20). Sanctions for academic misconduct can include a grade of F for the course as well as other penalties.\nStudents are responsible for maintaining academic integrity. Violations include cheating on exams, talking to others during exams, looking at another student’s test materials or answers during an exam, removing exams from the classroom without consent from the instructor, plagiarizing (do not copy from someone else!), and dishonesty in any aspect of course participation.\nWhen you complete assignments, remember the ABCs to avoid plagiarism: Always place copied information within quotation marks, include information about the quoted or paraphrased source in a Bibliography, and Cite the source in the body (in the text) of your paper immediately after the quoted or paraphrased information. When in doubt, cite in the text and include the source in a bibliography.\n\n\nLate, missed or make-up assignments\n\nExams\nMake-up exams may be permitted under unusual circumstances such as (a) an interview, (b) illness, (c) religious observance, (d) the death of a family member, or (e) any other event recognized by the university as a valid excuse for absence from class.\nIf you must miss class on the day an exam is scheduled, you must do the following:\n\nContact the TA or the instructor by telephone, email, or in person in advance of the exam. Twenty-four hours notice is expected. If you do not contact the TA or instructor in advance, it is possible that you may not be able to schedule a make-up exam.\nArrange with the TA or instructor to take a make-up exam as soon as possible, but no later than one (1) week following the date of the scheduled exam. It is your responsibility, not the TA’s or the instructor’s to schedule an approved make-up exam in a timely way.\n\n\n\nQuizzes\nNo make-up quizzes will be given except under unusual circumstances. You may ask for a copy of the quiz for studying purposes, however.\n\n\nAccommodation for persons with disabilities\nPenn State welcomes students with disabilities into the University’s educational programs. Please refer to the information provided by Student Disability Resources (SDR) at http://equity.psu.edu/student-disability-resources/ for information about the procedures required to obtain reasonable accommodations in this course. Students should discussSDR-approved accommodations with their instructor as early in the semester as possible, even if they have taken another course with the instructor. Please note: students are not required to provide their instructor with information about the nature of their condition.\nPenn State students are also welcome to contact other units for assistance with personal concerns that interfere with academic progress, including: Counseling and Psychological Services (CAPS; http://studentaffairs.psu.edu/counseling/), the Office of Student Affairs (http://studentaffairs.psu.edu/), Career Services (http://studentaffairs.psu.edu/career/), the Center for Women Students (http://studentaffairs.psu.edu/womenscenter/), the LGBTQA Student Resource Center (http://studentaffairs.psu.edu/lgbtqa/), the Office of Sexual Misconduct Prevention and Response (http://titleix.psu.edu/), Penn State Educational Equity (http://equity.psu.edu/), the Multicultural Resource Center (http://equity.psu.edu/mrc), and University Health Services (http://studentaffairs.psu.edu/health/).\n\n\n\nNondiscrimination Statement\nThe Pennsylvania State University is committed to equal access to programs, facilities, admission and employment for all persons. It is the policy of the University to maintain an environment free of harassment and free of discrimination against any person because of age, race, color, ancestry, national origin, religion, creed, service in the uniformed services (as defined in state and federal law), veteran status, sex, sexual orientation, marital or family status, pregnancy, pregnancy-related conditions, physical or mental disability, gender, perceived gender, gender identity, genetic information or political ideas. Discriminatory conduct and harassment, as well as sexual misconduct and relationship violence, violates the dignity of individuals, impedes the realization of the University’s educational mission, and will not be tolerated.\nDirect all inquiries regarding the nondiscrimination policy to:\nDr. Kenneth Lehrman III Vice Provost for Affirmative Action Affirmative Action Office The Pennsylvania State University 328 Boucke Building University Park, PA 16802-5901 Email: kfl2@psu.edu Tel (814) 863-0471\n\n\nDiversity Statement\nThis classroom is a place where you will be treated with respect. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. Penn State is committed to creating an educational environment which is free from intolerance directed toward individuals or groups and strives to create and maintain an environment that fosters respect for others as stated in Policy AD29 Statement on Intolerance.\n\n\nMandated Reporting Statement\nPenn State’s policies require me, as a faculty member, to share information about incidents of sex-based discrimination and harassment (discrimination, harassment, sexual harassment, sexual misconduct, dating violence, domestic violence, stalking, and retaliation) with Penn State’s Title IX coordinator or deputy coordinators, regardless of whether the incidents are stated to me in person or shared by students as part of their coursework. For more information regarding the University’s policies and procedures for responding to reports of sexual or gender-based harassment or misconduct, please visit http://titleix.psu.edu.\nAdditionally, I am required to make a report on any reasonable suspicion of child abuse in accordance with the Pennsylvania Child Protective Services Law."
+    "text": "Source: https://anthelionartschool.com/creativity-and-happiness/"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
+    "section": "Instructor",
+    "text": "Instructor\nRick O. Gilmore, Ph.D. Professor of Psychology 114 Moore Building\n+1 (814) 865-3664 rog1 AT-SYMBOL psu PERIOD edu Schedule an appointment Lab site: https://gilmore-lab.github.io Personal site: https://rick-gilmore.com"
+  },
+  {
+    "objectID": "index.html#meeting-location-and-time",
+    "href": "index.html#meeting-location-and-time",
+    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
+    "section": "Meeting Location and Time",
+    "text": "Meeting Location and Time\n467 Moore Thursdays, 1-3 PM."
+  },
+  {
+    "objectID": "index.html#about-the-course",
+    "href": "index.html#about-the-course",
+    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
+    "section": "About the course",
+    "text": "About the course\nThe first scientific psychologists were physiologists fascinated by the possibility of understanding the mind by studying the brain. In this course, we will explore the historical roots and contemporary challenges associated with the study of biological approaches to complex adaptive behavior. In doing so, we will read and examine critically primary source readings that discuss basic patterns and processes of brain structure and function. The goal is to provide students with a basic foundation of knowledge about the structures and functions of the nervous system that can provide the basis for future study.\nThis course is one of two required courses for the Specialization in Cognitive and Affective Neuroscience (SCAN)."
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Foundations of Social, Cognitive, and Affective Neuroscience (SCAN)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nUndergraduate coursework in neuroscience or physiological psychology such as the equivalents of PSYCH 260 or BIO 469/470."
+  },
+  {
+    "objectID": "resources/action.html",
+    "href": "resources/action.html",
+    "title": "Action",
+    "section": "",
+    "text": "flowchart TD\nW(((World)))--&gt;B((Body))\nB--&gt;N{Nervous System}\nN--&gt;B\nB--&gt;W\n\n\n A System of Systems \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))--&gt;B((Body))\nB--&gt;B\nB--&gt;|Perception|N{Nervous System}\nN--&gt;B\nN--&gt;N\nB--&gt;W\nW--&gt;W\n\n\n With memory/momentum/inertia \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))--&gt;|Light|B((Body))\nW---&gt;|Sound|B\nW---&gt;|Vibration|B\nW---&gt;|Odor/Taste|B\nB--&gt;B\nB--&gt;|Interoception|N{Nervous System}\nB--&gt;|Exteroception|N\nN--&gt;B\nN--&gt;N\nB--&gt;W\nW--&gt;W\n\n\n Multiple input streams \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))-.-&gt;B((Body))\nB-.-&gt;N{Nervous System}\nN==&gt;B\nB==&gt;W\n\n\n Highlighting the output stream \n\n\n\n\n\n\n\nWhat types of outputs are there?\n\nBody to world?\nNervous system to body?\n\nHow are they produced?\n\nBy the muscles, glands\nBy the nervous system\n\n\n\n\n\nMovements\nVocalizations, facial expressions, gestures\nSecretions\n\n\n\n\n\nMuscle commands\nAutonomic responses\nEndocrine responses\n\n\n\n\n\n\n\n\nhttps://medlineplus.gov/ency/images/ency/fullsize/17234.jpg\n\n\n\nReflexes\n\nSimple, highly stereotyped, unlearned, rapid, acquired early\n\nvs. planned or voluntary actions\n\nComplex, flexible, acquired, slower\n\nDiscrete (reaching) vs. rhythmic (walking)\nBallistic (no feedback) vs. controlled (feedback)"
+  },
+  {
+    "objectID": "resources/action.html#big-picture",
+    "href": "resources/action.html#big-picture",
+    "title": "Action",
+    "section": "",
+    "text": "flowchart TD\nW(((World)))--&gt;B((Body))\nB--&gt;N{Nervous System}\nN--&gt;B\nB--&gt;W\n\n\n A System of Systems \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))--&gt;B((Body))\nB--&gt;B\nB--&gt;|Perception|N{Nervous System}\nN--&gt;B\nN--&gt;N\nB--&gt;W\nW--&gt;W\n\n\n With memory/momentum/inertia \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))--&gt;|Light|B((Body))\nW---&gt;|Sound|B\nW---&gt;|Vibration|B\nW---&gt;|Odor/Taste|B\nB--&gt;B\nB--&gt;|Interoception|N{Nervous System}\nB--&gt;|Exteroception|N\nN--&gt;B\nN--&gt;N\nB--&gt;W\nW--&gt;W\n\n\n Multiple input streams \n\n\n\n\n\n\n\n\nflowchart TD\nW(((World)))-.-&gt;B((Body))\nB-.-&gt;N{Nervous System}\nN==&gt;B\nB==&gt;W\n\n\n Highlighting the output stream \n\n\n\n\n\n\n\nWhat types of outputs are there?\n\nBody to world?\nNervous system to body?\n\nHow are they produced?\n\nBy the muscles, glands\nBy the nervous system\n\n\n\n\n\nMovements\nVocalizations, facial expressions, gestures\nSecretions\n\n\n\n\n\nMuscle commands\nAutonomic responses\nEndocrine responses\n\n\n\n\n\n\n\n\nhttps://medlineplus.gov/ency/images/ency/fullsize/17234.jpg\n\n\n\nReflexes\n\nSimple, highly stereotyped, unlearned, rapid, acquired early\n\nvs. planned or voluntary actions\n\nComplex, flexible, acquired, slower\n\nDiscrete (reaching) vs. rhythmic (walking)\nBallistic (no feedback) vs. controlled (feedback)"
+  },
+  {
+    "objectID": "resources/action.html#key-nodes",
+    "href": "resources/action.html#key-nodes",
+    "title": "Action",
+    "section": "Key ‘nodes’",
+    "text": "Key ‘nodes’\n\nknitr::include_graphics(\"../include/img/motor-controllers-biopsych.jpg\")\n\n\n\n\n\n\n\n\n\nPrimary motor cortex (M-I)\nNon-primary motor cortex\nBasal ganglia\nBrain stem\nCerebellum\nSpinal cord"
+  },
+  {
+    "objectID": "resources/action.html#projection-pathways",
+    "href": "resources/action.html#projection-pathways",
+    "title": "Action",
+    "section": "Projection pathways",
+    "text": "Projection pathways\n\nPyramidal tracts\n\nPyramidal cells (Cerebral Cortex Layer 5) in primary motor cortex (M1)\nCorticobulbar (cortex -&gt; brainstem) tract\nCorticospinal (cortex -&gt; spinal cord) tract\n\nCrossover (decussate) in medulla\n\nL side of brain ennervates R side of body\n\n\n\nknitr::include_graphics(\"../include/img/gray-corticospinal-tract.png\")\n\n\n\n\nhttps://commons.wikimedia.org/wiki/File:Gray764.png#/media/File:Gray764.png\n\n\n\n\n\nknitr::include_graphics(\"https://upload.wikimedia.org/wikipedia/commons/b/be/Gray672.png\")\n\n\n\n\nSource: Wikipedia\n\n\n\n\n\nExtrapyramidal system\n\nTectospinal tract\nVestibulospinal tract\nReticulospinal tract\n\nInvoluntary movements\n\nPosture, balance, arousal"
+  },
+  {
+    "objectID": "resources/action.html#direct-cortical-control",
+    "href": "resources/action.html#direct-cortical-control",
+    "title": "Action",
+    "section": "Direct cortical control",
+    "text": "Direct cortical control\n\nin humans; prevalence uncertain in other animals\nFor individuated (“fractionated”) movements of fingers, toes, lips, but other muscles, too.\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-070815-013913/20160711/images/large/ne390081.f1.jpeg\")\n\n\n\n\n(Nielsen, 2016)\n\n\n\n\n\nFigure 1. Evidence of corticomotoneuronal connections in human subjects. Indirect, noninvasive evidence of the existence of monosynaptic connections between corticospinal neurons and spinal motoneurons may be obtained in awake human subjects by transcranial magnetic stimulation (TMS) (b,c) and coherence analysis of either cortical [electroencephalogram (EEG)] and muscular activity [electromyogram (EMG)] (d,e) or two separate recordings of muscular activity (f). (b,c) Corticospinal neurons can be excited by a brief magnetic pulse applied by a magnetic coil placed over the appropriate part of the motor cortex in awake human subjects. If the intensity of the magnetic pulse is adjusted appropriately, the evoked descending volley in the corticospinal tract may elicit a subthreshold excitatory postsynaptic potential (EPSP) in the relevant spinal motoneurons. This EPSP may be demonstrated as a change in the discharge probability of a single motor unit recorded from the muscle (b). In the illustrated example, the subject was asked to voluntarily activate the tibialis anterior (TA) muscle, and the discharges of a single motor unit were recorded by a needle electrode inserted into the muscle. TMS elicited a short-lasting (2-ms) increase of discharge probability at a latency of 45 ms (b). The short duration of this peak is consistent with the short rise time of a monosynaptic EPSP. This interpretation is further supported by the observation that stimulation of Ia afferents with known monosynaptic connections to the motoneurons elicits a peak with a similar short duration (c). Data in panels b and c modified with permission from Nielsen & Petersen (1994). (d,e) EEG recorded from the motor cortex and EMG recorded from a voluntarily activated muscle (TA in the illustrated example) show rhythmic modulation of the recorded activity at a frequency of 15–35 Hz. As shown from a coherence analysis of the two signals in panel d, some of this activity is common for the two sites, suggesting a close link between cortical and muscular activity. Panel e shows the EEG and EMG activities are not always synchronous but may show a time lag, which is in the range expected for a fast-conducting direct pathway to the motoneurons. Data in panels d and e modified with permission from Hansen et al. (2002). (f) A monosynaptic origin of corticomuscular coherence is further supported by the observation of short-term synchrony between the discharges of pairs of TA motor units, which may be related to the coherence in the 15–35-Hz frequency band. The subject was asked to voluntarily activate the TA muscle, and the discharges of two different TA motor units were recorded with needle electrodes. The short duration of the central peak of synchronization suggests that the motor unit activities are modulated by a common (monosynaptic) input from collaterals of last-order neurons, which are in all likelihood identical to corticomotoneuronal cells. The secondary peaks at lags of approximately 50–60 ms on either side of the central peak suggest that this last-order input modulates the discharge of the motor units at a frequency of about 20–30 Hz, i.e., corresponding to the coherence observed in the paired EEG-EMG recordings in panels b and c. Data in panel f modified with permission from Nielsen & Kagamihara (1994).\n(Nielsen, 2016)"
+  },
+  {
+    "objectID": "resources/action.html#functional-classes",
+    "href": "resources/action.html#functional-classes",
+    "title": "Action",
+    "section": "Functional classes",
+    "text": "Functional classes\n\nAxial\n\nTrunk, neck, hips\n\nProximal\n\nShoulder/elbow, pelvis/knee\n\nDistal\n\nHands/fingers, feet/toes\n\n\n\nknitr::include_graphics(\"https://www.frontiersin.org/files/Articles/476718/fneur-10-00951-HTML/image_m/fneur-10-00951-g001.jpg\")\n\n\n\n\n(Cantú, Nantel, Millán, Paquette, & Côté, 2019)\n\n\n\n\n\nAgonist/antagonist pairs\n\nknitr::include_graphics(\"http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg\")"
+  },
+  {
+    "objectID": "resources/action.html#anatomical-types",
+    "href": "resources/action.html#anatomical-types",
+    "title": "Action",
+    "section": "Anatomical types",
+    "text": "Anatomical types\n\nknitr::include_graphics(\"http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg\")\n\n\n\n\n\n\n\n\n\nCardiac\nStriated (striped)\n\nSkeletal\nVoluntary control, mostly connected to tendons and bones\n\nSmooth\n\nArteries, hair follicles, uterus, intestines\nRegulated by ANS (involuntary)"
+  },
+  {
+    "objectID": "resources/action.html#how-skeletal-muscles-contract",
+    "href": "resources/action.html#how-skeletal-muscles-contract",
+    "title": "Action",
+    "section": "How skeletal muscles contract",
+    "text": "How skeletal muscles contract\n\nMotoneurons (somata in ventral horn of spinal cord)\nProject to muscle fiber\nNeuromuscular junction\n\nSynapse between motor neuron and muscle fiber\nReleases ACh\n\n\n\nknitr::include_graphics(\"../include/img/from-spinal-cord-to-muscle.jpg\")\n\n\n\n\n\n\n\n\n\nMotor endplate\n\nContains nicotinic ACh receptors\n\nActivation produces excitatory endplate potential\n\nMuscle fibers depolarize\nDepolarization spreads along fibers like an action potential\nCa++ released from intramuscular stores\n\n\n\nknitr::include_graphics(\"http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg\")\n\n\n\n\n\n\n\n\n\nMuscle fibers contain bundles of myofibrils called sarcomeres\nMyofibrils\n\nContain actin & mysosin proteins\n“Molecular gears”\n\nBind, move, unbind in presence of Ca++, adenosine triphosphate (ATP)\n\n\nknitr::include_graphics(\"../include/img/muscle-fibers-biopsych.jpg\")\n\n\n\n\n\n\n\n\n\nknitr::include_graphics(\"../include/img/motor-endplate-nt-release.jpg\")\n\n\n\n\n\n\n\n\n\n\n\nSkeletal muscle fiber types\n\nknitr::include_graphics(\"../include/img/turkey.jpg\")\n\n\n\n\n\n\n\n\n\nFast twitch/fatiguing\n\nType II\nWhite meat\n\nSlow twitch/fatiguing\n\nType I\nRed meat"
+  },
+  {
+    "objectID": "resources/action.html#muscles-as-sensory-organs",
+    "href": "resources/action.html#muscles-as-sensory-organs",
+    "title": "Action",
+    "section": "Muscles as sensory organs",
+    "text": "Muscles as sensory organs\n\n\nknitr::include_graphics(\"http://cdn.xl.thumbs.canstockphoto.com/canstock6466988.jpg\")\n\n\n\n\n\n\n\n\n\nTwo fiber types\n\n\n\n\nIntrafusal fibers\n\nSense muscle length and change in length, e.g. “stretch”\nAlso called muscle spindles\nProvide muscle proprioception (perception about the self, a form of interoception)\nEnnervated by by primary Ia afferents (sensory output from muscle); also secondary Type II fibers\nEnnervated by gamma (\\(\\gamma\\)) motor neurons (motor input)\n\nExtrafusal fibers\n\nGenerate force\nennervated by alpha (\\(\\alpha\\)) motor neurons\n\n\n\n\nMonosynaptic stretch (myotatic) reflex\n\nMuscle stretched (length increases)\nMuscle spindle in intrafusal fiber activates\nIa afferent sends signal to spinal cord\n\nActivates alpha (\\(\\alpha\\)) motor neuron\n\nMuscle contracts, shortens length\n\n\nknitr::include_graphics(\"https://upload.wikimedia.org/wikipedia/commons/c/cd/Fusimotor_action.jpg\")\n\n\n\n\nhttps://commons.wikimedia.org/wiki/File:Fusimotor_action.jpg#/media/File:Fusimotor_action.jpg\n\n\n\n\n\nGamma (\\(\\gamma\\)) motor neuron fires to take up ‘slack’ in intrafusal fiber\n\n\nknitr::include_graphics(\"../include/img/intrafusal-extrafusal-fibers.jpg\")\n\n\n\n\n\n\n\n\n\n\n\n\n\nknitr::include_graphics(\"../include/img/stretch-reflex.jpg\")\n\n\n\n\n\n\n\n\nWhy doesn’t antagonist muscle respond?\n\nPolysynaptic inhibition of antagonist muscle\nPrevents/dampens tremor\n\nSpeed of sensory information propagation\n\nBrain gets fast(est) propagating sensory info from spindles\n\n\nknitr::include_graphics(\"../include/img/axon-size-speed-tradeoff.jpg\")"
+  },
+  {
+    "objectID": "resources/action.html#what-does-motor-cortex-code",
+    "href": "resources/action.html#what-does-motor-cortex-code",
+    "title": "Action",
+    "section": "What does motor cortex “code”?",
+    "text": "What does motor cortex “code”?"
+  },
+  {
+    "objectID": "resources/action.html#the-faces-of-parkinsons",
+    "href": "resources/action.html#the-faces-of-parkinsons",
+    "title": "Action",
+    "section": "The Faces of Parkinson’s",
+    "text": "The Faces of Parkinson’s\n\n\n\nSlow, absent movement, resting tremor\nCognitive deficits, depression\nDA Neurons in substantia nigra degenerate\nTreatments\n\nDA agonists\nDA agonists linked to impulse control disorders in ~1/7 patients (Ramirez-Zamora, Gee, Boyd, & Biller, 2016)\nLevodopa (L-Dopa), DA precursor\n\n\n\nknitr::include_graphics(\"https://upload.wikimedia.org/wikipedia/en/2/2b/Awakenings.jpg\")"
+  },
+  {
+    "objectID": "resources/action.html#huntingtons",
+    "href": "resources/action.html#huntingtons",
+    "title": "Action",
+    "section": "Huntington’s",
+    "text": "Huntington’s\n\n\nknitr::include_graphics(\"http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg\")\n\n\n\n\n\n\n\n\n\nFormerly Huntington’s Chorea\n\n“Chorea” from Greek for “dance”\n“Dance-like” pattern of involuntary movements\n\nCognitive decline\nGenetic + environmental influences\nDisturbance in striatum\nNo effective treatment\nBut progress in an animal model targeting abnormal protein products (Li et al., 2019)\n\n\n\n\nClinical trial focused on gene therapy\n\nknitr::include_graphics(\"../include/img/huntingtons-trial.png\")\n\n\n\n\nhttps://clinicaltrials.gov/ct2/show/study/NCT03761849"
+  },
+  {
+    "objectID": "resources/action.html#the-real-reason-for-brains",
+    "href": "resources/action.html#the-real-reason-for-brains",
+    "title": "Action",
+    "section": "The “real” reason for brains",
+    "text": "The “real” reason for brains"
+  },
+  {
+    "objectID": "resources/action.html#what-does-motor-cortex-activity-encode",
+    "href": "resources/action.html#what-does-motor-cortex-activity-encode",
+    "title": "Action",
+    "section": "What does motor cortex activity encode?",
+    "text": "What does motor cortex activity encode?\n\nMuscle contractions?\nMovement trajectories?\nRepresentational vs. dynamical systems views\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2013/neuro.2013.36.issue-1/annurev-neuro-062111-150509/20130626/images/large/ne360337.f1.jpeg\")\n\n\n\n\n(Shenoy, Sahani, & Churchland, 2013)\n\n\n\n\n\nFigure 1. Schematic illustrating the focus of the representational perspective and of the dynamical systems perspective. The traditional perspective has concentrated on the representation or code employed by the motor cortex. For example, does the motor cortex (upper left panel) code muscle activity (red trace) or reach velocity (black trace)? Thus, the traditional perspective attempts to determine the output or controlled parameters of the motor cortex. The dynamical systems perspective focuses less on the output itself and more on how that output is created (upper right panel). It attempts to isolate the basic patterns (blue) from which the final output might be built. It further attempts to understand the dynamics that produced that set of patterns and the role of preparatory activity in creating the right set of patterns for a particular movement. The red trace indicates the activity of the deltoid versus time during a rightward reach (e.g., Churchland et al. 2012). The black trace is the hand velocity for that same reach; the black trace between the beginning and ending reach targets is the hand path. The light and dark blue traces (upper right) illustrate a potential dynamical basis set from which the red trace might be built.\n(Shenoy et al., 2013)\n\n\nknitr::include_graphics(\"https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2013/neuro.2013.36.issue-1/annurev-neuro-062111-150509/20130626/images/large/ne360337.f2.jpeg\")\n\n\n\n\n(Shenoy et al., 2013)\n\n\n\n\n\nFigure 2. Overview of experimental paradigm, behavioral measurements, muscle measurements, and neural measurements. (a) Illustration of the instructed-delay task. Monkeys sit in a primate chair ∼25 cm from a fronto-parallel display. A trial begins by fixating (eye) and touching (hand) a central target (red filled square) and holding for a few hundred milliseconds. A peripheral target (red open square) then appears, cuing the animal about where a movement must ultimately be made. After a randomized delay period (e.g., 0–1 s) a go cue is given (e.g., extinction of central fixation and touch targets) signaling that an arm movement to the peripheral target may begin. (b) Sample hand measurements and electromyographic (EMG) recordings for the same trial as in panel a. Top: Horizontal hand (black) and target (red) positions are plotted. For this experiment, the target jittered on first appearing and stabilized at the go cue. Bottom: Hand velocity superimposed on the voltage recorded from the medial deltoid. (c) Sample reach trajectories and end points in a center-out two-instructed-speed version of the instructed-delay task. Red and green traces/symbols correspond to instructed-fast and instructed-slow conditions. (d) Mean reaction time (RT) plotted versus delay-period duration. The line shows an exponential fit. (e) Examples of typical delay-period firing-rate responses in PMd. Mean ± Standard Error firing rates for four sample neurons are shown. Figure adapted from Churchland et al. (2006c).\n(Shenoy et al., 2013)\n\n\nDynamical systems and state spaces\n\nMovement of the limbs and body\nActivity of the muscles\nActivity of neurons in the spinal cord\nActivity of neurons in the brain…\n\n\nknitr::include_graphics(\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Typical_State_Space_model.svg/944px-Typical_State_Space_model.svg.png\")\n\n\n\n\nhttps://en.wikipedia.org/wiki/State-space_representation"
+  },
+  {
+    "objectID": "resources/action.html#what-does-the-cerebellum-do",
+    "href": "resources/action.html#what-does-the-cerebellum-do",
+    "title": "Action",
+    "section": "What does the cerebellum do?",
+    "text": "What does the cerebellum do?\n\nPredict future sensory states? (Ito, 2008)"
+  },
+  {
+    "objectID": "resources/action.html#systems-perspective",
+    "href": "resources/action.html#systems-perspective",
+    "title": "Action",
+    "section": "Systems perspective",
+    "text": "Systems perspective\n\nCognitive/affective states\nNervous system states\nMuscle states\nActions\nConsequences of actions on world states\nSensory states\n\n\nknitr::include_graphics(\"../include/img/powers-5.2.png\")\n\n\n\n\n(Powers, 1973)\n\n\n\n\n\nknitr::include_graphics(\"../include/img/powers-5.1.png\")\n\n\n\n\n(Powers, 1973)\n\n\n\n\n\nknitr::include_graphics(\"../include/img/powers-6.1.png\")\n\n\n\n\n(Powers, 1973)\n\n\n\n\n\nknitr::include_graphics(\"../include/img/something-in-the-way-we-move.jpg\")\n\n\n\n\nhttps://www.nytimes.com/2019/10/23/well/move/something-in-the-way-we-move.html\n\n\n\n\n\nknitr::include_graphics(\"https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-018-0312-0/MediaObjects/41593_2018_312_Fig2_HTML.png?as=webp\")\n\n\n\n\n(Shine et al., 2019)\n\n\n\n\n\nFig. 2: The low-dimensional signature across cognitive tasks. a, The procedure used to partition tPC1 into unique phases: low (blue), rise (red), high (orange), and fall (light blue). b, Scatter plot comparing the loading of tPC1 (colored according to the partition defined in a) with a temporal stability measure (defined by the similarity of the BOLD response at adjacent time points); we observed a significant positive Pearson’s correlation (r=0.58) between |tPC1| and temporal stability (n=1,939 time points), providing heuristic evidence for attractor basins at the extremes of tPC1 engagement. c, A three-dimensional scatter plot comparing the first three tPCs; each node represents one time point (colored according to the phase of tPC1), with time implicitly unfolding across the embedding space (contiguous points connected by black line). d, The low-dimensional manifold traversed by the global brain state across the first three dimensions, with arrows depicting the direction of flow along the manifold. (Shine et al., 2019)"
   },
   {
     "objectID": "resources/cells.html",
@@ -1818,5 +1930,40 @@
     "title": "Action",
     "section": "References",
     "text": "References\n\n\n\nPSY 511 Spr 2024"
+  },
+  {
+    "objectID": "resources/action.html#motor-system-anatomy",
+    "href": "resources/action.html#motor-system-anatomy",
+    "title": "Action",
+    "section": "Motor system anatomy",
+    "text": "Motor system anatomy\n\nKey ‘nodes’\n\n\n\nBiological Psychology 4th ed\n\n\n\nPrimary motor cortex (M-I)\nNon-primary motor cortex\nBasal ganglia\nBrain stem\nCerebellum\nSpinal cord\n\n\n\nProjection pathways\n\nPyramidal tracts\n\nPyramidal cells (Cerebral Cortex Layer 5) in primary motor cortex (M1)\nCorticobulbar (cortex -&gt; brainstem) tract\nCorticospinal (cortex -&gt; spinal cord) tract\nCrossover (decussate) in medulla\n\nL side of brain ennervates R side of body\n\n\n\n\n\nSource: Wikipedia\n\n\n\n\n\n\n\n\nNote\n\n\n\n\nAnatomically separate ascending (afferent) and descending (efferent) pathways in the spinal cord.\nAscending (generally) more dorsal; descending more ventral.\nWhite matter on exterior (unlike cerebral cortex).\n\n\n\n\n\n\nSource: Wikipedia\n\n\n\n\nExtrapyramidal system\n\nTectospinal tract\nLateral Vestibulospinal tract\nReticulospinal tract\nRubrospinal tract\nInvoluntary movements\n\nPosture, balance, arousal\n\n\n\n\n\nDirect cortical control\n\nOver some motor neurons.\nIn humans; prevalence uncertain in other animals\nFor individuated (“fractionated”) movements of fingers, toes, lips, but other muscles, too.\n\n\n\n\n(Nielsen, 2016). Figure 1. Evidence of corticomotoneuronal connections in human subjects. Indirect, noninvasive evidence of the existence of monosynaptic connections between corticospinal neurons and spinal motoneurons may be obtained in awake human subjects by transcranial magnetic stimulation (TMS) (b,c) and coherence analysis of either cortical [electroencephalogram (EEG)] and muscular activity [electromyogram (EMG)] (d,e) or two separate recordings of muscular activity (f). (b,c) Corticospinal neurons can be excited by a brief magnetic pulse applied by a magnetic coil placed over the appropriate part of the motor cortex in awake human subjects. If the intensity of the magnetic pulse is adjusted appropriately, the evoked descending volley in the corticospinal tract may elicit a subthreshold excitatory postsynaptic potential (EPSP) in the relevant spinal motoneurons. This EPSP may be demonstrated as a change in the discharge probability of a single motor unit recorded from the muscle (b). In the illustrated example, the subject was asked to voluntarily activate the tibialis anterior (TA) muscle, and the discharges of a single motor unit were recorded by a needle electrode inserted into the muscle. TMS elicited a short-lasting (2-ms) increase of discharge probability at a latency of 45 ms (b). The short duration of this peak is consistent with the short rise time of a monosynaptic EPSP. This interpretation is further supported by the observation that stimulation of Ia afferents with known monosynaptic connections to the motoneurons elicits a peak with a similar short duration (c). Data in panels b and c modified with permission from Nielsen & Petersen (1994). (d,e) EEG recorded from the motor cortex and EMG recorded from a voluntarily activated muscle (TA in the illustrated example) show rhythmic modulation of the recorded activity at a frequency of 15–35 Hz. As shown from a coherence analysis of the two signals in panel d, some of this activity is common for the two sites, suggesting a close link between cortical and muscular activity. Panel e shows the EEG and EMG activities are not always synchronous but may show a time lag, which is in the range expected for a fast-conducting direct pathway to the motoneurons. Data in panels d and e modified with permission from Hansen et al. (2002). (f) A monosynaptic origin of corticomuscular coherence is further supported by the observation of short-term synchrony between the discharges of pairs of TA motor units, which may be related to the coherence in the 15–35-Hz frequency band. The subject was asked to voluntarily activate the TA muscle, and the discharges of two different TA motor units were recorded with needle electrodes. The short duration of the central peak of synchronization suggests that the motor unit activities are modulated by a common (monosynaptic) input from collaterals of last-order neurons, which are in all likelihood identical to corticomotoneuronal cells. The secondary peaks at lags of approximately 50–60 ms on either side of the central peak suggest that this last-order input modulates the discharge of the motor units at a frequency of about 20–30 Hz, i.e., corresponding to the coherence observed in the paired EEG-EMG recordings in panels b and c. Data in panel f modified with permission from Nielsen & Kagamihara (1994)."
+  },
+  {
+    "objectID": "resources/action.html#muscles",
+    "href": "resources/action.html#muscles",
+    "title": "Action",
+    "section": "Muscles",
+    "text": "Muscles\n\nGenerate forces\nIn one direction\n\n\nFunctional classes\n\nAxial\n\nTrunk, neck, hips\n\nProximal\n\nShoulder/elbow, pelvis/knee\n\nDistal\n\nHands/fingers, feet/toes\n\n\n\n\n\n(Cantú, Nantel, Millán, Paquette, & Côté, 2019)\n\n\n\n\nAgonist/antagonist pairs\n\n\n\n\n\n\n\nAnatomical types\n\n\n\n\n\n\nCardiac\nStriated (striped)\n\nSkeletal muscles\nVoluntary control, mostly connected to tendons and bones\n\nSmooth\n\nArteries, hair follicles, uterus, intestines\nRegulated by ANS (involuntary)\n\n\n\n\nHow skeletal muscles contract\n\nMotor neurons (cell bodies located in ventral horn of spinal cord)\nProject to muscle fiber\nForm neuromuscular junction\n\nSynapse between motor neuron and muscle fiber\nRelease acetylcholine (ACh)\n\n\n\n\n\nBiological Psychology 4th ed.\n\n\n\nMotor endplate\n\nContains nicotinic ACh receptors\n\nActivation produces excitatory endplate potential\n\nMuscle fibers depolarize\nDepolarization spreads along fibers like an action potential\nCa++ released from intramuscular stores\n\n\n\n\nMyofibrils\n\nContain actin & mysosin proteins\n“Molecular gears”\n\nMuscle fibers contain bundles of myofibrils called sarcomeres\n\nBind, move, unbind in presence of Ca++, adenosine triphosphate (ATP)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkeletal muscle fiber types\n\n\n\n\n\n\nFast twitch/fatiguing\n\nType II\nWhite meat\n\nSlow twitch/fatiguing\n\nType I\nRed meat\n\n\n\n\nMuscles as sensory organs\n\n\n\n\n\n\nTwo skeletal muscle fiber types\n\n\n\n\n\n\nIntrafusal fibers\n\nSense muscle length and change in length, e.g. “stretch”\nAlso called muscle spindles\nProvide muscle proprioception (perception about the self, a form of interoception)\nSensory function\n\nEnnervated by by primary Ia afferents (sensory output from muscle)\nSecondary Type II fibers\n\nMotor function\n\nEnnervated by gamma (\\(\\gamma\\)) motor neurons (motor input)\n\n\n\n\nExtrafusal fibers\n\nGenerate force\nennervated by alpha (\\(\\alpha\\)) motor neurons\nNo “sensory” role, except for efference copy\n\n“Copies” of motor output sent to other brain areas\n\n\n\n\n\n\n\nflowchart TD\nN{Nervous System} ==&gt;|Motor neurons|B(Muscle fibers)\nN ==&gt;|Efference Copy|N\nB ==&gt;|Ia spindle afferents|N\n\n\n Highlighting the output stream \n\n\n\n\n\n\n\n\n\nNote\n\n\n\nHow does the motor system “learn” the sensory consequences of muscle fiber contraction? Could spontaneous “twitches” be involved (Blumberg & Adolph, 2023)?\nThat is, higher levels of the nervous system learn the relationship between motor neuron output and spindle feedback.\n\n\n\n\n\n\nMonosynaptic stretch (myotatic) reflex\n\nMuscle stretched (length increases)\nMuscle spindle in intrafusal fiber activates\nIa afferent sends signal to spinal cord\n\nActivates alpha (\\(\\alpha\\)) motor neuron\n\nMuscle contracts, shortens length\n\n\n\n\nSource: Wikipedia\n\n\n\nGamma (\\(\\gamma\\)) motor neuron fires to take up ‘slack’ in intrafusal fiber\n\n\n\n\n\n\n\n\nNote\n\n\n\nThis is a bit like the role of a belayer in rock climbing.\n\n\n\n\n\nWhy doesn’t antagonist muscle respond?**\n\nPolysynaptic inhibition of antagonist muscle\nPrevents/dampens tremor\n\n\n\nSpeed of sensory information propagation**\n\nBrain gets fast(est) propagating sensory info from spindles"
+  },
+  {
+    "objectID": "resources/action.html#disorders-of-movement",
+    "href": "resources/action.html#disorders-of-movement",
+    "title": "Action",
+    "section": "Disorders of movement",
+    "text": "Disorders of movement\n\nParkinson’s Disease\n\n\n\nSlow, absent movement, resting tremor\nCognitive deficits, depression\nDA Neurons in substantia nigra degenerate\nTreatments\n\nDA agonists\nDA agonists linked to impulse control disorders in ~1/7 patients (Ramirez-Zamora, Gee, Boyd, & Biller, 2016)\nLevodopa (L-Dopa), DA precursor\n\n\n\n\n\nAwakenings\n\n\n\n\nHuntington’s Disease\n\n\n\nWoody Guthrie\n\n\n\nFormerly Huntington’s Chorea\n\n“Chorea” from Greek for “dance”\n“Dance-like” pattern of involuntary movements\n\nCognitive decline\nGenetic + environmental influences\nDisturbance in striatum\n\n\n\n\nProspects\n\nNo effective treatment\nBut progress in an animal model targeting abnormal protein products (Li et al., 2019)\nClinical trial focused on gene therapy\n\n - Ended in 2021 due to safety concerns. - (Andrew2023-pq?)."
+  },
+  {
+    "objectID": "resources/action.html#huntingtons-disease",
+    "href": "resources/action.html#huntingtons-disease",
+    "title": "Action",
+    "section": "Huntington’s Disease",
+    "text": "Huntington’s Disease\n\n\n\nWoody Guthrie\n\n\n\nFormerly Huntington’s Chorea\n\n“Chorea” from Greek for “dance”\n“Dance-like” pattern of involuntary movements\n\nCognitive decline\nGenetic + environmental influences\nDisturbance in striatum\n\n\n\n\nProspects\n\nNo effective treatment\nBut progress in an animal model targeting abnormal protein products (Li et al., 2019)\nClinical trial focused on gene therapy\n\n\nknitr::include_graphics(\"../include/img/huntingtons-trial.png\")\n\n\n\n\nhttps://clinicaltrials.gov/ct2/show/study/NCT03761849"
+  },
+  {
+    "objectID": "resources/action.html#summing-up",
+    "href": "resources/action.html#summing-up",
+    "title": "Action",
+    "section": "Summing up",
+    "text": "Summing up\n\nControl of movement determined by multiple sources\nCerebral cortex + basal ganglia + cerebellum + spinal circuits\n\n\n\n\n\nMovement: The “real” reason for brains?\n\n\n\n\nWhat does motor cortex activity encode?\n\nMuscle contractions?\nMovement trajectories?\nRepresentational vs. dynamical systems views\n\n\n\n\n(Shenoy, Sahani, & Churchland, 2013). Figure 1. Schematic illustrating the focus of the representational perspective and of the dynamical systems perspective. The traditional perspective has concentrated on the representation or code employed by the motor cortex. For example, does the motor cortex (upper left panel) code muscle activity (red trace) or reach velocity (black trace)? Thus, the traditional perspective attempts to determine the output or controlled parameters of the motor cortex. The dynamical systems perspective focuses less on the output itself and more on how that output is created (upper right panel). It attempts to isolate the basic patterns (blue) from which the final output might be built. It further attempts to understand the dynamics that produced that set of patterns and the role of preparatory activity in creating the right set of patterns for a particular movement. The red trace indicates the activity of the deltoid versus time during a rightward reach (e.g., Churchland et al. 2012). The black trace is the hand velocity for that same reach; the black trace between the beginning and ending reach targets is the hand path. The light and dark blue traces (upper right) illustrate a potential dynamical basis set from which the red trace might be built.\n\n\n\n\n\n(Shenoy et al., 2013). Figure 2. Overview of experimental paradigm, behavioral measurements, muscle measurements, and neural measurements. (a) Illustration of the instructed-delay task. Monkeys sit in a primate chair ∼25 cm from a fronto-parallel display. A trial begins by fixating (eye) and touching (hand) a central target (red filled square) and holding for a few hundred milliseconds. A peripheral target (red open square) then appears, cuing the animal about where a movement must ultimately be made. After a randomized delay period (e.g., 0–1 s) a go cue is given (e.g., extinction of central fixation and touch targets) signaling that an arm movement to the peripheral target may begin. (b) Sample hand measurements and electromyographic (EMG) recordings for the same trial as in panel a. Top: Horizontal hand (black) and target (red) positions are plotted. For this experiment, the target jittered on first appearing and stabilized at the go cue. Bottom: Hand velocity superimposed on the voltage recorded from the medial deltoid. (c) Sample reach trajectories and end points in a center-out two-instructed-speed version of the instructed-delay task. Red and green traces/symbols correspond to instructed-fast and instructed-slow conditions. (d) Mean reaction time (RT) plotted versus delay-period duration. The line shows an exponential fit. (e) Examples of typical delay-period firing-rate responses in PMd. Mean ± Standard Error firing rates for four sample neurons are shown. Figure adapted from Churchland et al. (2006c).\n\n\n\n\nDynamical systems and state spaces\n\nMovement of the limbs and body\nActivity of the muscles\nActivity of neurons in the spinal cord\nActivity of neurons in the brain…\n\n\n\n\nWikipedia\n\n\n\n\nWhat does the cerebellum do?\n\nPredict future sensory states? (Ito, 2008)\n\n\n\n\n\nSystems perspective\n\nCognitive/affective states\nNervous system states\nMuscle states\nActions\nConsequences of actions on world states\nSensory states\n\n\n\n\n(Figure 5.2 from Powers, 1973)\n\n\n\n\n\n(Figure 5.1 from Powers, 1973)\n\n\n\n\n\n(Figure 6.1 from Powers, 1973)\n\n\n{fig-align:“center”}\n\n\n\n(Figure 2 from Shine et al., 2019). Fig. 2: The low-dimensional signature across cognitive tasks. a, The procedure used to partition tPC1 into unique phases: low (blue), rise (red), high (orange), and fall (light blue). b, Scatter plot comparing the loading of tPC1 (colored according to the partition defined in a) with a temporal stability measure (defined by the similarity of the BOLD response at adjacent time points); we observed a significant positive Pearson’s correlation (r=0.58) between |tPC1| and temporal stability (n=1,939 time points), providing heuristic evidence for attractor basins at the extremes of tPC1 engagement. c, A three-dimensional scatter plot comparing the first three tPCs; each node represents one time point (colored according to the phase of tPC1), with time implicitly unfolding across the embedding space (contiguous points connected by black line). d, The low-dimensional manifold traversed by the global brain state across the first three dimensions, with arrows depicting the direction of flow along the manifold."
   }
 ]

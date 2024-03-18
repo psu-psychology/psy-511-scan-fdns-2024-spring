@@ -48,6 +48,8 @@ website:
             text: "Week-08 • Development"
           - href: "slides/wk09-2024-03-14.qmd"
             text: "Week-09 • Perception"
+          - href: "slides/wk10-2024-03-21.qmd"
+            text: "Week-10 • Action"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -65,6 +67,8 @@ website:
           - href: "resources/development.qmd"
           - text: "---"
           - href: "resources/perception.qmd"
+          - text: "---"
+          - href: "resources/action.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
@@ -85,5 +89,6 @@ format:
     footnotes-hover: true
     toc: true
     toc-depth: 4
+    fig-align: center
 editor: source
     

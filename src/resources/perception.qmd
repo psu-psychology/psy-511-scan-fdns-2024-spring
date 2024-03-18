@@ -130,7 +130,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
 | Magnetoreception | Electromagnetic radiation patterns   |
 | Kinesthesia      | Position, velocity, acceleration of limbs, body |
 
-### Psychophysics (from physics to psychology)
+#### Psychophysics (from physics to psychology)
 
 - What is the energy/chemical channel?
 - Channels carry different types of information about
@@ -139,7 +139,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
 - Convey information at different rates, with varied precision
 - Information often signaled by multiple sources
 
-### Vision
+#### Vision
 
 - Source: Electromagnetic radiation
     - Reflected from surfaces
@@ -151,7 +151,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
     - Near/far: retinal disparity, interposition, height above horizon...
     - Orientation, motion
 
-### Audition
+#### Audition
 
 - Source: Mechanical vibrations in air or water
 - What is it?
@@ -160,7 +160,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
     - Left/right or up/down: Interaural time/phase, intensity differences, pinnae filtering
     - Motion: Frequency shifts via Doppler effect
     
-### Chemosensation
+#### Chemosensation
 
 - Source: Chemicals in mouth, nasal cavity 
 - What is it?
@@ -168,7 +168,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
 - Where is it?
     - Left/right; up/down; near/far via intensity gradients
     
-### Somatosensation
+#### Somatosensation
 
 - Source: Thermal or mechanical stimulation (vibration/pressure) of skin
 - What is it?
@@ -176,7 +176,7 @@ Sorry, Mrs. Potraz, there are more than five senses!
 - Where it it?
     - Pattern of cutaneous receptors on skin
     
-### Interoception
+#### Interoception
 
 - Hunger/thirst
     - Receptors for nutrient, fluid levels
@@ -204,8 +204,9 @@ Sorry, Mrs. Potraz, there are more than five senses!
 - Adaptation
     + Decline in sensitivity with sustained stimulation 
     + Most sensory systems attuned to change
-    + Just noticeable difference (JND): How much of a change is noticeable?
-      - JND a function of absolute intensity!
+- Just noticeable difference (JND): How much of a change is noticeable?
+    - Most psychophysical functions are non-linear
+    - JND a function of absolute intensity!
     
 ![Psychophysical functions](https://www.psywww.com/intropsych/ch04-senses/04stevenscurves.jpg)
 
@@ -560,6 +561,7 @@ plot(g, vertex.size=50, vertex.color="gray")
 ### Beyond V1
 
 ![](../include/img/beyond-v1.jpg)
+
 - Larger, more complex receptive fields
 - *Dorsal stream* (where/how)
     + Toward parietal lobe
