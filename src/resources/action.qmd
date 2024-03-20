@@ -68,21 +68,55 @@ B==>W
 #### Body $\rightarrow$ World
 
 - Movements
-- Vocalizations, facial expressions, gestures
-- Secretions
+  - Locomotion (move self)
+  - Manipulative (move other objects/entities)
+  - Communicative
+    - Gestures
+    - Facial expressions
+- Secretions, excretions
 
 #### Nervous System $\rightarrow$ Body
 
 - Muscle commands
 - Autonomic responses
 - Endocrine responses
-    
+
+#### Physical considerations & constraints
+
+- [Medium/Environment](https://en.wikipedia.org/wiki/Animal_locomotion)
+  - Terrestrial
+  - Arborial
+  - Aerial
+  - Aquatic
+  - Fossorial
+- External forces
+  - Gravity
+  - Friction
+  - Drag
+- Internal forces & factors
+  - Torque
+  - Maintain balance/orientation
+  - Frames of reference
+  - Energetics
+  
+### Psychological considerations
+
+- Forage for
+  - Food
+  - Shelter
+  - Mates
+- Escape predators
+- Communicate
+
 ### Types of movements
 
 ![https://medlineplus.gov/ency/images/ency/fullsize/17234.jpg](https://medlineplus.gov/ency/images/ency/fullsize/17234.jpg)
 
 - Reflexes
     + Simple, highly stereotyped, unlearned, rapid, acquired early
+    
+{{< video https://youtu.be/8UhAanlThUE?si=cCjZCpwuXqZGQafB  >}}
+
 - vs. planned or voluntary actions
     + Complex, flexible, acquired, slower
 - Discrete (reaching) vs. rhythmic (walking)
