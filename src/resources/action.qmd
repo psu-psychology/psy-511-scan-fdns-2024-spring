@@ -273,7 +273,7 @@ B==>W
 
 ![](../include/img/muscle-fiber-types.jpg){fig-align="center"}
 
-##### *Intrafusal* fibers
+##### Intrafusal fibers
 
 + Sense muscle length and change in length, e.g. "stretch"
 + Also called muscle spindles
@@ -284,7 +284,7 @@ B==>W
 - Motor function
   + Ennervated by gamma ($\gamma$) motor neurons (motor input)
 
-##### *Extrafusal* fibers
+##### Extrafusal fibers
 
 + Generate force
 + ennervated by alpha ($\alpha$) motor neurons
@@ -300,12 +300,6 @@ N ==>|Efference Copy|N
 B ==>|Ia spindle afferents|N
 ```
 
-:::{.callout-note}
-How does the motor system "learn" the sensory consequences of muscle fiber contraction?
-Could spontaneous "twitches" be involved [@Blumberg2023-ce]?
-
-That is, higher levels of the nervous system learn the relationship between motor neuron output and spindle feedback.
-:::
 
 ### Monosynaptic stretch (myotatic) reflex
 
@@ -329,12 +323,19 @@ This is a bit like the role of a belayer in rock climbing.
 
 ![](../include/img/stretch-reflex.jpg)
 
-#### Why doesn't antagonist muscle respond?**
+#### Why doesn't antagonist muscle respond?
 
 - Polysynaptic inhibition of antagonist muscle
 - Prevents/dampens tremor
 
-#### Speed of sensory information propagation**
+:::{.callout-note}
+How does the motor system "learn" the sensory consequences of muscle fiber contraction?
+Could spontaneous "twitches" be involved [@Blumberg2023-ce]?
+
+That is, higher levels of the nervous system learn the relationship between motor neuron output and spindle feedback.
+:::
+
+#### Speed of sensory information propagation
 
 - Brain gets fast(est) propagating sensory info from spindles
 
