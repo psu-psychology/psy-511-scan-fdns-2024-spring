@@ -110,13 +110,18 @@ B==>W
 
 ### Psychological considerations
 
-- Forage for
+- Foraging for
   - Food
   - Shelter
   - Mates
-- Escape predators
-- Communicate
-- Play
+  - Information
+- Defending
+  - Escaping predators
+  - Fighting
+- Communicating
+- Playing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yCXBrRCpOGE?si=GGhwVCYm00UmFXT7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Types of movements
 
@@ -125,7 +130,7 @@ B==>W
 - Reflexes
     + Simple, highly stereotyped, unlearned, rapid, acquired early
     
-{{< video https://youtu.be/8UhAanlThUE?si=cCjZCpwuXqZGQafB  >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8UhAanlThUE?si=nC8BG7ojoQBENmH1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - vs. planned or voluntary actions
     + Complex, flexible, acquired, slower
@@ -138,7 +143,12 @@ B==>W
 
 ![*Biological Psychology 4th ed*](../include/img/motor-controllers-biopsych.jpg)
 
-- Primary motor cortex (M-I)
+- Primary motor cortex (M1)
+
+![M1. Wikipedia: <https://en.wikipedia.org/wiki/Primary_motor_cortex>](https://upload.wikimedia.org/wikipedia/commons/c/c5/Blausen_0103_Brain_Sensory%26Motor.png)
+
+![Motor homunculus. Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Motor_homunculus.svg/1920px-Motor_homunculus.svg.png)
+
 - Non-primary motor cortex
 - Basal ganglia
 - Brain stem
@@ -149,7 +159,8 @@ B==>W
 
 #### Pyramidal tracts
     
-+ Pyramidal cells (Cerebral Cortex Layer 5) in primary motor cortex (M1)
++ Pyramidal cells 
+  - Cerebral Cortex Layer 5 in primary motor cortex (M1)
 + Corticobulbar (cortex -> brainstem) tract
 + Corticospinal (cortex -> spinal cord) tract
 - Crossover (decussate) in medulla
