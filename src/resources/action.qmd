@@ -291,16 +291,6 @@ B==>W
 - No "sensory" role, except for *efference copy*
   - "Copies" of motor output sent to other brain areas
   
-```{mermaid}
-%%| title: Nervous system output
-%%| fig-cap: Highlighting the output stream
-flowchart TD
-N{Nervous System} ==>|Motor neurons|B(Muscle fibers)
-N ==>|Efference Copy|N
-B ==>|Ia spindle afferents|N
-```
-
-
 ### Monosynaptic stretch (myotatic) reflex
 
 - Muscle stretched (length increases)
@@ -322,6 +312,16 @@ This is a bit like the role of a belayer in rock climbing.
 :::
 
 ![](../include/img/stretch-reflex.jpg)
+```{mermaid}
+%%| title: Nervous system output
+%%| fig-cap: Highlighting the output stream
+flowchart TD
+N{Nervous System} ==>|Alpha motor neurons|B(Extrafusal muscle fibers)
+N ==>|Gamma motor neurons|C(Intrafusal muscle fibers)
+N ==>|Efference Copy|N
+C ==>|Ia spindle afferents|N
+C ==>|Secondary afferents|N
+```
 
 #### Why doesn't antagonist muscle respond?
 

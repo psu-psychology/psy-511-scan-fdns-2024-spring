@@ -892,21 +892,6 @@ Note
 <li>“Copies” of motor output sent to other brain areas</li>
 </ul></li>
 </ul>
-<div class="cell" title="Nervous system output" data-layout-align="center">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-<pre class="mermaid mermaid-js">flowchart TD
-N{Nervous System} ==&gt;|Motor neurons|B(Muscle fibers)
-N ==&gt;|Efference Copy|N
-B ==&gt;|Ia spindle afferents|N
-</pre>
-</div>
-<p></p><figcaption> Highlighting the output stream</figcaption> </figure><p></p>
-</div>
-</div>
-</div>
 </section>
 </section>
 </section>
@@ -946,6 +931,23 @@ Note
 </div>
 </div>
 <p><img src="../include/img/stretch-reflex.jpg" class="img-fluid"></p>
+<div class="cell" title="Nervous system output" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+N{Nervous System} ==&gt;|Alpha motor neurons|B(Extrafusal muscle fibers)
+N ==&gt;|Gamma motor neurons|C(Intrafusal muscle fibers)
+N ==&gt;|Efference Copy|N
+C ==&gt;|Ia spindle afferents|N
+C ==&gt;|Secondary afferents|N
+</pre>
+</div>
+<p></p><figcaption> Highlighting the output stream</figcaption> </figure><p></p>
+</div>
+</div>
+</div>
 <section id="why-doesnt-antagonist-muscle-respond" class="level4">
 <h4 class="anchored" data-anchor-id="why-doesnt-antagonist-muscle-respond">Why doesn’t antagonist muscle respond?</h4>
 <ul>
