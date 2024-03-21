@@ -94,11 +94,20 @@ B==>W
   - Friction
   - Drag
 - Internal forces & factors
-  - Torque
-  - Maintain balance/orientation
-  - Frames of reference
+  - Balance/orientation
+  - Reaction forces, complex dynamics
   - Energetics
+  - Time delays
+  - Motor equivalence (Lashley, Bernstein)
   
+![https://www.nist.gov/system/files/documents/oles/Michael-Caligiuri-NIST-2013-2.pdf](../include/img/calliguri-motor-equivalance.png)
+  
+  - Frames of reference, [degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_problem#)
+  
+![Wikipedia. Cat hindlimb musculoskeletal model with redundant degrees of freedom at muscles (red lines) and joints.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/CatHindlinbModel.tif/lossless-page1-1136px-CatHindlinbModel.tif.png)
+
+![https://wolpertlab.neuroscience.columbia.edu/research-projects/overview. Movement is the only way we have of interacting with the world, whether foraging for food or attracting a waiter's attention. Therefore, the purpose of the human brain is to use sensory signals to determine future actions.](https://wolpertlab.neuroscience.columbia.edu/sites/default/files/styles/cu_crop/public/content/images/overview.jpeg?itok=l145a4Pv)
+
 ### Psychological considerations
 
 - Forage for
@@ -107,6 +116,7 @@ B==>W
   - Mates
 - Escape predators
 - Communicate
+- Play
 
 ### Types of movements
 
