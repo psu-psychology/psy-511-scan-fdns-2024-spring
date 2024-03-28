@@ -83,6 +83,10 @@ website:
           - href: "exercises/ex06.qmd"
           - href: "exercises/ex07-evo-devo.qmd"
           - href: "exercises/ex08-devo.qmd"
+  repo-url: https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring
+  repo-actions: [edit, issue]
+  repo-subdir: src
+
 format:
   html:
     theme: cosmo

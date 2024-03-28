@@ -177,11 +177,15 @@ But...
 >
 > [@Shine2019-lh]
 
-### [@Cai2024-qq]
+### The neural bases of cognitive control [@Cai2024-qq]
+
+> We discover a shared brain state across seven distinct cognitive tasks and found that the dynamics of this shared brain state predicted cognitive control abilities in each task.
+>
+> [@Cai2024-qq]
 
 ![[Figure 1 from @Cai2024-qq]. We applied a Bayesian switching dynamic systems (BSDS) to time series extracted from brain regions constituting a multiple-demand system involved in cognitive control. We investigated latent brain states across seven different cognitive tasks and four different datasets. First, to demonstrate a shared latent brain state across cognitive domains, we matched task-specific latent brain states with the task-optimal latent brain state SHWM associated with high-load working memory task condition. Two different state matching algorithms demonstrated convergent results. Second, the relationship between the shared latent brain state and cognitive performance in each task was investigated using both multivariate canonical correlation and univariate correlation analysis. Third, we examined the shared latent brain state and its relation to clinical measures of inattention in a developmental cohort. Fourth, we evaluated similarity of latent brain states within individuals across cognitive tasks. WM n-back working memory task, AxCPT Ax continuous performance task, CuedTS Cued task switching task, Stern Sternberg working memory task, Stroop Stroop interference task, SST Stop-signal task, RP Relation processing task. The regression estimate is presented with 95% confidence interval (shaded area).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-024-46511-5/MediaObjects/41467_2024_46511_Fig1_HTML.png?as=webp)
 
-- Data from [Human Connectome Project (HCP)](https://www.humanconnectome.org/) ($n=90$ adults) and Dual Mechanisms of Cognitive Control (DMCC) project ($n=50$ adults)
+- Data from [Human Connectome Project (HCP)](https://www.humanconnectome.org/) ($n=90$ adults) and [Dual Mechanisms of Cognitive Control (DMCC)](https://sites.wustl.edu/dualmechanisms/) project ($n=50$ adults)
 - n-back reference task compared with other tasks: AxCPT, Cued task-switching, Sternberg memory task, Stroop.
 - What patterns of brain activation are similar in space and time to one another AND predict behavior (task performance)?
 - Additional goal was to compare these states to a sample of children with Attention Deficit Hyperactivity Disorder (ADHD)
