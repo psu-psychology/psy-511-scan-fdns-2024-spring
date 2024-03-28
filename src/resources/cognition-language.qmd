@@ -300,10 +300,6 @@ But...
 
 ![](../include/img/hagoort-indefrey-fig1c.jpg)
 
-![[@Hagoort2014-au]](https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2014/neuro.2014.37.issue-1/annurev-neuro-071013-013847/20140711/images/large/ne370347.f2.jpeg)
-
-![[@Hagoort2014-au]](https://www.annualreviews.org/docserver/ahah/fulltext/neuro/37/1/ne370347.f1_thmb.gif)
-
 ![[@Hagoort2014-au]. Figure 2. (a) Summary of activation patterns for sentences with high syntactic or semantic processing demands compared with simpler sentences. (b) Syntactic/semantic gradients in left inferior frontal and posterior temporal cortex based on 28 studies reporting posterior temporal cortex activation for syntactically demanding or semantically demanding sentences compared with less demanding sentences (see Supplemental Figure 13 for details). The centers represent the mean coordinates of the local maxima, and the radii represent the standard deviations of the distance between the local maxima and their means. Abbreviations: GFm, GFi, middle and inferior frontal gyri; BA, Brodmann area; GTs, GTm, GTi, superior, middle, and inferior temporal gyri; STS, ITS, superior and inferior temporal sulci; Gsm, supramarginal gyrus.](../include/img/hagoort-indefrey-fig2a.jpg)
 
 >"*A meta-analysis of numerous neuroimaging studies reveals a clear dorsal/ventral gradient in both left inferior frontal cortex and left posterior temporal cortex, with dorsal foci for syntactic processing and ventral foci for semantic processing. In addition...further networks need to be recruited to realize language-driven communication to its full extent.*"
