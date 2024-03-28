@@ -60,6 +60,35 @@ Combines...
   - Planning, executing, evaluating sequences of behavior
 - [Language](https://neurosynth.org/analyses/terms/language/)
 
+### A form of computation?
+
+![<https://www.explainthatstuff.com/howcomputerswork.html>](https://cdn4.explainthatstuff.com/how-computer-works.png)
+
+In digital computers
+
+- Data are in binary (0,1) digit (bit) form
+  - Same sequence of bits could be a letter, a number, part of an image, a bit of sound, etc.
+- Operations on data, e.g., `add`, `store`, also in binary form
+- Distinct (physically separate) circuits for
+  - Input (keyboards, mice, cameras, mics, network cards)
+  - Processing (Central Processing Units or CPUs; Graphic Processing Units or GPUs)
+  - Storage (RAM, flash drives, hard drives, etc.)
+  - Output (displays, speakers, printers network commands)
+- Software
+  - Files that cause operations on data (e.g., implement algorithms)
+  
+![<https://www.geeksforgeeks.org/introduction-to-algorithms/>](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191016135223/What-is-Algorithm_-1024x631.jpg)
+
+![<https://www.geeksforgeeks.org/introduction-to-algorithms/>](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191016135220/Characteristics-of-an-Algorithm-1024x630.jpg)
+But...
+
+![[@Jonas2017-sk]](../include/img/jonas-koerding-2017.png)
+
+> There is a popular belief in neuroscience that we are primarily data limited, and that producing large, multimodal, and complex datasets will, with the help of advanced data analysis algorithms, lead to fundamental insights into the way the brain processes information. These datasets do not yet exist, and if they did we would have no way of evaluating whether or not the algorithmically-generated insights were sufficient or even correct. To address this, here we take a classical microprocessor as a model organism, and use our ability to perform arbitrary experiments on it to see if popular data analysis methods from neuroscience can elucidate the way it processes information.
+>
+> ...current analytic approaches in neuroscience may fall short of producing meaningful understanding of neural systems, regardless of the amount of data.
+> [@Jonas2017-sk]
+
 ### Cognition and the cerebral cortex
 
 ![[@swanson2012brain]](../include/img/swanson-book-rat-human-cortex.jpg)

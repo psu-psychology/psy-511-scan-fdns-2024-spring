@@ -94,5 +94,6 @@ format:
     toc: true
     toc-depth: 4
     fig-align: center
+    fontsize: 1.2em
 editor: source
     
