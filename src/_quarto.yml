@@ -52,6 +52,8 @@ website:
             text: "Week-10 • Action"
           - href: "slides/wk11-2024-03-28.qmd"
             text: "Week-11 • Language and Cognition"
+          - href: "slides/wk12-2024-04-04.qmd"
+            text: "Week-12 • Learning and Memory"
       - text: resources
         menu:
           - href: "resources/levels.qmd"
@@ -73,6 +75,8 @@ website:
           - href: "resources/action.qmd"
           - text: "---"
           - href: "resources/cognition-language.qmd"
+          - text: "---"
+          - href: "resources/learning-memory.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"

@@ -1,0 +1,27 @@
+---
+title: "Learning & Memory"
+subtitle: "PSY 511.003"
+date: 2024-04-04
+format: 
+  revealjs:
+    footer: "[PSY 511 Spr 2024](../index.html)"
+---
+
+# Prelude
+
+## Last time...
+
+# Main
+
+## Today's topics
+
+- Learning & memory
+- [Resource page](../resources/learning-memory.qmd)
+
+## Main points
+
+## Next time...
+
+# Resources
+
+## References
