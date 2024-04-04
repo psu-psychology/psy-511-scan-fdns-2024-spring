@@ -26,12 +26,42 @@ title: "Learning & Memory"
     - $A \rightarrow B$
     - Classical & operant/instrumental conditioning
     - Sequence, observational, episodic, semantic...learning
+
+### Learning styles?
+
+![[@noauthor_2017-td]](../include/img/poorvu-center-learning-styles.png)
+
+- Are myths [@Pashler2008-zi]?
+
+>Although the literature on learning styles is enormous, very few studies have even used an experimental methodology capable of testing the validity of learning styles applied to education. Moreover, of those that did use an appropriate method, several found results that flatly contradict the popular meshing hypothesis. We conclude therefore, that at present, there is no adequate evidence base to justify incorporating learning-styles assessments into general educational practice. 
+
+### Neural networks
+
+- [Architectures/types](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464), [@Tch2017-fy; @Van_Veen_undated-ss]
+
+---
+
+![[@Tch2017-fy; from @Van_Veen_undated-ss]](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*cuTSPlTq0a_327iTPJyD-Q.png)
+
+### Network [learning rules](https://en.wikipedia.org/wiki/Learning_rule)
+
+- How/when change connections between nodes
+- Types
+  - Unsupervised (i.e., covariance/correlation)
+  - Supervised (change based on 'error')
+  - Reinforcement (learn *now*)
+
+### Deep learning vs. Machine Learning
+
+- [@noauthor_undated-hr; @noauthor_2022-ml]
+
+![@noauthor_2022-ml](https://images.prismic.io/turing/652ebc26fbd9a45bcec81819_Deep_Learning_vs_Machine_Learning_3033723be2.webp?auto=format%2Ccompress&fit=max&w=3840)
     
 ### What is memory?
 
 - A: Information encoding, storage, retrieval
 
-### Are there different types of memory?
+### Are there different types of (human) memory?
 
 - Facts/events/places/feelings vs. skills
 - Short vs. long-term
@@ -53,7 +83,24 @@ title: "Learning & Memory"
 
 ![McCulloch-Pitts [artificial neuron](https://en.wikipedia.org/wiki/Artificial_neuron)](https://upload.wikimedia.org/wikipedia/commons/b/b0/Artificial_neuron.png)
 
-## Biological bases of memory
+## Biological bases...
+
+### In single cells
+
+- Learning in single cells controversial [@Gershman2021-zf]
+- Beatrice Gelber
+
+![[Figure 1 from @Gershman2021-zf]. News story about Beatrice Gelber from the Tucson Daily Citizen October 19, 1960. © 1960, USA TODAY NETWORK. This image is not covered by the CC-BY 4.0 licence and may not be separated from the article.](https://iiif.elifesciences.org/lax/61907%2Felife-61907-fig1-v1.tif/full/1500,/0/default.jpg)
+
+![[@Gershman2021-zf] from [@Gelber1952-bb]. In Experiment 1 (top), one group of Paramecia was exposed to intermittent training trials in which a wire was coated with bacteria (every 3rd trial during the training phase). This group acquired a conditioned response to the clean wire, as measured by adherence to the wire in final test trials. In contrast, an untrained group did not show a conditioned response. Experiment 2 (bottom) demonstrated that the wire by itself did not drive conditioned responding.](https://iiif.elifesciences.org/lax/61907%2Felife-61907-fig2-v1.tif/full/1500,/0/default.jpg)
+
+>This paper presents a new approach to behavioral problems which might be called molecular biopsychology… Simply stated, it is hypothesized that the memory engram must be coded in macromolecules… As the geneticist studies the inherited characteristics of an organism the psychologist studies the modification of this inherited matrix by interaction with the environment. Possibly the biochemical and cellular physiological processes which encode new responses are continuous throughout the phyla (as genetic codes are) and therefore would be reasonably similar for a protozoan and a mammal. [@Gelber1962-ey]
+
+>Taking stock, we believe that Gelber’s experiments, though not without their limitations, convincingly demonstrated Pavlovian conditioning in Paramecia. Sadly, her critics seem to have won in the long term. Most reviews of the literature, if they mention Gelber’s work at all, quickly dismiss it...[@Gershman2021-zf]
+
+>If single cells can learn then they must be using a non-synaptic form of memory storage. The idea that intracellular molecules store memories has a long history, mainly in the study of multicellular organisms. [@Gershman2021-zf]
+
+### In nervous systems
 
 - Changes in patterns of neural activity
 - Changes in connectivity
