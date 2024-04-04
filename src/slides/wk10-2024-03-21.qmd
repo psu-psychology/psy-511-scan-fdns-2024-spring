@@ -2,6 +2,8 @@
 title: "Action"
 subtitle: "PSY 511.003"
 date: 2024-03-21
+bibliography: ../include/bib/psy-511.bib
+bibliographystyle: apa
 format: 
   revealjs:
     footer: "[PSY 511 Spr 2024](../index.html)"

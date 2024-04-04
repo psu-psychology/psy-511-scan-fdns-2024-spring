@@ -2,6 +2,8 @@
 title: "Learning & Memory"
 subtitle: "PSY 511.003"
 date: 2024-04-04
+bibliography: ../include/bib/psy-511.bib
+bibliographystyle: apa
 format: 
   revealjs:
     footer: "[PSY 511 Spr 2024](../index.html)"
@@ -42,15 +44,27 @@ format:
 - Learning & memory
 - [Resource page](../resources/learning-memory.qmd)
 
+## What is learning?
+
+## What is memory?
+
 ## Main points
 
 - Learning not a unitary phenomenon
   - Non-associative vs. associative
+  - *That* vs. *how*
 - Biological bases of learning
   - Changes in network connectivity & dynamics
   - Changes within cells
+  - ~ machine or deep learning in CS/AI
+
+---
+
 - Memory not a unitary phenomenon
   - What behaviors/computations, how expressed
+  - Multiple brain systems
+  - *That* (who/what/when/where/why) vs. *how*
+  - *Unlike* computer memory
 
 ## Next time...
 

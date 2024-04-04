@@ -223,11 +223,11 @@ How to learn/remember "causal chains"?
 
 - Is memory 'localized' like sensory and motor functions? [@Lashley1944-fg]
 
-![[@Lashley1946-pa]](../include/img/lashley-1944.jpg)
+![@Lashley1946-pa](../include/img/lashley-1944.jpg)
 
 >"*“the area subdivisions are in large part anatomically meaningless and misleading as to the presumptive functional divisions of the cortex”*"
 
-[[@Lashley1946-pa]](http://dx.doi.org/10.1002/cne.900850207)
+[@Lashley1946-pa]
 
 - Not in the rat cerebral cortex
 
@@ -255,25 +255,54 @@ How to learn/remember "causal chains"?
     + [Grid cells](http://www.scholarpedia.org/article/Grid_cells)
     + [Head-direction cells](http://www.scholarpedia.org/article/Head_direction_cells)
 
-![[@kjelstrup_finite_2008]](../include/img/finite-scale-spatial-rep-F1.large.jpg)
+![@kjelstrup_finite_2008](../include/img/finite-scale-spatial-rep-F1.large.jpg)
 
-- Taxi drivers (a high memory demand profession) have specialized hippocampi
+- London taxi drivers (a high memory demand profession) have specialized hippocampi [@maguire2000navigation]
 
-![[@maguire2000navigation]](../include/img/maguire-etal-2000-F1.large.jpg)
+![[@Woollett2011-uf]](https://ars.els-cdn.com/content/image/1-s2.0-S096098221101267X-gr1.jpg)
 
-![[@maguire2000navigation]](../include/img/maguire-etal-2000-F2.large.jpg)
+<!-- ![@maguire2000navigation](../include/img/maguire-etal-2000-F1.large.jpg) -->
 
-![[@maguire2000navigation]](../include/img/maguire-etal-2000-F3.large.jpg)
+<!-- ![@maguire2000navigation](../include/img/maguire-etal-2000-F2.large.jpg) -->
+
+<!-- ![@maguire2000navigation](../include/img/maguire-etal-2000-F3.large.jpg) -->
+
+- Not due to self-motion, driving experience, or stress *per se*
+
+>Gray matter volume differences in the hippocampus relative to controls have been reported to accompany this expertise. While these gray matter differences could result from using and updating spatial representations, they might instead be influenced by factors such as self-motion, driving experience, and stress. We examined the contribution of these factors by comparing London taxi drivers with London bus drivers, who were matched for driving experience and levels of stress, but differed in that they follow a constrained set of routes. We found that compared with bus drivers, taxi drivers had greater gray matter volume in mid-posterior hippocampi and less volume in anterior hippocampi. Furthermore, years of navigation experience correlated with hippocampal gray matter volume only in taxi drivers, with right posterior gray matter volume increasing and anterior volume decreasing with more navigation experience. This suggests that spatial knowledge, and not stress, driving, or self-motion, is associated with the pattern of hippocampal gray matter volume in taxi drivers. [@Maguire2006-sc]
+
+::: {#fig-woollett-2011 layout-ncol=2}
+
+![Figure 2. Gray Matter Volume Changes between T1 and T2 in Qualified Trainees](https://ars.els-cdn.com/content/image/1-s2.0-S096098221101267X-gr2.jpg)
+
+![Figure 3. Plot of Gray Matter Intensities across Groups and Time](https://ars.els-cdn.com/content/image/1-s2.0-S096098221101267X-gr3.jpg)
+
+[Figures 1 and 2 from @Woollett2011-uf]
+:::
 
 - Birds with high memory demands have larger hippocampi
 
-![[@sherry_hippocampal_1989]](../include/img/sherry-food-storing-birds-1989.jpg)
+![@sherry_hippocampal_1989](../include/img/sherry-food-storing-birds-1989.jpg)
+
+- Birds with high memory caching demands use sparse representations ("bar codes") in hippocampus
+
+![@Chettih2024-co](../include/img/chettih-2024.png)
 
 - (Gilmore's view) Humans have repurposed hippocampal system for other cognitive uses, e.g., semantic memory, language
 
+#### Cerebral cortex
+
+- Contains retinotopic maps (beyond V1) that are memory-related [@Steel2024-bv]
+
+![[Figure 1 from @Steel2024-bv]. a, PRF paradigm and modeling. In Exp. 1, participants underwent pRF mapping. Participants viewed visual scenes through a bar aperture that gradually traversed the visual field. Each visual-field traversal lasted 36 s (18 × 2 s positions), and the bar made eight traversals per run. The direction of motion varied between traversals. To estimate the pRF for each voxel, a synthetic time series is generated for 400 visual-field locations (200 x and y positions) and 100 sizes (sigma). This results in four million possible time series that are fit to each voxel’s activity. The fit results in four parameters describing each receptive field: x, y, sigma and amplitude. b, Negative-amplitude pRFs fall anterior to the cortex typically considered visual (beyond known retinotopic maps). Group average (n = 17) pRF amplitude map (threshold at explained variance R-squared (R2) > 0.08) is shown on partially inflated representations of the left hemisphere, alongside ROIs: SPAs (OPA, PPA), PMAs (LPMA, VPMA) (localized in an independent group of participants24) and the DMN22. The known retinotopic maps in the posterior cortex (black dotted outlines21) contain exclusively positive-amplitude pRFs (hot colors), as visual stimulation evokes positive retinotopically specific BOLD responses. Negative-amplitude pRFs (cool colors), where visual stimulation evokes a negative spatially specific BOLD response, arise anterior to these retinotopic maps in the PMAs and DMN (see Fig. 2a for example time series from a representative subject).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-023-01512-3/MediaObjects/41593_2023_1512_Fig1_HTML.png?as=webp)
+
+![[Figure 2 from @Steel2024-bv]. a, PRF modeling reveals posterior–anterior inversion of pRF amplitude in individual participants. Left, PRF amplitude for a representative participant overlaid onto a lateral view of the left hemisphere (threshold at R2 > 0.15; see Extended Data Fig. 1 for example ventral and lateral surface pRF amplitude maps from all participants and Extended Data Fig. 3 for amplitude maps with default mode parcellation overlaid). Posterior visual cortex is dominated by positive-amplitude pRFs (hot colors), while cortex anterior to regions classically considered visual exhibits a high concentration of negative-amplitude pRFs (cold colors). This individual’s OPA and LPMA are shown in white. Both the SPAs and PMAs contain pRFs (Extended Data Fig. 2). Right, time-series, model fits and reconstructed pRFs for two surface vertices in this subject. Top, example prototypical positive-amplitude pRF from the lateral SPA (OPA) in the left and right hemispheres (LH, RH). Bottom, example negative-amplitude population receptive field from the LPMA. b, Memory areas (PMAs) contain a larger percentage of negative pRFs compared to perceptual areas (SPAs) (repeated measures ANOVA, Bonferroni-corrected t-tests). Blue bars depict percentage of negative pRFs from individually localized SPAs and PMAs compared to total pRFs in the area (dotted outline). On the ventral and lateral surfaces, SPAs are dominated by positive pRFs, whereas a transition from positive to negative pRFs is evident within PMAs. Individual participant data points overlaid and connected in gray. *P two-tailed < 0.05, ***P two-tailed < 0.001. NS, not significant.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41593-023-01512-3/MediaObjects/41593_2023_1512_Fig2_HTML.png?as=webp)
+
+>Together with recent reports showing retinotopic coding persisting as far as the ‘cortical apex’ [15,16,31], including the DMN [15,16], and the hippocampus [31,32], our findings challenge conventional views of brain organization, which generally assume that retinotopic coding is replaced by abstract amodal coding as information propagates through the visual hierarchy [7,8,9,10] toward memory structures [11,12,13,14] [@Steel2024-bv]
+
 #### Cerebellum
 
-- response timing, sequences, especially in classical conditioning paradigms [[@Jirenhed2017-fl]](http://dx.doi.org/10.1073/pnas.1621132114)
+- response timing, sequences, especially in classical conditioning paradigms [@Jirenhed2017-fl](http://dx.doi.org/10.1073/pnas.1621132114)
 
 ### Disorders of memory
 
@@ -352,11 +381,11 @@ How to learn/remember "causal chains"?
 - Cognitive dysfunction (memory loss, language difficulties, planning, coordination)
 - Psychiatric symptoms and behavioral disturbances
 - Difficulties with daily living
-- [[@burns_alzheimers_2009]](http://doi.org/10.1136/bmj.b158)
+- [@burns_alzheimers_2009](http://doi.org/10.1136/bmj.b158)
 
 ##### Progression
 
-![[@burns_alzheimers_2009]](../include/img/bmj-158-F1.large.jpg)
+![@burns_alzheimers_2009](../include/img/bmj-158-F1.large.jpg)
 
 - Post-mortem exams show $\beta$ amyloid plaques and neurofibrillary tangles
 
@@ -365,7 +394,7 @@ How to learn/remember "causal chains"?
 ##### Treatments
     
 - Acetylcholinesterase (AChE) inhbitors (e.g. Aricept): Slow ACh inactivation
-- NMDA-R partial antagonists (e.g., Memantine): Slow (noisy?) LTP
+- NMDA-R partial antagonists (e.g., Memantine): Slow LTP
 - Drugs that address amyloid $\beta$ don't work especially well
 - AD the result of disordered immune response [@Jevtic2017-jt]?
     
@@ -382,15 +411,15 @@ How to learn/remember "causal chains"?
 - Neural basis 
     - sustained activation in PFC
     - subthreshold activation in areas where items are stored
-
 - Individual differences in visual WM
 
-![[@Luck2013-uo]](https://ars.els-cdn.com/content/image/1-s2.0-S1364661313001265-gr2.jpg)
+![@Luck2013-uo](https://ars.els-cdn.com/content/image/1-s2.0-S1364661313001265-gr2.jpg)
 
 ### Summary
 
 - Multiple types of learning & memory
 - Learning & memory distributed across the brain
+  - Specializations relate to location in the network? (input/output/in-between)
 - Hippocampus + PFC critical areas binding together sensory/semantic info stored elsewhere
 - Changes in synaptic #, strength, connectivity provide cellular basis
 
