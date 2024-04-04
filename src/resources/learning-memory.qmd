@@ -382,6 +382,8 @@ How to learn/remember "causal chains"?
 - Psychiatric symptoms and behavioral disturbances
 - Difficulties with daily living
 - [@burns_alzheimers_2009](http://doi.org/10.1136/bmj.b158)
+- Build up of amyloid $\beta$ protein plaques in brain tissue
+- APOE e4 gene variant [increases risk 2-12x](https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/in-depth/alzheimers-genes/art-20046552)
 
 ##### Progression
 
@@ -395,8 +397,10 @@ How to learn/remember "causal chains"?
     
 - Acetylcholinesterase (AChE) inhbitors (e.g. Aricept): Slow ACh inactivation
 - NMDA-R partial antagonists (e.g., Memantine): Slow LTP
-- Drugs that address amyloid $\beta$ don't work especially well
+- Drugs that remove amyloid $\beta$ (e.g, lecanemab) don't work especially well + have side effects
 - AD the result of disordered immune response [@Jevtic2017-jt]?
+  - Promising prospective therapy using microglia to remove amyloid $\beta$ [@Hou2024-wx]
+  - Link between genetic factor (APOE4/4 gene) and fatty build-up in microglia [@Haney2024-wb]
     
 #### The other end of the spectrum...
 
