@@ -6,6 +6,8 @@ bibliography: ../include/bib/psy-511.bib
 bibliographystyle: apa
 format: 
   revealjs:
+    theme: default
+    chalkboard: true
     footer: "[PSY 511 Spr 2024](../index.html)"
 ---
 

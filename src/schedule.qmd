@@ -243,6 +243,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk09-2024-03-14.qmd)
+- [Notes](resources/perception.qmd)
 
 ---
 
@@ -262,6 +263,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk10-2024-03-21.qmd)
+- [Notes](resources/action.qmd)
 
 ---
 
@@ -282,6 +284,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk11-2024-03-28.qmd)
+- [Notes](resources/cognition-language.qmd)
 
 ---
 
@@ -300,6 +303,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk12-2024-04-04.qmd)
+- [Notes](resources/learning-memory.qmd)
 
 ---
 
@@ -320,6 +324,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk13-2024-04-11.qmd)
+- [Notes](resources/schizophrenia.qmd)
 
 ## Week 14
 
@@ -338,6 +343,7 @@ title: "Schedule"
 #### Materials
 
 - [Slides](slides/wk14-2024-04-18.qmd)
+- [Notes](resources/affective-disorders.qmd)
 
 ---
 
