@@ -153,19 +153,25 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
 
 - Disconnectivity b/w 'hubs' -> higher functional connectivity overall
 
-<div class="centered">
-<a href="https://doi.org/10.1016/j.conb.2014.08.006">
-<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr2.jpg" height=400px>
+![[@Fornito2015-go]](https://ars.els-cdn.com/content/image/1-s2.0-S0959438814001688-gr2.jpg)
 
-[[@Fornito2015-go]](https://dx.doi.org/10.1016/j.conb.2014.08.006)
-</a>
-</div>
+
+
+#### Comparing neural measures
+
+![[Figure 2 from @Porter2023-qt]. Sensitivity and specificity scores were derived using data from the classifier in each manuscript. All manuscripts were able to reliably differentiate participants with psychosis from healthy controls independent of neuroimaging type aside from [169]. The size of points is scaled according to sample size and modality of analysis is shown in various colors.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig2_HTML.png?as=webp)
+
+![[Figure 3 from @Porter2023-qt]. Summary forest plot for log diagnostic odds ratio for all imaging modalities presented at the bottom of the plot. Multimodal: classification that used at least two of the following: rs-FC, T1, and/or DTI as features. RS-FC: resting state functional connectivity. DTI: diffusion tensor imaging. T1: T1 weighted imaging. The point size of squares and polygons are a function of the precision of the estimates.](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig3_HTML.png)
+
+![[Figure 5 from @Porter2023-qt]Colors represent different imaging modalities; estimated summary receiver operating curves are shown overlaid for each of the imaging modalities with respective confidence interval regions surrounding mean sensitivity and specificity values. No significant differences were found for classification of internal datasets . When external datasets were used for classification, rs-FC studies (red) have a significant advantage in classification relative to T1 studies (blue).](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-02195-9/MediaObjects/41380_2023_2195_Fig5_HTML.png?as=webp)
+
+>Interestingly, at present most modalities perform similarly in the classification of psychosis, with slight advantages for rs-FC relative to structural modalities in some specific cases. Notably, results differed substantially across studies, with suggestions of biased effect sizes, particularly highlighting the need for more studies using external prediction and large sample sizes. [@Porter2023-qt]
 
 ### Neurochemical factors
 
 #### Dopamine hypothesis
 
-![](../include/img/mesolimbocortical-da.jpg)
+![](../include/img/mesolimbocortical-da.jpg){width=75%}
 
 ##### Evidence for...
 
@@ -256,3 +262,6 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
     - Negative valence, positive valence, cognitive systems, social processes, arousal/regulatory systems
 - [U.K. Biobank](https://www.ukbiobank.ac.uk/)
 - [Enhancing Neuro Imaging Genetics through Meta Analysis (ENIGMA) Consortium](https://enigma.ini.usc.edu/)
+- Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP](http://b-snip.org/)) [@Tamminga2014-gn]
+
+![[Figure 1 from @Tamminga2014-gn]. Multiple illustrative data from bipolar and schizophrenia network for intermediate phenotyping (BSNIP) study. (a) Social function quantified with the Birchwood Social Function Scale in the BSNIP sample. Details in reference 13. Schizophrenia (SZ) and schizoaffective disorder (SAD) groups were almost identical, while bipolar disorder (BDP) showed slightly higher scores. Relatives of all groups were modestly impaired. The patterns of impairment were similar across diagnostic groups. (b) The Schizo-Bipolar scale was developed from the SCID diagnostic criteria for these psychotic diagnoses.12 There was almost continuous overlap between these diagnoses with no point of rarity over this spectrum, lacking support for distinct illness groups based on phenomenology. (c) Cognition was measured with the BACS.14 Group scores are depicted for the diagnostic subgroups, showing the greatest impairment in the SZ group and the least in the BDP group with SAD in between, separated by severity; however groups did not show distinctive qualitative cognitive alterations from each other, except for the severity. (d) In the evoked potential auditory oddball paradigm, the patient groups (SZ and BDP) resembled each other rather broadly, with minimal, distinctive differences, discussed in reference 15. (e) The antisaccade error rates were increased in all patient groups, highest in SZ and lower in BDP, without any differences across relatives.16 Again, while severity differences were present, no other distinctions existed across diagnostic groups. (f) Differences between SZ and BPP groups are present after a pair auditory stimulus, including differences in both patient groups in baseline levels, especially before S2.17 (g) Using VBM analysis to determine grey matter volume,21 a distinctive difference between SZ/SAD, on the one hand and BDP on the other, emerged; specifically, SA and SAD groups demonstrated significant and widespread grey matter volume reduction, while the BDP showed very little grey matter reduction in any area. This would represent a difference between diagnostic groups of a qualitative as well as quantitative nature. (h) FreeSurfer showed a similar outcome, with grey matter reductions widespread in all cortical regions in SZ and SAD, while no distinctive reductions in BDP. (i). Resting state fMRI analysis shows a number of distinctive cerebral networks based on ICA, that were distinctive in some or all of the diagnostic groups.18 In general, these networks were different between all probands and all healthy controls.](../include/img/tamminga-etal-2014-fig-1.png)
