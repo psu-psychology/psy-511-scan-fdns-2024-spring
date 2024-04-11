@@ -1,0 +1,53 @@
+---
+title: "Schizophrenia"
+subtitle: "PSY 511.003"
+date: 2024-04-11
+bibliography: ../include/bib/psy-511.bib
+bibliographystyle: apa
+format: 
+  revealjs:
+    theme: default
+    chalkboard: true
+    footer: "[PSY 511 Spr 2024](../index.html)"
+---
+
+# Prelude
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YWwAOutgWBQ?si=PMe0_Ecg4jOKfnXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Last time...
+
+- Learning & memory
+
+---
+
+### What is "Hebbian" learning?
+
+---
+
+### How does the NMDA-R instantiate a form of Hebbian learning?
+
+---
+
+### What are some key differences between biological memory and computer memory?
+
+---
+
+### How are 
+
+## Today's topics
+
+- Schizophrenia
+
+## Main points
+
+
+## Next time...
+
+- Depression and Bipolar Disorder
+
+# Resources
+
+## References

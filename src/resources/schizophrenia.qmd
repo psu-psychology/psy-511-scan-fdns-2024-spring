@@ -8,6 +8,12 @@ title: "Schizophrenia"
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/YXimT5CHCDE" frameborder="0" allowfullscreen></iframe>
 
+::: {.callout-note}
+
+Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
+
+:::
+
 - Lifetime prevalence ~ 0.3-0.7%
     - Broader definitions suggest 2-3 or 3-5%
 - ~1/3 chronic & severe
@@ -233,6 +239,15 @@ title: "Schizophrenia"
 ### Outcomes following hospitalization
 
 ![[@Van_Os2009-be]. Figure 3. Outcome heterogeneity in schizophrenia. Summary of 18 prospectively designed outcome studies of first admission and first diagnosis of schizophrenia with follow-up of more than 1 year with variably defined good and poor outcomes, showing balanced proportions of good and poor outcomes across studies. Studies 1 to 18 are 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93. Examples of good outcomes: symptomatic recovery with no social or intellectual deficit throughout follow-up (study 2, reference 77); full recovery over follow-up (study 12, reference 87); complete remission and never readmitted (study 16, reference 91). Examples of poor outcome definition: severe chronic social or intellectual deficit (study 2, reference 77); moderate-to-severe symptoms at time of follow-up (study 12, reference 87); chronic continuous psychotic symptoms over full follow up time (study 16, reference 91). For full description of all outcome definitions see reference 94.](https://ars.els-cdn.com/content/image/1-s2.0-S0140673609609958-gr3_lrg.jpg)
+
+### Biomarkers
+
+![Table 1 from @Kraguljac2021-kp](../include/img/kraguljac-2021-tbl01.png)
+### Novel therapies
+
+- Virtual Reality Assisted therapy [@Bisso2020-nq; @Dellazizzo2021-tk]
+
+>Short-term findings showed that both interventions produced significant improvements in AVH severity and depressive symptoms. Although results did not show a statistically significant superiority of VRT over CBT for AVH, VRT did achieve larger effects particularly on overall AVH (d = 1.080 for VRT and d = 0.555 for CBT). Furthermore, results suggested a superiority of VRT over CBT on affective symptoms. VRT also showed significant results on persecutory beliefs and quality of life. Effects were maintained up to the 1-year follow-up. VRT highlights the future of patient-tailored approaches that may show benefits over generic CBT for voices. A fully powered single-blind randomized controlled trial comparing VRT to CBT is underway. [@Dellazizzo2021-tk]
 
 ### The future of psychiatric research
 

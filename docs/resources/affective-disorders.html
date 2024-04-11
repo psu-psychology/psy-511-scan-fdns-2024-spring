@@ -98,6 +98,35 @@ div.csl-indent {
   });
 </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../include/css/styles.css">
 </head>
@@ -187,6 +216,14 @@ div.csl-indent {
         <li>
     <a class="dropdown-item" href="../slides/wk12-2024-04-04.html">
  <span class="dropdown-text">Week-12 • Learning and Memory</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk13-2024-04-11.html">
+ <span class="dropdown-text">Week-13 • Schizophrenia</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk14-2024-04-18.html">
+ <span class="dropdown-text">Week-14 • Depression &amp; Bipolar Disorder</span></a>
   </li>  
     </ul>
   </li>
@@ -299,6 +336,20 @@ div.csl-indent {
   <li><a href="#evaluating-treatments" id="toc-evaluating-treatments" class="nav-link" data-scroll-target="#evaluating-treatments">Evaluating treatments</a></li>
   <li><a href="#putative-pathway-of-pathology" id="toc-putative-pathway-of-pathology" class="nav-link" data-scroll-target="#putative-pathway-of-pathology">Putative pathway of pathology</a></li>
   <li><a href="#putting-the-pieces-together" id="toc-putting-the-pieces-together" class="nav-link" data-scroll-target="#putting-the-pieces-together">Putting the pieces together</a></li>
+  </ul></li>
+  <li><a href="#bipolar-disorder" id="toc-bipolar-disorder" class="nav-link" data-scroll-target="#bipolar-disorder">Bipolar disorder</a>
+  <ul>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#neurobiology-of" id="toc-neurobiology-of" class="nav-link" data-scroll-target="#neurobiology-of">(Neuro)biology of</a>
+  <ul class="collapse">
+  <li><a href="#genetics" id="toc-genetics" class="nav-link" data-scroll-target="#genetics">Genetics</a></li>
+  <li><a href="#brain-responses-to-emotional-faces-depression" id="toc-brain-responses-to-emotional-faces-depression" class="nav-link" data-scroll-target="#brain-responses-to-emotional-faces-depression">Brain responses to emotional faces ≠ depression</a></li>
+  <li><a href="#amygdala-hippocampus-volume-reduced-ventricles-larger" id="toc-amygdala-hippocampus-volume-reduced-ventricles-larger" class="nav-link" data-scroll-target="#amygdala-hippocampus-volume-reduced-ventricles-larger">Amygdala, hippocampus volume reduced; ventricles larger</a></li>
+  <li><a href="#drug-treatments" id="toc-drug-treatments" class="nav-link" data-scroll-target="#drug-treatments">Drug treatments</a></li>
+  <li><a href="#other-treatment-options" id="toc-other-treatment-options" class="nav-link" data-scroll-target="#other-treatment-options">Other treatment options</a></li>
+  <li><a href="#prospects" id="toc-prospects" class="nav-link" data-scroll-target="#prospects">Prospects</a></li>
+  </ul></li>
+  <li><a href="#bp-summed-up" id="toc-bp-summed-up" class="nav-link" data-scroll-target="#bp-summed-up">BP summed-up</a></li>
   </ul></li>
   <li><a href="#the-disordered-mind" id="toc-the-disordered-mind" class="nav-link" data-scroll-target="#the-disordered-mind">The disordered mind</a></li>
   </ul>
@@ -657,6 +708,152 @@ Note
 </div>
 </section>
 </section>
+<section id="bipolar-disorder" class="level2">
+<h2 class="anchored" data-anchor-id="bipolar-disorder">Bipolar disorder</h2>
+<section id="background" class="level3">
+<h3 class="anchored" data-anchor-id="background">Background</h3>
+<ul>
+<li>Formerly “manic depression” or “manic depressive disorder”</li>
+<li>Alternating mood states
+<ul>
+<li>Mania or hypomania (milder form)</li>
+<li>Depression</li>
+</ul></li>
+<li>Cycles 3-6 mos in length, but
+<ul>
+<li>Rapid cycling (weeks or days)</li>
+</ul></li>
+<li>Suicide risk 20-60x normal population, <a href="http://dx.doi.org/10.1017/S1092852900014681"><span class="citation" data-cites="baldessarini_suicide_2006">Baldessarini, Pompili, &amp; Tondo (<span>2006</span>)</span></a></li>
+</ul>
+<p><img src="../include/img/nih-bipolar-table.jpg" class="img-fluid" alt="Source: http://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml"> - 1-3% lifetime prevalence, subthreshold affects another ~2% <a href="Merikangas2007-hu"><span class="citation" data-cites="Merikangas2007-hu">Merikangas et al. (<span>2007</span>)</span></a> - Subtypes + <strong>Bipolar I</strong>: manic episodes, possible depressive ones + <strong>Bipolar II</strong>: no manic episodes but hypomania (disinhibition, irritability/agitation) + depression</p>
+<ul>
+<li>Psychosis (hallucinations or delusions)</li>
+<li>Anxiety, attention-deficit hyperactivity disorder (ADHD)</li>
+<li>Substance abuse</li>
+</ul>
+</section>
+<section id="neurobiology-of" class="level3">
+<h3 class="anchored" data-anchor-id="neurobiology-of">(Neuro)biology of</h3>
+<section id="genetics" class="level4">
+<h4 class="anchored" data-anchor-id="genetics">Genetics</h4>
+<ul>
+<li>Overlap between bipolar disorder and schizophrenia</li>
+<li>Genes for voltage-gated Ca++ channels
+<ul>
+<li>Regulate NT, hormone release</li>
+<li>Gene expression, cell metabolism</li>
+</ul></li>
+<li><a href="http://dx.doi.org/10.1016/S0140-6736(13)60855-7"><span class="citation" data-cites="craddock_genetics_2013">Craddock &amp; Sklar (<span>2013</span>)</span></a></li>
+</ul>
+</section>
+<section id="brain-responses-to-emotional-faces-depression" class="level4">
+<h4 class="anchored" data-anchor-id="brain-responses-to-emotional-faces-depression">Brain responses to emotional faces ≠ depression</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/lawrence-1.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="lawrence_subcortical_2004">(<a href="#ref-lawrence_subcortical_2004" role="doc-biblioref">Lawrence et al., 2004</a>)</span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/lawrence-2.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="lawrence_subcortical_2004">(<a href="#ref-lawrence_subcortical_2004" role="doc-biblioref">Lawrence et al., 2004</a>)</span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="include/img/lawrence-3.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="lawrence_subcortical_2004">(<a href="#ref-lawrence_subcortical_2004" role="doc-biblioref">Lawrence et al., 2004</a>)</span></figcaption>
+</figure>
+</div>
+</section>
+<section id="amygdala-hippocampus-volume-reduced-ventricles-larger" class="level4">
+<h4 class="anchored" data-anchor-id="amygdala-hippocampus-volume-reduced-ventricles-larger">Amygdala, hippocampus volume reduced; ventricles larger</h4>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/hallahan-fig-1.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="hallahan_structural_2011">(<a href="#ref-hallahan_structural_2011" role="doc-biblioref">Hallahan et al., 2011</a>)</span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/hallahan-abstr.jpg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="hallahan_structural_2011">(<a href="#ref-hallahan_structural_2011" role="doc-biblioref">Hallahan et al., 2011</a>)</span></figcaption>
+</figure>
+</div>
+</section>
+<section id="drug-treatments" class="level4">
+<h4 class="anchored" data-anchor-id="drug-treatments">Drug treatments</h4>
+<ul>
+<li>Anti-depressants not especially effective <span class="citation" data-cites="Sidor2012-ki">(<a href="#ref-Sidor2012-ki" role="doc-biblioref">Sidor &amp; MacQueen, 2012</a>)</span></li>
+<li>Mood stabilizers
+<ul>
+<li>Lithium (Li)</li>
+<li>Valproate (Depakote)</li>
+</ul></li>
+<li>Anticonvulsants
+<ul>
+<li>Typically used to treat epilepsy</li>
+<li>GABA agonists</li>
+<li>e.g.&nbsp;lamotrigine (Lamictal)</li>
+</ul></li>
+<li>Atypical antipsychotics</li>
+</ul>
+<section id="lithium" class="level5">
+<h5 class="anchored" data-anchor-id="lithium">Lithium</h5>
+<ul>
+<li>“Discovered” accidentally
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/John_Cade">John Cade</a> discovered in 1948</li>
+<li>Injections of manic patients’ urine with a lithium compound (chemical stabilizer) into guinea pig test animals</li>
+<li>Had calming effect</li>
+<li>Earliest effective medications for treating mental illness</li>
+</ul></li>
+<li>Effects of
+<ul>
+<li>Reduces mania, minimal effects on depressive states</li>
+<li>Preserves PFC, hipp, amyg volumes</li>
+<li>Has other ‘neuroprotective’ effects <span class="citation" data-cites="Machado-Vieira2009-by">(<a href="#ref-Machado-Vieira2009-by" role="doc-biblioref">Machado-Vieira, Manji, &amp; Zarate, 2009</a>)</span></li>
+<li>downregulates DA, glutamate; upregulates GABA</li>
+<li>modulates 5-HT, NE</li>
+<li><em>levels can be tested/monitored via blood test</em></li>
+<li><span class="citation" data-cites="malhi_potential_2013">(<a href="#ref-malhi_potential_2013" role="doc-biblioref">Malhi, Tanious, Das, Coulston, &amp; Berk, 2013</a>)</span></li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="other-treatment-options" class="level4">
+<h4 class="anchored" data-anchor-id="other-treatment-options">Other treatment options</h4>
+<ul>
+<li>Psychotherapy</li>
+<li>Electroconvulsive Therapy (ECT)</li>
+<li>Sleep medications</li>
+</ul>
+</section>
+<section id="prospects" class="level4">
+<h4 class="anchored" data-anchor-id="prospects">Prospects</h4>
+<ul>
+<li>STEP-BD cohort (<span class="math inline">\(n=1,469\)</span>)
+<ul>
+<li>58% achieved recovery</li>
+<li>49% (of recovered) had recurrences within 2 years</li>
+<li>Residual depressive symptoms can persist</li>
+</ul></li>
+<li><span class="citation" data-cites="Geddes2013-hm">(<a href="#ref-Geddes2013-hm" role="doc-biblioref">Geddes &amp; Miklowitz, 2013</a>)</span></li>
+</ul>
+</section>
+</section>
+<section id="bp-summed-up" class="level3">
+<h3 class="anchored" data-anchor-id="bp-summed-up">BP summed-up</h3>
+<ul>
+<li>Changes in mood, but ≠ depression</li>
+<li>Genetic + environmental risk</li>
+<li>Changes in emotion processing network activity, size of hippocampus</li>
+<li>Heterogeneous</li>
+<li>No simple link to a specific NT system</li>
+</ul>
+</section>
+</section>
 <section id="the-disordered-mind" class="level2">
 <h2 class="anchored" data-anchor-id="the-disordered-mind">The disordered mind</h2>
 <ul>
@@ -673,6 +870,9 @@ Note
 <div id="ref-Audhya2012-sv" class="csl-entry" role="listitem">
 Audhya, T., Adams, J. B., &amp; Johansen, L. (2012). Correlation of serotonin levels in <span>CSF</span>, platelets, plasma, and urine. <em>Biochimica Et Biophysica Acta</em>, <em>1820</em>(10), 1496–1501. <a href="https://doi.org/10.1016/j.bbagen.2012.05.012">https://doi.org/10.1016/j.bbagen.2012.05.012</a>
 </div>
+<div id="ref-baldessarini_suicide_2006" class="csl-entry" role="listitem">
+Baldessarini, R. J., Pompili, M., &amp; Tondo, L. (2006). Suicide in <span>Bipolar</span> <span>Disorder</span>: <span>Risks</span> and <span>Management</span>. <em>CNS Spectrums</em>, <em>11</em>(06), 465–471. <a href="https://doi.org/10.1017/S1092852900014681">https://doi.org/10.1017/S1092852900014681</a>
+</div>
 <div id="ref-Berman2000-vg" class="csl-entry" role="listitem">
 Berman, R. M., Cappiello, A., Anand, A., Oren, D. A., Heninger, G. R., Charney, D. S., &amp; Krystal, J. H. (2000). Antidepressant effects of ketamine in depressed patients. <em>Biol. Psychiatry</em>, <em>47</em>(4), 351–354. Retrieved from <a href="https://www.ncbi.nlm.nih.gov/pubmed/10686270">https://www.ncbi.nlm.nih.gov/pubmed/10686270</a>
 </div>
@@ -681,6 +881,9 @@ Burke, H. M., Davis, M. C., Otte, C., &amp; Mohr, D. C. (2005). Depression and c
 </div>
 <div id="ref-cheng_medial_2016" class="csl-entry" role="listitem">
 Cheng, W., Rolls, E. T., Qiu, J., Liu, W., Tang, Y., Huang, C.-C., … Feng, J. (2016). Medial reward and lateral non-reward orbitofrontal cortex circuits change in opposite directions in depression. <em>Brain</em>, aww255. <a href="https://doi.org/10.1093/brain/aww255">https://doi.org/10.1093/brain/aww255</a>
+</div>
+<div id="ref-craddock_genetics_2013" class="csl-entry" role="listitem">
+Craddock, N., &amp; Sklar, P. (2013). Genetics of bipolar disorder. <em>The Lancet</em>, <em>381</em>(9878), 1654–1662. <a href="https://doi.org/10.1016/S0140-6736(13)60855-7">https://doi.org/10.1016/S0140-6736(13)60855-7</a>
 </div>
 <div id="ref-dierckx_efficacy_2012" class="csl-entry" role="listitem">
 Dierckx, B., Heijnen, W. T., Broek, W. W. van den, &amp; Birkenhäger, T. K. (2012). Efficacy of electroconvulsive therapy in bipolar versus unipolar major depression: A meta-analysis. <em>Bipolar Disorders</em>, <em>14</em>(2), 146–150. <a href="https://doi.org/10.1111/j.1399-5618.2012.00997.x">https://doi.org/10.1111/j.1399-5618.2012.00997.x</a>
@@ -694,8 +897,14 @@ Fitzgerald, P. B., Laird, A. R., Maller, J., &amp; Daskalakis, Z. J. (2008). A m
 <div id="ref-Frohlich2014-tq" class="csl-entry" role="listitem">
 Frohlich, J., &amp; Van Horn, J. D. (2014). Reviewing the ketamine model for schizophrenia. <em>J. Psychopharmacol.</em>, <em>28</em>(4), 287–302. <a href="https://doi.org/10.1177/0269881113512909">https://doi.org/10.1177/0269881113512909</a>
 </div>
+<div id="ref-Geddes2013-hm" class="csl-entry" role="listitem">
+Geddes, J. R., &amp; Miklowitz, D. J. (2013). Treatment of bipolar disorder. <em>The Lancet</em>, <em>381</em>(9878), 1672–1682. <a href="https://doi.org/10.1016/S0140-6736(13)60857-0">https://doi.org/10.1016/S0140-6736(13)60857-0</a>
+</div>
 <div id="ref-goldstein-piekarski_human_2016" class="csl-entry" role="listitem">
 Goldstein-Piekarski, A. N., Korgaonkar, M. S., Green, E., Suppes, T., Schatzberg, A. F., Hastie, T., … Williams, L. M. (2016). Human amygdala engagement moderated by early life stress exposure is a biobehavioral target for predicting recovery on antidepressants. <em>Proceedings of the National Academy of Sciences</em>, <em>113</em>(42), 11955–11960. <a href="https://doi.org/10.1073/pnas.1606671113">https://doi.org/10.1073/pnas.1606671113</a>
+</div>
+<div id="ref-hallahan_structural_2011" class="csl-entry" role="listitem">
+Hallahan, B., Newell, J., Soares, J. C., Brambilla, P., Strakowski, S. M., Fleck, D. E., … McDonald, C. (2011). Structural <span>Magnetic</span> <span>Resonance</span> <span>Imaging</span> in <span>Bipolar</span> <span>Disorder</span>: <span>An</span> <span>International</span> <span>Collaborative</span> <span>Mega</span>-<span>Analysis</span> of <span>Individual</span> <span>Adult</span> <span>Patient</span> <span>Data</span>. <em>Biological Psychiatry</em>, <em>69</em>(4), 326–335. <a href="https://doi.org/10.1016/j.biopsych.2010.08.029">https://doi.org/10.1016/j.biopsych.2010.08.029</a>
 </div>
 <div id="ref-Hamilton2012-iv" class="csl-entry" role="listitem">
 Hamilton, J. P., Etkin, A., Furman, D. J., Lemus, M. G., Johnson, R. F., &amp; Gotlib, I. H. (2012). Functional neuroimaging of major depressive disorder: A <span>Meta-Analysis</span> and new integration of baseline activation and neural response data. <em>AJP</em>, <em>169</em>(7), 693–703. <a href="https://doi.org/10.1176/appi.ajp.2012.11071105">https://doi.org/10.1176/appi.ajp.2012.11071105</a>
@@ -703,17 +912,29 @@ Hamilton, J. P., Etkin, A., Furman, D. J., Lemus, M. G., Johnson, R. F., &amp; G
 <div id="ref-Jiang2024-dt" class="csl-entry" role="listitem">
 Jiang, C., DiLeone, R. J., Pittenger, C., &amp; Duman, R. S. (2024). The endogenous opioid system in the medial prefrontal cortex mediates ketamine’s antidepressant-like actions. <em>Translational Psychiatry</em>, <em>14</em>(1), 90. <a href="https://doi.org/10.1038/s41398-024-02796-0">https://doi.org/10.1038/s41398-024-02796-0</a>
 </div>
+<div id="ref-lawrence_subcortical_2004" class="csl-entry" role="listitem">
+Lawrence, N. S., Williams, A. M., Surguladze, S., Giampietro, V., Brammer, M. J., Andrew, C., … Phillips, M. L. (2004). Subcortical and ventral prefrontal cortical neural responses to facial expressions distinguish patients with bipolar disorder and major depression. <em>Biological Psychiatry</em>, <em>55</em>(6), 578–587. <a href="https://doi.org/10.1016/j.biopsych.2003.11.017">https://doi.org/10.1016/j.biopsych.2003.11.017</a>
+</div>
 <div id="ref-Leung2018-ks" class="csl-entry" role="listitem">
 Leung, J., Selvage, C., Bosdet, T., Branov, J., Rosen-Heath, A., Bishop, C., … Horvath, G. (2018). Salivary serotonin does not correlate with central serotonin turnover in adult phenylketonuria (<span>PKU</span>) patients. <em>Molecular Genetics and Metabolism Reports</em>, <em>15</em>, 100–105. <a href="https://doi.org/10.1016/j.ymgmr.2018.03.008">https://doi.org/10.1016/j.ymgmr.2018.03.008</a>
 </div>
 <div id="ref-Li2010-ve" class="csl-entry" role="listitem">
 Li, N., Lee, B., Liu, R.-J., Banasr, M., Dwyer, J. M., Iwata, M., … Duman, R. S. (2010). <span class="nocase">mTOR-dependent</span> synapse formation underlies the rapid antidepressant effects of <span>NMDA</span> antagonists. <em>Science</em>, <em>329</em>(5994), 959–964. <a href="https://doi.org/10.1126/science.1190287">https://doi.org/10.1126/science.1190287</a>
 </div>
+<div id="ref-Machado-Vieira2009-by" class="csl-entry" role="listitem">
+Machado-Vieira, R., Manji, H. K., &amp; Zarate, C. A., Jr. (2009). The role of lithium in the treatment of bipolar disorder: Convergent evidence for neurotrophic effects as a unifying hypothesis. <em>Bipolar Disorders</em>, <em>11 Suppl 2</em>, 92–109. <a href="https://doi.org/10.1111/j.1399-5618.2009.00714.x">https://doi.org/10.1111/j.1399-5618.2009.00714.x</a>
+</div>
 <div id="ref-mahar_stress_2014" class="csl-entry" role="listitem">
 Mahar, I., Bambico, F. R., Mechawar, N., &amp; Nobrega, J. N. (2014). Stress, serotonin, and hippocampal neurogenesis in relation to depression and antidepressant effects. <em>Neuroscience &amp; Biobehavioral Reviews</em>, <em>38</em>, 173–192. <a href="https://doi.org/10.1016/j.neubiorev.2013.11.009">https://doi.org/10.1016/j.neubiorev.2013.11.009</a>
 </div>
+<div id="ref-malhi_potential_2013" class="csl-entry" role="listitem">
+Malhi, G. S., Tanious, M., Das, P., Coulston, C. M., &amp; Berk, M. (2013). Potential <span>Mechanisms</span> of <span>Action</span> of <span>Lithium</span> in <span>Bipolar</span> <span>Disorder</span>. <em>CNS Drugs</em>, <em>27</em>(2), 135–153. <a href="https://doi.org/10.1007/s40263-013-0039-0">https://doi.org/10.1007/s40263-013-0039-0</a>
+</div>
 <div id="ref-Medici2014-pn" class="csl-entry" role="listitem">
 Medici, M., Direk, N., Visser, W. E., Korevaar, T. I. M., Hofman, A., Visser, T. J., … Peeters, R. P. (2014). Thyroid function within the normal range and the risk of depression: A population-based cohort study. <em>J. Clin. Endocrinol. Metab.</em>, <em>99</em>(4), 1213–1219. <a href="https://doi.org/10.1210/jc.2013-3589">https://doi.org/10.1210/jc.2013-3589</a>
+</div>
+<div id="ref-Merikangas2007-hu" class="csl-entry" role="listitem">
+Merikangas, K. R., Akiskal, H. S., Angst, J., Greenberg, P. E., Hirschfeld, R. M. A., Petukhova, M., &amp; Kessler, R. C. (2007). Lifetime and 12-month prevalence of bipolar spectrum disorder in the national comorbidity survey replication. <em>Archives of General Psychiatry</em>, <em>64</em>(5), 543–552. <a href="https://doi.org/10.1001/archpsyc.64.5.543">https://doi.org/10.1001/archpsyc.64.5.543</a>
 </div>
 <div id="ref-Moncrieff2022-os" class="csl-entry" role="listitem">
 Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., &amp; Horowitz, M. A. (2022). The serotonin theory of depression: A systematic umbrella review of the evidence. <em>Molecular Psychiatry</em>. <a href="https://doi.org/10.1038/s41380-022-01661-0">https://doi.org/10.1038/s41380-022-01661-0</a>
@@ -735,6 +956,9 @@ Sankar, A., Melin, A., Lorenzetti, V., Horton, P., Costafreda, S. G., &amp; Fu, 
 </div>
 <div id="ref-Sheline2010-nh" class="csl-entry" role="listitem">
 Sheline, Y. I., Price, J. L., Yan, Z., &amp; Mintun, M. A. (2010). Resting-state functional <span>MRI</span> in depression unmasks increased connectivity between networks via the dorsal nexus. <em>Proc. Natl. Acad. Sci. U. S. A.</em>, <em>107</em>(24), 11020–11025. <a href="https://doi.org/10.1073/pnas.1000446107">https://doi.org/10.1073/pnas.1000446107</a>
+</div>
+<div id="ref-Sidor2012-ki" class="csl-entry" role="listitem">
+Sidor, M. M., &amp; MacQueen, G. M. (2012). An update on antidepressant use in bipolar depression. <em>Current Psychiatry Reports</em>, <em>14</em>(6), 696–704. <a href="https://doi.org/10.1007/s11920-012-0323-6">https://doi.org/10.1007/s11920-012-0323-6</a>
 </div>
 <div id="ref-Tiger2015-dy" class="csl-entry" role="listitem">
 Tiger, M., Svenningsson, P., Nord, M., Jabre, S., Halldin, C., &amp; Lundberg, J. (2015). No correlation between serotonin and its metabolite <span>5-HIAA</span> in the cerebrospinal fluid and [<span>11C]AZ10419369</span> binding measured with <span>PET</span> in healthy volunteers. Retrieved from <a href="http://hdl.handle.net/10616/44513">http://hdl.handle.net/10616/44513</a>
