@@ -18,7 +18,7 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
     - Broader definitions suggest 2-3 or 3-5%
 - ~1/3 chronic & severe
 - Onset post-puberty, early adulthood
-- Males earlier onset & greater severity
+- Males: Earlier onset & greater severity
 - Pervasive disturbance in mood, thinking, movement, action, memory, perception
 - Increased (early) mortality
 
@@ -242,7 +242,8 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
 
 ### Biomarkers
 
-![Table 1 from @Kraguljac2021-kp](../include/img/kraguljac-2021-tbl01.png)
+![[Table 1 from @Kraguljac2021-kp]](../include/img/kraguljac-2021-tbl01.png)
+
 ### Novel therapies
 
 - Virtual Reality Assisted therapy [@Bisso2020-nq; @Dellazizzo2021-tk]
