@@ -20,40 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -314,11 +280,14 @@ div.csl-indent {
   <li><a href="#hypoactivity" id="toc-hypoactivity" class="nav-link" data-scroll-target="#hypoactivity">Hypoactivity</a></li>
   <li><a href="#hyperactivity" id="toc-hyperactivity" class="nav-link" data-scroll-target="#hyperactivity">Hyperactivity</a></li>
   </ul></li>
-  <li><a href="#altered-connectivity" id="toc-altered-connectivity" class="nav-link" data-scroll-target="#altered-connectivity">Altered connectivity</a></li>
+  <li><a href="#altered-connectivity" id="toc-altered-connectivity" class="nav-link" data-scroll-target="#altered-connectivity">Altered connectivity</a>
+  <ul class="collapse">
+  <li><a href="#cheng_medial_2016" id="toc-cheng_medial_2016" class="nav-link" data-scroll-target="#cheng_medial_2016"><span class="citation" data-cites="cheng_medial_2016">(Cheng et al., 2016)</span></a></li>
   <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  </ul></li>
   <li><a href="#pharmacological-factors" id="toc-pharmacological-factors" class="nav-link" data-scroll-target="#pharmacological-factors">Pharmacological factors</a>
   <ul class="collapse">
-  <li><a href="#measuring-5-ht" id="toc-measuring-5-ht" class="nav-link" data-scroll-target="#measuring-5-ht">Measuring 5-HT</a></li>
+  <li><a href="#monoamine-5-ht-and-ne-hypothesis" id="toc-monoamine-5-ht-and-ne-hypothesis" class="nav-link" data-scroll-target="#monoamine-5-ht-and-ne-hypothesis">Monoamine (5-HT and NE) hypothesis</a></li>
   </ul></li>
   <li><a href="#treatments" id="toc-treatments" class="nav-link" data-scroll-target="#treatments">Treatments</a>
   <ul class="collapse">
@@ -331,7 +300,7 @@ div.csl-indent {
   <li><a href="#putative-pathway-of-pathology" id="toc-putative-pathway-of-pathology" class="nav-link" data-scroll-target="#putative-pathway-of-pathology">Putative pathway of pathology</a></li>
   <li><a href="#putting-the-pieces-together" id="toc-putting-the-pieces-together" class="nav-link" data-scroll-target="#putting-the-pieces-together">Putting the pieces together</a></li>
   </ul></li>
-  <li><a href="#the-disordered-mind-take-home-messages" id="toc-the-disordered-mind-take-home-messages" class="nav-link" data-scroll-target="#the-disordered-mind-take-home-messages">The disordered mind: Take home messages</a></li>
+  <li><a href="#the-disordered-mind" id="toc-the-disordered-mind" class="nav-link" data-scroll-target="#the-disordered-mind">The disordered mind</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/edit/main/src/resources/affective-disorders.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -373,16 +342,11 @@ div.csl-indent {
 </ul></li>
 <li>MZ concordance ~60% vs.&nbsp;DZ ~20% suggests genetic component</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/mahar-table-1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/mahar-table-1.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1016/j.neubiorev.2013.11.009"><span class="citation" data-cites="mahar_stress_2014">(<span>Mahar, Bambico, Mechawar, &amp; Nobrega, 2014</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="mahar_stress_2014">(<a href="#ref-mahar_stress_2014" role="doc-biblioref">Mahar, Bambico, Mechawar, &amp; Nobrega, 2014</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 </section>
 <section id="neurobiology" class="level3">
@@ -393,41 +357,26 @@ div.csl-indent {
 <li>Reduced hippocampal volumes</li>
 </ul>
 <p>Left Hippocampus</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/videbech-left-hipp.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
+<div class="{layout-ncol-2}">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/videbech-left-hipp.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.11.1957"><span class="citation" data-cites="Videbech2004-sm">(<span>Videbech &amp; Ravnkilde, 2004</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Videbech2004-sm">(<a href="#ref-Videbech2004-sm" role="doc-biblioref">Videbech &amp; Ravnkilde, 2004</a>)</span>. Left hippocampus</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>Right Hippocampus</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/videbech-right-hipp.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/videbech-right-hipp.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://ajp.psychiatryonline.org/doi/abs/10.1176/appi.ajp.161.11.1957"><span class="citation" data-cites="Videbech2004-sm">(<span>Videbech &amp; Ravnkilde, 2004</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Videbech2004-sm">(<a href="#ref-Videbech2004-sm" role="doc-biblioref">Videbech &amp; Ravnkilde, 2004</a>)</span>. Right hippocampus</figcaption>
 </figure>
 </div>
 </div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/palazido-2012-table-1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/palazido-2012-table-1.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1093/bmb/lds004"><span class="citation" data-cites="Palazidou2012-je">(<span>Palazidou, 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Palazidou2012-je">(<a href="#ref-Palazidou2012-je" role="doc-biblioref">Palazidou, 2012</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
-<!-- Areas of the brain whose sizes are altered in depression -->
 </section>
 <section id="hypoactivity" class="level4">
 <h4 class="anchored" data-anchor-id="hypoactivity">Hypoactivity</h4>
@@ -437,47 +386,31 @@ div.csl-indent {
 <li>Insula</li>
 <li>Cerebellum</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/fitzgerald-2008.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/fitzgerald-2008.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1002/hbm.20426"><span class="citation" data-cites="fitzgerald_meta-analytic_2008">(<span>Fitzgerald, Laird, Maller, &amp; Daskalakis, 2008</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="fitzgerald_meta-analytic_2008">(<a href="#ref-fitzgerald_meta-analytic_2008" role="doc-biblioref">Fitzgerald, Laird, Maller, &amp; Daskalakis, 2008</a>)</span>. [a] patients v. ctrls, [b] patients on SSRIs, [c] patients v. ctrls (happy stim), [d] patients v. controls (sad stim)</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>[a] patients v. ctrls, [b] patients on SSRIs, [c] patients v. ctrls (happy stim), [d] patients v. controls (sad stim)</p>
 </section>
 <section id="hyperactivity" class="level4">
 <h4 class="anchored" data-anchor-id="hyperactivity">Hyperactivity</h4>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f001.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f001.jpeg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://doi.org/10.1176/appi.ajp.2012.11071105"><span class="citation" data-cites="Hamilton2012-iv">(<span>Hamilton et al., 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Hamilton2012-iv">(<a href="#ref-Hamilton2012-iv" role="doc-biblioref">Hamilton et al., 2012</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 <ul>
 <li>Both valence-specific and non-valence specific</li>
 </ul>
-<p><a href="https://doi.org/10.1176/appi.ajp.2012.11071105"><span class="citation" data-cites="Hamilton2012-iv">(<span>Hamilton et al., 2012</span>)</span></a></p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f002.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f002.jpeg" class="img-fluid figure-img"></p>
-<figcaption><a href="https://doi.org/10.1176/appi.ajp.2012.11071105"><span class="citation" data-cites="Hamilton2012-iv">(<span>Hamilton et al., 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Hamilton2012-iv">(<a href="#ref-Hamilton2012-iv" role="doc-biblioref">Hamilton et al., 2012</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
+<p><a href="https://doi.org/10.1176/appi.ajp.2012.11071105"><span class="citation" data-cites="Hamilton2012-iv">(<span>Hamilton et al., 2012</span>)</span></a></p>
 </section>
 </section>
 <section id="altered-connectivity" class="level3">
@@ -485,102 +418,80 @@ div.csl-indent {
 <ul>
 <li>Increased connectivity between resting state network regions and dorsal PFC <a href="http://doi.org/10.1073/pnas.1000446107"><span class="citation" data-cites="Sheline2010-nh">(<span>Sheline, Price, Yan, &amp; Mintun, 2010</span>)</span></a></li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.pnas.org/content/107/24/11020/F1.large.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://www.pnas.org/content/107/24/11020/F1.large.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1073/pnas.1000446107"><span class="citation" data-cites="Sheline2010-nh">(<span>Sheline et al., 2010</span>)</span></a></figcaption>
+<p><img src="https://www.pnas.org/cms/10.1073/pnas.1000446107/asset/96a2e572-5688-4e55-ab30-9bd5843aa80a/assets/graphic/pnas.1000446107fig01.jpeg" class="img-fluid figure-img"></p>
+<figcaption><span class="citation" data-cites="Sheline2010-nh">(<a href="#ref-Sheline2010-nh" role="doc-biblioref">Sheline et al., 2010</a>)</span>. Seed regions and targets. Each of the three solid circles corresponds to a seed region in the DLPFC, part of the CCN (yellow); precuneus, part of the DMN (pink); and subgenual and pregenual cingulate cortex, the affective division of the ACC (16) (turquoise). The correspondingly colored open circles represent regions with significantly increased connectivity with the respective seed regions. CCN (yellow); precuneus, part of DMN (pink); and affective division of the ACC (turquoise)</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>CCN (yellow); precuneus, part of DMN (pink); and affective division of the ACC (turquoise)</p>
+<section id="cheng_medial_2016" class="level4">
+<h4 class="anchored" data-anchor-id="cheng_medial_2016"><span class="citation" data-cites="cheng_medial_2016">(<a href="#ref-cheng_medial_2016" role="doc-biblioref">Cheng et al., 2016</a>)</span></h4>
 <ul>
-<li><a href="http://doi.org/10.1093/brain/aww255"><span class="citation" data-cites="cheng_medial_2016">(<span>Cheng et al., 2016</span>)</span></a></li>
 <li>Resting state fMRI (rsFMRI) in 421 patients with major depressive disorder and 488 control subjects.</li>
 <li>Reduced connectivity between orbitofrontal cortex (OFC) and other areas of the brain</li>
 <li>Increased connectivity between lateral PFC and other brain areas</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/cheng-2016-F1.large-1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/cheng-2016-F1.large-1.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1093/brain/aww255"><span class="citation" data-cites="cheng_medial_2016">(<span>Cheng et al., 2016</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="cheng_medial_2016">(<a href="#ref-cheng_medial_2016" role="doc-biblioref">Cheng et al., 2016</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/cheng-2016-F2.large-1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/cheng-2016-F2.large-1.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1093/brain/aww255"><span class="citation" data-cites="cheng_medial_2016">(<span>Cheng et al., 2016</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="cheng_medial_2016">(<a href="#ref-cheng_medial_2016" role="doc-biblioref">Cheng et al., 2016</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
 </section>
-<section id="summary" class="level3">
-<h3 class="anchored" data-anchor-id="summary">Summary</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bmb/101/1/10.1093/bmb/lds004/2/m_lds00401.jpeg?Expires=2147483647&amp;Signature=k1Ppd9IqxUhmxtQcyGvxydDeNZSpuLGX9jgNGFy3URlPun5aK2dwxJbyGEGXrXDKdWhBxXxEpzU~mVWqz0B3YC1U4~W10tC0K8r91ynB2r-3lHarpCQnPDZBF2LIP302Mp3VL8MTh9YSQH5EtSmpRjeGOc2OPBC4XPHXdAZl~-5OVz4TtSJNBhXfHoSqabwtN9xHAJJAVkJ7kxpZp3vfVc8JK71NEcBauD7ZM40WtnsIfSIFHc~UvSECc-mbSIJAb1zmbom9U-80FG9NfEc0DbO-xJQTowuJqZD2fig~tlMFCATL8Wk8NwY4ushk~K99gQCJnYpq-~wQbtSacPBzOQ__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
+<section id="summary" class="level4">
+<h4 class="anchored" data-anchor-id="summary">Summary</h4>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bmb/101/1/10.1093/bmb/lds004/2/m_lds00401.jpeg?Expires=2147483647&amp;Signature=k1Ppd9IqxUhmxtQcyGvxydDeNZSpuLGX9jgNGFy3URlPun5aK2dwxJbyGEGXrXDKdWhBxXxEpzU~mVWqz0B3YC1U4~W10tC0K8r91ynB2r-3lHarpCQnPDZBF2LIP302Mp3VL8MTh9YSQH5EtSmpRjeGOc2OPBC4XPHXdAZl~-5OVz4TtSJNBhXfHoSqabwtN9xHAJJAVkJ7kxpZp3vfVc8JK71NEcBauD7ZM40WtnsIfSIFHc~UvSECc-mbSIJAb1zmbom9U-80FG9NfEc0DbO-xJQTowuJqZD2fig~tlMFCATL8Wk8NwY4ushk~K99gQCJnYpq-~wQbtSacPBzOQ__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1093/bmb/lds004"><span class="citation" data-cites="Palazidou2012-je">(<span>Palazidou, 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Palazidou2012-je">(<a href="#ref-Palazidou2012-je" role="doc-biblioref">Palazidou, 2012</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 <!-- Summary of brain areas implicated in depression -->
 </section>
+</section>
 <section id="pharmacological-factors" class="level3">
 <h3 class="anchored" data-anchor-id="pharmacological-factors">Pharmacological factors</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/palazido-2012-table-2.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../include/img/palazido-2012-table-2.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1093/bmb/lds004"><span class="citation" data-cites="Palazidou2012-je">(<span>Palazidou, 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Palazidou2012-je">(<a href="#ref-Palazidou2012-je" role="doc-biblioref">Palazidou, 2012</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 <!-- Neurochemical and hormonal alterations in depression -->
 <ul>
 <li>Endocrine
 <ul>
-<li>Thyroid dysfunction <a href="http://dx.doi.org/10.1210/jc.2013-3589"><span class="citation" data-cites="Medici2014-pn">(<span>Medici et al., 2014</span>)</span></a></li>
-<li>Altered cortisol reactivity <a href="http://dx.doi.org/10.1016/j.psyneuen.2005.02.010"><span class="citation" data-cites="Burke2005-ya">(<span>Burke, Davis, Otte, &amp; Mohr, 2005</span>)</span></a></li>
+<li>Thyroid dysfunction <span class="citation" data-cites="Medici2014-pn">(<a href="#ref-Medici2014-pn" role="doc-biblioref">Medici et al., 2014</a>)</span></li>
+<li>Altered cortisol reactivity <span class="citation" data-cites="Burke2005-ya">(<a href="#ref-Burke2005-ya" role="doc-biblioref">Burke, Davis, Otte, &amp; Mohr, 2005</a>)</span></li>
 </ul></li>
 <li>Brain-derived neurotrophic factor (BDNF)</li>
 <li>Proinflammatory cytokines</li>
-<li>Monoamine (5-HT and NE) hypothesis
+</ul>
+<section id="monoamine-5-ht-and-ne-hypothesis" class="level4">
+<h4 class="anchored" data-anchor-id="monoamine-5-ht-and-ne-hypothesis">Monoamine (5-HT and NE) hypothesis</h4>
 <ul>
 <li>More: euphoria</li>
 <li>Less: depression</li>
-</ul></li>
 <li>Evidence for
 <ul>
 <li>Resperine (antagonist for NE &amp; 5-HT) can cause depression</li>
-<li>Low serotonin (5-HT) metabolite levels in CSF of suicidal depressives <a href="http://dx.doi.org/10.1111/j.1600-0447.2005.00639.x"><span class="citation" data-cites="samuelsson_csf_2006">(<span>Samuelsson, Jokinen, Nordström, &amp; Nordström, 2006</span>)</span></a></li>
+<li>Low serotonin (5-HT) metabolite levels in CSF of suicidal depressives <span class="citation" data-cites="samuelsson_csf_2006">(<a href="#ref-samuelsson_csf_2006" role="doc-biblioref">Samuelsson, Jokinen, Nordström, &amp; Nordström, 2006</a>)</span></li>
 </ul></li>
 </ul>
-<section id="measuring-5-ht" class="level4">
-<h4 class="anchored" data-anchor-id="measuring-5-ht">Measuring 5-HT</h4>
+<section id="measuring-5-ht" class="level5">
+<h5 class="anchored" data-anchor-id="measuring-5-ht">Measuring 5-HT</h5>
 <ul>
 <li>CSF, platelets, plasma, urine, saliva</li>
-<li>CSF &amp; platelets correlate highly <a href="http://dx.doi.org/10.1016/j.bbagen.2012.05.012"><span class="citation" data-cites="Audhya2012-sv">(<span>Audhya, Adams, &amp; Johansen, 2012</span>)</span></a></li>
-<li>But salivary 5-HT does not correlate with mood symptoms <a href="http://dx.doi.org/10.1016/j.ymgmr.2018.03.008"><span class="citation" data-cites="Leung2018-ks">(<span>Leung et al., 2018</span>)</span></a></li>
+<li>CSF &amp; platelets correlate highly <span class="citation" data-cites="Audhya2012-sv">(<a href="#ref-Audhya2012-sv" role="doc-biblioref">Audhya, Adams, &amp; Johansen, 2012</a>)</span></li>
+<li>But salivary 5-HT does not correlate with mood symptoms <span class="citation" data-cites="Leung2018-ks">(<a href="#ref-Leung2018-ks" role="doc-biblioref">Leung et al., 2018</a>)</span></li>
 </ul>
+</section>
 </section>
 </section>
 <section id="treatments" class="level3">
@@ -591,30 +502,18 @@ div.csl-indent {
 <li>increased rostral anterior cingulate cortex (rACC) activation vs.&nbsp;decrease in healthy controls</li>
 <li>decreased activity in left precentral gyrus</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0925492717303323-gr2_lrg.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0925492717303323-gr2_lrg.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1016/j.pscychresns.2018.07.002"><span class="citation" data-cites="Sankar2018-yp">(<span>Sankar et al., 2018</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Sankar2018-yp">(<a href="#ref-Sankar2018-yp" role="doc-biblioref">Sankar et al., 2018</a>)</span>. Fig. 2. Group by time interaction effects of psychological therapies. There was a significant group by time interaction in the left rostral anterior cingulate cortex, in which participants with major depression showed increased activity following psychological therapy while healthy participants showed a reduction in activity at the follow up scan. Sagittal (x), coronal (y), and axial (x) coordinates for each section are presented. Results are <em>P</em> &lt; 0.05 FDR corrected.</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>Fig. 2. Group by time interaction effects of psychological therapies. There was a significant group by time interaction in the left rostral anterior cingulate cortex, in which participants with major depression showed increased activity following psychological therapy while healthy participants showed a reduction in activity at the follow up scan. Sagittal (x), coronal (y), and axial (x) coordinates for each section are presented. Results are P &lt; 0.05 FDR corrected.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0925492717303323-gr3_lrg.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0925492717303323-gr3_lrg.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1016/j.pscychresns.2018.07.002"><span class="citation" data-cites="Sankar2018-yp">(<span>Sankar et al., 2018</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Sankar2018-yp">(<a href="#ref-Sankar2018-yp" role="doc-biblioref">Sankar et al., 2018</a>)</span>. Fig. 3. Longitudinal changes following psychological therapies. There was a main effect of in the left precentral gyrus, which showed decreased activity following psychological therapy in major depression. The coronal (y) coordinate of each section is presented. There were additional regions which did not meet our threshold of 50 mm3 for significance. Results are <em>P</em> &lt; 0.05 FDR corrected.</figcaption>
 </figure>
 </div>
-</div>
-</div>
-<p>Fig. 3. Longitudinal changes following psychological therapies. There was a main effect of in the left precentral gyrus, which showed decreased activity following psychological therapy in major depression. The coronal (y) coordinate of each section is presented. There were additional regions which did not meet our threshold of 50 mm3 for significance. Results are P &lt; 0.05 FDR corrected.</p>
 </section>
 <section id="electroconvulsive-therapy-ect" class="level4">
 <h4 class="anchored" data-anchor-id="electroconvulsive-therapy-ect">Electroconvulsive Therapy (ECT)</h4>
@@ -623,10 +522,10 @@ div.csl-indent {
 <li>Electric current delivered to the brain causes 30-60s seizure.</li>
 <li>ECT usually done in a hospital’s operating or recovery room under general anesthesia.</li>
 <li>Once every 2 - 5 days for a total of 6 - 12 sessions.</li>
-<li>Remission rates of up to 50.9% <a href="http://doi.org/10.1111/j.1399-5618.2012.00997.x"><span class="citation" data-cites="dierckx_efficacy_2012">(<span>Dierckx, Heijnen, Broek, &amp; Birkenhäger, 2012</span>)</span></a></li>
+<li>Remission rates of up to 50.9% <span class="citation" data-cites="dierckx_efficacy_2012">(<a href="#ref-dierckx_efficacy_2012" role="doc-biblioref">Dierckx, Heijnen, Broek, &amp; Birkenhäger, 2012</a>)</span></li>
 <li>Seems to work via
 <ul>
-<li>Anticonvulsant (block Na+ channel or enhance GABA function) effects</li>
+<li>Anticonvulsant effects (blocking Na+ channel or enhance GABA function)</li>
 <li>Neurotrophic (stimulates neurogenesis) effects</li>
 </ul></li>
 </ul>
@@ -662,6 +561,7 @@ div.csl-indent {
 <li>If SSRI didn’t work, could switch drugs. ~25% became symptom free.</li>
 <li>16% of participants dropped out due to tolerability issues</li>
 <li>Took 6-7 weeks to show response</li>
+<li>But recent reanalyses <span class="citation" data-cites="Pigott2023-zo">(<a href="#ref-Pigott2023-zo" role="doc-biblioref">Pigott, Kim, Xu, Kirsch, &amp; Amsterdam, 2023</a>)</span> suggest “In contrast to the STAR*D-reported 67% cumulative remission rate after up to four antidepressant treatment trials, the rate was 35.0%…”</li>
 </ul>
 </section>
 <section id="who-benefits-from-drug-therapy" class="level5">
@@ -670,21 +570,16 @@ div.csl-indent {
 <li>May depend on
 <ul>
 <li>Early life stress</li>
-<li>Brain (amygdala) response to emotional faces <a href="http://doi.org/10.1073/pnas.1606671113"><span class="citation" data-cites="goldstein-piekarski_human_2016">(<span>Goldstein-Piekarski et al., 2016</span>)</span></a></li>
+<li>Brain (amygdala) response to emotional faces <span class="citation" data-cites="goldstein-piekarski_human_2016">(<a href="#ref-goldstein-piekarski_human_2016" role="doc-biblioref">Goldstein-Piekarski et al., 2016</a>)</span></li>
 </ul></li>
 <li>Low-stress + low amyg reactivity -&gt; &gt; responding</li>
 <li>High stress + high amyg reactivity -&gt; &gt; responding</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.pnas.org/content/113/42/11955/F2.medium.gif"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://www.pnas.org/content/113/42/11955/F2.medium.gif" class="img-fluid figure-img"></p>
-<figcaption><a href="http://doi.org/10.1073/pnas.1606671113"><span class="citation" data-cites="goldstein-piekarski_human_2016">(<span>Goldstein-Piekarski et al., 2016</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="goldstein-piekarski_human_2016">(<a href="#ref-goldstein-piekarski_human_2016" role="doc-biblioref">Goldstein-Piekarski et al., 2016</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 </section>
 </section>
@@ -698,10 +593,24 @@ div.csl-indent {
 <li>Monamine depletion studies…</li>
 </ul>
 <blockquote class="blockquote">
-<p>“<em>…we performed the first meta-analysis of the mood effects in ATD and APTD studies. The depletion of monoamine systems (both 5-HT and NE/DA) does not decrease mood in healthy controls. However, in healthy controls with a family history of MDD the results suggest that mood is slightly decreased…by [monoamine depletion]…</em>”</p>
+<p>“<em>…we performed the first meta-analysis of the mood effects in ATD and APTD studies. The depletion of monoamine systems (both 5-HT and NE/DA) does not decrease mood in healthy controls. However, in healthy controls with a family history of MDD the results suggest that mood is slightly decreased…by [monoamine depletion]…</em>” <span class="citation" data-cites="Ruhe2007-qc">(<a href="#ref-Ruhe2007-qc" role="doc-biblioref">Ruhé, Mason, &amp; Schene, 2007</a>)</span></p>
 </blockquote>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion (APTD) targets DA; alpha-methyl-para-tyrosine (AMPT) targets NE/DA.</p>
-<p><a href="http://dx.doi.org/10.1038/sj.mp.4001949"><span class="citation" data-cites="Ruhe2007-qc">(<span>Ruhé, Mason, &amp; Schene, 2007</span>)</span></a></p>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>“The serotonin hypothesis of depression is still influential. We aimed to synthesise and evaluate evidence on whether depression is associated with lowered serotonin concentration or activity in a systematic umbrella review of the principal relevant areas of research. PubMed, EMBASE and PsycINFO were searched using terms appropriate to each area of research, from their inception until December 2020. Systematic reviews, meta-analyses and large data-set analyses in the following areas were identified: serotonin and serotonin metabolite, 5-HIAA, concentrations in body fluids; serotonin 5-HT1A receptor binding; serotonin transporter (SERT) levels measured by imaging or at post-mortem; tryptophan depletion studies; SERT gene associations and SERT gene-environment interactions…<strong>The main areas of serotonin research provide no consistent evidence of there being an association between serotonin and depression, and no support for the hypothesis that depression is caused by lowered serotonin activity or concentrations</strong>.” <span class="citation" data-cites="Moncrieff2022-os">(<a href="#ref-Moncrieff2022-os" role="doc-biblioref">Moncrieff et al., 2022</a>)</span></p>
+</blockquote>
 </section>
 </section>
 <section id="evaluating-treatments" class="level3">
@@ -709,61 +618,47 @@ div.csl-indent {
 <section id="ketamine-again" class="level5">
 <h5 class="anchored" data-anchor-id="ketamine-again">Ketamine, again</h5>
 <ul>
-<li>Relieves depressive symptoms relatively quickly <a href="https://www.ncbi.nlm.nih.gov/pubmed/10686270"><span class="citation" data-cites="Berman2000-vg">(<span>Berman et al., 2000</span>)</span></a> and <a href="http://dx.doi.org/10.1001/archpsyc.63.8.856"><span class="citation" data-cites="Zarate2006-np">(<span>Zarate et al., 2006</span>)</span></a></li>
-<li>Boosts synaptic spine formation <a href="http://dx.doi.org/10.1126/science.1190287"><span class="citation" data-cites="Li2010-ve">(<span>Li et al., 2010</span>)</span></a> and reverses effects of induced stress</li>
+<li>Relieves depressive symptoms relatively quickly <span class="citation" data-cites="Berman2000-vg Zarate2006-np">(<a href="#ref-Berman2000-vg" role="doc-biblioref">Berman et al., 2000</a>; <a href="#ref-Zarate2006-np" role="doc-biblioref">Zarate et al., 2006</a>)</span></li>
+<li>Boosts synaptic spine formation <span class="citation" data-cites="Li2010-ve">(<a href="#ref-Li2010-ve" role="doc-biblioref">Li et al., 2010</a>)</span> and reverses effects of induced stress</li>
+<li>May operates via endogenous opioid system <span class="citation" data-cites="Jiang2024-dt">(<a href="#ref-Jiang2024-dt" role="doc-biblioref">Jiang, DiLeone, Pittenger, &amp; Duman, 2024</a>)</span></li>
 </ul>
 </section>
 </section>
 <section id="putative-pathway-of-pathology" class="level3">
 <h3 class="anchored" data-anchor-id="putative-pathway-of-pathology">Putative pathway of pathology</h3>
 <ul>
-<li>Depression ~ chronic stress <a href="http://doi.org/10.1016/j.neubiorev.2013.11.009"><span class="citation" data-cites="mahar_stress_2014">(<span>Mahar et al., 2014</span>)</span></a></li>
+<li>Depression ~ chronic stress <span class="citation" data-cites="mahar_stress_2014">(<a href="#ref-mahar_stress_2014" role="doc-biblioref">Mahar et al., 2014</a>)</span></li>
 <li>Stress -&gt; chronic HPA axis activity</li>
 <li>Chronic HPA activity -&gt; neuronal atrophy in hipp &amp; PFC</li>
 <li>Stress &amp; cortisol decrease expression of brain-derived neurotrophic factor (BDNF)</li>
 <li>BDNF boosts neurogenesis</li>
 <li>SSRIs act via BDNF, as do NMDA receptor antagonists (e.g., ketamine)</li>
 </ul>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166223611001913-gr1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223611001913-gr1.jpg" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1016/j.tins.2011.11.004"><span class="citation" data-cites="Duman2012-nz">(<span>Duman &amp; Voleti, 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Duman2012-nz">(<a href="#ref-Duman2012-nz" role="doc-biblioref">Duman &amp; Voleti, 2012</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jopa/2014/jopa_28_4/0269881113512909/20161119/images/medium/10.1177_0269881113512909-fig3.gif"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="http://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jopa/2014/jopa_28_4/0269881113512909/20161119/images/medium/10.1177_0269881113512909-fig3.gif" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1177/0269881113512909"><span class="citation" data-cites="Frohlich2014-tq">(<span>Frohlich &amp; Van Horn, 2014</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Frohlich2014-tq">(<a href="#ref-Frohlich2014-tq" role="doc-biblioref">Frohlich &amp; Van Horn, 2014</a>)</span></figcaption>
 </figure>
-</div>
-</div>
 </div>
 </section>
 <section id="putting-the-pieces-together" class="level3">
 <h3 class="anchored" data-anchor-id="putting-the-pieces-together">Putting the pieces together</h3>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bmb/101/1/10.1093/bmb/lds004/2/m_lds00402.jpeg?Expires=2147483647&amp;Signature=tNJwe~EQlKXRCwAbbb5n7mHXk9PZM-2dPUr5~D~3Bttal1AEudH3CAbMs8LEbBdmQhS-ZQ4p3czOHMtev6lluG-qXIzmW3rAi6lPWIuz4iVuq7XQccT36eCCOOtuBiJjwmVkwVUzr8bxzK3qCxlSZCm6NC1tJOSIJsDpDTwRu7xR27rw28HJ9TzhA7Q47zODf0pSGPK5rG16dHhUgqX57W5Rej8ARNDJE7EvHPcIqXxodn5d9e2JRhGyQyIf4VTBu0CxAlFrv9gkihIgCnjbtMPQwpebUzvcCwYf-~cCJJWDd7H9Dmd-IA7HSMPkxFPVFTNHGC2LC86QlefZKf87WQ__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output-display">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bmb/101/1/10.1093/bmb/lds004/2/m_lds00402.jpeg?Expires=2147483647&amp;Signature=tNJwe~EQlKXRCwAbbb5n7mHXk9PZM-2dPUr5~D~3Bttal1AEudH3CAbMs8LEbBdmQhS-ZQ4p3czOHMtev6lluG-qXIzmW3rAi6lPWIuz4iVuq7XQccT36eCCOOtuBiJjwmVkwVUzr8bxzK3qCxlSZCm6NC1tJOSIJsDpDTwRu7xR27rw28HJ9TzhA7Q47zODf0pSGPK5rG16dHhUgqX57W5Rej8ARNDJE7EvHPcIqXxodn5d9e2JRhGyQyIf4VTBu0CxAlFrv9gkihIgCnjbtMPQwpebUzvcCwYf-~cCJJWDd7H9Dmd-IA7HSMPkxFPVFTNHGC2LC86QlefZKf87WQ__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA" class="img-fluid figure-img"></p>
-<figcaption><a href="http://dx.doi.org/10.1093/bmb/lds004"><span class="citation" data-cites="Palazidou2012-je">(<span>Palazidou, 2012</span>)</span></a></figcaption>
+<figcaption><span class="citation" data-cites="Palazidou2012-je">(<a href="#ref-Palazidou2012-je" role="doc-biblioref">Palazidou, 2012</a>)</span></figcaption>
 </figure>
 </div>
-</div>
-</div>
 </section>
 </section>
-<section id="the-disordered-mind-take-home-messages" class="level2">
-<h2 class="anchored" data-anchor-id="the-disordered-mind-take-home-messages">The disordered mind: Take home messages</h2>
+<section id="the-disordered-mind" class="level2">
+<h2 class="anchored" data-anchor-id="the-disordered-mind">The disordered mind</h2>
 <ul>
 <li>Multi-level, multi-method, multi-variate approaches essential to understanding mental illness</li>
 <li>Developmental processes across the life span</li>
@@ -805,6 +700,9 @@ Goldstein-Piekarski, A. N., Korgaonkar, M. S., Green, E., Suppes, T., Schatzberg
 <div id="ref-Hamilton2012-iv" class="csl-entry" role="listitem">
 Hamilton, J. P., Etkin, A., Furman, D. J., Lemus, M. G., Johnson, R. F., &amp; Gotlib, I. H. (2012). Functional neuroimaging of major depressive disorder: A <span>Meta-Analysis</span> and new integration of baseline activation and neural response data. <em>AJP</em>, <em>169</em>(7), 693–703. <a href="https://doi.org/10.1176/appi.ajp.2012.11071105">https://doi.org/10.1176/appi.ajp.2012.11071105</a>
 </div>
+<div id="ref-Jiang2024-dt" class="csl-entry" role="listitem">
+Jiang, C., DiLeone, R. J., Pittenger, C., &amp; Duman, R. S. (2024). The endogenous opioid system in the medial prefrontal cortex mediates ketamine’s antidepressant-like actions. <em>Translational Psychiatry</em>, <em>14</em>(1), 90. <a href="https://doi.org/10.1038/s41398-024-02796-0">https://doi.org/10.1038/s41398-024-02796-0</a>
+</div>
 <div id="ref-Leung2018-ks" class="csl-entry" role="listitem">
 Leung, J., Selvage, C., Bosdet, T., Branov, J., Rosen-Heath, A., Bishop, C., … Horvath, G. (2018). Salivary serotonin does not correlate with central serotonin turnover in adult phenylketonuria (<span>PKU</span>) patients. <em>Molecular Genetics and Metabolism Reports</em>, <em>15</em>, 100–105. <a href="https://doi.org/10.1016/j.ymgmr.2018.03.008">https://doi.org/10.1016/j.ymgmr.2018.03.008</a>
 </div>
@@ -817,8 +715,14 @@ Mahar, I., Bambico, F. R., Mechawar, N., &amp; Nobrega, J. N. (2014). Stress, se
 <div id="ref-Medici2014-pn" class="csl-entry" role="listitem">
 Medici, M., Direk, N., Visser, W. E., Korevaar, T. I. M., Hofman, A., Visser, T. J., … Peeters, R. P. (2014). Thyroid function within the normal range and the risk of depression: A population-based cohort study. <em>J. Clin. Endocrinol. Metab.</em>, <em>99</em>(4), 1213–1219. <a href="https://doi.org/10.1210/jc.2013-3589">https://doi.org/10.1210/jc.2013-3589</a>
 </div>
+<div id="ref-Moncrieff2022-os" class="csl-entry" role="listitem">
+Moncrieff, J., Cooper, R. E., Stockmann, T., Amendola, S., Hengartner, M. P., &amp; Horowitz, M. A. (2022). The serotonin theory of depression: A systematic umbrella review of the evidence. <em>Molecular Psychiatry</em>. <a href="https://doi.org/10.1038/s41380-022-01661-0">https://doi.org/10.1038/s41380-022-01661-0</a>
+</div>
 <div id="ref-Palazidou2012-je" class="csl-entry" role="listitem">
 Palazidou, E. (2012). The neurobiology of depression. <em>British Medical Bulletin</em>, <em>101</em>, 127–145. <a href="https://doi.org/10.1093/bmb/lds004">https://doi.org/10.1093/bmb/lds004</a>
+</div>
+<div id="ref-Pigott2023-zo" class="csl-entry" role="listitem">
+Pigott, H. E., Kim, T., Xu, C., Kirsch, I., &amp; Amsterdam, J. (2023). What are the treatment remission, response and extent of improvement rates after up to four trials of antidepressant therapies in real-world depressed patients? A reanalysis of the <span>STAR*D</span> study’s patient-level data with fidelity to the original research protocol. <em>BMJ Open</em>, <em>13</em>(7), e063095. <a href="https://doi.org/10.1136/bmjopen-2022-063095">https://doi.org/10.1136/bmjopen-2022-063095</a>
 </div>
 <div id="ref-Ruhe2007-qc" class="csl-entry" role="listitem">
 Ruhé, H. G., Mason, N. S., &amp; Schene, A. H. (2007). Mood is indirectly related to serotonin, norepinephrine and dopamine levels in humans: A meta-analysis of monoamine depletion studies. <em>Molecular Psychiatry</em>, <em>12</em>(4), 331–359. <a href="https://doi.org/10.1038/sj.mp.4001949">https://doi.org/10.1038/sj.mp.4001949</a>
