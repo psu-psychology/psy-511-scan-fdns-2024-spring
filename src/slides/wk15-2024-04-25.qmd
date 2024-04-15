@@ -1,0 +1,27 @@
+---
+title: "Fear, stress, pleasure, & reward"
+subtitle: "PSY 511.003"
+date: 2024-04-25
+bibliography: ../include/bib/psy-511.bib
+bibliographystyle: apa
+format: 
+  revealjs:
+    theme: default
+    chalkboard: true
+    footer: "[PSY 511 Spr 2024](../index.html)"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/embed/vJTxzsHsako height="100%" width="100%>}}
+
+## Last time...
+
+- Affective disorders
+
+## Today's topics
+
+- Fear & stress
+- Pleasure & reward

@@ -1,0 +1,45 @@
+---
+title: "Disorders of affect"
+subtitle: "PSY 511.003"
+date: 2024-04-18
+bibliography: ../include/bib/psy-511.bib
+bibliographystyle: apa
+format: 
+  revealjs:
+    theme: default
+    chalkboard: true
+    footer: "[PSY 511 Spr 2024](../index.html)"
+---
+
+# Prelude
+
+---
+
+{{< video https://www.youtube.com/embed/lioWzrpCtGQ?si=_ZsKsfOkJrXhDSgm height="100%" width="100%" >}}
+
+## Last time...
+
+- Schizophrenia
+
+---
+
+### What dopamine system is implicated in schizophrenia?
+
+---
+
+### What neurotransmitter system has replaced DA as a target for research?
+
+## Today's topics
+
+- Disorders of affect
+- Link to [resources/affective-disorders](../resources/affective-disorders.qmd)
+
+## Main points
+
+- Major depressive disorder a major public health problem.
+- Major pharmacological treatments influence monoamines, especially 5-HT, but no evidence for 5-HT pathology
+- Bipolar disorder more similar to schizophrenia, despite its presentation
+
+## Next time
+
+- Fear, stress, pleasure, & reward

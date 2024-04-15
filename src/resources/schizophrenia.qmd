@@ -193,7 +193,7 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
 
 - *Psychomimetic* drugs induce schizophrenia-like states
     + Phencyclidine (PCP), ketamine
-    + NMDA receptor antagonists
+    + NMDA-R (receptor) antagonists
 - Ketamine
   - dissociative (secondary) anesthetic
   - side effects include hallucinations, blurred vision, delirium, floating sensations, vivid dreams
@@ -202,7 +202,7 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
 - Schizophrenia $\rightarrow$ *underactivation* of NMDA receptors?
     - NMDA receptor role in learning, plasticity
     - DG neurons in [[@jiao_transmembrane_2017]](10.1073/pnas.1618213114) were glutamate-releasing.
-- NMDAR antagonists -> neurodegeneration, excitotoxicity, & apoptosis
+- NMDA-R antagonists -> neurodegeneration, excitotoxicity, & apoptosis
 
 ### Developmental origins
 
@@ -262,6 +262,6 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
     - Negative valence, positive valence, cognitive systems, social processes, arousal/regulatory systems
 - [U.K. Biobank](https://www.ukbiobank.ac.uk/)
 - [Enhancing Neuro Imaging Genetics through Meta Analysis (ENIGMA) Consortium](https://enigma.ini.usc.edu/)
-- Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP](http://b-snip.org/)) [@Tamminga2014-gn]
+- Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP Project](http://b-snip.org/)) [@Tamminga2014-gn]. [Data shared NIH Data Archive](https://nda.nih.gov/edit_collection.html?id=2274).
 
 ![[Figure 1 from @Tamminga2014-gn]. Multiple illustrative data from bipolar and schizophrenia network for intermediate phenotyping (BSNIP) study. (a) Social function quantified with the Birchwood Social Function Scale in the BSNIP sample. Details in reference 13. Schizophrenia (SZ) and schizoaffective disorder (SAD) groups were almost identical, while bipolar disorder (BDP) showed slightly higher scores. Relatives of all groups were modestly impaired. The patterns of impairment were similar across diagnostic groups. (b) The Schizo-Bipolar scale was developed from the SCID diagnostic criteria for these psychotic diagnoses.12 There was almost continuous overlap between these diagnoses with no point of rarity over this spectrum, lacking support for distinct illness groups based on phenomenology. (c) Cognition was measured with the BACS.14 Group scores are depicted for the diagnostic subgroups, showing the greatest impairment in the SZ group and the least in the BDP group with SAD in between, separated by severity; however groups did not show distinctive qualitative cognitive alterations from each other, except for the severity. (d) In the evoked potential auditory oddball paradigm, the patient groups (SZ and BDP) resembled each other rather broadly, with minimal, distinctive differences, discussed in reference 15. (e) The antisaccade error rates were increased in all patient groups, highest in SZ and lower in BDP, without any differences across relatives.16 Again, while severity differences were present, no other distinctions existed across diagnostic groups. (f) Differences between SZ and BPP groups are present after a pair auditory stimulus, including differences in both patient groups in baseline levels, especially before S2.17 (g) Using VBM analysis to determine grey matter volume,21 a distinctive difference between SZ/SAD, on the one hand and BDP on the other, emerged; specifically, SA and SAD groups demonstrated significant and widespread grey matter volume reduction, while the BDP showed very little grey matter reduction in any area. This would represent a difference between diagnostic groups of a qualitative as well as quantitative nature. (h) FreeSurfer showed a similar outcome, with grey matter reductions widespread in all cortical regions in SZ and SAD, while no distinctive reductions in BDP. (i). Resting state fMRI analysis shows a number of distinctive cerebral networks based on ICA, that were distinctive in some or all of the diagnostic groups.18 In general, these networks were different between all probands and all healthy controls.](../include/img/tamminga-etal-2014-fig-1.png)

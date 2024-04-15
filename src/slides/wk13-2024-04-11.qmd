@@ -34,9 +34,6 @@ format:
 
 ### What are some key differences between biological memory and computer memory?
 
----
-
-### How are 
 
 ## Today's topics
 

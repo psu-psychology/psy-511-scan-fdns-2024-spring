@@ -1,0 +1,1390 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.549">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>PSYCH 511.003 • Spring 2024 - Fear, stress, pleasure, &amp; reward</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script type="application/json" class="js-hypothesis-config">
+{
+  "theme": "clean"
+}
+</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+<script>
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    document.body.classList.add('hypothesis-enabled');
+  });
+</script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../include/css/styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">PSYCH 511.003 • Spring 2024</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../schedule.html"> 
+<span class="menu-text">schedule</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../evaluation.html"> 
+<span class="menu-text">evaluation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../policies.html"> 
+<span class="menu-text">policies</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">slides</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
+        <li>
+    <a class="dropdown-item" href="../slides/wk01-2024-01-11.html">
+ <span class="dropdown-text">Week-01 • Course introduction</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk02-2024-01-18.html">
+ <span class="dropdown-text">Week-02 • Neuroanatomy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk03-2024-01-25.html">
+ <span class="dropdown-text">Week-03 • Cellular Neuroscience I</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk04-2024-02-01.html">
+ <span class="dropdown-text">Week-04 • Cellular Neuroscience II</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk05-2024-02-08.html">
+ <span class="dropdown-text">Week-05 • Neurochemistry</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk06-2024-02-15.html">
+ <span class="dropdown-text">Week-06 • Methods</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk07-2024-02-22.html">
+ <span class="dropdown-text">Week-07 • Evolution</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk08-2024-02-29.html">
+ <span class="dropdown-text">Week-08 • Development</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk09-2024-03-14.html">
+ <span class="dropdown-text">Week-09 • Perception</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk10-2024-03-21.html">
+ <span class="dropdown-text">Week-10 • Action</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk11-2024-03-28.html">
+ <span class="dropdown-text">Week-11 • Language &amp; Cognition</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk12-2024-04-04.html">
+ <span class="dropdown-text">Week-12 • Learning and Memory</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk13-2024-04-11.html">
+ <span class="dropdown-text">Week-13 • Schizophrenia</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../slides/wk14-2024-04-18.html">
+ <span class="dropdown-text">Week-14 • Depression &amp; Bipolar Disorder</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">resources</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
+        <li>
+    <a class="dropdown-item" href="../resources/cognition-language.html">
+ <span class="dropdown-text">Cognition and Language</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="../resources/learning-memory.html">
+ <span class="dropdown-text">Learning &amp; Memory</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="../resources/schizophrenia.html">
+ <span class="dropdown-text">Schizophrenia</span></a>
+  </li>  
+        <li><hr class="dropdown-divider"></li>
+        <li>
+    <a class="dropdown-item" href="../resources/affective-disorders.html">
+ <span class="dropdown-text">Disorders of affect</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-exercises" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">exercises</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-exercises">    
+        <li>
+    <a class="dropdown-item" href="../exercises/ex01.html">
+ <span class="dropdown-text">Exercise 01 • Levels/Terms</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex02.html">
+ <span class="dropdown-text">Exercise 02 • Neuroanatomy</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex03.html">
+ <span class="dropdown-text">Exercise 03 • Neurophysiology I</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex04.html">
+ <span class="dropdown-text">Exercise 04 • Neurophysiology II</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex05.html">
+ <span class="dropdown-text">Exercise 05 • Neurochemistry</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex06.html">
+ <span class="dropdown-text">Exercise 06 • Methods</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex07-evo-devo.html">
+ <span class="dropdown-text">Exercise 07 • Evolution &amp; Development</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../exercises/ex08-devo.html">
+ <span class="dropdown-text">Exercise 08 • Development</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-brain-bases-of-emotion" id="toc-the-brain-bases-of-emotion" class="nav-link active" data-scroll-target="#the-brain-bases-of-emotion">The brain bases of emotion</a>
+  <ul>
+  <li><a href="#locationist-account" id="toc-locationist-account" class="nav-link" data-scroll-target="#locationist-account">Locationist account</a></li>
+  <li><a href="#constructionist-account" id="toc-constructionist-account" class="nav-link" data-scroll-target="#constructionist-account">Constructionist account</a>
+  <ul class="collapse">
+  <li><a href="#amygdala-as-a-hub-for-fear" id="toc-amygdala-as-a-hub-for-fear" class="nav-link" data-scroll-target="#amygdala-as-a-hub-for-fear">Amygdala as a ‘hub’ for <em>fear</em></a></li>
+  <li><a href="#anterior-insula-as-hub-for-disgust" id="toc-anterior-insula-as-hub-for-disgust" class="nav-link" data-scroll-target="#anterior-insula-as-hub-for-disgust">Anterior insula as ‘hub’ for <em>disgust</em></a></li>
+  <li><a href="#orbitofrontal-cortex-ofc-as-hub-for-anger" id="toc-orbitofrontal-cortex-ofc-as-hub-for-anger" class="nav-link" data-scroll-target="#orbitofrontal-cortex-ofc-as-hub-for-anger">Orbitofrontal cortex (OFC) as ‘hub’ for <em>anger</em></a></li>
+  <li><a href="#anterior-cingulate-cortex-as-hub-for-sadness" id="toc-anterior-cingulate-cortex-as-hub-for-sadness" class="nav-link" data-scroll-target="#anterior-cingulate-cortex-as-hub-for-sadness">Anterior cingulate cortex as ‘hub’ for <em>sadness</em></a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#the-biology-of-fear" id="toc-the-biology-of-fear" class="nav-link" data-scroll-target="#the-biology-of-fear">The biology of fear</a>
+  <ul>
+  <li><a href="#animal-models" id="toc-animal-models" class="nav-link" data-scroll-target="#animal-models">Animal models</a></li>
+  <li><a href="#amygdala-circuits" id="toc-amygdala-circuits" class="nav-link" data-scroll-target="#amygdala-circuits">Amygdala circuits</a></li>
+  <li><a href="#specificity-of-learning-stimulusresponse-mappings" id="toc-specificity-of-learning-stimulusresponse-mappings" class="nav-link" data-scroll-target="#specificity-of-learning-stimulusresponse-mappings">Specificity of learning stimulus/response mappings</a></li>
+  <li><a href="#circuitry" id="toc-circuitry" class="nav-link" data-scroll-target="#circuitry">Circuitry</a></li>
+  </ul></li>
+  <li><a href="#stress-types" id="toc-stress-types" class="nav-link" data-scroll-target="#stress-types">Stress types</a>
+  <ul>
+  <li><a href="#glucocorticoids" id="toc-glucocorticoids" class="nav-link" data-scroll-target="#glucocorticoids">Glucocorticoids</a></li>
+  <li><a href="#impacts-of-acute-stress" id="toc-impacts-of-acute-stress" class="nav-link" data-scroll-target="#impacts-of-acute-stress">Impacts of acute stress</a>
+  <ul class="collapse">
+  <li><a href="#changes-in-neural-architecture" id="toc-changes-in-neural-architecture" class="nav-link" data-scroll-target="#changes-in-neural-architecture">Changes in neural architecture</a></li>
+  <li><a href="#neurochemical-factors" id="toc-neurochemical-factors" class="nav-link" data-scroll-target="#neurochemical-factors">Neurochemical factors</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#pleasurereward" id="toc-pleasurereward" class="nav-link" data-scroll-target="#pleasurereward">Pleasure/reward</a>
+  <ul>
+  <li><a href="#neuroanatomy-of-pleasure" id="toc-neuroanatomy-of-pleasure" class="nav-link" data-scroll-target="#neuroanatomy-of-pleasure">Neuroanatomy of ‘pleasure’</a></li>
+  <li><a href="#reward" id="toc-reward" class="nav-link" data-scroll-target="#reward">Reward</a></li>
+  <li><a href="#electrical-self-stimulation" id="toc-electrical-self-stimulation" class="nav-link" data-scroll-target="#electrical-self-stimulation">Electrical self-stimulation</a></li>
+  <li><a href="#reward-circuitry-in-the-brain" id="toc-reward-circuitry-in-the-brain" class="nav-link" data-scroll-target="#reward-circuitry-in-the-brain">“Reward” circuitry in the brain</a></li>
+  <li><a href="#what-does-da-signal" id="toc-what-does-da-signal" class="nav-link" data-scroll-target="#what-does-da-signal">What does DA signal?</a></li>
+  <li><a href="#psychopharmacology-of-pleasure" id="toc-psychopharmacology-of-pleasure" class="nav-link" data-scroll-target="#psychopharmacology-of-pleasure">Psychopharmacology of pleasure</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/edit/main/src/resources/fear-stress-reward.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Fear, stress, pleasure, &amp; reward</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="the-brain-bases-of-emotion" class="level2">
+<h2 class="anchored" data-anchor-id="the-brain-bases-of-emotion">The brain bases of emotion</h2>
+<p><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">Lindquist, Wager, Kober, Bliss-Moreau, &amp; Barrett (<span>2012</span>)</span></a></p>
+<section id="locationist-account" class="level3">
+<h3 class="anchored" data-anchor-id="locationist-account">Locationist account</h3>
+<ul>
+<li><em>Where</em> in the brain is emotion processed?</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Figure 1. Locationist Hypotheses of Brain–Emotion Correspondence. A: Lateral view. B: Sagital view at the midline. C: Ventral view. D: Coronal view. Brain regions hypothesized to be associated with emotion categories are depicted. Here we depict the most popular locationist hypotheses, although other locationist hypotheses of brain–emotion correspondence exist (e.g., Panksepp, Reference Panksepp1998). Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue). A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.</p>
+<p><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></p>
+</blockquote>
+</section>
+<section id="constructionist-account" class="level3">
+<h3 class="anchored" data-anchor-id="constructionist-account">Constructionist account</h3>
+<blockquote class="blockquote">
+<p>A psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>…emotions emerge when people make meaning out of sensory input from the body and from the world using knowledge of prior experiences. Emotions are “situated conceptualizations” (cf.&nbsp;Barsalou 2003) because the emerging meaning is tailored to the immediate environment and prepares the person to respond to sensory input in a way that is tailored to the situation</p>
+</blockquote>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig4g.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig4g.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Figure 4. The Neural Reference Space for Discrete Emotion. The neural reference space (phrase coined by Edelman [1989]) is the set of brain regions consistently activated across all studies assessing the experience or perception of anger, disgust, fear, happiness and sadness (i.e.&nbsp;the superordinate category emotion). Brain regions in yellow exceeded the height threshold (<span class="math inline">\(p&lt;.05\)</span>) and regions in orange exceeded the most stringent extent-based threshold (<span class="math inline">\(p&lt;.001\)</span>). Regions in pink and magenta correspond to lesser extent-based thresholds and are not discussed in this article. Cortex is grey, the brainstem and nucleus accumbens are green, the amygdala is blue and the cerebellum is purple. A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.</p>
+<p><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></p>
+</blockquote>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig5g.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig5g.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Figure 5. Logistic Regression Findings. Selected results from the logistic regressions are presented (for additional findings, see Table S6 in supplementary materials). Circles with positive values represent a 100% increase in the odds that a variable predicted an increase in activity in that brain area. Circles with negative values represent a 100% increase in the odds that a variable predicted there would not be an increase in activity in that brain area. Legend: Blue lines: left hemisphere; Green lines: right hemisphere. Arrowheads: % change in odds is greater than values represented in this figure. Abbreviations: OFC: orbitofrontal cortex; DLPFC: dorsolateral prefrontal cortex; ATL: anterior temporal lobe; VLPFC: ventrolateral prefrontal cortex; DMPFC: dorsomedial prefrontal cortex; aMCC: anterior mid-cingulate cortex; sAAC: subgenual ACC. A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.</p>
+<p><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></p>
+</blockquote>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig6g.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>Figure 6. Proportion of Study Contrasts with Increased Activation in Four Key Brain Areas. The y-axes plot the proportion of study contrasts in our database that had increased activation within 10mm of that brain area. The x-axes denote the contrast type separated by experience (exp) and perception (per). All brain regions depicted are in the right hemisphere. See Figures S2 and S3 in supplementary materials, available at http://www.journals.cambridge.org/bbs2012008, for additional regions. A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.</p>
+<p><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></p>
+</blockquote>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/lindquist-etal-2012-fig-s2.png"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/lindquist-etal-2012-fig-s2.png" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/lindquist-etal-2012-fig-s3.png"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/lindquist-etal-2012-fig-s3.png" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1017/S0140525X11000446"><span class="citation" data-cites="Lindquist2012-jr">(<span>Lindquist et al., 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<section id="amygdala-as-a-hub-for-fear" class="level4">
+<h4 class="anchored" data-anchor-id="amygdala-as-a-hub-for-fear">Amygdala as a ‘hub’ for <em>fear</em></h4>
+<blockquote class="blockquote">
+<p>Our meta-analytic findings were inconsistent with a locationist hypothesis of amygdala function but were more consistent with the psychological constructionist hypothesis. Our density analyses revealed that, as compared to other brain regions, voxels within both amygdalae had more consistent increases in activation during instances of fear perception than during the perception of any other emotion category (Table 1). These voxels were not functionally specific for instances of perceiving fear, however.</p>
+</blockquote>
+</section>
+<section id="anterior-insula-as-hub-for-disgust" class="level4">
+<h4 class="anchored" data-anchor-id="anterior-insula-as-hub-for-disgust">Anterior insula as ‘hub’ for <em>disgust</em></h4>
+<blockquote class="blockquote">
+<p>Our meta-analytic findings were inconsistent with the locationist account that the anterior insula is the brain seat of disgust but were more consistent with the psychological constructionist account that insula activity is correlated with interoception and the awareness of affective feelings.</p>
+</blockquote>
+</section>
+<section id="orbitofrontal-cortex-ofc-as-hub-for-anger" class="level4">
+<h4 class="anchored" data-anchor-id="orbitofrontal-cortex-ofc-as-hub-for-anger">Orbitofrontal cortex (OFC) as ‘hub’ for <em>anger</em></h4>
+<blockquote class="blockquote">
+<p>Our meta-analytic findings were inconsistent with the locationist hypothesis that the OFC is the brain seat of anger. As compared to voxels within other brain regions, voxels within the OFC did not have more consistent increases during instances of anger experience or perception than during any other emotion category. Rather, as compared to voxels within other brain regions, voxels within the left lOFC had more consistent increases in activation during instances of disgust experience than during the experience of other emotion categories.</p>
+</blockquote>
+</section>
+<section id="anterior-cingulate-cortex-as-hub-for-sadness" class="level4">
+<h4 class="anchored" data-anchor-id="anterior-cingulate-cortex-as-hub-for-sadness">Anterior cingulate cortex as ‘hub’ for <em>sadness</em></h4>
+<blockquote class="blockquote">
+<p>Our meta-analytic evidence is inconsistent with the locationist account that the ACC is the brain basis of sadness, but more consistent with a psychological constructionist hypothesis of ACC function. As compared to voxels within other brain regions, voxels within the sACC, pACC and aMCC did not have more consistent increases when participants were experiencing or perceiving instances of sadness than during any other emotion category (Fig. 6).</p>
+</blockquote>
+</section>
+</section>
+</section>
+<section id="the-biology-of-fear" class="level2">
+<h2 class="anchored" data-anchor-id="the-biology-of-fear">The biology of fear</h2>
+<section id="animal-models" class="level3">
+<h3 class="anchored" data-anchor-id="animal-models">Animal models</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/ledoux-lab-fear_conditioning.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="../include/img/ledoux-lab-fear_conditioning.jpg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<p><small> <a href="http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg" class="uri">http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg</a> </small></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZlZekx1P1g4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+</iframe>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/davis-anxiety-rat-vs-human.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/davis-anxiety-rat-vs-human.jpg" class="img-fluid figure-img"></p>
+<figcaption>Adapted from <a href="http://dx.doi.org/10.1016/0165-6147(92)90014-W"><span class="citation" data-cites="davis1992role">(<span>Davis, 1992</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="amygdala-circuits" class="level3">
+<h3 class="anchored" data-anchor-id="amygdala-circuits">Amygdala circuits</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/fear-conditioning-amygdala-nrn728-f2.gif"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/fear-conditioning-amygdala-nrn728-f2.gif" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1038/nrn728"><span class="citation" data-cites="medina2002parallels">(<span>Medina, Repa, Mauk, &amp; LeDoux, 2002</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>Direct (fast) pathways via thalamus</li>
+<li>Indirect (slower) pathways via cortex</li>
+<li>Input and output (behavior, physiology) specificity</li>
+</ul>
+</section>
+<section id="specificity-of-learning-stimulusresponse-mappings" class="level3">
+<h3 class="anchored" data-anchor-id="specificity-of-learning-stimulusresponse-mappings">Specificity of learning stimulus/response mappings</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166223616300017-gr1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223616300017-gr1.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1016/j.tins.2016.04.001"><span class="citation" data-cites="Pellman2016-xu">(<span>Pellman &amp; Kim, 2016</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>Specific stimulus/response, <span class="math inline">\(S \rightarrow R\)</span>, patterns</li>
+<li>Visual OR Auditory <span class="math inline">\(\rightarrow\)</span> pain</li>
+<li>Taste <span class="math inline">\(\rightarrow\)</span> nausea</li>
+</ul>
+</section>
+<section id="circuitry" class="level3">
+<h3 class="anchored" data-anchor-id="circuitry">Circuitry</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166432807005633-gr1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166432807005633-gr1.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1016/j.bbr.2007.10.018"><span class="citation" data-cites="Brandao2008-hw">(<span>Brandão, Zanoveli, Ruiz-Martinez, Oliveira, &amp; Landeira-Fernandez, 2008</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166223616300017-gr2.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223616300017-gr2.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1016/j.tins.2016.04.001"><span class="citation" data-cites="Pellman2016-xu">(<span>Pellman &amp; Kim, 2016</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>BLA, basolateral complex of the amygdala</li>
+<li>CEA, central nucleus of the amygdala</li>
+<li>ITC, intercalated cells of the amygdala</li>
+<li>PL, prelimbic cortex</li>
+<li>IL, infralimbic cortex</li>
+<li>HPC, hippocampus</li>
+<li>Thal, thalamus</li>
+<li>PAG, periaqueductal gray</li>
+<li>PBN, parabrachial nucleus</li>
+</ul>
+</section>
+</section>
+<section id="stress-types" class="level2">
+<h2 class="anchored" data-anchor-id="stress-types">Stress types</h2>
+<ul>
+<li><strong>Acute</strong> stress
+<ul>
+<li>Short duration</li>
+</ul></li>
+<li>Brain detects threat</li>
+<li>Mobilizes physiological, behavioral responses
+<ul>
+<li>HPA (Cortisol), SAM (NE/Epi) axes</li>
+</ul></li>
+<li>vs.&nbsp;<strong>Chronic</strong> or stress
+<ul>
+<li>Long duration, persistent</li>
+</ul></li>
+</ul>
+<section id="glucocorticoids" class="level3">
+<h3 class="anchored" data-anchor-id="glucocorticoids">Glucocorticoids</h3>
+<ul>
+<li>Adrenal cortex releases hormones</li>
+<li>Cortisol (hydrocortisone)
+<ul>
+<li>Increases blood glucose levels</li>
+<li>Suppresses immune system</li>
+<li>Reduces inflammation</li>
+<li>Aids in metabolism</li>
+</ul></li>
+<li>Receptors in body and brain</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://www.cell.com/cms/attachment/2007960795/2030644348/gr4.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://www.cell.com/cms/attachment/2007960795/2030644348/gr4.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="10.1016/j.tips.2013.07.003"><span class="citation" data-cites="Kadmiel2013-zz">(<span>Kadmiel &amp; Cidlowski, 2013</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>Multiple feedback loops</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/cortisol-molecular-brain.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/cortisol-molecular-brain.jpg" class="img-fluid figure-img"></p>
+<figcaption>http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="impacts-of-acute-stress" class="level3">
+<h3 class="anchored" data-anchor-id="impacts-of-acute-stress">Impacts of acute stress</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301364-gr1_lrg.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301364-gr1_lrg.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1016/j.tins.2017.07.002"><span class="citation" data-cites="Musazzi2017-lr">(<span>Musazzi, Tornese, Sala, &amp; Popoli, 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301364-gr3.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0166223617301364-gr3.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1016/j.tins.2017.07.002"><span class="citation" data-cites="Musazzi2017-lr">(<span>Musazzi et al., 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<section id="changes-in-neural-architecture" class="level4">
+<h4 class="anchored" data-anchor-id="changes-in-neural-architecture">Changes in neural architecture</h4>
+<ul>
+<li>Hippocampus (rich in CORT receptors)</li>
+<li>Prefrontal cortex</li>
+</ul>
+</section>
+<section id="neurochemical-factors" class="level4">
+<h4 class="anchored" data-anchor-id="neurochemical-factors">Neurochemical factors</h4>
+<ul>
+<li>Cortisol enhances glutamate release</li>
+<li>Corticosteroid antagonists block this</li>
+<li>Ketamine (NMDA receptor antagonist) may act via similar mechanisms</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"https://prodimage.images-bn.com/pimages/9780805073690_p0_v2_s550x406.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://prodimage.images-bn.com/pimages/9780805073690_p0_v2_s550x406.jpg" class="img-fluid figure-img"></p>
+<figcaption>Sapolsky, <em>Why Zebras Don’t Get Ulcers</em></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section id="pleasurereward" class="level2">
+<h2 class="anchored" data-anchor-id="pleasurereward">Pleasure/reward</h2>
+<section id="neuroanatomy-of-pleasure" class="level3">
+<h3 class="anchored" data-anchor-id="neuroanatomy-of-pleasure">Neuroanatomy of ‘pleasure’</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/kringelbach-2009-fig-2.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/kringelbach-2009-fig-2.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1016/j.tics.2009.08.006"><span class="citation" data-cites="kringelbach2009towards">(<span>Kringelbach &amp; Berridge, 2009</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="reward" class="level3">
+<h3 class="anchored" data-anchor-id="reward">Reward</h3>
+<ul>
+<li>A <em>reward</em> reinforces (makes more prevalent/probable) some behavior</li>
+<li>Milner and Olds <a href="http://doi.org/10.1016/S0149-7634(89)80013-2"><span class="citation" data-cites="milner_discovery_1989">(<span>Milner, 1989</span>)</span></a> discovered ‘rewarding’ power of electrical self-stimulation</li>
+<li><a href="http://doi.org/10.1176/ajp.120.6.571"><span class="citation" data-cites="heath1963electrical">(<span>Heath, 1963</span>)</span></a> studied effects in human patients.</li>
+</ul>
+</section>
+<section id="electrical-self-stimulation" class="level3">
+<h3 class="anchored" data-anchor-id="electrical-self-stimulation">Electrical self-stimulation</h3>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen="">
+</iframe>
+</section>
+<section id="reward-circuitry-in-the-brain" class="level3">
+<h3 class="anchored" data-anchor-id="reward-circuitry-in-the-brain">“Reward” circuitry in the brain</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/nestler-fig-1.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/nestler-fig-1.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1016/j.biopsych.2005.09.018"><span class="citation" data-cites="nestler2006mesolimbic">(<span>Nestler &amp; Carlezon, 2006</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>Lateral Hypothalamus (Hyp)</li>
+<li>Medial forebrain bundle (MFB)</li>
+<li>Ventral tegmental area (VTA) in midbrain</li>
+<li>Nucleus accumbens (nAcc)</li>
+<li>Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)</li>
+<li>Amygdala (Amy)</li>
+<li>Hippocampus (HP)</li>
+<li>Prefrontal cortex (PFC)</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/kohls-fig-2.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/kohls-fig-2.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1186/1866-1955-4-10"><span class="citation" data-cites="kohls2012social">(<span>Kohls, Chevallier, Troiani, &amp; Schultz, 2012</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="what-does-da-signal" class="level3">
+<h3 class="anchored" data-anchor-id="what-does-da-signal">What does DA signal?</h3>
+<ul>
+<li>Hedonia and anhedonia</li>
+<li>Incentive salience</li>
+<li>Reward prediction error (RPE)</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-070815-014106/20160711/images/large/ne390297.f1.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-070815-014106/20160711/images/large/ne390297.f1.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-070815-014106"><span class="citation" data-cites="Hu2016-yw">(<span>Hu, 2016</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>DA and GABA signaling</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f1.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f1.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-072116-031109"><span class="citation" data-cites="Watabe-Uchida2017-gi">(<span>Watabe-Uchida, Eshel, &amp; Uchida, 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Expectation modulates DA signaling</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb23"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb23-1"><a href="#cb23-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f2.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f2.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-072116-031109"><span class="citation" data-cites="Watabe-Uchida2017-gi">(<span>Watabe-Uchida et al., 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>DA network</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f4.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2017/neuro.2017.40.issue-1/annurev-neuro-072116-031109/20170719/images/large/ne400373.f4.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-072116-031109"><span class="citation" data-cites="Watabe-Uchida2017-gi">(<span>Watabe-Uchida et al., 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/watanabe-Uchida-fig-4-cap.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/watanabe-Uchida-fig-4-cap.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-072116-031109"><span class="citation" data-cites="Watabe-Uchida2017-gi">(<span>Watabe-Uchida et al., 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p>Reward &amp; Aversion Networks</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-070815-014106/20160711/images/large/ne390297.f3.jpeg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/neuro/2016/neuro.2016.39.issue-1/annurev-neuro-070815-014106/20160711/images/large/ne390297.f3.jpeg" class="img-fluid figure-img"></p>
+<figcaption><a href="https://doi.org/10.1146/annurev-neuro-072116-031109"><span class="citation" data-cites="Watabe-Uchida2017-gi">(<span>Watabe-Uchida et al., 2017</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="psychopharmacology-of-pleasure" class="level3">
+<h3 class="anchored" data-anchor-id="psychopharmacology-of-pleasure">Psychopharmacology of pleasure</h3>
+<ul>
+<li>Dopamine</li>
+<li>Serotonin, Norepinephrine</li>
+<li>ACh</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/ncpneuro0775-f4.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/ncpneuro0775-f4.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.1038/ncpneuro0775"><span class="citation" data-cites="cock_sleep_2008">(<span>Cock, Vidailhet, &amp; Arnulf, 2008</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="centered">
+<p><img src="../include/img/ncpneuro0775-f4.jpg" height="450px"></p>
+<p><a href="http://dx.doi.org/10.1038/ncpneuro0775"><span class="citation" data-cites="cock_sleep_2008">(<span>Cock et al., 2008</span>)</span></a></p>
+</div>
+<ul>
+<li>Opioids, endogenous morphine-like NTs (endorphins)</li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/endorphins-niaa.gif"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/endorphins-niaa.gif" class="img-fluid figure-img"></p>
+<figcaption><a href="http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm"><span class="citation" data-cites="clapp-niaa">(<span>Clapp, Bhave, &amp; Hoffman, n.d.</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+<ul>
+<li>Cannabinoids = psychoactive compounds found in cannibis</li>
+<li>Endocannabinoids (endogenous cannabinoid system)
+<ul>
+<li>Cannabinoid CB1 receptors in CNS; CB2 in body, immune system</li>
+</ul></li>
+</ul>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_graphics</span>(<span class="st">"../include/img/fnins-07-00256-g001.jpg"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../include/img/fnins-07-00256-g001.jpg" class="img-fluid figure-img"></p>
+<figcaption><a href="http://dx.doi.org/10.3389/fnins.2013.00256"><span class="citation" data-cites="flores_cannabinoid-hypocretin_2013">(<span>Flores, Maldonado, &amp; Berrendero, 2013</span>)</span></a></figcaption>
+</figure>
+</div>
+</div>
+</div>
+
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-Brandao2008-hw" class="csl-entry" role="listitem">
+Brandão, M. L., Zanoveli, J. M., Ruiz-Martinez, R. C., Oliveira, L. C., &amp; Landeira-Fernandez, J. (2008). Different patterns of freezing behavior organized in the periaqueductal gray of rats: Association with different types of anxiety. <em>Behavioural Brain Research</em>, <em>188</em>(1), 1–13. <a href="https://doi.org/10.1016/j.bbr.2007.10.018">https://doi.org/10.1016/j.bbr.2007.10.018</a>
+</div>
+<div id="ref-clapp-niaa" class="csl-entry" role="listitem">
+Clapp, P., Bhave, S. V., &amp; Hoffman, P. L. (n.d.). How <span>A</span>daptation of the <span>B</span>rain to <span>A</span>lcohol <span>L</span>eads to <span>D</span>ependence. Retrieved from <a href="http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm">http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm</a>
+</div>
+<div id="ref-cock_sleep_2008" class="csl-entry" role="listitem">
+Cock, V. C. D., Vidailhet, M., &amp; Arnulf, I. (2008). Sleep disturbances in patients with parkinsonism. <em>Nature Clinical Practice Neurology</em>, <em>4</em>(5), 254–266. <a href="https://doi.org/10.1038/ncpneuro0775">https://doi.org/10.1038/ncpneuro0775</a>
+</div>
+<div id="ref-davis1992role" class="csl-entry" role="listitem">
+Davis, M. (1992). The role of the amygdala in fear-potentiated startle: Implications for animal models of anxiety. <em>Trends in Pharmacological Sciences</em>, <em>13</em>, 35–41. <a href="https://doi.org/10.1016/0165-6147(92)90014-W">https://doi.org/10.1016/0165-6147(92)90014-W</a>
+</div>
+<div id="ref-flores_cannabinoid-hypocretin_2013" class="csl-entry" role="listitem">
+Flores, Á., Maldonado, R., &amp; Berrendero, F. (2013). Cannabinoid-hypocretin cross-talk in the central nervous system: What we know so far. <em>Neuropharmacology</em>, <em>7</em>, 256. <a href="https://doi.org/10.3389/fnins.2013.00256">https://doi.org/10.3389/fnins.2013.00256</a>
+</div>
+<div id="ref-heath1963electrical" class="csl-entry" role="listitem">
+Heath, R. G. (1963). Electrical self-stimulation of the brain in man. <em>American Journal of Psychiatry</em>, <em>120</em>(6), 571–577. <a href="https://doi.org/10.1176/ajp.120.6.571">https://doi.org/10.1176/ajp.120.6.571</a>
+</div>
+<div id="ref-Hu2016-yw" class="csl-entry" role="listitem">
+Hu, H. (2016). Reward and aversion. <em>Annual Review of Neuroscience</em>, <em>39</em>, 297–324. <a href="https://doi.org/10.1146/annurev-neuro-070815-014106">https://doi.org/10.1146/annurev-neuro-070815-014106</a>
+</div>
+<div id="ref-Kadmiel2013-zz" class="csl-entry" role="listitem">
+Kadmiel, M., &amp; Cidlowski, J. A. (2013). Glucocorticoid receptor signaling in health and disease. <em>Trends in Pharmacological Sciences</em>, <em>34</em>(9), 518–530. <a href="https://doi.org/10.1016/j.tips.2013.07.003">https://doi.org/10.1016/j.tips.2013.07.003</a>
+</div>
+<div id="ref-kohls2012social" class="csl-entry" role="listitem">
+Kohls, G., Chevallier, C., Troiani, V., &amp; Schultz, R. T. (2012). Social ‘wanting’dysfunction in autism: Neurobiological underpinnings and treatment implications. <em>Journal of Neurodevelopmental Disorders</em>, <em>4</em>(10), 1–20. <a href="https://doi.org/10.1186/1866-1955-4-10">https://doi.org/10.1186/1866-1955-4-10</a>
+</div>
+<div id="ref-kringelbach2009towards" class="csl-entry" role="listitem">
+Kringelbach, M. L., &amp; Berridge, K. C. (2009). Towards a functional neuroanatomy of pleasure and happiness. <em>Trends in Cognitive Sciences</em>, <em>13</em>(11), 479–487.
+</div>
+<div id="ref-Lindquist2012-jr" class="csl-entry" role="listitem">
+Lindquist, K. A., Wager, T. D., Kober, H., Bliss-Moreau, E., &amp; Barrett, L. F. (2012). The brain basis of emotion: A meta-analytic review. <em>Behav. Brain Sci.</em>, <em>35</em>(3), 121–143. <a href="https://doi.org/10.1017/S0140525X11000446">https://doi.org/10.1017/S0140525X11000446</a>
+</div>
+<div id="ref-medina2002parallels" class="csl-entry" role="listitem">
+Medina, J. F., Repa, J. C., Mauk, M. D., &amp; LeDoux, J. E. (2002). Parallels between cerebellum-and amygdala-dependent conditioning. <em>Nature Reviews Neuroscience</em>, <em>3</em>(2), 122–131. <a href="https://doi.org/10.1038/nrn728">https://doi.org/10.1038/nrn728</a>
+</div>
+<div id="ref-milner_discovery_1989" class="csl-entry" role="listitem">
+Milner, P. M. (1989). The discovery of self-stimulation and other stories. <em>Neuroscience &amp; Biobehavioral Reviews</em>, <em>13</em>(2–3), 61–67. <a href="https://doi.org/10.1016/S0149-7634(89)80013-2">https://doi.org/10.1016/S0149-7634(89)80013-2</a>
+</div>
+<div id="ref-Musazzi2017-lr" class="csl-entry" role="listitem">
+Musazzi, L., Tornese, P., Sala, N., &amp; Popoli, M. (2017). Acute or chronic? A stressful question. <em>Trends in Neurosciences</em>. <a href="https://doi.org/10.1016/j.tins.2017.07.002">https://doi.org/10.1016/j.tins.2017.07.002</a>
+</div>
+<div id="ref-nestler2006mesolimbic" class="csl-entry" role="listitem">
+Nestler, E. J., &amp; Carlezon, W. A. (2006). The mesolimbic dopamine reward circuit in depression. <em>Biological Psychiatry</em>, <em>59</em>(12), 1151–1159. <a href="https://doi.org/10.1016/j.biopsych.2005.09.018">https://doi.org/10.1016/j.biopsych.2005.09.018</a>
+</div>
+<div id="ref-Pellman2016-xu" class="csl-entry" role="listitem">
+Pellman, B. A., &amp; Kim, J. J. (2016). What can ethobehavioral studies tell us about the brain’s fear system? <em>Trends in Neurosciences</em>, <em>39</em>(6), 420–431. <a href="https://doi.org/10.1016/j.tins.2016.04.001">https://doi.org/10.1016/j.tins.2016.04.001</a>
+</div>
+<div id="ref-Watabe-Uchida2017-gi" class="csl-entry" role="listitem">
+Watabe-Uchida, M., Eshel, N., &amp; Uchida, N. (2017). Neural circuitry of reward prediction error. <em>Annual Review of Neuroscience</em>, <em>40</em>, 373–394. <a href="https://doi.org/10.1146/annurev-neuro-072116-031109">https://doi.org/10.1146/annurev-neuro-072116-031109</a>
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/edit/main/src/resources/fear-stress-reward.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/psu-psychology/psy-511-scan-fdns-2024-spring/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
