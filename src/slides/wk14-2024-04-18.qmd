@@ -38,7 +38,30 @@ format:
 
 - Major depressive disorder a major public health problem.
 - Major pharmacological treatments influence monoamines, especially 5-HT, but no evidence for 5-HT pathology
-- Bipolar disorder more similar to schizophrenia, despite its presentation
+- Bipolar disorder more similar to schizophrenia, despite affective dimension of some symptoms
+
+---
+
+![@Kendler2024-fz](../include/img/kendler-psychiatric-brain-disorder.png)
+
+---
+
+>Can we show that critical causal pathways to psychiatric illness occur in the brain? [@Kendler2024-fz]
+
+- In other words...
+
+```{mermaid}
+flowchart LR
+A[Genes] --> B[Schizophrenia]
+A --> C[Brain]
+C --> B
+```
+
+---
+
+>...we report common variant associations at 287 distinct genomic loci. Associations were concentrated in genes that are expressed in excitatory and inhibitory neurons of the central nervous system, **but not in other tissues or cell types**. [@Trubetskoy2022-hd]
+
+>Our way forward is to convert this question into a scientifically tractable form, which I try to do here by asking where in the human body genetic risk factors for our disorders are expressed. A tentative answer, at least for schizophrenia...“it is entirely in the brain.” [@Kendler2024-fz]
 
 ## Next time
 

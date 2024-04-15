@@ -29,7 +29,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -333,6 +353,9 @@
       margin-right: 0; 
     }
   </style>
+  <script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -382,10 +405,47 @@
 <ul>
 <li>Major depressive disorder a major public health problem.</li>
 <li>Major pharmacological treatments influence monoamines, especially 5-HT, but no evidence for 5-HT pathology</li>
-<li>Bipolar disorder more similar to schizophrenia, despite its presentation</li>
+<li>Bipolar disorder more similar to schizophrenia, despite affective dimension of some symptoms</li>
 </ul>
 </section>
-<section id="next-time" class="slide level2">
+<section class="slide level2">
+
+
+<img data-src="../include/img/kendler-psychiatric-brain-disorder.png" class="r-stretch quarto-figure-center"><p class="caption"><span class="citation" data-cites="Kendler2024-fz">Kendler (<a href="#/next-time" role="doc-biblioref" onclick="">2024</a>)</span></p></section>
+<section class="slide level2">
+
+<blockquote>
+<p>Can we show that critical causal pathways to psychiatric illness occur in the brain? <span class="citation" data-cites="Kendler2024-fz">(<a href="#/next-time" role="doc-biblioref" onclick="">Kendler 2024</a>)</span></p>
+</blockquote>
+<ul>
+<li>In other words…</li>
+</ul>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart LR
+A[Genes] --&gt; B[Schizophrenia]
+A --&gt; C[Brain]
+C --&gt; B
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+</section>
+<section class="slide level2">
+
+<blockquote>
+<p>…we report common variant associations at 287 distinct genomic loci. Associations were concentrated in genes that are expressed in excitatory and inhibitory neurons of the central nervous system, <strong>but not in other tissues or cell types</strong>. <span class="citation" data-cites="Trubetskoy2022-hd">(<a href="#/next-time" role="doc-biblioref" onclick="">Trubetskoy et al. 2022</a>)</span></p>
+</blockquote>
+<blockquote>
+<p>Our way forward is to convert this question into a scientifically tractable form, which I try to do here by asking where in the human body genetic risk factors for our disorders are expressed. A tentative answer, at least for schizophrenia…“it is entirely in the brain.” <span class="citation" data-cites="Kendler2024-fz">(<a href="#/next-time" role="doc-biblioref" onclick="">Kendler 2024</a>)</span></p>
+</blockquote>
+</section>
+<section id="next-time" class="slide level2 smaller scrollable">
 <h2>Next time</h2>
 <ul>
 <li>Fear, stress, pleasure, &amp; reward</li>
@@ -394,6 +454,14 @@
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="../index.html">PSY 511 Spr 2024</a></p>
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Kendler2024-fz" class="csl-entry" role="listitem">
+Kendler, Kenneth S. 2024. <span>“Are Psychiatric Disorders Brain <span>Diseases?-A</span> New Look at an Old Question.”</span> <em>JAMA Psychiatry</em> 81 (4): 325–26. <a href="https://doi.org/10.1001/jamapsychiatry.2024.0036">https://doi.org/10.1001/jamapsychiatry.2024.0036</a>.
+</div>
+<div id="ref-Trubetskoy2022-hd" class="csl-entry" role="listitem">
+Trubetskoy, Vassily, Antonio F Pardiñas, Ting Qi, Georgia Panagiotaropoulou, Swapnil Awasthi, Tim B Bigdeli, Julien Bryois, et al. 2022. <span>“Mapping Genomic Loci Implicates Genes and Synaptic Biology in Schizophrenia.”</span> <em>Nature</em> 604 (7906): 502–8. <a href="https://doi.org/10.1038/s41586-022-04434-5">https://doi.org/10.1038/s41586-022-04434-5</a>.
 </div>
 </div>
 </section></section>

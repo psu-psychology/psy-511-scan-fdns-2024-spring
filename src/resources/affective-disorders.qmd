@@ -8,16 +8,16 @@ title: "Disorders of affect"
 
 ### Symptoms
 
+![[@mahar_stress_2014]](../include/img/mahar-table-1.jpg)
+
 + Unhappy mood, insomnia, lethargy, loss of pleasure, interest, energy
 - Agitation
 - Lasting for several weeks or more
-- Experienced by ~7% Americans in any year
+- Experienced by ~10% Americans in any year [@Hasin2018-hq]
 - Prevalence (up to ~20% lifetime in US) [@Hasin2018-hq]
-- Females 2-3x males, higher 40+ years of age
-    - postpartum anxiety and depression in 10-20% of mothers
-- MZ concordance ~60% vs. DZ ~20% suggests genetic component
-
-![[@mahar_stress_2014]](../include/img/mahar-table-1.jpg)
+- Females > males; White & Native American > African American, Asian/Pacific Islander or Hispanic [@Hasin2018-hq]
+- Comorbid with generalized anxiety disorder and borderline personality disorder
+- more than 13% attempted suicide during a severe episode [@Hasin2018-hq]
 
 ### Neurobiology
 
@@ -54,16 +54,13 @@ Left Hippocampus
 
 ![[@Hamilton2012-iv]](http://ajp.psychiatryonline.org/na101/home/literatum/publisher/app/journals/content/ajp/2012/ajp.2012.169.issue-7/appi.ajp.2012.11071105/production/images/large/ajp.169.7.693.f002.jpeg)
 
-[[@Hamilton2012-iv]](https://doi.org/10.1176/appi.ajp.2012.11071105)
-
 ### Altered connectivity
 
 - Increased connectivity between resting state network regions and dorsal PFC [[@Sheline2010-nh]](http://doi.org/10.1073/pnas.1000446107)
 
 ![[@Sheline2010-nh]. Seed regions and targets. Each of the three solid circles corresponds to a seed region in the DLPFC, part of the CCN (yellow); precuneus, part of the DMN (pink); and subgenual and pregenual cingulate cortex, the affective division of the ACC (16) (turquoise). The correspondingly colored open circles represent regions with significantly increased connectivity with the respective seed regions. CCN (yellow); precuneus, part of DMN (pink); and affective division of the ACC (turquoise)](https://www.pnas.org/cms/10.1073/pnas.1000446107/asset/96a2e572-5688-4e55-ab30-9bd5843aa80a/assets/graphic/pnas.1000446107fig01.jpeg)
 
-#### [@cheng_medial_2016]
-
+- [@cheng_medial_2016]
 - Resting state fMRI (rsFMRI) in 421 patients with major depressive disorder and 488 control subjects.
 - Reduced connectivity between orbitofrontal cortex (OFC) and other areas of the brain
 - Increased connectivity between lateral PFC and other brain areas
@@ -80,11 +77,15 @@ Left Hippocampus
 
 ### Genetic risk
 
+- Heritability 40-50% [@Lohoff2010-cv]
 - Hundreds of candidate genes [@Flint2023-oo; @Levey2021-yz]
 - Examples: [NEGR1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NEGR1#:~:text=NEGR1%20(Neuronal%20Growth%20Regulator%201,synthesis%20of%20GPI%2Danchored%20proteins.) (neuronal growth regulator) in hypothalamus [DRD2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD2&keywords=drd2) (dopamine receptor 2) in the nucleus accumbens others
-- But genome-wide association studies (GWAS) have low specificity [@Flint2023-oo]
 
-![[Figure 2 from @Flint2023-oo]The figure shows 27 loci, listed on the vertical axis, that are significantly associated with a minimal-phenotyping definition of MDD in UKBiobank (GPpsy). The odds ratios (OR) are shown on the horizontal axis for the minimal phenotype, for a DSM-diagnosis of MDD and for the personality trait, neuroticism. The latter is a quantitative phenotype, so to allow comparison with the binary traits, the effect size estimates from the regression (beta values) have been converted into odds ratios. Data are from [25].](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-01957-9/MediaObjects/41380_2023_1957_Fig2_HTML.png)
+![[Figure 3 from @Levey2021-yz]. Top: tissue-based gene association study. The genes were tested using MetaXcan for 13 brain tissues and whole blood from GTEx v8. The genes were compared across tissues to identify best representative tissues for each gene using SMultiXcan. Genes are arranged in order from left to right by respective tissue-specific P value, with the lowest value on the left. The color scale for the gene matrix is based on mean z-score. The values are reported in Supplementary File 2. Bottom: SNP prioritization using fine-mapping and functional scoring. Bottom row, Manhattan plot showing each genomic risk locus in violet. Middle row, Each locus was fine-mapped, and the CPP on the y axis is shown for SNPs from the causal set. The SNPs that had CPP ≥ 0.3 (30%) were annotated using CADD scores. Top row: The SNPs with CADD ≥ 10 are highlighted in purple; these SNPs were positionally mapped to 107 genes within 100 kb. Only positional genes overlapping with multi-tissue TWAS results (Supplementary Fig. 1) are annotated with vertical lines. Details of the prioritized SNPs are reported in Supplementary File 2.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00860-2/MediaObjects/41593_2021_860_Fig3_HTML.png?as=webp)
+
+- And large sample, genome-wide association studies (GWAS) have low specificity [@Flint2023-oo]
+
+![[Figure 2 from @Flint2023-oo]. The figure shows 27 loci, listed on the vertical axis, that are significantly associated with a minimal-phenotyping definition of MDD in UKBiobank (GPpsy). The odds ratios (OR) are shown on the horizontal axis for the minimal phenotype, for a DSM-diagnosis of MDD and for the personality trait, neuroticism. The latter is a quantitative phenotype, so to allow comparison with the binary traits, the effect size estimates from the regression (beta values) have been converted into odds ratios. Data are from [25].](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-01957-9/MediaObjects/41380_2023_1957_Fig2_HTML.png)
 
 ::: {.callout-note}
 
@@ -108,8 +109,6 @@ Related to Type 1 (False Positive) and Type II (False Negative) errors in statis
 ### Pharmacological factors
 
 ![[@Palazidou2012-je]](../include/img/palazido-2012-table-2.jpg)
-
-<!-- Neurochemical and hormonal alterations in depression -->
 
 - Endocrine
     + Thyroid dysfunction [@Medici2014-pn]
@@ -152,6 +151,11 @@ Related to Type 1 (False Positive) and Type II (False Negative) errors in statis
 - Seems to work via
     + Anticonvulsant effects (blocking Na+ channel or enhance GABA function)
     + Neurotrophic (stimulates neurogenesis) effects
+    
+#### Transcranial Direct Current Stimulation (tDCS)
+
+- Much weaker currents, more easily used in diverse (non-hospital) settings [@Thair2017-td]
+- May reduce depression and state anxiety in older adults [@Hausman2024-so]
 
 #### Drugs
 
@@ -206,6 +210,13 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 
 >“The serotonin hypothesis of depression is still influential. We aimed to synthesise and evaluate evidence on whether depression is associated with lowered serotonin concentration or activity in a systematic umbrella review of the principal relevant areas of research. PubMed, EMBASE and PsycINFO were searched using terms appropriate to each area of research, from their inception until December 2020. Systematic reviews, meta-analyses and large data-set analyses in the following areas were identified: serotonin and serotonin metabolite, 5-HIAA, concentrations in body fluids; serotonin 5-HT1A receptor binding; serotonin transporter (SERT) levels measured by imaging or at post-mortem; tryptophan depletion studies; SERT gene associations and SERT gene-environment interactions…**The main areas of serotonin research provide no consistent evidence of there being an association between serotonin and depression, and no support for the hypothesis that depression is caused by lowered serotonin activity or concentrations**.” [@Moncrieff2022-os]
 
+#### Get 'appy
+
+![@Weir2024-lw](../include/img/dartmouth-chatbot-therapy.png)
+
+![@Beyer2024-mm](../include/img/rejoyn-depression-therapy-fda.png)
+![https://rejoynhcp.com](../include/img/rejoyn-site.png)
+
 ### Evaluating treatments
 
 ##### Ketamine, again
@@ -244,6 +255,7 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 - Suicide risk 20-60x normal population, [@baldessarini_suicide_2006](http://dx.doi.org/10.1017/S1092852900014681) 
 
 ![Source: http://www.nimh.nih.gov/health/topics/bipolar-disorder/index.shtml](../include/img/nih-bipolar-table.jpg)
+
 - 1-3% lifetime prevalence, subthreshold affects another ~2% [@Merikangas2007-hu](Merikangas2007-hu)
 - Subtypes
     + **Bipolar I**: manic episodes, possible depressive ones
@@ -265,11 +277,11 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 
 #### Brain responses to emotional faces ≠ depression
 
-![[@lawrence_subcortical_2004]](include/img/lawrence-1.jpg)
+![[@lawrence_subcortical_2004]](../include/img/lawrence-1.jpg)
 
-![[@lawrence_subcortical_2004]](include/img/lawrence-2.jpg)
+![[@lawrence_subcortical_2004]](../include/img/lawrence-2.jpg)
 
-![[@lawrence_subcortical_2004]](include/img/lawrence-3.jpg)
+![[@lawrence_subcortical_2004]](../include/img/lawrence-3.jpg)
 
 #### Amygdala, hippocampus volume reduced; ventricles larger
 
@@ -332,3 +344,20 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 - Multi-level, multi-method, multi-variate approaches essential to understanding mental illness
 - Developmental processes across the life span
 - Networks all the way down...
+
+![@Kendler2024-fz](../include/img/kendler-psychiatric-brain-disorder.png)
+
+>Can we show that critical causal pathways to psychiatric illness occur in the brain? [@Kendler2024-fz]
+
+- In other words...
+
+```{mermaid}
+flowchart LR
+A[Genes] --> B[Schizophrenia]
+A --> C[Brain]
+C --> B
+```
+
+>...we report common variant associations at 287 distinct genomic loci. Associations were concentrated in genes that are expressed in excitatory and inhibitory neurons of the central nervous system, **but not in other tissues or cell types**. [@Trubetskoy2022-hd]
+
+>Our way forward is to convert this question into a scientifically tractable form, which I try to do here by asking where in the human body genetic risk factors for our disorders are expressed. A tentative answer, at least for schizophrenia...“it is entirely in the brain.” [@Kendler2024-fz]

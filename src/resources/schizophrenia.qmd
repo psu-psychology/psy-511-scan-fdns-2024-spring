@@ -256,6 +256,10 @@ Review of VR as *therapy for* Schizophrenia in [@Bisso2020-nq].
 
 >Short-term findings showed that both interventions produced significant improvements in AVH severity and depressive symptoms. Although results did not show a statistically significant superiority of VRT over CBT for AVH, VRT did achieve larger effects particularly on overall AVH (d = 1.080 for VRT and d = 0.555 for CBT). Furthermore, results suggested a superiority of VRT over CBT on affective symptoms. VRT also showed significant results on persecutory beliefs and quality of life. Effects were maintained up to the 1-year follow-up. VRT highlights the future of patient-tailored approaches that may show benefits over generic CBT for voices. A fully powered single-blind randomized controlled trial comparing VRT to CBT is underway. [@Dellazizzo2021-tk]
 
+### AI and Machine Learning
+
+- Deep Neural Network used to identify functional brain signatures in a genetic disorder ([DiGeorge syndrome](https://www.mayoclinic.org/diseases-conditions/digeorge-syndrome/symptoms-causes/syc-20353543); 22q11.2 deletion syndrome) linked to psychotic symptoms [@Supekar2024-rq]
+
 ### The future of psychiatric research
 
 - The [Research Domain Criteria (RDoC) Project](https://www.nimh.nih.gov/research-priorities/rdoc/index.shtml) 
