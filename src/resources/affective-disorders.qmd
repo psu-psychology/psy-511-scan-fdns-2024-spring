@@ -78,7 +78,7 @@ title: "Disorders of affect"
 
 - Heritability 40-50% [@Lohoff2010-cv]
 - Hundreds of candidate genes [@Flint2023-oo; @Levey2021-yz]
-- Examples: [NEGR1](https://www.genecards.org/cgi-bin/carddisp.pl?gene=NEGR1#:~:text=NEGR1%20(Neuronal%20Growth%20Regulator%201,synthesis%20of%20GPI%2Danchored%20proteins.) (neuronal growth regulator) in hypothalamus [DRD2](https://www.genecards.org/cgi-bin/carddisp.pl?gene=DRD2&keywords=drd2) (dopamine receptor 2) in the nucleus accumbens others
+- Examples: NEGR1 (neuronal growth regulator) in hypothalamus DRD2 (dopamine receptor 2) in the nucleus accumbens and other areas.
 
 ![[Figure 3 from @Levey2021-yz]. Top: tissue-based gene association study. The genes were tested using MetaXcan for 13 brain tissues and whole blood from GTEx v8. The genes were compared across tissues to identify best representative tissues for each gene using SMultiXcan. Genes are arranged in order from left to right by respective tissue-specific P value, with the lowest value on the left. The color scale for the gene matrix is based on mean z-score. The values are reported in Supplementary File 2. Bottom: SNP prioritization using fine-mapping and functional scoring. Bottom row, Manhattan plot showing each genomic risk locus in violet. Middle row, Each locus was fine-mapped, and the CPP on the y axis is shown for SNPs from the causal set. The SNPs that had CPP ≥ 0.3 (30%) were annotated using CADD scores. Top row: The SNPs with CADD ≥ 10 are highlighted in purple; these SNPs were positionally mapped to 107 genes within 100 kb. Only positional genes overlapping with multi-tissue TWAS results (Supplementary Fig. 1) are annotated with vertical lines. Details of the prioritized SNPs are reported in Supplementary File 2.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00860-2/MediaObjects/41593_2021_860_Fig3_HTML.png?as=webp)
 
@@ -140,18 +140,30 @@ Related to Type 1 (False Positive) and Type II (False Negative) errors in statis
 
 ![[@Sankar2018-yp]. Fig. 3. Longitudinal changes following psychological therapies. There was a main effect of in the left precentral gyrus, which showed decreased activity following psychological therapy in major depression. The coronal (y) coordinate of each section is presented. There were additional regions which did not meet our threshold of 50 mm3 for significance. Results are *P* < 0.05 FDR corrected.](https://ars.els-cdn.com/content/image/1-s2.0-S0925492717303323-gr3_lrg.jpg)
 
-#### Electroconvulsive Therapy (ECT)
+#### Brain stimulation
+
+<https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies>
+
+- Food & Drug Administration (FDA) authorized therapies
+  - Electroconvulsive therapy
+  - Repetitive transcranial magnetic stimulation
+  - Vagus nerve stimulation
+- Experimental therapies
+  - Magnetic seizure therapy
+  - Deep brain stimulation
+
+##### Electroconvulsive Therapy (ECT)
 
 - Last line of treatment for drug-resistant depression
 - Electric current delivered to the brain causes 30-60s seizure.
-- ECT usually done in a hospital's operating or recovery room  under general anesthesia.
+- ECT usually done in a hospital's operating or recovery room under general anesthesia.
 - Once every 2 - 5 days for a total of 6 - 12 sessions.
 - Remission rates of up to 50.9% [@dierckx_efficacy_2012]
 - Seems to work via
-    + Anticonvulsant effects (blocking Na+ channel or enhance GABA function)
-    + Neurotrophic (stimulates neurogenesis) effects
+    + Post-seizure responses: Brain's instrinsic anticonvulsant effects (blocking Na+ channel or enhance GABA function)
+    + Neurotrophic effects (neurogenesis stimulated) 
     
-#### Transcranial Direct Current Stimulation (tDCS)
+##### Transcranial Direct Current Stimulation (tDCS)
 
 - Much weaker currents, more easily used in diverse (non-hospital) settings [@Thair2017-td]
 - May reduce depression and state anxiety in older adults [@Hausman2024-so]
