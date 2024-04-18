@@ -282,20 +282,13 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 
 #### Genetics
 
-- 40-70% concordance
-- Overlap between bipolar disorder and schizophrenia
+- 40-70% concordance (or higher in some samples)
+- Polygenic (many risk alleles)
+- Overlap between bipolar disorder and schizophrenia [@craddock_genetics_2013]
 - Genes for voltage-gated Ca++ channels
     + Regulate NT, hormone release
     + Gene expression, cell metabolism
 - [@craddock_genetics_2013; @Cross-Disorder_Group_of_the_Psychiatric_Genomics_Consortium2013-ms]
-
-#### Brain responses to emotional faces ≠ depression
-
-![[@lawrence_subcortical_2004]](../include/img/lawrence-1.jpg)
-
-![[@lawrence_subcortical_2004]](../include/img/lawrence-2.jpg)
-
-![[@lawrence_subcortical_2004]](../include/img/lawrence-3.jpg)
 
 #### Compromised cognitive control & emotion regulation [@Maletic2014-oe]
 
@@ -303,21 +296,21 @@ Acute tryptophan depletion (ATD) targets 5-HT; phenylalanine/tyrosine depletion 
 
 #### Structural changes
 
-Amygdala, hippocampus volume reduced; ventricles larger
+- Amygdala, hippocampus volume reduced; ventricles larger
 
 ![[@hallahan_structural_2011]](../include/img/hallahan-fig-1.jpg)
 
 ![[@hallahan_structural_2011]](../include/img/hallahan-abstr.jpg)
 
-Subcortical changes.
+- Other evidence for subcortical changes.
 
 ![[@Ching2022-of]. Findings from Subcortical volumetric abnormalities in bipolar disorder (Hibar et al., 2016). (a) Cohen's d effect size estimates for subcortical differences between individuals with BD versus healthy controls (HC) using ENIGMA-standardized FreeSurfer volumes. Statistical model accounts for age, sex, and intracranial volume. Error bars indicate mean effect size ± standard error of the mean. Results passing study-wide significance threshold are indicated by (*) including the amygdala which showed a trending effect. (b) Forest plots displaying the effect size estimates (adjusted Cohen's d) for each of the 20 study sites in the comparison of individuals with BD versus HC at each subcortical structure along with the overall inverse variance-weighted random-effects meta-analysis results (RE Model)](https://onlinelibrary.wiley.com/cms/asset/dee75453-1cce-493e-b813-4012849f29f4/hbm25098-fig-0004-m.jpg)
 
-Cortical abnormalities.
+- Cortical abnormalities.
 
 ![[@Ching2022-of]. Findings from Cortical abnormalities in bipolar disorder: an MRI analysis of 6,503 individuals from the ENIGMA Bipolar Disorder Working Group (Hibar et al., 2018). (a) A widespread pattern of thinner cortex in adult individuals with BD versus HC. Cohen's d effect sizes plotted in regions passing correction for multiple comparisons. (b) Thicker cortex in adult individuals with BD taking lithium medication at time of scan. (c) Thinner cortex in adult individuals with BD associated with anticonvulsant treatment at time of scan](https://onlinelibrary.wiley.com/cms/asset/276ce440-e182-46fc-88ca-4892b4bf882d/hbm25098-fig-0005-m.jpg)
 
-White matter disruption.
+- White matter disruption.
 
 ![[@Ching2022-of]. Findings from Widespread white matter microstructural abnormalities in bipolar disorder: evidence from mega- and meta-analyses across 3,033 individuals (Favre et al., 2019). Mega-analysis fractional anisotropy (FA) differences between BD and HC across 43 white matter (WM) tracts and the whole-brain skeleton with R squared effect sizes and confidence intervals ranked by increasing order of magnitude for the regions showing significant group differences. R, right; .L, left; CC, corpus callosum; BCC, body of the corpus callosum; GCC, genu of the corpus callosum; CGC, cingulum; SCC, splenium of corpus callosum; FX, fornix; PTR, posterior thalamic radiation; EC, external capsule; ACR, anterior corona radiata; SLF, superior longitudinal fasciculus; UNC, uncinate fasciculus; CR, corona radiata; SS, sagittal stratum; IFO, inferior fronto-occipital fasciculus, SFO, superior fronto-occipital fasciculus; Average FA, average FA across full skeleton; PCR, posterior corona radiata; ALIC, anterior limb of the internal capsule; FXST, fornix (cres) / stria terminalis](https://onlinelibrary.wiley.com/cms/asset/31ea7c17-bb74-4e06-8422-17dcea36e8b6/hbm25098-fig-0007-m.jpg)
 
@@ -343,14 +336,15 @@ White matter disruption.
 
 #### Drug treatments
 
-- Anti-depressants not especially effective [@Sidor2012-ki]
+- Anti-depressants not especially effective [@Sidor2012-ki; @Gitlin2018-uu]
+  - May destablize mood
 - Mood stabilizers
     + Lithium (Li)
-    + Valproate (Depakote)
+    + [Valproate](https://medlineplus.gov/druginfo/meds/a682412.html) (Depakote)
 - Anticonvulsants
     + Typically used to treat epilepsy
-    + GABA agonists
-    + e.g. lamotrigine (Lamictal)
+    + Usually GABA-A agonists
+    + e.g. [lamotrigine](https://medlineplus.gov/druginfo/meds/a695007.html) (Lamictal)
 - Atypical antipsychotics
 
 ##### Lithium 
@@ -362,7 +356,7 @@ White matter disruption.
     - Earliest effective medications for treating mental illness
 - Effects of
     - Reduces mania, minimal effects on depressive states
-    - Preserves PFC, hipp, amyg volumes
+    - Preserves prefrontal cortex (PFC), hippocampus, amygdala volumes
     - Has other 'neuroprotective' effects [@Machado-Vieira2009-by]
     - downregulates DA, glutamate; upregulates GABA
     - modulates 5-HT, NE
@@ -377,15 +371,21 @@ White matter disruption.
 
 #### Prospects
 
-- STEP-BD cohort ($n=1,469$)
-    + 58% achieved recovery
-    + 49% (of recovered) had recurrences within 2 years
-    + Residual depressive symptoms can persist
+##### [Systematic Treatment Enhancement Program for Bipolar Disorder (STEP-BD)](https://www.nimh.nih.gov/funding/clinical-research/practical/step-bd) cohort 
+
+- $n=1,469$
++ 58% achieved recovery
++ 49% (of recovered) had recurrences within 2 years
++ Residual depressive symptoms can persist
 - [@Geddes2013-hm]
 
-- Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP Project](http://b-snip.org/)) [@Tamminga2014-gn]. [Data shared NIH Data Archive](https://nda.nih.gov/edit_collection.html?id=2274).
+##### Bipolar and Schizophrenia Network for Intermediate Phenotypes ([BSNIP Project](http://b-snip.org/))
 
-- [ENIGMA BD working group](https://enigma.ini.usc.edu/ongoing/enigma-bipolar-working-group/)
+>Bipolar and schizophrenia network for intermediate phenotypes is a network of investigator-driven laboratories focused on developing phenotypes, genotypes, and biomarkers for psychosis. Over the last 5 years, the consortium has accomplished a dense phenotyping protocol using probands with a lifetime history of psychosis, their relatives, and healthy controls. This has established a library of biomarker information on individuals with schizophrenia, schizoaffective disorder, and bipolar disorder with psychosis. The founding goal of establishing disease biomarkers for current psychotic diagnoses has been poorly met, because the cognitive, electrophysiologic, eye movement, and brain imaging biomarkers did not regularly discriminate individuals with different DSM psychosis diagnoses. In future, we will use this biomarker information to establish a pathway to biomarker-based classification in psychoses.
+
+-  [Data shared NIH Data Archive](https://nda.nih.gov/edit_collection.html?id=2274).
+
+##### [ENIGMA BD working group](https://enigma.ini.usc.edu/ongoing/enigma-bipolar-working-group/)
 
 ![[@Bi2022-ag]. Figure 1. Major challenges facing neuroimaging studies of BD and how the ENIGMA BD Working Group meets these challenges](https://onlinelibrary.wiley.com/cms/asset/3707c442-2507-4d6e-b544-80a91ed113fb/hbm25098-fig-0001-m.jpg)
 
