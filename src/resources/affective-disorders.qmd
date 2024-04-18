@@ -19,13 +19,11 @@ title: "Disorders of affect"
 - Comorbid with generalized anxiety disorder and borderline personality disorder
 - more than 13% attempted suicide during a severe episode [@Hasin2018-hq]
 
-### Neurobiology
+### (Neuro)biology of
 
 #### Reduced sizes of brain regions
 
 - Reduced hippocampal volumes
-
-Left Hippocampus
 
 ::: {layout-ncol-2}
 
@@ -56,14 +54,15 @@ Left Hippocampus
 
 ### Altered connectivity
 
-- Increased connectivity between resting state network regions and dorsal PFC [[@Sheline2010-nh]](http://doi.org/10.1073/pnas.1000446107)
+- *Increased connectivity* between resting state network regions and dorsal PFC [[@Sheline2010-nh]](http://doi.org/10.1073/pnas.1000446107)
 
 ![[@Sheline2010-nh]. Seed regions and targets. Each of the three solid circles corresponds to a seed region in the DLPFC, part of the CCN (yellow); precuneus, part of the DMN (pink); and subgenual and pregenual cingulate cortex, the affective division of the ACC (16) (turquoise). The correspondingly colored open circles represent regions with significantly increased connectivity with the respective seed regions. CCN (yellow); precuneus, part of DMN (pink); and affective division of the ACC (turquoise)](https://www.pnas.org/cms/10.1073/pnas.1000446107/asset/96a2e572-5688-4e55-ab30-9bd5843aa80a/assets/graphic/pnas.1000446107fig01.jpeg)
 
-- [@cheng_medial_2016]
+#### [@cheng_medial_2016]
+
 - Resting state fMRI (rsFMRI) in 421 patients with major depressive disorder and 488 control subjects.
 - Reduced connectivity between orbitofrontal cortex (OFC) and other areas of the brain
-- Increased connectivity between lateral PFC and other brain areas
+- *Increased connectivity* between lateral PFC and other brain areas (~ [@Sheline2010-nh]).
 
 ![[@cheng_medial_2016]](../include/img/cheng-2016-F1.large-1.jpg)
 
