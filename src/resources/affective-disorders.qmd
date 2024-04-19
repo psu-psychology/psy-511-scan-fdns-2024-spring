@@ -82,7 +82,7 @@ title: "Disorders of affect"
 
 ![[Figure 3 from @Levey2021-yz]. Top: tissue-based gene association study. The genes were tested using MetaXcan for 13 brain tissues and whole blood from GTEx v8. The genes were compared across tissues to identify best representative tissues for each gene using SMultiXcan. Genes are arranged in order from left to right by respective tissue-specific P value, with the lowest value on the left. The color scale for the gene matrix is based on mean z-score. The values are reported in Supplementary File 2. Bottom: SNP prioritization using fine-mapping and functional scoring. Bottom row, Manhattan plot showing each genomic risk locus in violet. Middle row, Each locus was fine-mapped, and the CPP on the y axis is shown for SNPs from the causal set. The SNPs that had CPP ≥ 0.3 (30%) were annotated using CADD scores. Top row: The SNPs with CADD ≥ 10 are highlighted in purple; these SNPs were positionally mapped to 107 genes within 100 kb. Only positional genes overlapping with multi-tissue TWAS results (Supplementary Fig. 1) are annotated with vertical lines. Details of the prioritized SNPs are reported in Supplementary File 2.](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41593-021-00860-2/MediaObjects/41593_2021_860_Fig3_HTML.png?as=webp)
 
-- And large sample, genome-wide association studies (GWAS) have low specificity [@Flint2023-oo]
+- And large sample, genome-wide association studies (GWAS) have low specificity [@Flint2023-oo] for MDD *per se*
 
 ![[Figure 2 from @Flint2023-oo]. The figure shows 27 loci, listed on the vertical axis, that are significantly associated with a minimal-phenotyping definition of MDD in UKBiobank (GPpsy). The odds ratios (OR) are shown on the horizontal axis for the minimal phenotype, for a DSM-diagnosis of MDD and for the personality trait, neuroticism. The latter is a quantitative phenotype, so to allow comparison with the binary traits, the effect size estimates from the regression (beta values) have been converted into odds ratios. Data are from [25].](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41380-023-01957-9/MediaObjects/41380_2023_1957_Fig2_HTML.png)
 
@@ -145,12 +145,13 @@ Related to Type 1 (False Positive) and Type II (False Negative) errors in statis
 <https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies>
 
 - Food & Drug Administration (FDA) authorized therapies
-  - Electroconvulsive therapy
-  - Repetitive transcranial magnetic stimulation
+  - Electroconvulsive therapy (ECT)
+  - Repetitive transcranial magnetic stimulation (TMS)
   - Vagus nerve stimulation
 - Experimental therapies
   - Magnetic seizure therapy
   - Deep brain stimulation
+  - tDCS
 
 ##### Electroconvulsive Therapy (ECT)
 
@@ -184,7 +185,7 @@ Related to Type 1 (False Positive) and Type II (False Negative) errors in statis
     + Indirectly increase brain steroid production
 - Serotonin/Norepinephrine Reuptake Inhibitors (SNRIs)
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OTZvnAF7UsA" frameborder="0" allowfullscreen></iframe>
+{{< video https://www.youtube.com/embed/OTZvnAF7UsA >}}
 
 ##### Drug effectiveness
 
