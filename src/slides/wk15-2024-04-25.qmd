@@ -15,13 +15,55 @@ format:
 
 ---
 
-{{< video https://www.youtube.com/embed/vJTxzsHsako height="100%" width="100%>}}
+{{< video https://www.youtube.com/embed/yRUAzGQ3nSY height="100%" width="100%" >}}
+
+[@Pixar2014-md]
+
+---
+
+{{< video https://www.youtube.com/embed/7qWbcosJdtU height="100%" width="100%" >}}
+
+[@Rlzee2010-ll]
+
+## Announcements
+
+- Final Projects due next Thursday, May 2, by 5:00 pm.
 
 ## Last time...
 
 - Affective disorders
 
+---
+
+### What is the monoamine hypothesis of depression?
+
+---
+
+### Why has it been abandoned?
+
+---
+
+### What are the most promising candidates for a replacement to the monoamine hypothesis?
+
+---
+
+### What distinguishes bipolar disorder from depression?
+
 ## Today's topics
 
-- Fear & stress
-- Pleasure & reward
+- The biology of emotion
+  - Fear & stress
+  - Pleasure & reward
+- The Cerebral Symphony
+
+# The Cerebral Symphony
+
+---
+
+{{< video https://www.youtube.com/embed/ljGMhDSSGFU height="80%" width="100%">}}
+
+[@Smalin2011-vr]
+
+---
+
+

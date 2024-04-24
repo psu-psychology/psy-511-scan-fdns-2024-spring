@@ -14,7 +14,7 @@ project:
     - "include/img/*.gif"
     - "include/img/*.mov"
 website:
-  title: "PSYCH 511.003 • Spring 2024"
+  title: "PSYCH 511.003 • Spr 2024"
   comments: 
     hypothesis:
       theme: clean
@@ -58,6 +58,8 @@ website:
             text: "Week-13 • Schizophrenia"
           - href: "slides/wk14-2024-04-18.qmd"
             text: "Week-14 • Depression & Bipolar Disorder"
+          - href: "slides/wk15-2024-04-25.qmd"
+            text: "Week-15 • Biology of emotion; The Cerebral Symphony"
       - text: resources
         menu:
           # - href: "resources/levels.qmd"
@@ -85,6 +87,8 @@ website:
           - href: "resources/schizophrenia.qmd"
           - text: "---"
           - href: "resources/affective-disorders.qmd"
+          - text: "---"
+          - href: "slides/beethoven.qmd"
       - text: exercises
         menu: 
           - href: "exercises/ex01.qmd"
