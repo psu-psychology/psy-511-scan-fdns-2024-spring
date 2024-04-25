@@ -211,6 +211,7 @@ Reward & Aversion Networks
 ::: {.callout-note}
 
 Motor neurons release ACh onto muscle fibers in the PNS.
+Here, their role is as neuromodulator in the CNS.
 
 :::
 
