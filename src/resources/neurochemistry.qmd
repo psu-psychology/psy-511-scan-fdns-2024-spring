@@ -386,7 +386,7 @@ format:
 - Anterior pituitary -> *tropic hormones*
 - End organs
 
-![](../include/img/indirect-release.jpg)
+![*Biological Psychology 4e*](../include/img/indirect-release.jpg){#fig-hormone-release-pathways}
 
 #### Case studies
 

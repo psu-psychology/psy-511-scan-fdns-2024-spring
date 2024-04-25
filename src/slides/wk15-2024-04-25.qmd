@@ -4,6 +4,7 @@ subtitle: "PSY 511.003"
 date: 2024-04-25
 bibliography: ../include/bib/psy-511.bib
 bibliographystyle: apa
+css: ../include/css/styles.css
 format: 
   revealjs:
     theme: default
@@ -27,11 +28,22 @@ format:
 
 ## Announcements
 
-- Final Projects due next Thursday, May 2, by 5:00 pm.
+- Final Projects [due next Thursday, May 2, by 5:00 pm]{.orange_due}.
+  - Canvas [link](https://psu.instructure.com/courses/2313161/assignments/16088734)
 
 ## Last time...
 
 - Affective disorders
+
+---
+
+### What are some key features of the biology of major depressive disorder?
+
+---
+
+- Reduced volume of peri-ventricular areas/larger cerebral ventricles
+- Altered reactivity (+/-)
+- Altered connectivity, esp between frontal cortex and rest of brain
 
 ---
 
@@ -43,18 +55,28 @@ format:
 
 ---
 
-### What are the most promising candidates for a replacement to the monoamine hypothesis?
-
----
-
 ### What distinguishes bipolar disorder from depression?
 
 ## Today's topics
 
+:::: {.columns}
+
+::: {.column width="50%"}
 - The biology of emotion
   - Fear & stress
   - Pleasure & reward
+  
+:::
+
+::: {.column width="50%"}
+
 - The Cerebral Symphony
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/220px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg)
+
+:::
+
+::::
 
 # The Cerebral Symphony
 
