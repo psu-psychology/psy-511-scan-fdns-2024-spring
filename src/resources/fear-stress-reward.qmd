@@ -4,17 +4,33 @@ date: last-modified
 toc: true
 ---
 
-## The brain bases of emotion
+## The biological bases of emotion
+
+### Are there physiological signatures of emotions?
+
+#### Autonomic Nervous System (ANS)
+
+>This meta-analytic investigation demonstrates that there is no 1-to-1 mapping between an emotion category and a specific autonomic nervous system response pattern. In addition, we observed substantial variability in autonomic nervous system changes during instances of the same emotion category that was not accounted for by experimental moderators (such as the way the emotion was induced). These findings suggest that autonomic nervous system changes during emotion are less like a bodily fingerprint and more like a population of variable, context sensitive instances. [@Siegel2018-ab]
+
+#### Body 'location' of experienced emotions
+
+![[@Nummenmaa2014-ub]. The emBODY tool. Participants colored the initially blank body regions (A) whose activity they felt increasing (left body) and decreasing (right body) during emotions. Subjectwise activation–deactivation data (B) were stored as integers, with the whole body being represented by 50,364 data points. Activation and deactivation maps were subsequently combined (C) for statistical analysis.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/dcc3da97-2288-4f1c-a175-cad39b111aab/assets/graphic/pnas.1321664111fig01.jpeg)
+
+![[@Nummenmaa2014-ub]. Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. (P < 0.05 FDR corrected; t > 1.94). The colorbar indicates the t-statistic range.](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/3263030e-acb8-4654-9064-b18db4a3a146/assets/graphic/pnas.1321664111fig02.jpeg)
+
+![[@Nummenmaa2014-ub]. Hierarchical structure of the similarity between bodily topographies associated with emotion words in experiment 1 (Upper) and basic emotions across experiments with word (W), story (S), movie (M), and Face (F) stimuli (Lower).](https://www.pnas.org/cms/10.1073/pnas.1321664111/asset/68554fff-57c8-4818-8178-dc8bdd7a6db4/assets/graphic/pnas.1321664111fig04.jpeg)
+
+### Where in the brain is emotion processed?
 
 [@Lindquist2012-jr](http://dx.doi.org/10.1017/S0140525X11000446)
 
-### Locationist account
+#### Locationist account
 
 - *Where* in the brain is emotion processed?
 
 ![[@Lindquist2012-jr]. Figure 1. Locationist Hypotheses of Brain–Emotion Correspondence. A: Lateral view. B: Sagital view at the midline. C: Ventral view. D: Coronal view. Brain regions hypothesized to be associated with emotion categories are depicted. Here we depict the most popular locationist hypotheses, although other locationist hypotheses of brain–emotion correspondence exist (e.g., Panksepp, Reference Panksepp1998). Fear: amygdala (yellow); Disgust: insula (green); Anger: OFC (rust); Sadness: ACC (blue). A color version of this image can be viewed in the online version of this target article at http://www.journals.cambridge.org/bbs.](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20170929031912583-0602:S0140525X11000446:S0140525X11000446_fig1g.jpeg)
 
-### Constructionist account
+#### Constructionist account
 
 > A psychological constructionist account of emotion assumes that emotions are psychological events that emerge out of more basic psychological operations that are not specific to emotion. In this view, mental categories such as anger, sadness, fear, et cetera, are not respected by the brain (nor are emotion, perception, or cognition, for that matter.
 
