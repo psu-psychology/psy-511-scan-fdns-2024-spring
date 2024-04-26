@@ -18,15 +18,15 @@ So, put down your pens, close your notebooks, and laptops, and just listen. You 
 
 ---
 
-For some of you, I know that the material in this course, down to the very words we use every day, was completely new.  Perhaps there was even more jargon than you'd expected. Maybe you felt that you couldn’t really see the forest for the trees.  
+For some of you, I suspect that the material in this course, down to the very words we use every day, was new.  Perhaps there was even more jargon than you'd expected. Maybe you felt that you couldn’t really see the forest for the trees.  
 
-Maybe you took this course to learn something about the mind and brain, but at some point you stopped seeing the mind anymore in the middle all the neurotransmitters, neurons, and nuclei that make it up.  
+Maybe you took this course to learn something about the mind, but at some point you stopped seeing it in the midst of all the neurotransmitters, neurons, and nuclei that make it up.  
 
 ---
 
-You’re not alone in that feeling. If you catch us in an honest moment, we neuroscientists confess that some days we have no idea what we are doing. We have no clue how the brain REALLY works.
+You’re not alone in that feeling. If you catch us in an honest moment, we neuroscientists might just confess that some days we have no idea what we are doing. We have no clue how the brain REALLY works. It's an enormously difficult task, some would say an impossible one, for any one person to see how all of these complex parts fit together into a cohesive whole.  
 
-It's an enormously difficult task, some would say an impossible one, for any one person to see how all of these complex parts fit together.  Just think about what your 86 billion neurons are doing right now.
+Just think about what your 86 billion neurons are doing right now.
 
 ---
 
@@ -34,21 +34,21 @@ Hundreds of millions of photoreceptors in your two retinas are processing a cont
 
 ---
 
-At the same time, your somatosensory system is receiving information about temperature, pressure, perhaps even pain from receptors in your skin.  Receptors in your joints and muscle fibers report the position and length of your limbs.  Some portion of those 86 billion neurons are monitoring your levels of fluids and body fuels, still others your heart rate and blood pressure.  Specialized neurons are monitoring your level of energy and arousal…which, at this point in the semester may be pretty low. 
+At the same time, your somatosensory system is receiving information about temperature, pressure, perhaps even pain from receptors in your skin.  Receptors in your joints and muscle fibers report the position and length of your limbs.  Some portion of those 86 billion neurons are monitoring your levels of fluids and body fuels, still others your heart rate and blood pressure.  Specialized neurons are monitoring your level of energy and arousal...which, at this point in the semester may be pretty low. 
 
 ---
 
-All of this is happening at the same time in the same mind in the same brain.  
+All of this is happening at the same time in the same mind in the same brain. 
 
 There are more neurons in your brain than there are stars in our galaxy. And these radiant sources of thought and feeling are bound to one another by forces more powerful than gravity.
 
 ---
 
-Given this astonishing complexity, it is a natural question to ask whether it is even possible for the human mind to understand its own workings in any sort of satisfying or meaningful way.  Are we forever limited to seeing the barest glimpses, falling well short of any real understanding?  
+Given the immense scale and astonishing complexity of the nervous system, it is a natural question to ask whether it is even possible for the human mind to understand its own workings in any sort of satisfying or meaningful way.  Are we forever limited to seeing the barest glimpses, here and there shadows, falling well short of any real understanding?  
 
 ---
 
-Put another way, can you or I even dream of putting together all of the pieces—the second messengers and ion channels, the neurotransmitters and enzymes, the neurons and glia, the nuclei and tracts, the gyri and sulci, and truly _see_ a whole living, breathing, behaving, conscious being?
+Put another way, can you or I even dream of putting together all of the pieces--the second messengers and ion channels, the neurotransmitters and enzymes, the neurons and glia, the nuclei and tracts, the gyri and sulci, and truly _see_ a whole living, breathing, behaving, conscious being?
 
 The challenge may seem insurmountable, the idea unthinkable, perhaps more so now than before you took this course.
 
@@ -69,20 +69,20 @@ We are listening to the fourth and final movement of Beethoven's 9th symphony, w
 ---
 
 Beethoven was born in Bonn, Germany, in December 1770 into unremarkable circumstances.
-Legend holds that his father, Johann, was a violent and intemperate alcoholic who apparently beat music lessons into his young son. 
+Legend holds that his father, Johann, was a violent and intemperate alcoholic who beat music lessons into his young son. 
 Later scholars would wonder whether his father’s beatings contributed to Beethoven’s chronically poor health.
 
 ---
 
-Despite his father's methods, young Beethoven showed enormous musical promise.  His skills flowered in an extraordinary way under the tutelage of Haydn and Salieri.  His first public performance was at age 7. His first compositions were published at 10.  At 17, Beethoven met Mozart, who later said of the encounter: "*Watch this lad.  Someday he will force the world to talk about him.*" Later that year, Beethoven’s mother died, and when his father took solace in alcohol, Beethoven took charge of the care of his younger brothers.
+Despite his father's methods, young Beethoven showed enormous musical promise from an early age. His skills flowered under the tutelage of Haydn and Salieri. His first public performance was at age 7. His first compositions were published at 10.  At 17, Beethoven met Mozart, who later said of the encounter: "*Watch this lad.  Someday he will force the world to talk about him.*" Later that year, Beethoven’s mother died, and when his father took solace in alcohol, Beethoven took charge of the care of his younger brothers.
 
 ---
 
-From the earliest moments of his public career Beethoven developed a reputation an impetuous personality and a virtuoso pianist. He was recognized as a brilliant composer, especially in improvisation. We think of classical music deeply formal, But in those days, pianists were pitted against one another in head to head competitions – imagine something like “So You Think You Can Play the Piano?” The goal was to see who could play more brilliantly, more imaginatively, more daringly.  
+From the earliest moments of his public career Beethoven developed a reputation as an impetuous personality and a virtuoso pianist. He was recognized as a brilliant composer, especially in improvisation. Today we think of classical music as deeply formal, but in those days, pianists were pitted against one another in head to head competitions. The goal was to see who could play more brilliantly, more imaginatively, more daringly.  
 
 ---
 
-The thrill of this sort of combative musicianship suited Beethoven's personality perfectly.  He thrived in an atmospher of musical aggression.  As one author^[https://www.sheetmusicdaily.com/ludwig-van-beethoven-1770-1827/] put it, 
+The thrill of this sort of combative musicianship suited Beethoven's personality perfectly. As one author^[https://www.sheetmusicdaily.com/ludwig-van-beethoven-1770-1827/] put it, 
 
 >Beethoven’s rivals always retired, bloodied, from such combat. While he made enemies of many pianists...the nobility flocked to hear him.
 
@@ -90,11 +90,11 @@ The thrill of this sort of combative musicianship suited Beethoven's personality
 
 Not only was he in great demand to give live performances, but he was incredibly productive in composition.  
 
-In all ways, Beethoven's future looked bright.  But, slowly, at first imperceptibly, and then, later more noticeably, his life began to change in the cruelest possible way. Beethoven had long suffered a list of maladies – diarrhea, abdominal pain, respiratory illness, and depression, and he was known for self-medicating with ample quantities of alcohol. 
+In all ways, Beethoven's future looked bright. But, slowly, at first imperceptibly, and then, later more noticeably, his life began to change in the cruelest possible way. Beethoven had long suffered a list of maladies-- diarrhea, abdominal pain, respiratory illness, and depression, and he was known for self-medicating with ample quantities of alcohol. 
 
 ---
 
-But, more daunting than these obstacles, Beethoven began to lose the mental faculty more important to a composer and musician than any other single ability. Can any of us imagine? Can anyone comprehend how a person faced with such circumstances could find the courage to go on?  A person whose entire existence derives from the world of sound...going...deaf.
+But, more daunting than these obstacles, Beethoven began to lose the mental faculty more important to a composer and musician than any other single ability. Can any of us imagine? Can we fully comprehend how a person faced with such circumstances could find the courage to go on? A person whose entire existence derives from the world of sound...going...deaf.
 
 ---
 
@@ -104,7 +104,7 @@ At first, Beethoven himself could not easily face the cruel irony, he said:
 
 ---
 
-Beethoven’s hearing loss was progressive and irreversible.  But, he continued to compose, and to compose brilliantly, often working on more than one piece at a time. For Beethoven, the act of composition had always been a struggle. But, against these new obstacles he became understandably stubborn, unyielding, and withdrawn. In a letter to his brothers he tried to explain.
+Beethoven’s hearing loss was progressive and irreversible. But, he continued to compose, and to compose brilliantly, often working on more than one piece at a time. For Beethoven, the act of composition had always been a struggle. But, against these new obstacles he became even more withdrawn. In a letter to his brothers he tried to explain.
 
 ---
 
@@ -132,13 +132,13 @@ It remains today enormously popular. Some consider it the most beautiful piece o
 
 ---
 
-The 9th symphony had its first performance on May 7, 1824 in Vienna. Of course Beethoven's deafness prevented him from conducting the premiere, but he did stand next to the conductor during the performance to indicate the proper tempo.  
+The 9th symphony had its first performance on May 7, 1824 in Vienna. Of course Beethoven's deafness prevented him from conducting the premiere, but he stood next to the conductor during the performance to indicate the proper tempo.  
 
 ---
 
 Let us imagine for a moment that we are in the audience of that concert hall. Imagine what it might have been like to be at the premiere of a symphony written by one of the greatest composers of all time.  
 
-Imagine watching a desperate Beethoven trying (and failing) to keep the time.  Imagine hearing a symphony that the composer himself had *never* actually heard, and would never *ever* hear, except in the chamber hall of his own imagination.
+Imagine watching a desperate Beethoven trying (and failing) to keep the time. Imagine hearing a symphony that the composer himself had *never* actually heard, and would never *ever* hear, except in the chamber hall of his own imagination.
 
 ---
 
@@ -154,19 +154,19 @@ Even members of the orchestra wept.
 
 ---
 
-As much as we ourselves might be moved this saga of creation that Beethoven's music conveys to us across the centuries, we might rightfully ask what has this to do with our task in this course.  How does the triumph of this legendary musical figure over adversity help us better comprehend the mind and brain?  
+As much as we ourselves might be moved by this saga of creation that Beethoven's music conveys to us across the centuries, we might rightfully ask what has this to do with our task in this course. How does the triumph of this legendary musical figure over adversity help us better comprehend the mind and brain?  
 
 ---
 
-What Beethoven's contemporaries saw as quirks of artistic temperament might in modern times be seen -- and treated -- as symptoms of mental illness. On top of his deafness, was Beethoven depressed, bipolar, schizophrenic, or dissociative?  We can never know for certain. We know from a post-mortem autopsy that he died of liver failure due to alcohol poisoning, and he may have been a victim of lead poisoning, as well.
+What Beethoven's contemporaries saw as quirks of artistic temperament might in modern times be seen--and treated--as symptoms of mental illness. On top of his deafness, was Beethoven depressed, bipolar, schizophrenic, or dissociative?  We can never know for certain. We know from a post-mortem autopsy that he died of liver failure due to alcohol poisoning, and he may have been a victim of lead poisoning, as well.
 
 ---
 
-But, we can wonder how much of genius lies in thought, feeling, and behavior that looks like pathology to those of us never touched by muses so great. Is our knowledge of the mind and brain is always certain enough that we can confidently define the line between health and illness, between creative genius and treatable madness.
+But, we might wonder how much of genius lies in thought, feeling, and behavior that looks like pathology to those of us never touched by muses so great. Is our knowledge of the mind and brain so certain that we can confidently define the line between health and illness, between creative genius and treatable madness.
 
 ---
 
-Might Beethoven's mental and physical afflictions have been central to his creative power? And, beyond our own musical enthrallment, might Beethoven’s story also inform and educate us about the very task we set out to accomplish in this course – to learn about the mind and brain?
+Might Beethoven's mental and physical afflictions have been central to his creative power? And, beyond our own musical enthrallment, might Beethoven’s story also inform and educate us about the very task we set out to accomplish in this course--to learn about the mind and brain?
 
 ---
 
@@ -182,9 +182,9 @@ Hasn't this course at times seemed to you like Beethoven's 9th symphony seemed t
 
 ---
 
-Maybe that sense of confusion has led you to doubt that it is even possible for a person, *any* person to ever hear clearly the notes of the mental score?</br>
+Maybe that sense of confusion has led you to doubt that it is even possible for a person, *any* person to ever hear clearly the notes of the mental score?
 
-So, perhaps the task of understanding our own mind *is* beyond human ability.  Perhaps we neuroscientists are engaged in a fruitless and impossible pursuit, destined for eternal ignorance and frustration.
+Perhaps the task of understanding our own mind *is* beyond human ability. Perhaps we neuroscientists are engaged in a fruitless and impossible pursuit, destined for eternal ignorance and frustration.
 
 But if there is one lesson students of science should never forget, it is to be skeptical. 
 
@@ -192,19 +192,19 @@ But if there is one lesson students of science should never forget, it is to be 
 
 And yet...also...optimistic.
 
-If it is possible to develop and deploy highly effective vaccines for a deadly virus using completely novel methods in less than a year's time, then many, many unimaginable things are possible.
+If it is possible to develop and deploy highly effective vaccines for a deadly virus using completely novel methods in less than a year's time, then many, many previously unimaginable things are possible.
 
 ---
 
-And, if in the hearts of women and men lies the capacity to imagine a symphony like this...a roar of the human spirit unlike any other...then perhaps...just perhaps...it is possible that one day another person of Beethoven's genius and imagination and vision and resolve will arrive.  Perhaps it will be one of you.  That person will see in ways we do not, and hear in ways we cannot.
+And, if in the hearts of women and men lies the capacity to *imagine* a symphony like this...a roar of the human spirit unlike any other...then perhaps...just perhaps...it is possible that one day another person of Beethoven's genius and imagination and vision and resolve will arrive.  Perhaps it will be one of you.  That person will see in ways we do not, and hear in ways we cannot.
 
 ---
 
-That person will feel “joy, the beautiful spark of the gods,” as this symphony’s chorus sings, and will “enter fire imbibed” with the awe of profound discovery. That visionary will hear the song of our mind and brain, the magnificent cerebral symphony, in a way it has never been heard before. That person, like Beethoven nearly two centuries ago, will help us mortals illuminate dark dimensions of the mind and brain that have always stood before in shadow.
+That person will feel “joy, the beautiful spark of the gods,” as this symphony’s chorus sings, and will “enter fire imbibed” with the awe of profound discovery. That visionary will hear the song of our mind and brain, the magnificent cerebral symphony, in a way it has never been heard before. That person, like Beethoven nearly two centuries ago, will illuminate dark dimensions of the mind and brain that have always stood before in shadow.
 
 ---
 
-Isn't it likely that the cerebral symphony that visionary future scientist hears and helps us to hear will sound as strange, and ludicrous, and ferocious, and incomprehensible, and tearful, and.... joyful as Beethoven's 9th symphony did to 19th century audiences?
+And isn't it likely that the cerebral symphony that visionary future scientist hears and helps us to hear will sound as strange, and ludicrous, and ferocious, and incomprehensible, and tearful, and....joyful as Beethoven's 9th symphony did to 19th century audiences?
 
 ---
 

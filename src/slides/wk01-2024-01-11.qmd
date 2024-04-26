@@ -1,20 +1,18 @@
 ---
 title: "Foundations of Social, Cognitive, and Affective Neuroscience"
-subtitle: "PSY 511.003"
-date: 2024-01-11
-bibliography: [../include/bib/packages.bib, ../include/bib/psu-repro.bib, ../include/bib/psy-511.bib]
-csl: ../include/bib/apa.csl
-css: ../include/css/styles.css
-format: 
-  revealjs:
-    footer: "[PSYCH 511.003](../index.html): 2024-01-11 Thu"
 ---
 
 # Overview
 
 ## Prelude
 
-{{< video https://www.youtube.com/embed/JB7jSFeVz1U width="85%" height="85%" >}}
+---
+
+{{< video https://www.youtube.com/embed/JB7jSFeVz1U width="100%" height="80%" >}}
+
+<p style="text-align:center;">
+[@Melodysheep2011-wg]
+</p>
 
 ---
 
@@ -26,7 +24,7 @@ format:
 
 ---
 
-{{< video https://www.youtube.com/embed/nvXuq9jRWKE width="80%" height="80%" align="center">}}
+{{< video https://www.youtube.com/embed/nvXuq9jRWKE width="100%" height="80%" >}}
 
 <p style="text-align:center;">
 [@National_Geographic2014-gv]
@@ -50,7 +48,7 @@ format:
 
 ![](https://nyu.databrary.org/web/images/logo/databrary-nav.svg)
 
-![](https://www.play-project.org/img/PLAY-logo.png)
+![](https://play-project.org/img/PLAY-logo.png)
 :::
 
 ---

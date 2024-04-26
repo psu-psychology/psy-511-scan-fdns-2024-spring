@@ -1,14 +1,5 @@
 ---
 title: "Schizophrenia"
-subtitle: "PSY 511.003"
-date: 2024-04-11
-bibliography: ../include/bib/psy-511.bib
-bibliographystyle: apa
-format: 
-  revealjs:
-    theme: default
-    chalkboard: true
-    footer: "[PSY 511 Spr 2024](../index.html)"
 ---
 
 # Prelude

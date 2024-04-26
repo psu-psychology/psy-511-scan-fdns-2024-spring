@@ -1,8 +1,5 @@
 ---
 title: "Action"
-html:
-  fig-align: center
-  width: 50%
 ---
 
 ## Big picture
@@ -352,7 +349,7 @@ That is, higher levels of the nervous system learn the relationship between moto
 - DA Neurons in substantia nigra degenerate
 - Treatments
     + DA agonists
-    + DA agonists linked to impulse control disorders in ~1/7 patients [[@Ramirez-Zamora2016-rl]](http://doi.org/10.1586/14737175.2016.1158103)
+    + DA agonists linked to impulse control disorders in ~1/7 patients [@Ramirez-Zamora2016-rl]
     + Levodopa (L-Dopa), DA precursor
 
 ![*Awakenings*](https://upload.wikimedia.org/wikipedia/en/2/2b/Awakenings.jpg){fig-align="center"}
@@ -414,10 +411,9 @@ That is, higher levels of the nervous system learn the relationship between moto
 
 ### What does the cerebellum do?
 
-- Predict future sensory states? [[@Ito2008-ai]](http://doi.org/10.1038/nrn2332)
+- Predict future sensory states? [@Ito2008-ai]
 
-<div class="centered">
-<img src="http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg" height=450px>
+![Star Trek: The Next Generation Holodeck](http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg)
 
 ### Systems perspective
 
@@ -430,7 +426,7 @@ That is, higher levels of the nervous system learn the relationship between moto
 
 ![[Figure 5.2 from @Powers1973-zn]](../include/img/powers-5.2.png)
 
-![[Figure 5.1 from @Powers1973-zn]](./include/img/powers-5.1.png)
+![[Figure 5.1 from @Powers1973-zn]](../include/img/powers-5.1.png)
 
 ![[Figure 6.1 from @Powers1973-zn]](../include/img/powers-6.1.png)
 

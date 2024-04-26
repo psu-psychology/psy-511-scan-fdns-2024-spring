@@ -2,6 +2,9 @@
 title: "Exercise XX • Information processing"
 ---
 
+**Name:**____________________________
+
+
 ## Choose a behavior or mental state you want to (better) understand
 
 - Take an information processing perspective and briefly sketch out (in no more than a short paragraph) the main inputs, outputs, and computations involved.

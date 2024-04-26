@@ -2,6 +2,9 @@
 title: "Exercise 03 • Neurophysiology I"
 ---
 
+**Name:**____________________________
+
+
 ## Goals
 
 1. To understand some basic facts about neurons and glia.

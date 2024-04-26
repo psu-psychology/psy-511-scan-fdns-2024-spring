@@ -1,8 +1,5 @@
 ---
 title: "Exercise 02 • Neuroanatomy"
-format:
-  html: default
-  pdf: default
 ---
 
 **Name:**____________________________
